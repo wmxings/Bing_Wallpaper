@@ -1,8 +1,10 @@
+[Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
+
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_FR-FR5010820128_UHD.jpg)
 [2025-03-04 Un mardi pas comme les autres Jackson Square, Nouvelle-Orléans, Louisiane, États-Unis(© SeanPavonePhoto/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasJackson_FR-FR5010820128_UHD.jpg)
-
 Le Mardi Gras, c'est l'occasion parfaite pour se plonger dans une ambiance festive et colorée. En France, des villes comme Nice et Dunkerque se parent de mille couleurs pour des défilés spectaculaires. Les costumes, les masques et les chars emportent la foule dans une fête populaire !
+
 # Recent 30 Days
 |  |  |  |
 |:---:|:---:|:---:|
@@ -11,4 +13,4 @@ Le Mardi Gras, c'est l'occasion parfaite pour se plonger dans une ambiance festi
 | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_FR-FR0089551685_400x240.jpg "Les mystères voilés du loch") 2025-02-26 |  |  |
 
 # History
-[2025-03](../archives/fr-FR/wallpaper/w_2025_03.md) | [2025-02](../archives/fr-FR/wallpaper/w_2025_02.md)
+[2025-03](../archives/wallpaper/fr-FR/w_2025_03.md) | [2025-02](../archives/wallpaper/fr-FR/w_2025_02.md)

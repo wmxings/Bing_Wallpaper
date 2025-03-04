@@ -1,3 +1,3 @@
 """
 Bing Wallpaper Package
-""" 
+"""

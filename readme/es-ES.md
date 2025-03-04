@@ -1,8 +1,10 @@
+[Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
+
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_ES-ES6628104190_UHD.jpg)
 [2025-03-04 No es un martes cualquiera Jackson Square, Nueva Orleans, Luisiana, EE. UU.(© SeanPavonePhoto/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasJackson_ES-ES6628104190_UHD.jpg)
-
 El Mardi Gras, o Martes Gordo, es una festividad llena de color que marca el último día de indulgencia antes del inicio de la Cuaresma, el Miércoles de Ceniza. Sus orígenes se remontan a antiguas celebraciones romanas como la Saturnalia, que, con la expansión del cristianismo, se fusionaron con tradiciones locales, dando lugar a los carnavales. Su nombre proviene del francés, donde gras significa "grasa", en referencia a los alimentos ricos como carne, huevos y queso, consumidos antes del período de ayuno.
+
 # Recent 30 Days
 |  |  |  |
 |:---:|:---:|:---:|
@@ -11,4 +13,4 @@ El Mardi Gras, o Martes Gordo, es una festividad llena de color que marca el úl
 | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_ES-ES5913378191_400x240.jpg "La estrategia escocesa") 2025-02-26 |  |  |
 
 # History
-[2025-03](../archives/es-ES/wallpaper/w_2025_03.md) | [2025-02](../archives/es-ES/wallpaper/w_2025_02.md)
+[2025-03](../archives/wallpaper/es-ES/w_2025_03.md) | [2025-02](../archives/wallpaper/es-ES/w_2025_02.md)

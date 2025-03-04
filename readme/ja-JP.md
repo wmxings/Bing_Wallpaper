@@ -1,8 +1,10 @@
+[Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
+
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_JA-JP2336854900_UHD.jpg)
 [2025-03-04 今日はマルディグラ ジャクソン・スクウェア, 米国 ルイジアナ州(© SeanPavonePhoto/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasJackson_JA-JP2336854900_UHD.jpg)
-
 今日 3 月 4 日は謝肉祭の最終日、マルディグラ。フランス語で「肥沃な火曜日」を意味し、キリスト教の四旬節の初日である「灰の水曜日」の前日となっています。特に米国南部のニューオーリンズでは盛大に祝われ、街全体が紫、緑、金で埋め尽くされます。画像のジャクソン・スクウェアは、パレード、仮装などで賑わいます…
+
 # Recent 30 Days
 |  |  |  |
 |:---:|:---:|:---:|
@@ -11,4 +13,4 @@
 | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_JA-JP1121064297_400x240.jpg "海の小島に佇む中世のお城") 2025-02-26 |  |  |
 
 # History
-[2025-03](../archives/ja-JP/wallpaper/w_2025_03.md) | [2025-02](../archives/ja-JP/wallpaper/w_2025_02.md)
+[2025-03](../archives/wallpaper/ja-JP/w_2025_03.md) | [2025-02](../archives/wallpaper/ja-JP/w_2025_02.md)

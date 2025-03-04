@@ -1,8 +1,10 @@
+[Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
+
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.HornbillPair_EN-CA9068536722_UHD.jpg)
 [2025-03-03 Wild about wildlife Southern yellow-billed hornbills in Kruger National Park, South Africa(© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.HornbillPair_EN-CA9068536722_UHD.jpg)
-
 What better time to shine a spotlight on nature than on World Wildlife Day? This day serves as a reminder that wildlife conservation is a shared responsibility. This year's theme is 'Wildlife Conservation Finance: Investing in People and Planet.' The events emphasise exchanging ideas, presenting solutions and diving into how innovative finance can help stop biodiversity loss and create a more sustainable future. Schools, conservation groups and wildlife parks host events such as nature walks, workshops, art contests, wildlife photography competitions and conservation talks to raise awareness.
+
 # Recent 30 Days
 |  |  |  |
 |:---:|:---:|:---:|
@@ -11,4 +13,4 @@ What better time to shine a spotlight on nature than on World Wildlife Day? This
 | ![](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-CA7439537445_400x240.jpg "Hoodoo you do?") 2025-02-25 |  |  |
 
 # History
-[2025-03](../archives/en-CA/wallpaper/w_2025_03.md) | [2025-02](../archives/en-CA/wallpaper/w_2025_02.md)
+[2025-03](../archives/wallpaper/en-CA/w_2025_03.md) | [2025-02](../archives/wallpaper/en-CA/w_2025_02.md)

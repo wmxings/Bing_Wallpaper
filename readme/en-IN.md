@@ -1,8 +1,10 @@
+[Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
+
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_UHD.jpg)
 [2025-03-04 Inside the ancient stone walls Interior of the Charminar, Hyderabad, Telangana(© Richard I'Anson/Getty Images)](https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_UHD.jpg)
-
 Standing tall in the heart of Hyderabad, Telangana, is the Charminar, meaning 'Four Minarets,' each honouring the first four caliphs of Islam. This monument is on the eastern bank of the Musi River, with the famous Laad Bazaar to the west and the Makkah Masjid to the southwest. Built in 1591 by Sultan Mohammed Quli Qutb Shah, the Charminar is an architectural marvel shrouded in legend.
+
 # Recent 30 Days
 |  |  |  |
 |:---:|:---:|:---:|
@@ -11,4 +13,4 @@ Standing tall in the heart of Hyderabad, Telangana, is the Charminar, meaning 'F
 | ![](https://www.bing.com/th?id=OHR.TungnathShiva_EN-IN3198630247_400x240.jpg "Honouring Shiva") 2025-02-26 |  |  |
 
 # History
-[2025-03](../archives/en-IN/wallpaper/w_2025_03.md) | [2025-02](../archives/en-IN/wallpaper/w_2025_02.md)
+[2025-03](../archives/wallpaper/en-IN/w_2025_03.md) | [2025-02](../archives/wallpaper/en-IN/w_2025_02.md)

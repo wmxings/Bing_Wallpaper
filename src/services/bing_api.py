@@ -7,6 +7,7 @@ from src.utils.exceptions import APIError
 
 logger = logging.getLogger(__name__)
 
+
 def fetch_bing_data(country_code: str = "zh-CN") -> Dict[str, Any]:
     """
     获取Bing壁纸数据
@@ -19,7 +20,7 @@ def fetch_bing_data(country_code: str = "zh-CN") -> Dict[str, Any]:
     max_retries = config.get("api.max_retries", 3)
     wait_time = config.get("api.wait_time", 30)
     params = {"mkt": country_code}
-    
+
     for attempt in range(max_retries):
         try:
             response = requests.get(api_url, params=params)
@@ -27,10 +28,11 @@ def fetch_bing_data(country_code: str = "zh-CN") -> Dict[str, Any]:
             return response.json()
         except Exception as e:
             if attempt < max_retries - 1:  # 如果不是最后一次尝试
-                logger.warning(f"第 {attempt + 1} 次获取数据失败: {e}，等待 {wait_time} 秒后重试...")
+                logger.warning(
+                    f"第 {attempt + 1} 次获取数据失败: {e}，等待 {wait_time} 秒后重试...")
                 time.sleep(wait_time)
             else:
                 logger.error(f"获取数据失败，已重试 {max_retries} 次: {e}")
                 raise APIError(f"获取数据失败: {e}")
-    
-    return None 
+
+    return None

@@ -6,6 +6,7 @@ from .exceptions import BingWallpaperError
 
 logger = logging.getLogger(__name__)
 
+
 def retry(
     exceptions: Tuple[Type[Exception], ...] = (Exception,),
     tries: int = 3,
@@ -32,14 +33,14 @@ def retry(
                     _tries -= 1
                     if _tries == 0:
                         raise BingWallpaperError(f"重试{tries}次后仍然失败: {str(e)}")
-                    
+
                     if logger:
                         logger.warning(
                             f"{func.__name__} 失败，{_tries}次重试剩余。错误: {str(e)}"
                         )
-                    
+
                     time.sleep(_delay)
                     _delay *= backoff
             return None
         return wrapper
-    return decorator 
+    return decorator

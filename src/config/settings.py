@@ -21,4 +21,4 @@ README_FILE_TEMPLATE = "{country_code}.md"
 # 图片URL配置
 BASE_IMAGE_URL = "https://www.bing.com"
 UHD_SUFFIX = "_UHD.jpg"
-PREVIEW_SUFFIX = "_400x240.jpg" 
+PREVIEW_SUFFIX = "_400x240.jpg"

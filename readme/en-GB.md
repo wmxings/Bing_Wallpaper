@@ -1,8 +1,10 @@
+[Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
+
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-GB2810612583_UHD.jpg)
 [2025-03-04 Not your ordinary Tuesday Jackson Square, New Orleans, Louisiana, United States(© SeanPavonePhoto/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-GB2810612583_UHD.jpg)
-
 Mardi Gras, or 'Fat Tuesday,' is a vibrant tradition that marks the last day of indulgence before the Christian season of Lent begins on Ash Wednesday. Rooted in ancient Roman celebrations like Saturnalia, Mardi Gras evolved as Christianity spread, blending local customs—most notably Carnival festivities—with religious observances. The name itself originates from French, with the word gras meaning 'fat,' referring to rich, fatty foods like meat, eggs and cheese that are traditionally enjoyed before the fasting season begins.
+
 # Recent 30 Days
 |  |  |  |
 |:---:|:---:|:---:|
@@ -11,4 +13,4 @@ Mardi Gras, or 'Fat Tuesday,' is a vibrant tradition that marks the last day of 
 | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-GB9934578048_400x240.jpg "Scottish strategy at its finest") 2025-02-26 |  |  |
 
 # History
-[2025-03](../archives/en-GB/wallpaper/w_2025_03.md) | [2025-02](../archives/en-GB/wallpaper/w_2025_02.md)
+[2025-03](../archives/wallpaper/en-GB/w_2025_03.md) | [2025-02](../archives/wallpaper/en-GB/w_2025_02.md)

@@ -2,6 +2,7 @@ import re
 from typing import Dict, Tuple
 from src.config.config_manager import ConfigManager
 
+
 def process_image_url(url: str) -> Tuple[str, str, Dict[str, str]]:
     """
     处理图片URL，生成不同尺寸的URL
@@ -10,25 +11,25 @@ def process_image_url(url: str) -> Tuple[str, str, Dict[str, str]]:
     """
     if not url:
         return "", "", {}
-    
+
     # 从图片URL中提取图片ID
     match = re.search(r"id=([^&]+)", url)
     if not match:
         return "", "", {}
-        
+
     image_id = match.group(1)
     # 从图片ID中提取基础名称（不包含尺寸信息）
     base_image_id = re.sub(r"_\d+x\d+\.webp$", "", image_id)
-    
+
     config = ConfigManager()
     base_url = config.get("image.base_url")
     uhd_suffix = config.get("image.uhd_suffix")
     preview_suffix = config.get("image.preview_suffix")
-    
+
     # 生成UHD和预览URL
     uhd_url = f"{base_url}/th?id={base_image_id}{uhd_suffix}"
     preview_url = f"{base_url}/th?id={base_image_id}{preview_suffix}"
-    
+
     # 生成不同尺寸的URL
     sizes = {
         "UHD": uhd_url,  # 添加UHD尺寸
@@ -48,5 +49,5 @@ def process_image_url(url: str) -> Tuple[str, str, Dict[str, str]]:
         "320x240": f"{base_url}/th?id={base_image_id}_320x240.jpg",
         "240x320": f"{base_url}/th?id={base_image_id}_240x320.jpg"
     }
-    
-    return uhd_url, preview_url, sizes 
+
+    return uhd_url, preview_url, sizes

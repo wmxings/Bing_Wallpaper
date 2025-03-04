@@ -2,6 +2,7 @@ import re
 from datetime import datetime
 from typing import Optional
 
+
 def extract_date_from_trivia_id(trivia_id: str) -> Optional[str]:
     """
     从TriviaId中提取日期
@@ -13,6 +14,7 @@ def extract_date_from_trivia_id(trivia_id: str) -> Optional[str]:
         date_str = match.group(1)
         return f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}"
     return None
+
 
 def group_by_month(items: list, date_key: str = 'date') -> dict:
     """
@@ -28,4 +30,4 @@ def group_by_month(items: list, date_key: str = 'date') -> dict:
         if key not in grouped:
             grouped[key] = []
         grouped[key].append(item)
-    return grouped 
+    return grouped

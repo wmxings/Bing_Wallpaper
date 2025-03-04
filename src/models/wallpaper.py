@@ -1,8 +1,9 @@
 from dataclasses import dataclass
 from datetime import datetime
 from typing import Dict
-from src.utils.date_utils import extract_date_from_trivia_id
-from src.services.image_processor import process_image_url
+from utils.date_utils import extract_date_from_trivia_id
+from services.image_processor import process_image_url
+
 
 @dataclass
 class WallpaperImage:
@@ -22,10 +23,10 @@ class WallpaperImage:
         """从API响应创建实例"""
         trivia_id = image_content.get("TriviaId", "")
         image_url = image_content.get("Image", {}).get("Url", "")
-        
+
         # 处理图片URL
         uhd_url, preview_url, sizes = process_image_url(image_url)
-        
+
         return cls(
             date=extract_date_from_trivia_id(trivia_id),
             head_line=image_content.get("Headline", ""),
@@ -55,4 +56,4 @@ class WallpaperImage:
     @classmethod
     def from_dict(cls, data: dict) -> 'WallpaperImage':
         """从字典创建实例"""
-        return cls(**data) 
+        return cls(**data)

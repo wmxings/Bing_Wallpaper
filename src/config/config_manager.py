@@ -6,20 +6,21 @@ from src.utils.exceptions import ConfigError
 
 logger = logging.getLogger(__name__)
 
+
 class ConfigManager:
     """配置管理器"""
     _instance = None
     _config: Dict[str, Any] = {}
-    
+
     def __new__(cls):
         if cls._instance is None:
             cls._instance = super().__new__(cls)
         return cls._instance
-    
+
     def __init__(self):
         if not self._config:
             self.load_config()
-    
+
     def load_config(self, config_file: str = "config.json") -> None:
         """
         加载配置文件
@@ -38,7 +39,7 @@ class ConfigManager:
                 logger.info(f"创建默认配置文件 {config_file}")
         except Exception as e:
             raise ConfigError(f"加载配置文件失败: {str(e)}")
-    
+
     def save_config(self, config_file: str = "config.json") -> None:
         """
         保存配置到文件
@@ -49,7 +50,7 @@ class ConfigManager:
                 json.dump(self._config, f, ensure_ascii=False, indent=2)
         except Exception as e:
             raise ConfigError(f"保存配置文件失败: {str(e)}")
-    
+
     def _get_default_config(self) -> Dict[str, Any]:
         """获取默认配置"""
         return {
@@ -59,13 +60,13 @@ class ConfigManager:
                 "wait_time": 30        # API 重试等待时间（秒）
             },
             "process": {
-                "wait_time": 10        # 处理国家之间的等待时间（秒）
+                "wait_time": 2        # 处理国家之间的等待时间（秒）
             },
             "paths": {
-                "archives_dir": "archives",
-                "readme_dir": "readme",
-                "json_dir": "json",
-                "wallpaper_dir": "wallpaper",
+                "archives_dir": "../archives",
+                "readme_dir": "../readme",
+                "json_dir": "../archives/json",
+                "wallpaper_dir": "../archives/wallpaper",
                 "log_dir": "src/log"   # 日志目录
             },
             "templates": {
@@ -82,19 +83,20 @@ class ConfigManager:
             "supported_countries": [
                 "zh-CN",   # 中国
                 "en-US"    # 美国
-                # "ja-JP",   # 日本
-                # "de-DE",   # 德国
-                # "en-CA",   # 加拿大（英语）
-                # "en-GB",   # 英国
-                # "en-IN",   # 印度
-                # "es-ES",   # 西班牙
-                # "fr-CA",   # 加拿大（法语）
-                # "fr-FR",   # 法国
-                # "it-IT",   # 意大利
-                # "pt-BR"    # 巴西
+                # 以下国家暂时注释掉，以便更快地测试
+                "de-DE",   # 德国
+                "en-CA",   # 加拿大（英语）
+                "en-GB",   # 英国
+                "en-IN",   # 印度
+                "es-ES",   # 西班牙
+                "fr-CA",   # 加拿大（法语）
+                "fr-FR",   # 法国
+                "it-IT",   # 意大利
+                "ja-JP",   # 日本
+                "pt-BR"    # 巴西
             ]
         }
-    
+
     def get(self, key: str, default: Any = None) -> Any:
         """
         获取配置项
@@ -111,7 +113,7 @@ class ConfigManager:
             if default is not None:
                 return default
             raise ConfigError(f"配置项不存在: {key}")
-    
+
     def set(self, key: str, value: Any) -> None:
         """
         设置配置项
@@ -124,4 +126,4 @@ class ConfigManager:
             if k not in config:
                 config[k] = {}
             config = config[k]
-        config[keys[-1]] = value 
+        config[keys[-1]] = value
