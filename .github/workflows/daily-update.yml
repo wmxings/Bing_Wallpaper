@@ -3,6 +3,7 @@ name: Daily Bing Wallpaper Update
 on:
   schedule:
     - cron: '0 22 * * *'  # UTC 22:00 (北京时间早上6点)
+    - cron: '0 10 * * *'  # UTC 10:00 (北京时间晚上6点)
   workflow_dispatch:  # 允许手动触发
 
 jobs:
