@@ -1,6 +1,6 @@
 import re
 from typing import Dict, Tuple
-from src.config.config_manager import ConfigManager
+from ..config.config_manager import ConfigManager
 
 
 def process_image_url(url: str) -> Tuple[str, str, Dict[str, str]]:
