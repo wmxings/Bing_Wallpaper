@@ -1,22 +1,46 @@
 import logging
 import time
+import os
+from datetime import datetime
 from typing import List
 from src.models.wallpaper import WallpaperImage
 from src.services.bing_api import fetch_bing_data
 from src.services.file_generator import FileGenerator
-from src.utils.exceptions import BingWallpaperError
+from src.utils.exceptions import BingWallpaperError, APIError
 from src.config.config_manager import ConfigManager
 
 def setup_logging():
     """设置日志记录"""
+    # 创建一个基础的控制台日志记录器
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-        handlers=[
-            logging.StreamHandler(),  # 输出到控制台
-            logging.FileHandler('bing_wallpaper.log')  # 输出到文件
-        ]
+        handlers=[logging.StreamHandler()]
     )
+    logger = logging.getLogger(__name__)
+    
+    try:
+        config = ConfigManager()
+        log_dir = config.get("paths.log_dir")
+        
+        # 确保日志目录存在
+        os.makedirs(log_dir, exist_ok=True)
+        
+        # 生成日志文件名
+        date_str = datetime.now().strftime("%Y%m%d")
+        log_file = os.path.join(
+            log_dir,
+            config.get("templates.log_file").format(date=date_str)
+        )
+        
+        # 添加文件处理器
+        file_handler = logging.FileHandler(log_file)
+        file_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+        logging.getLogger().addHandler(file_handler)
+        
+        logger.info(f"日志文件已创建: {log_file}")
+    except Exception as e:
+        logger.error(f"设置日志文件失败: {str(e)}")
 
 def process_images(data: dict) -> List[WallpaperImage]:
     """
@@ -42,30 +66,32 @@ def process_country(country_code: str, logger: logging.Logger) -> bool:
     :param logger: 日志记录器
     :return: 处理是否成功
     """
+    log_prefix = f"{country_code}:"
+    
     try:
-        logger.info(f"开始处理 {country_code} 的壁纸数据")
+        logger.info(f"{log_prefix} 开始处理壁纸数据")
         
         # 获取数据
         data = fetch_bing_data(country_code)
-        if not data:
-            logger.error(f"{country_code}: 获取数据失败")
-            return False
         
         # 处理图片数据
         images = process_images(data)
         if not images:
-            logger.warning(f"{country_code}: 没有找到有效的图片数据")
+            logger.warning(f"{log_prefix} 没有找到有效的图片数据")
             return False
         
         # 生成文件
         file_generator = FileGenerator(country_code)
         file_generator.update_files(images)
         
-        logger.info(f"{country_code}: 处理完成")
+        logger.info(f"{log_prefix} 处理完成")
         return True
         
+    except APIError as e:
+        logger.error(f"{log_prefix} API调用失败 - {str(e)}")
+        return False
     except Exception as e:
-        logger.error(f"{country_code}: 处理失败 - {str(e)}")
+        logger.error(f"{log_prefix} 处理失败 - {str(e)}")
         return False
 
 def main():
@@ -79,6 +105,7 @@ def main():
         config = ConfigManager()
         country_codes = config.get("supported_countries")
         total_countries = len(country_codes)
+        wait_time = config.get("process.wait_time", 10)  # 获取等待时间，默认10秒
         
         logger.info(f"开始处理 {total_countries} 个国家的数据")
         
@@ -90,18 +117,21 @@ def main():
             if process_country(country_code, logger):
                 success_count += 1
             
-            # 如果不是最后一个国家，等待10秒后继续
+            # 如果不是最后一个国家，等待指定时间后继续
             if index < total_countries:
-                logger.info(f"等待10秒后继续处理下一个国家...")
-                time.sleep(10)
+                logger.info(f"等待 {wait_time} 秒后继续处理下一个国家...")
+                time.sleep(wait_time)
         
         # 输出总结信息
-        logger.info(f"处理完成: 成功 {success_count}/{total_countries}")
+        success_rate = (success_count / total_countries) * 100
+        logger.info(f"处理完成: 成功 {success_count}/{total_countries} ({success_rate:.1f}%)")
         
     except BingWallpaperError as e:
         logger.error(f"处理失败: {str(e)}")
+        raise
     except Exception as e:
         logger.exception(f"发生未知错误: {str(e)}")
+        raise
 
 if __name__ == "__main__":
     main() 

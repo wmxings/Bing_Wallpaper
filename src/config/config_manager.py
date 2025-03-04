@@ -55,22 +55,24 @@ class ConfigManager:
         return {
             "api": {
                 "url": "https://www.bing.com/hp/api/model",
-                "retry": {
-                    "max_tries": 3,
-                    "delay": 1,
-                    "backoff": 2
-                }
+                "max_retries": 3,      # API 最大重试次数
+                "wait_time": 30        # API 重试等待时间（秒）
+            },
+            "process": {
+                "wait_time": 10        # 处理国家之间的等待时间（秒）
             },
             "paths": {
                 "archives_dir": "archives",
                 "readme_dir": "readme",
                 "json_dir": "json",
-                "wallpaper_dir": "wallpaper"
+                "wallpaper_dir": "wallpaper",
+                "log_dir": "src/log"   # 日志目录
             },
             "templates": {
                 "json_file": "j_{year}_{month:02d}.json",
                 "wallpaper_file": "w_{year}_{month:02d}.md",
-                "readme_file": "{country_code}.md"
+                "readme_file": "{country_code}.md",
+                "log_file": "log_{date}.log"  # 日志文件名模板
             },
             "image": {
                 "base_url": "https://www.bing.com",

@@ -1,9 +1,9 @@
 import os
 import logging
-from typing import List
+from typing import List, Dict, Tuple
 from src.models.wallpaper import WallpaperImage
 from src.utils.date_utils import group_by_month
-from src.utils.file_utils import write_json, write_text, list_files
+from src.utils.file_utils import write_json, write_text, list_files, read_json
 from src.utils.exceptions import FileOperationError
 from src.utils.decorators import retry
 from src.config.config_manager import ConfigManager
@@ -15,6 +15,24 @@ class FileGenerator:
         self.country_code = country_code
         self.config = ConfigManager()
         
+    def _merge_images(self, existing_images: List[dict], new_images: List[dict]) -> List[dict]:
+        """
+        合并现有图片和新图片数据，保留最新的数据
+        :param existing_images: 现有的图片数据
+        :param new_images: 新的图片数据
+        :return: 合并后的图片数据
+        """
+        # 创建日期到图片的映射
+        image_map = {img["date"]: img for img in existing_images}
+        
+        # 添加或更新新图片
+        for img in new_images:
+            image_map[img["date"]] = img
+        
+        # 转换回列表并按日期排序
+        merged = list(image_map.values())
+        return sorted(merged, key=lambda x: x["date"], reverse=True)
+    
     def _get_json_path(self, year: int, month: int) -> str:
         """获取JSON文件路径"""
         return os.path.join(
@@ -86,27 +104,51 @@ class FileGenerator:
             raise FileOperationError(f"更新文件失败: {str(e)}")
     
     @retry(exceptions=(FileOperationError,), logger=logger)
-    def _update_json_file(self, year: int, month: int, images: List[dict]) -> None:
+    def _update_json_file(self, year: int, month: int, new_images: List[dict]) -> None:
         """更新JSON文件"""
         try:
             filepath = self._get_json_path(year, month)
-            write_json(filepath, images)
+            
+            # 如果文件存在，读取现有数据并合并
+            existing_images = []
+            if os.path.exists(filepath):
+                try:
+                    existing_images = read_json(filepath)
+                except Exception as e:
+                    logger.warning(f"读取现有JSON文件失败: {e}")
+            
+            # 合并数据
+            merged_images = self._merge_images(existing_images, new_images)
+            
+            # 写入文件
+            write_json(filepath, merged_images)
             logger.debug(f"更新JSON文件: {filepath}")
         except Exception as e:
             raise FileOperationError(f"更新JSON文件失败: {str(e)}")
     
     @retry(exceptions=(FileOperationError,), logger=logger)
-    def _update_wallpaper_file(self, year: int, month: int, images: List[dict]) -> None:
+    def _update_wallpaper_file(self, year: int, month: int, new_images: List[dict]) -> None:
         """更新壁纸文件"""
         try:
             filepath = self._get_wallpaper_path(year, month)
-            content = []
             
+            # 如果文件存在，读取现有数据并合并
+            existing_images = []
+            json_filepath = self._get_json_path(year, month)
+            if os.path.exists(json_filepath):
+                try:
+                    existing_images = read_json(json_filepath)
+                except Exception as e:
+                    logger.warning(f"读取现有JSON文件失败: {e}")
+            
+            # 合并数据
+            merged_images = self._merge_images(existing_images, new_images)
+            
+            content = []
             # 添加标题
             content.append(f"# Bing Wallpaper ({year}-{month:02d})\n\n")
-            
             # 生成表格
-            content.extend(self._generate_image_table(images))
+            content.extend(self._generate_image_table(merged_images))
             
             write_text(filepath, "".join(content))
             logger.debug(f"更新壁纸文件: {filepath}")

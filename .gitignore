@@ -42,6 +42,7 @@ venv.bak/
 *.log
 logs/
 log/
+src/log/
 
 # Local configuration
 config.json
