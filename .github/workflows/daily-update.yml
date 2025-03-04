@@ -32,6 +32,4 @@ jobs:
         git config --local user.name "KingStar Thomas"
         git add -A
         git diff --quiet && git diff --staged --quiet || git commit -m "Update wallpapers [skip ci]"
-        run: echo "PAT is set: ${{ secrets.PAT != '' }}"
-        run: echo "PAT is set: ${{ secrets.PAT }}"
         git push https://${{ secrets.PAT }}@github.com/wmxings/Bing_Wallpaper.git HEAD:main
