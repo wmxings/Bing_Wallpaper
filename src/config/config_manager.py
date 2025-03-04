@@ -82,8 +82,7 @@ class ConfigManager:
             },
             "supported_countries": [
                 "zh-CN",   # 中国
-                "en-US"    # 美国
-                # 以下国家暂时注释掉，以便更快地测试
+                "en-US",   # 美国
                 "de-DE",   # 德国
                 "en-CA",   # 加拿大（英语）
                 "en-GB",   # 英国
