@@ -81,17 +81,17 @@ class ConfigManager:
             },
             "supported_countries": [
                 "zh-CN",   # 中国
-                "en-US",   # 美国
-                "ja-JP",   # 日本
-                "de-DE",   # 德国
-                "en-CA",   # 加拿大（英语）
-                "en-GB",   # 英国
-                "en-IN",   # 印度
-                "es-ES",   # 西班牙
-                "fr-CA",   # 加拿大（法语）
-                "fr-FR",   # 法国
-                "it-IT",   # 意大利
-                "pt-BR"    # 巴西
+                "en-US"    # 美国
+                # "ja-JP",   # 日本
+                # "de-DE",   # 德国
+                # "en-CA",   # 加拿大（英语）
+                # "en-GB",   # 英国
+                # "en-IN",   # 印度
+                # "es-ES",   # 西班牙
+                # "fr-CA",   # 加拿大（法语）
+                # "fr-FR",   # 法国
+                # "it-IT",   # 意大利
+                # "pt-BR"    # 巴西
             ]
         }
     

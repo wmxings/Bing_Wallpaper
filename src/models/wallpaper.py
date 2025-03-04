@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from datetime import datetime
+from typing import Dict
 from src.utils.date_utils import extract_date_from_trivia_id
 from src.services.image_processor import process_image_url
 
@@ -14,6 +15,7 @@ class WallpaperImage:
     image_url: str
     preview_url: str
     main_text: str
+    sizes: Dict[str, str]
 
     @classmethod
     def from_api_response(cls, image_content: dict) -> 'WallpaperImage':
@@ -22,7 +24,7 @@ class WallpaperImage:
         image_url = image_content.get("Image", {}).get("Url", "")
         
         # 处理图片URL
-        uhd_url, preview_url = process_image_url(image_url)
+        uhd_url, preview_url, sizes = process_image_url(image_url)
         
         return cls(
             date=extract_date_from_trivia_id(trivia_id),
@@ -32,7 +34,8 @@ class WallpaperImage:
             desc=image_content.get("Description", ""),
             image_url=uhd_url,
             preview_url=preview_url,
-            main_text=image_content.get("QuickFact", {}).get("MainText", "")
+            main_text=image_content.get("QuickFact", {}).get("MainText", ""),
+            sizes=sizes
         )
 
     def to_dict(self) -> dict:
@@ -45,7 +48,8 @@ class WallpaperImage:
             "desc": self.desc,
             "image_url": self.image_url,
             "preview_url": self.preview_url,
-            "main_text": self.main_text
+            "main_text": self.main_text,
+            "sizes": self.sizes
         }
 
     @classmethod

@@ -14,7 +14,7 @@ def setup_logging():
     # 创建一个基础的控制台日志记录器
     logging.basicConfig(
         level=logging.INFO,
-        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        format='[%(asctime)s][%(levelname)s][%(name)s] %(message)s',
         handlers=[logging.StreamHandler()]
     )
     logger = logging.getLogger(__name__)
@@ -33,9 +33,9 @@ def setup_logging():
             config.get("templates.log_file").format(date=date_str)
         )
         
-        # 添加文件处理器
-        file_handler = logging.FileHandler(log_file)
-        file_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+        # 添加文件处理器，明确指定 UTF-8 编码
+        file_handler = logging.FileHandler(log_file, encoding='utf-8')
+        file_handler.setFormatter(logging.Formatter('[%(asctime)s][%(levelname)s][%(name)s] %(message)s'))
         logging.getLogger().addHandler(file_handler)
         
         logger.info(f"日志文件已创建: {log_file}")
