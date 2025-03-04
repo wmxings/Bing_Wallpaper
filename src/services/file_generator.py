@@ -1,13 +1,12 @@
 import os
 import logging
-from typing import List, Dict, Tuple
+from typing import List
 from src.models.wallpaper import WallpaperImage
 from src.utils.date_utils import group_by_month
 from src.utils.file_utils import write_json, write_text, list_files, read_json
 from src.utils.exceptions import FileOperationError
 from src.utils.decorators import retry
 from src.config.config_manager import ConfigManager
-from datetime import datetime
 
 logger = logging.getLogger(__name__)
 

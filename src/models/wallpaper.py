@@ -1,8 +1,8 @@
 from dataclasses import dataclass
 from datetime import datetime
 from typing import Dict
-from utils.date_utils import extract_date_from_trivia_id
-from services.image_processor import process_image_url
+from src.utils.date_utils import extract_date_from_trivia_id
+from src.services.image_processor import process_image_url
 
 
 @dataclass

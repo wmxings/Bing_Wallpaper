@@ -60,13 +60,13 @@ class ConfigManager:
                 "wait_time": 30        # API 重试等待时间（秒）
             },
             "process": {
-                "wait_time": 2        # 处理国家之间的等待时间（秒）
+                "wait_time": 10        # 处理国家之间的等待时间（秒）
             },
             "paths": {
-                "archives_dir": "../archives",
-                "readme_dir": "../readme",
-                "json_dir": "../archives/json",
-                "wallpaper_dir": "../archives/wallpaper",
+                "archives_dir": "archives",
+                "readme_dir": "readme",
+                "json_dir": "json",
+                "wallpaper_dir": "wallpaper",
                 "log_dir": "src/log"   # 日志目录
             },
             "templates": {

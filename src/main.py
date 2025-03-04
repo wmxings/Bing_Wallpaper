@@ -3,11 +3,11 @@ import time
 import os
 from datetime import datetime
 from typing import List
-from models.wallpaper import WallpaperImage
-from services.bing_api import fetch_bing_data
-from services.file_generator import FileGenerator
-from utils.exceptions import BingWallpaperError, APIError
-from config.config_manager import ConfigManager
+from src.models.wallpaper import WallpaperImage
+from src.services.bing_api import fetch_bing_data
+from src.services.file_generator import FileGenerator
+from src.utils.exceptions import BingWallpaperError, APIError
+from src.config.config_manager import ConfigManager
 
 
 # 添加一个空行，满足 E302 要求
