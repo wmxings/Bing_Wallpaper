@@ -32,4 +32,4 @@ jobs:
         git config --local user.name "KingStar Thomas"
         git add -A
         git diff --quiet && git diff --staged --quiet || git commit -m "Update wallpapers [skip ci]"
-        git push 
+        git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/wmxings/Bing_Wallpaper.git HEAD:main
