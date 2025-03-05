@@ -1,0 +1,35 @@
+name: Daily Bing Wallpaper Update
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # UTC 22:00 (北京时间早上6点)
+    - cron: '0 10 * * *'  # UTC 10:00 (北京时间晚上6点)
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run update script
+      run: python -m src.main
+    
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "i@wangmingxing.cn"
+        git config --local user.name "KingStar Thomas"
+        git add -A
+        git remote set-url origin https://wmxings:${{ secrets.PAT }}@github.com/wmxings/Bing_Wallpaper
+        git push origin main
