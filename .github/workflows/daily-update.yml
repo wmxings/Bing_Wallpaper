@@ -2,10 +2,7 @@ name: Daily Publish
 
 on:
   schedule:
-    # UTC 22:00 (北京时间早上6点)
-    - cron: '0 22 * * *'
-    # UTC 10:00 (北京时间晚上6点)
-    - cron: '0 10 * * *' 
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -33,5 +30,5 @@ jobs:
         git config --local user.email "i@wangmingxing.cn"
         git config --local user.name "KingStar Thomas"
         git add -A
-        git commit -m "Daily bing wallpaper update"
+        git commit -m "Daily bing wallpaper update by github actions"
         git push
