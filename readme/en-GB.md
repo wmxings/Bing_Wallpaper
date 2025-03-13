@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-GB2810612583_UHD.jpg)
-[2025-03-04 Not your ordinary Tuesday Jackson Square, New Orleans, Louisiana, United States(© SeanPavonePhoto/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-GB2810612583_UHD.jpg)
-Mardi Gras, or 'Fat Tuesday,' is a vibrant tradition that marks the last day of indulgence before the Christian season of Lent begins on Ash Wednesday. Rooted in ancient Roman celebrations like Saturnalia, Mardi Gras evolved as Christianity spread, blending local customs—most notably Carnival festivities—with religious observances. The name itself originates from French, with the word gras meaning 'fat,' referring to rich, fatty foods like meat, eggs and cheese that are traditionally enjoyed before the fasting season begins.
+![](https://www.bing.com/th?id=OHR.HoliColors_EN-GB1907650380_UHD.jpg)
+[2025-03-13 Holi colour splash Holi celebration in Jaipur, India(© powerofforever/Getty Images)](https://www.bing.com/th?id=OHR.HoliColors_EN-GB1907650380_UHD.jpg)
+Strolling through the streets of India during Holi is like stepping into a kaleidoscope of colours—vivid splashes of blue, green, red, yellow, pink and orange fill the air. This festival falls on the full moon day in the Hindu month of Phalguna—usually in late February or March. It is a significant tradition that symbolises the arrival of spring and the victory of good over evil. Outside India, Holi is celebrated by Hindus in Nepal, Bangladesh, and Pakistan, as well as by Indian communities around the world, including in countries like the United Kingdom.
 
 # Recent 30 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-GB2810612583_400x240.jpg "Not your ordinary Tuesday") 2025-03-04 | ![](https://www.bing.com/th?id=OHR.HornbillPair_EN-GB2589125332_400x240.jpg "Wild about wildlife") 2025-03-03 | ![](https://www.bing.com/th?id=OHR.EucalyptusForest_EN-GB2410685823_400x240.jpg "A eucalyp-tastic view") 2025-03-02 |
-| ![](https://www.bing.com/th?id=OHR.DavidsCathedralGB_EN-GB8444575423_400x240.jpg "A timeless celebration") 2025-03-01 | ![](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-GB2130473204_400x240.jpg "Have a rest at the Tiger's Nest") 2025-02-28 | ![](https://www.bing.com/th?id=OHR.PolarCub_EN-GB1844708002_400x240.jpg "Polar care") 2025-02-27 |
-| ![](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-GB9934578048_400x240.jpg "Scottish strategy at its finest") 2025-02-26 |  |  |
+| ![](https://www.bing.com/th?id=OHR.HoliColors_EN-GB1907650380_400x240.jpg "Holi colour splash") 2025-03-13 | ![](https://www.bing.com/th?id=OHR.ChateauLoire_EN-GB1678598719_400x240.jpg "Standing strong") 2025-03-12 | ![](https://www.bing.com/th?id=OHR.NusaPenida_EN-GB1392461130_400x240.jpg "When the ocean breaks the rules") 2025-03-11 |
+| ![](https://www.bing.com/th?id=OHR.NappingLion_EN-GB1135783379_400x240.jpg "Snooze and conquer") 2025-03-10 | ![](https://www.bing.com/th?id=OHR.ShardLondon2025_EN-GB0574444826_400x240.jpg "London's sharpest landmark") 2025-03-09 | ![](https://www.bing.com/th?id=OHR.FearlessWomen_EN-GB0884411482_400x240.jpg "Making her-story!") 2025-03-08 |
+| ![](https://www.bing.com/th?id=OHR.PlumBlossom_EN-GB0729185335_400x240.jpg "China in bloom") 2025-03-07 |  |  |
 
 # History
 [2025-03](../archives/wallpaper/en-GB/w_2025_03.md) | [2025-02](../archives/wallpaper/en-GB/w_2025_02.md)

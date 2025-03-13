@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MardiGrasJackson_ES-ES6628104190_UHD.jpg)
-[2025-03-04 No es un martes cualquiera Jackson Square, Nueva Orleans, Luisiana, EE. UU.(© SeanPavonePhoto/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasJackson_ES-ES6628104190_UHD.jpg)
-El Mardi Gras, o Martes Gordo, es una festividad llena de color que marca el último día de indulgencia antes del inicio de la Cuaresma, el Miércoles de Ceniza. Sus orígenes se remontan a antiguas celebraciones romanas como la Saturnalia, que, con la expansión del cristianismo, se fusionaron con tradiciones locales, dando lugar a los carnavales. Su nombre proviene del francés, donde gras significa "grasa", en referencia a los alimentos ricos como carne, huevos y queso, consumidos antes del período de ayuno.
+![](https://www.bing.com/th?id=OHR.HoliColors_ES-ES7622213300_UHD.jpg)
+[2025-03-13 Los colores del Holi Celebración de Holi en Jaipur, India(© powerofforever/Getty Images)](https://www.bing.com/th?id=OHR.HoliColors_ES-ES7622213300_UHD.jpg)
+Pasear por las calles de la India durante Holi es como sumergirse en un caleidoscopio de colores. Azul, verde, rojo, amarillo, rosa y naranja llenan el aire en esta festividad, que marca la llegada de la primavera y simboliza la victoria del bien sobre el mal. Se celebra en la luna llena del mes hindú de Phalguna, generalmente a finales de febrero o marzo. Aunque su epicentro es la India, también se conmemora en Nepal, Bangladesh, Pakistán y en comunidades indias de todo el mundo.
 
 # Recent 30 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_ES-ES6628104190_400x240.jpg "No es un martes cualquiera") 2025-03-04 | ![](https://www.bing.com/th?id=OHR.HornbillPair_ES-ES6520167475_400x240.jpg "Salvajes sobre las sabanas áridas") 2025-03-03 | ![](https://www.bing.com/th?id=OHR.EucalyptusForest_ES-ES6432819032_400x240.jpg "Una vista eucalíptica") 2025-03-02 |
-| ![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ES-ES6288170690_400x240.jpg "¡Una noche mágica!") 2025-03-01 | ![](https://www.bing.com/th?id=OHR.AndalusianStreet_ES-ES6181340886_400x240.jpg "¡Un verde y blanco vibrante!") 2025-02-28 | ![](https://www.bing.com/th?id=OHR.PolarCub_ES-ES6085095422_400x240.jpg "Un tierno saludo") 2025-02-27 |
-| ![](https://www.bing.com/th?id=OHR.ArgyllStalker_ES-ES5913378191_400x240.jpg "La estrategia escocesa") 2025-02-26 |  |  |
+| ![](https://www.bing.com/th?id=OHR.HoliColors_ES-ES7622213300_400x240.jpg "Los colores del Holi") 2025-03-13 | ![](https://www.bing.com/th?id=OHR.ChateauLoire_ES-ES7509416514_400x240.jpg "Una “flota-leza”") 2025-03-12 | ![](https://www.bing.com/th?id=OHR.NusaPenida_ES-ES7408212429_400x240.jpg "Cuando el océano rompe las reglas") 2025-03-11 |
+| ![](https://www.bing.com/th?id=OHR.NappingLion_ES-ES7306945095_400x240.jpg "¡Dale a postponer!") 2025-03-10 | ![](https://www.bing.com/th?id=OHR.ForumRomanum_ES-ES7963502187_400x240.jpg "Amigos, romanos, compatriotas") 2025-03-09 | ![](https://www.bing.com/th?id=OHR.FearlessWomen_ES-ES6846993796_400x240.jpg "¡Empodérate!") 2025-03-08 |
+| ![](https://www.bing.com/th?id=OHR.PlumBlossom_ES-ES6616013602_400x240.jpg "Los colores de la temporada") 2025-03-07 |  |  |
 
 # History
 [2025-03](../archives/wallpaper/es-ES/w_2025_03.md) | [2025-02](../archives/wallpaper/es-ES/w_2025_02.md)
