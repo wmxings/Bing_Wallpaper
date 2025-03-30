@@ -5,7 +5,7 @@
 [2025-03-30 Wer hat an der Uhr gedreht? Steinkauz-Junges in einem Baumloch(© Bildagentur Zoonar GmbH/Alamy)](https://www.bing.com/th?id=OHR.AtheneNoctuaGermany_DE-DE4640297200_UHD.jpg)
 In der Nacht vom 29. auf den 30. März war es wieder soweit: Um 2.00 Uhr sind die Zeiger eine Stunde vorgesprungen – die Sommerzeit hat begonnen! Wir haben zwar eine Stunde Schlaf verloren, doch dafür werden die Tage nun wieder länger und die Abende heller. Die Sommerzeit wurde ursprünglich eingeführt, um das Tageslicht besser zu nutzen und Energie zu sparen. Ihr Nutzen ist zwar umstritten, doch viele freuen sich über die zusätzlichen Sonnenstunden am Abend. Für den menschlichen Körper bedeutet die Umstellung oft eine Herausforderung: Besonders für „Eulen“, die Nachtaktiven unter uns, kann der frühere Rhythmus in den ersten Tagen ungewohnt sein. Interessanterweise sind echte Eulen, wie das Steinkauz-Junge (Athene Noctua) auf unserem heutigen Bild nachtaktive Vögel und davon völlig unbeeindruckt!
 
-# Recent 30 Days
+# Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
 | ![](https://www.bing.com/th?id=OHR.AtheneNoctuaGermany_DE-DE4640297200_400x240.jpg "Wer hat an der Uhr gedreht?") 2025-03-30 | ![](https://www.bing.com/th?id=OHR.CarrizoBloom_DE-DE4724342753_400x240.jpg "Endloses Blütenmeer") 2025-03-29 | ![](https://www.bing.com/th?id=OHR.NestingMonarch_DE-DE4342475181_400x240.jpg "Bunt gefiederter Freund") 2025-03-28 |

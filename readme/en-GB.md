@@ -5,7 +5,7 @@
 [2025-03-30 A mother's love Desert elephant with calf feeding on tall grass, Namibia(© Christophe Courteau/Minden Pictures)](https://www.bing.com/th?id=OHR.ElephantGrass_EN-GB8382422599_UHD.jpg)
 For one Sunday in March, the United Kingdom, Ireland and some Commonwealth countries take a break from the usual hustle to honour mums with flowers, cards and the occasional burnt toast in bed. Mothering Sunday isn't just Britain's version of Mother's Day—it has a history that predates the modern celebration by centuries. In medieval England, it was a religious occasion when people returned to their 'mother church'—the main church or cathedral in their area. This pilgrimage often led to family reunions, giving servants a rare day off to visit home. Naturally, a visit to mum was part of the tradition, and over time, the religious aspect blended with a more personal celebration.
 
-# Recent 30 Days
+# Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
 | ![](https://www.bing.com/th?id=OHR.ElephantGrass_EN-GB8382422599_400x240.jpg "A mother's love") 2025-03-30 | ![](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-GB8154155837_400x240.jpg "Burst of blooms") 2025-03-29 | ![](https://www.bing.com/th?id=OHR.NestingMonarch_EN-GB8009331215_400x240.jpg "A cosy cradle") 2025-03-28 |

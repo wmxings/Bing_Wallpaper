@@ -5,7 +5,7 @@
 [2025-03-29 Burst of blooms Superbloom in Carrizo Plain National Monument, California(© Robb Hirsch/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg)
 It's not every day you see a desert burst into colors, but during a superbloom, arid land is covered with endless stretches of flowers. This rare phenomenon happens in California and Arizona when the rainy season awakens wildflower seeds that have been lying dormant in the soil. Superblooms in California typically occur once a decade, but prolonged droughts in the 21st century have made them increasingly less frequent. Drawing attention to California's diverse flora and rural federal lands, this event offers a temporary boost to local economies.
 
-# Recent 30 Days
+# Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
 | ![](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_400x240.jpg "Burst of blooms") 2025-03-29 | ![](https://www.bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_400x240.jpg "A cozy cradle") 2025-03-28 | ![](https://www.bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_400x240.jpg "A standing ovation for theaters") 2025-03-27 |

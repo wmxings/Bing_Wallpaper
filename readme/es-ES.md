@@ -5,7 +5,7 @@
 [2025-03-30 La marcha del tiempo Torre del Reloj de San Marcos, Venecia, Italia(© scaliger/Getty Images)](https://www.bing.com/th?id=OHR.ItalyClock_ES-ES6730268051_UHD.jpg)
 Llega ese momento del año en el que adelantamos el reloj una hora. Perdemos algo de sueño, pero ganamos tardes más largas para disfrutar. El horario de verano tiene un propósito claro: aprovechar mejor la luz natural y reducir el consumo de energía. Aunque muchos creen que fue idea de Benjamin Franklin, su propuesta de "ahorrar velas" en el siglo XVIII era más una broma que una medida real. No fue hasta el siglo XX cuando varios países lo adoptaron para ahorrar combustible en tiempos de guerra.
 
-# Recent 30 Days
+# Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
 | ![](https://www.bing.com/th?id=OHR.ItalyClock_ES-ES6730268051_400x240.jpg "La marcha del tiempo") 2025-03-30 | ![](https://www.bing.com/th?id=OHR.CarrizoBloom_ES-ES6860410740_400x240.jpg "Estallido de flores") 2025-03-29 | ![](https://www.bing.com/th?id=OHR.ReconquestofVigo_ES-ES0266760154_400x240.jpg "Iluminando nuestros antepasados") 2025-03-28 |

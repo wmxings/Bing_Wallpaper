@@ -5,7 +5,7 @@
 [2025-03-30 美しい天然の良港 シドニー・ハーバー, オーストラリア ニューサウスウェールズ州(© jamenpercy/Getty Images)](https://www.bing.com/th?id=OHR.SydneyHarbour_JA-JP1159048271_UHD.jpg)
 シドニー・ハーバーは、オーストラリアのシドニーに位置する美しい天然の良港です。その象徴的なランドマークの一つは、ユネスコ世界遺産にも登録されているシドニー・オペラハウス。デンマークの建築家ヨーン・ウツソンによって設計された劇場で、年間 1500 以上の公演が行われています…
 
-# Recent 30 Days
+# Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
 | ![](https://www.bing.com/th?id=OHR.SydneyHarbour_JA-JP1159048271_400x240.jpg "美しい天然の良港") 2025-03-30 | ![](https://www.bing.com/th?id=OHR.CarrizoBloom_JA-JP0990703107_400x240.jpg "10 年に一度の花畑") 2025-03-29 | ![](https://www.bing.com/th?id=OHR.NestingMonarch_JA-JP0784290288_400x240.jpg "小さくてかわいい青色の鳥") 2025-03-28 |

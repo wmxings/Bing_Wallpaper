@@ -5,7 +5,7 @@
 [2025-03-30 Harbouring nice views Aerial view of Sydney Harbour, New South Wales, Australia(© jamenpercy/Getty Images)](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-IN0606023668_UHD.jpg)
 Today's image features a spot in Sydney, Australia, where shimmery waters meet famous landmarks: Port Jackson, more commonly known as Sydney Harbour. On the right, we see a bird's-eye view of the Sydney Opera House, an architectural icon with sail-like shells that shine bright under the Australian sun. Designed by Danish architect Jørn Utzon, this UNESCO World Heritage Site took 14 years to complete and hosts over 1,500 performances annually. Just across the harbour, to the left of the image, the Sydney Harbour Bridge—affectionately called 'the Coathanger' for its arching steel frame—connects the city's northern and southern shores. When it opened in 1932, it was the world's widest long-span bridge. Adventurous visitors can climb its more than 134-metre summit for breathtaking panoramic views.
 
-# Recent 30 Days
+# Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
 | ![](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-IN0606023668_400x240.jpg "Harbouring nice views") 2025-03-30 | ![](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-IN0314971879_400x240.jpg "Burst of blooms") 2025-03-29 | ![](https://www.bing.com/th?id=OHR.NestingMonarch_EN-IN9834490771_400x240.jpg "A cosy cradle") 2025-03-28 |
