@@ -190,9 +190,9 @@ class FileGenerator:
                 [f"[Res {res}]({link})" for res, link in latest_image.get('resolutions', {}).items()])
             content.append(f"{resolution_links}\n")
 
-            # 第二部分：最近30天
-            content.append("# Recent 30 Days\n")
-            content.extend(self._generate_image_table(images[:30]))
+            # 第二部分：最近7天
+            content.append("# Recent 7 Days\n")
+            content.extend(self._generate_image_table(images[:7]))
 
             # 第三部分：历史存档
             content.append("\n# History\n")
