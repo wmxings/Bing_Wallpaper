@@ -8,7 +8,7 @@ April 10 rolls around, and suddenly, childhood rivalries, inside jokes and borro
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-IN0436750405_400x240.jpg "Wild at heart") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-IN8174628613_400x240.jpg "Before the stars take over") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.ParoTsechu_EN-IN0196975136_400x240.jpg "Patterns from the past") 2025-04-08 |
+| ![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-IN0436750405_400x240.jpg "Wild at heart") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-IN8174628613_400x240.jpg "Before the stars take over") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.LagoaPortugal_EN-IN1189946219_400x240.jpg "Nature's skylight") 2025-04-08 |
 | ![](https://www.bing.com/th?id=OHR.BeaverDay_EN-IN0064816773_400x240.jpg "Hello Mr. Beaver!") 2025-04-07 | ![](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-IN9911189149_400x240.jpg "The chase begins!") 2025-04-06 | ![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-IN9783802550_400x240.jpg "Pilgrimage to San Juan de Gaztelugatxe") 2025-04-05 |
 | ![](https://www.bing.com/th?id=OHR.HumayunsTomb_EN-IN9625838128_400x240.jpg "A walk through history") 2025-04-04 |  |  |
 

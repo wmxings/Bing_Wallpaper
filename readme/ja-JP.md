@@ -8,7 +8,7 @@
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.LittleFoxes_JA-JP4068111842_400x240.jpg "今日は兄弟姉妹の日") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_JA-JP3919761085_400x240.jpg "ギリシャ神話に登場する伝説の島") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.ParoTsechu_JA-JP3717839940_400x240.jpg "今日はパロ・ツェチュ祭") 2025-04-08 |
+| ![](https://www.bing.com/th?id=OHR.LittleFoxes_JA-JP4068111842_400x240.jpg "今日は兄弟姉妹の日") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_JA-JP3919761085_400x240.jpg "ギリシャ神話に登場する伝説の島") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.LagoaPortugal_JA-JP2042769056_400x240.jpg "神秘の海中洞窟") 2025-04-08 |
 | ![](https://www.bing.com/th?id=OHR.BeaverDay_JA-JP3508921078_400x240.jpg "今日は国際ビーバーデー") 2025-04-07 | ![](https://www.bing.com/th?id=OHR.CastleDay2025_JA-JP3325548053_400x240.jpg "今日は城の日") 2025-04-06 | ![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_JA-JP3147357176_400x240.jpg "島に建つ小さな礼拝堂") 2025-04-05 |
 | ![](https://www.bing.com/th?id=OHR.Qingming2025_JA-JP2915866958_400x240.jpg "今日は清明") 2025-04-04 |  |  |
 

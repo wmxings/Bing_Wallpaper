@@ -8,7 +8,7 @@ Welcome to the Wales Millennium Centre, Cardiff Bay's cultural powerhouse, where
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MillenniumCentre2025_EN-GB4834695501_400x240.jpg "A stage for stories, music and more") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-GB4555979110_400x240.jpg "Before the stars take over") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.ParoTsechu_EN-GB4364292065_400x240.jpg "Patterns from the past") 2025-04-08 |
+| ![](https://www.bing.com/th?id=OHR.MillenniumCentre2025_EN-GB4834695501_400x240.jpg "A stage for stories, music and more") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-GB4555979110_400x240.jpg "Before the stars take over") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.LagoaPortugal_EN-GB2759249420_400x240.jpg "Nature's skylight") 2025-04-08 |
 | ![](https://www.bing.com/th?id=OHR.BeaverDay_EN-GB4231980844_400x240.jpg "Hello Mr. Beaver!") 2025-04-07 | ![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-GB4088567205_400x240.jpg "Pilgrimage to San Juan de Gaztelugatxe") 2025-04-06 | ![](https://www.bing.com/th?id=OHR.GrandNational2025_EN-GB3927450244_400x240.jpg "Hold your horses—it's race time!") 2025-04-05 |
 | ![](https://www.bing.com/th?id=OHR.CherryBlossomDC_EN-GB3780298287_400x240.jpg "Cherry, cherry, bloom, bloom") 2025-04-04 |  |  |
 

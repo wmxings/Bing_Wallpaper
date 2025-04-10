@@ -8,7 +8,7 @@ Crescer na natureza não é fácil: desde o nascimento, cada animal enfrenta des
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.LittleFoxes_PT-BR1339249223_400x240.jpg "Coração selvagem") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_PT-BR1208172497_400x240.jpg "Aromas, mitos e maresia") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.ParoTsechu_PT-BR0804311067_400x240.jpg "Padrões do passado") 2025-04-08 |
+| ![](https://www.bing.com/th?id=OHR.LittleFoxes_PT-BR1339249223_400x240.jpg "Coração selvagem") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_PT-BR1208172497_400x240.jpg "Aromas, mitos e maresia") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.LagoaPortugal_PT-BR7570648831_400x240.jpg "Uma clarabóia natural") 2025-04-08 |
 | ![](https://www.bing.com/th?id=OHR.BeaverDay_PT-BR0574676705_400x240.jpg "Olá, Sr. Castor!") 2025-04-07 | ![](https://www.bing.com/th?id=OHR.PeabodyBaltimore_PT-BR0400301029_400x240.jpg "A arquitetura do saber") 2025-04-06 | ![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_PT-BR7140171016_400x240.jpg "A verdadeira Pedra do Dragão") 2025-04-05 |
 | ![](https://www.bing.com/th?id=OHR.CherryBlossomDC_PT-BR6371827217_400x240.jpg "Quando as flores se tornam pontes") 2025-04-04 |  |  |
 

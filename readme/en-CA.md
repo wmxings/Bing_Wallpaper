@@ -8,7 +8,7 @@ April 10 rolls around, and suddenly, childhood rivalries, inside jokes and borro
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-CA7621816152_400x240.jpg "Wild at heart") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-CA7494029338_400x240.jpg "Before the stars take over") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.ParoTsechu_EN-CA6976048681_400x240.jpg "Patterns from the past") 2025-04-08 |
+| ![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-CA7621816152_400x240.jpg "Wild at heart") 2025-04-10 | ![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-CA7494029338_400x240.jpg "Before the stars take over") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.LagoaPortugal_EN-CA4589140115_400x240.jpg "Nature's skylight") 2025-04-08 |
 | ![](https://www.bing.com/th?id=OHR.WhistlerSnowboard_EN-CA9156013019_400x240.jpg "Whistler turns up the thrill") 2025-04-07 | ![](https://www.bing.com/th?id=OHR.YellowWarbler_EN-CA8652491444_400x240.jpg "Bright feathers, sweet songs") 2025-04-06 | ![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-CA8176973652_400x240.jpg "Pilgrimage to San Juan de Gaztelugatxe") 2025-04-05 |
 | ![](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-CA6496050057_400x240.jpg "Cliffside calm, spiritual charm") 2025-04-04 |  |  |
 
