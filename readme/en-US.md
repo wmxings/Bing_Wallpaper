@@ -8,7 +8,7 @@ As daylight fades or just before it emerges, the island of Naxos in Greece takes
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_400x240.jpg "Before the stars take over") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.ParoTsechu_EN-US5418146007_400x240.jpg "Patterns from the past") 2025-04-08 | ![](https://www.bing.com/th?id=OHR.BeaverDay_EN-US0006495238_400x240.jpg "Hello, Mr. Beaver!") 2025-04-07 |
+| ![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_400x240.jpg "Before the stars take over") 2025-04-09 | ![](https://www.bing.com/th?id=OHR.LagoaPortugal_EN-US2211601955_400x240.jpg "Nature's skylight") 2025-04-08 | ![](https://www.bing.com/th?id=OHR.BeaverDay_EN-US0006495238_400x240.jpg "Hello, Mr. Beaver!") 2025-04-07 |
 | ![](https://www.bing.com/th?id=OHR.PeabodyBaltimore_EN-US7933142212_400x240.jpg "Lost in titles") 2025-04-06 | ![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9011894832_400x240.jpg "Pilgrimage to San Juan de Gaztelugatxe") 2025-04-05 | ![](https://www.bing.com/th?id=OHR.CherryBlossomDC_EN-US7897872936_400x240.jpg "Cherry, cherry, bloom, bloom") 2025-04-04 |
 | ![](https://www.bing.com/th?id=OHR.SaguaroRainbow_EN-US0296037572_400x240.jpg "The sky is the limit") 2025-04-03 |  |  |
 
