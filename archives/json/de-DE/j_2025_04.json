@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-04-30",
+    "head_line": "Jazz ist die Musik der Seele",
+    "title": "Jazz-Saxophonist John Coltrane und Band bei einem Auftritt 1961 in London, England",
+    "copyright": "© Popperfoto/Getty Images",
+    "desc": "Es ist Zeit für Jazz! Von New Orleans bis Tokio hat Jazz Grenzen überwunden, Kulturen vereint und Improvisation zur Kunst erhoben. Der Internationale Jazz-Tag, 2011 von der UNESCO ins Leben gerufen, würdigt am 30. April die Fähigkeit des Jazz, Frieden, Dialog und Einheit zu fördern. Diese Musikrichtung entstand Ende des 19. Jahrhunderts in New Orleans, einer Stadt voller musikalischer Traditionen aus Afrika, Europa und der Karibik. Mit Größen wie Louis Armstrong und Ella Fitzgerald fand Jazz weltweit Anerkennung. Swing und Bebop eroberten Tanzsäle, Latin Jazz brachte neue Rhythmen, und Cool Jazz sorgte für sanfte Klänge.",
+    "image_url": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_400x240.jpg",
+    "main_text": "Jazz entstand aus einer Mischung afroamerikanischer Musiktraditionen wie Blues und Ragtime sowie europäischer Harmonielehre und afrikanischen Rhythmen.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-04-29",
     "head_line": "Geometrie in Blüte",
     "title": "Château de Villandry, Loiretal, Frankreich",
