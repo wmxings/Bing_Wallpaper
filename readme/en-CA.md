@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ColtraneBand_EN-CA8272011820_UHD.jpg)
-[2025-04-30 All that jazz and more Jazz saxophonist John Coltrane and band performing in 1961 in London, England(© Popperfoto/Getty Images)](https://www.bing.com/th?id=OHR.ColtraneBand_EN-CA8272011820_UHD.jpg)
-It's time to jazz up—literally. From the smoky clubs of Montreal to the bustling streets of Tokyo, jazz has crossed borders, blended cultures and turned improvisation into an art form. Every April 30, International Jazz Day—established by UNESCO in 2011—celebrates this genre's role in promoting peace, dialogue and unity. This music form emerged in the late 19th and early 20th centuries in New Orleans, United States, a city alive with musical traditions from Africa, Europe and the Caribbean. Rooted in blues and ragtime, jazz quickly evolved, with pioneers like Louis Armstrong and Ella Fitzgerald giving it a voice. Canada embraced jazz early on, with Montreal becoming a jazz hotspot by the 1920s. The Montreal International Jazz Festival, founded in 1980, holds a Guinness World Record as the world's largest jazz festival, drawing global artists and fans.
+![](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-CA9604595582_UHD.jpg)
+[2025-05-01 A fragrant tradition Plumeria flowers, Hawaii, United States(© Miranda Jans/Getty Images)](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-CA9604595582_UHD.jpg)
+Today, while the world celebrates May Day with parades and protests, Hawaii, in the United States, takes a more fragrant approach—by draping itself in flowers. On May 1, Hawaii celebrates Lei Day, a tradition that honours culture, craftsmanship and the ever-present aloha spirit, described as 'the coordination of mind and heart within each person.' Since 1928, this Hawaiian tradition has been in full bloom, with leis—or garlands made of flowers, leaves or shells—serving as symbols of connection. The idea for Lei Day came from poet Don Blanding, who suggested a holiday dedicated to Hawaii's iconic floral garlands. Local writer Grace Tower Warren gave it its slogan, 'May Day is Lei Day in Hawaii,' and the tradition quickly took root.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ColtraneBand_EN-CA8272011820_400x240.jpg "All that jazz and more") 2025-04-30 | ![](https://www.bing.com/th?id=OHR.GardensVillandry_EN-CA7797620166_400x240.jpg "Geometry in bloom") 2025-04-29 | ![](https://www.bing.com/th?id=OHR.OrangeImpala_EN-CA7752458355_400x240.jpg "Pause and pose") 2025-04-28 |
-| ![](https://www.bing.com/th?id=OHR.RedwoodGrove_EN-CA7714485846_400x240.jpg "Park it here") 2025-04-27 | ![](https://www.bing.com/th?id=OHR.BrucePeninsula_EN-CA7672437122_400x240.jpg "Cliffs, caves and clear waters") 2025-04-26 | ![](https://www.bing.com/th?id=OHR.MagellanicPenguin_EN-CA7639828073_400x240.jpg "Tuxedoed mariners") 2025-04-25 |
-| ![](https://www.bing.com/th?id=OHR.KenaiSpires_EN-CA7607198416_400x240.jpg "Rugged peaks and wild waters") 2025-04-24 |  |  |
+| ![](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-CA9604595582_400x240.jpg "A fragrant tradition") 2025-05-01 | ![](https://www.bing.com/th?id=OHR.ColtraneBand_EN-CA8272011820_400x240.jpg "All that jazz and more") 2025-04-30 | ![](https://www.bing.com/th?id=OHR.GardensVillandry_EN-CA7797620166_400x240.jpg "Geometry in bloom") 2025-04-29 |
+| ![](https://www.bing.com/th?id=OHR.OrangeImpala_EN-CA7752458355_400x240.jpg "Pause and pose") 2025-04-28 | ![](https://www.bing.com/th?id=OHR.RedwoodGrove_EN-CA7714485846_400x240.jpg "Park it here") 2025-04-27 | ![](https://www.bing.com/th?id=OHR.BrucePeninsula_EN-CA7672437122_400x240.jpg "Cliffs, caves and clear waters") 2025-04-26 |
+| ![](https://www.bing.com/th?id=OHR.MagellanicPenguin_EN-CA7639828073_400x240.jpg "Tuxedoed mariners") 2025-04-25 |  |  |
 
 # History
-[2025-04](../archives/wallpaper/en-CA/w_2025_04.md) | [2025-03](../archives/wallpaper/en-CA/w_2025_03.md) | [2025-02](../archives/wallpaper/en-CA/w_2025_02.md)
+[2025-05](../archives/wallpaper/en-CA/w_2025_05.md) | [2025-04](../archives/wallpaper/en-CA/w_2025_04.md) | [2025-03](../archives/wallpaper/en-CA/w_2025_03.md) | [2025-02](../archives/wallpaper/en-CA/w_2025_02.md)
