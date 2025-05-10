@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-05-10",
+    "head_line": "Un dôme entre art et pouvoir",
+    "title": "Capitole de l'État du Minnesota, St. Paul, États-Unis",
+    "copyright": "© lavin photography/Getty Images",
+    "desc": "Vue de l’intérieur, la coupole du Capitole de l’État du Minnesota, à Saint Paul aux États-Unis, offre un spectacle de symétrie et de lumière. Inauguré en 1905, ce bâtiment officiel s’inspire des grandes basiliques européennes, et notamment de Saint-Pierre de Rome. Il abrite le Sénat, la Chambre des représentants et le bureau du gouverneur.",
+    "image_url": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-05-09",
     "head_line": "Le maître du camouflage",
     "title": "Caméléon commun",
