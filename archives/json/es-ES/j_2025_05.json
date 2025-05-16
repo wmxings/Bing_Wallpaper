@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-05-16",
+    "head_line": "Un ave exclusiva",
+    "title": "Guacamayo verde, México",
+    "copyright": "© Ondrej Prosicky/Shutterstock",
+    "desc": "El gran protagonista de hoy es el impresionante guacamayo verde. Este colorido loro, originario de los bosques tropicales de América Central y del Sur, se encuentra en peligro crítico de extinción, con menos de 1.000 ejemplares en libertad. En lugares como Costa Rica, depende de los bosques primarios y anida en árboles de almendro, esenciales para su supervivencia. Sin embargo, la deforestación y la fragmentación de su hábitat amenazan gravemente su futuro.",
+    "image_url": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-05-15",
     "head_line": "¡El casticismo madrileño!",
     "title": "Plaza Mayor de Madrid, España",
