@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-05-18",
+    "head_line": "Let's visit a museum today",
+    "title": "'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France",
+    "copyright": "© BERTRAND GUAY/AFP via Getty Images",
+    "desc": "This International Museum Day, let's immerse ourselves in Raoul Dufy's 600 square metres fresco. The 'La Fée Electricité' (The Spirit of Electricity) is housed at the Museum of Modern Art in Paris. This stunning artwork was created for the Pavilion of Light and Electricity at the 1937 International Exhibition of Art and Technology in Modern Life. The painting was inspired by the poem 'On the Nature of Things,' written by the Roman poet and philosopher Lucretius. Raoul Dufy's work vividly depicts the evolution of electricity through two main themes: the history of electricity and its applications.",
+    "image_url": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_400x240.jpg",
+    "main_text": "The most expensive painting ever sold is 'Salvator Mundi' by Leonardo da Vinci. It was sold for about 585.4 million CAD in 2017.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-05-17",
     "head_line": "The Venetian 'dolce vita'",
     "title": "A delta in the Venetian Lagoon, Italy",
