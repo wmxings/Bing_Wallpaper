@@ -3,7 +3,7 @@
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg)
 [2025-05-23 Shell yeah! A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador(© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg)
-No need to hurry, because today marks the 25th anniversary of World Turtle Day. Turtles and tortoises thrive in a variety of environments and are linked to wisdom and perseverance. All tortoises are turtles, but not all turtles are tortoises. While turtles are smaller and built for swimming, tortoises are larger, heavier, and adapted for life on land. The American Tortoise Rescue (ATR) established World Turtle Day to raise awareness and protection efforts on May 23 each year. ATR has helped rehabilitate, rescue, and rehome around 4,000 turtles and tortoises, working to protect them and their disappearing habitats.
+No need to hurry, because today marks the 25th anniversary of World Turtle Day. The American Tortoise Rescue (ATR) established World Turtle Day to raise awareness and conservation efforts. ATR has helped rehabilitate, rescue, and rehome thousands of turtles and tortoises, working to protect them and their disappearing habitats.
 
 # Recent 7 Days
 |  |  |  |
