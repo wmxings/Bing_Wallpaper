@@ -8,7 +8,7 @@ Immaginate di partire per un viaggio on the road attraverso la Bay Area della Ca
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MountHamilton_IT-IT9272623470_400x240.jpg "Sognando la California?") 2025-05-26 | ![](https://www.bing.com/th?id=OHR.ButchartFlowers_IT-IT9191711194_400x240.jpg "L'Eden Terrestro?") 2025-05-25 | ![](https://www.bing.com/th?id=OHR.JotunheimenPark_IT-IT9090188682_400x240.jpg "La parte selvaggia dell'Europa") 2025-05-24 |
+| ![](https://www.bing.com/th?id=OHR.MountHamilton_IT-IT9272623470_400x240.jpg "Sognando la California?") 2025-05-26 | ![](https://www.bing.com/th?id=OHR.ButchartFlowers_IT-IT6049925275_400x240.jpg "L'Eden Terrestre?") 2025-05-25 | ![](https://www.bing.com/th?id=OHR.JotunheimenPark_IT-IT9090188682_400x240.jpg "La parte selvaggia dell'Europa") 2025-05-24 |
 | ![](https://www.bing.com/th?id=OHR.ButterflyTurtle_IT-IT7843435777_400x240.jpg "In Bilico sul Tempo") 2025-05-23 | ![](https://www.bing.com/th?id=OHR.BaobabAvenue_IT-IT7755407638_400x240.jpg "Viale Baobab") 2025-05-22 | ![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_IT-IT7668449954_400x240.jpg "Tè-rra e Tradizione") 2025-05-21 |
 | ![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_IT-IT3599671311_400x240.jpg "Oro e Lavanda") 2025-05-20 |  |  |
 
