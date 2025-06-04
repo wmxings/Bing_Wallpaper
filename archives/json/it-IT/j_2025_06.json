@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-06-04",
+    "head_line": "Luna sul Mare?",
+    "title": "Cala Luna, Orosei, Sardegna",
+    "copyright": "© guenterguni/Getty Images",
+    "desc": "Cala Luna è una delle perle della Sardegna, situata sulla costa orientale dell’isola, nel cuore del Golfo di Orosei. Questo angolo di paradiso si distingue per la sua mezzaluna di sabbia dorata, incorniciata da alte falesie calcaree e grotte naturali che si aprono lungo la riva. Le sue acque, di un turchese intenso, offrono scenari di rara bellezza, mentre il canyon Codula di Luna, situato alle spalle della spiaggia, aggiunge un fascino selvaggio.",
+    "image_url": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-06-03",
     "head_line": "Pedalare non fa male!",
     "title": "Biciclette su un ponte, Utrecht, Paesi Bassi",
