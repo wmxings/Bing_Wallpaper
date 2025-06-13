@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_UHD.jpg)
-[2025-06-13 海洋的隐秘心跳 维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙(© ARoxo/Getty Images)](https://www.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_UHD.jpg)
-位于葡萄牙亚速尔群岛圣米格尔岛附近的维拉弗兰卡岛，是一座无人居住的绿色火山岛，静静地坐落在弗兰卡村镇的南侧。尽管今日宁静怡人，这座小岛却拥有悠久而多变的历史。早在1537年，文献中便有定居者向西扩展至此的记载，使维拉弗兰卡岛正式登上历史舞台。它曾先后作为军事要塞、避风港、葡萄园种植地，乃至观鲸瞭望台。
+![](https://www.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_UHD.jpg)
+[2025-06-14 静谧之声 五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区(© usabin/Getty Images)](https://www.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_UHD.jpg)
+五塔峰坐落于意大利威尼托大区贝卢诺省的多洛米蒂山脉腹地，仿佛天然雕塑般矗立，是夏季避暑、远离海滩与城市喧嚣的理想之选。每一座岩塔皆承载着独特的历史与自然故事：从古文明的遗迹，到徒步与登山者的足迹，再到第一次世界大战时期的军事要地。这些塔峰在战时曾扮演战略要塞的角色，如今游客仍可探访战壕遗址与战争留下的痕迹。然而，自然的力量终将超越人类历史：茂密松林、芳草牧场与山间溪流共同构成了一幅宁静和谐的生态图景，晴朗的天空与繁花草甸相映成趣，伴随着阵阵鸟鸣，为前行的每一步增添生机。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_400x240.jpg "海洋的隐秘心跳") 2025-06-13 | ![](https://www.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_400x240.jpg "星空、岩石与孤寂") 2025-06-12 | ![](https://www.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_400x240.jpg "潮汐间的芭蕾") 2025-06-11 |
-| ![](https://www.bing.com/th?id=OHR.AerialEverglades_ZH-CN3388982881_400x240.jpg "草之河流") 2025-06-10 | ![](https://www.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_400x240.jpg "探索君临城") 2025-06-09 | ![](https://www.bing.com/th?id=OHR.StellarSeaLions_ZH-CN2859514359_400x240.jpg "来自彼岸的问候") 2025-06-08 |
-| ![](https://www.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_400x240.jpg "走上高远之路") 2025-06-07 |  |  |
+| ![](https://www.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_400x240.jpg "静谧之声") 2025-06-14 | ![](https://www.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_400x240.jpg "海洋的隐秘心跳") 2025-06-13 | ![](https://www.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_400x240.jpg "星空、岩石与孤寂") 2025-06-12 |
+| ![](https://www.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_400x240.jpg "潮汐间的芭蕾") 2025-06-11 | ![](https://www.bing.com/th?id=OHR.AerialEverglades_ZH-CN3388982881_400x240.jpg "草之河流") 2025-06-10 | ![](https://www.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_400x240.jpg "探索君临城") 2025-06-09 |
+| ![](https://www.bing.com/th?id=OHR.StellarSeaLions_ZH-CN2859514359_400x240.jpg "来自彼岸的问候") 2025-06-08 |  |  |
 
 # History
 [2025-06](../archives/wallpaper/zh-CN/w_2025_06.md) | [2025-05](../archives/wallpaper/zh-CN/w_2025_05.md) | [2025-04](../archives/wallpaper/zh-CN/w_2025_04.md) | [2025-03](../archives/wallpaper/zh-CN/w_2025_03.md) | [2025-02](../archives/wallpaper/zh-CN/w_2025_02.md)
