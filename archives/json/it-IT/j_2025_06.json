@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-06-20",
+    "head_line": "Sale e Silenzio",
+    "title": "Riserva Naturale Orientata Saline di Trapani e Paceco, Trapani, Sicilia",
+    "copyright": "© RobertoGennaro/E+",
+    "desc": "Al tramonto, la luce dorata si posa sulle Saline di Trapani e Paceco, trasformando l’acqua in uno specchio rosato. Qui, dove il mare incontra la terra, l’uomo e la natura convivono da secoli, legati dal respiro lento della raccolta del sale. Questa riserva naturale protetta, istituita nel 1995, preserva uno degli ecosistemi più affascinanti della Sicilia, dove saline secolari ospitano un’eccezionale biodiversità. Tra le vasche salmastre si muovono fenicotteri eleganti, aironi e cavalieri d’Italia, mentre il vento trasporta l’eco di un mestiere antico. I mulini a vento, testimoni di un passato operoso, punteggiano il paesaggio, raccontando la storia di una terra modellata dal lavoro e dalla pazienza. Qui, la bellezza è silenziosa ma potente.",
+    "image_url": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-06-19",
     "head_line": "Storie sulla Sabbia",
     "title": "Spiaggia a Santa Catarina, Brasile",
