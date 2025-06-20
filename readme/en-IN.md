@@ -8,7 +8,7 @@ Featured here, Seljalandsfoss, located along Iceland's South Coast, offers a stu
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-IN9654538547_400x240.jpg "All set for sunset") 2025-06-20 | ![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-IN6391269206_400x240.jpg "Spot the spots") 2025-06-19 | ![](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-IN9285940259_400x240.jpg "Let the pollinating games begin!") 2025-06-18 |
+| ![](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-IN9654538547_400x240.jpg "All set for sunset") 2025-06-20 | ![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-IN1923240372_400x240.jpg "Spot the spots") 2025-06-19 | ![](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-IN9285940259_400x240.jpg "Let the pollinating games begin!") 2025-06-18 |
 | ![](https://www.bing.com/th?id=OHR.CumberlandOaks_EN-IN9016883478_400x240.jpg "Coastal quiet, untamed life") 2025-06-17 | ![](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_EN-IN8664549604_400x240.jpg "Ancient swimmers, modern struggles") 2025-06-16 | ![](https://www.bing.com/th?id=OHR.RheaDad_EN-IN8515759531_400x240.jpg "Feathered father figure") 2025-06-15 |
 | ![](https://www.bing.com/th?id=OHR.DolomitiEstate_EN-IN7937552367_400x240.jpg "The sounds of silence") 2025-06-14 |  |  |
 
