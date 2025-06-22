@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-06-22",
+    "head_line": "Un monde vivant en péril",
+    "title": "Forêt amazonienne, Équateur",
+    "copyright": "© Mark Fox/Getty Images",
+    "desc": "Le 22 juin, la Journée mondiale des forêts tropicales nous invite à explorer un monde foisonnant de vie : l’Amazonie. En Équateur, ce fragment de forêt, plus modeste que celui du Brésil, est pourtant l’un des plus riches en biodiversité de la planète. Dans cet écosystème fragile cohabitent des jaguars, des aras, des caïmans noirs, des anguilles électriques, ainsi que des plantes médicinales encore inconnues de la science.",
+    "image_url": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_400x240.jpg",
+    "main_text": "La forêt amazonienne abrite environ 30 millions de personnes.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-06-21",
     "head_line": "La tendresse d'un monde à préserver",
     "title": "Une girafe Masaï et son girafon, parc national du Serengeti, Tanzanie",
