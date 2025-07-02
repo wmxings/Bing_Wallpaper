@@ -8,7 +8,7 @@ That bright fish hiding in the anemone? That's the spine-cheeked anemonefish, or
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-IN6113544568_400x240.jpg "In the bubble-tip zone") 2025-07-02 | ![](https://www.bing.com/th?id=OHR.KeralaHouseboats_EN-IN3537088049_400x240.jpg "A green escape") 2025-07-01 | ![](https://www.bing.com/th?id=OHR.WolfeCrater_EN-IN2493314424_400x240.jpg "Rock-solid defence") 2025-06-30 |
+| ![](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-IN6113544568_400x240.jpg "In the bubble-tip zone") 2025-07-02 | ![](https://www.bing.com/th?id=OHR.KeralaHouseboats_EN-IN5410718966_400x240.jpg "A green escape") 2025-07-01 | ![](https://www.bing.com/th?id=OHR.WolfeCrater_EN-IN2493314424_400x240.jpg "Rock-solid defence") 2025-06-30 |
 | ![](https://www.bing.com/th?id=OHR.BandaIsland_EN-IN2302848153_400x240.jpg "Where history gets spicy") 2025-06-29 | ![](https://www.bing.com/th?id=OHR.PrideParade_EN-IN2010815861_400x240.jpg "The riot that lit the rainbow") 2025-06-28 | ![](https://www.bing.com/th?id=OHR.SplendidFrog_EN-IN1765447694_400x240.jpg "A splendid life") 2025-06-27 |
 | ![](https://www.bing.com/th?id=OHR.HorseheadRock_EN-IN7173211843_400x240.jpg "Horsing around the coastline") 2025-06-26 |  |  |
 
