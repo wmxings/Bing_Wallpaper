@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-07-05",
+    "head_line": "La Grande Boucle reprend la route!",
+    "title": "Descente du col du Tourmalet lors du Tour de France 2021",
+    "copyright": "© THOMAS SAMSON/AFP via Getty Images",
+    "desc": "Du haut de nos étés québécois ou acadiens, bien loin des lacets alpins, le Tour de France reste un rendez-vous qu’on ne manquerait pour rien au monde. En ce 5 juillet 2025, la Grande Boucle s’élance depuis Lille pour une nouvelle traversée du pays des fromages et des villages perchés.",
+    "image_url": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_400x240.jpg",
+    "main_text": "Les coureurs brûlent en moyenne entre 5 000 et 7 000 calories par jour.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-07-04",
     "head_line": "La perle cachée de la Sardaigne",
     "title": "Orosei, Sardaigne, Italie",
