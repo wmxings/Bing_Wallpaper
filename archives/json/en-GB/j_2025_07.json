@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-07-10",
+    "head_line": "To the waves of freedom",
+    "title": "Turquoise waters of the Bahamas",
+    "copyright": "© BlueOrange Studio/Adobe Stock",
+    "desc": "The Bahamas comes alive with colour, music and pride today as the nation marks its Independence Day. First recorded by Europeans in 1492 when Christopher Columbus arrived, the islands were initially under Spanish rule. They later came briefly under American control before becoming a British colony. After decades of legal negotiations and a growing push for self-governance, the Bahamas transitioned to full independence on this day in 1973.",
+    "image_url": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_400x240.jpg",
+    "main_text": "Although the Bahamas became independent in 1973, the British monarch remains the head of state.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-07-09",
     "head_line": "The rise of a republic",
     "title": "Constitución railway station, Buenos Aires, Argentina",
