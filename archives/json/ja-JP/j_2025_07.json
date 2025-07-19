@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-07-20",
+    "head_line": "今日は月面着陸の日",
+    "title": "観測機器で撮影された月",
+    "copyright": "© Sergey Kuznetsov/Getty Images",
+    "desc": "今日 7 月 20 日は月面着陸の日。1969 年のこの日、アポロ 11 号の乗組員が、世界初の月面着陸に成功しました。人類で初めて月面に降り立ったニール・アームストロング船長は、「これは一人の人間にとっては小さな一歩だが、人類にとっては偉大な一歩である」という有名な言葉を残しました…",
+    "image_url": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_400x240.jpg",
+    "main_text": "地震のように、月でも「月震」と呼ばれる揺れが観測されています。その存在は、NASA のアポロ計画で月面に設置された地震計によって明らかになりました。",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-07-19",
     "head_line": "カトリック教会の総本山",
     "title": "サン・ピエトロ大聖堂, バチカン市国",
