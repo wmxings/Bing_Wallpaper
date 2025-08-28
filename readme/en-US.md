@@ -3,7 +3,7 @@
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg)
 [2025-08-28 This egret has no regrets Great white egret, Hungary(© Markus Varesvuo/Nature Picture Library)](https://www.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg)
-Snippet	They wear white after Labor Day—and all year long—with zero shame. Meet the great egret, also known as the great white egret. Found in the Americas, Asia, Africa, and parts of Europe, these birds are often seen wading through wetlands, tidal flats, and quiet streams. Patient and precise, they stand motionless for minutes, waiting for just the right moment to deliver a lightning-fast strike. Fish are their main prey, but they also eat frogs, reptiles, and even small mammals.
+They wear white after Labor Day—and all year long—with zero shame. Meet the great egret, also known as the great white egret. Found in the Americas, Asia, Africa, and parts of Europe, these birds are often seen wading through wetlands, tidal flats, and quiet streams. Patient and precise, they stand motionless for minutes, waiting for just the right moment to deliver a lightning-fast strike. Fish are their main prey, but they also eat frogs, reptiles, and even small mammals.
 
 # Recent 7 Days
 |  |  |  |
