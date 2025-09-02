@@ -3,7 +3,7 @@
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-FR9220930229_UHD.jpg)
 [2025-09-02 Les arbres du passé Acacias à girafe, Deadvlei, parc Namib-Naukluft, Namibie(© Inge Johnsson/Alamy)](https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-FR9220930229_UHD.jpg)
-Au cœur du parc Namib-Naukluft en Namibie, Deadvlei, une ancienne cuvette argileuse aujourd’hui asséchée, semble irréel. Des silhouettes d’arbres sombres s’y dressent, figées dans un silence vieux de 900 ans. Jadis, une rivière nourrissait ces acacias à girafe. Puis les dunes ont bougé, coupant l’eau. Le désert n’a pas détruit ces arbres : il les a conservés. Le sel, la sécheresse extrême et le soleil implacable ont stoppé la décomposition. Ces géants desséchés sont devenus les gardiens d’un temps suspendu.
+Au cœur du parc Namib-Naukluft en Namibie, Deadvlei, ancienne cuvette argileuse aujourd’hui asséchée, paraît irréelle. Des silhouettes sombres d’acacias figés s’y dressent, immobiles depuis près de 900 ans. Autrefois, une rivière nourrissait ces arbres. Puis les dunes ont dérivé, coupant l’accès à l’eau. Le désert ne les a pas détruits : il les a préservés. Le sel, la sécheresse extrême et le soleil implacable ont suspendu leur décomposition. Ainsi, ces géants desséchés sont devenus les gardiens d’un temps figé.
 
 # Recent 7 Days
 |  |  |  |
