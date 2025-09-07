@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.RufousHummer_FR-CA9514503167_UHD.jpg)
-[2025-09-06 Petits mais costauds! Colibri roux, parc du Golden Gate, San Francisco, Californie, États-Unis(© jeremyborkat/Getty Images)](https://www.bing.com/th?id=OHR.RufousHummer_FR-CA9514503167_UHD.jpg)
-À San Francisco, dans les allées boisées du Golden Gate Park, un éclair cuivré fend la lumière. C’est le colibri roux, l’un des plus petits oiseaux d’Amérique du Nord, et l’un des plus combatifs! Long de près de 8 centimètres à peine, il virevolte à reculons, chasse de minuscules insectes, et s’illumine au soleil comme une flamme vivante.
+![](https://www.bing.com/th?id=OHR.BlueGdansk_FR-CA9649436148_UHD.jpg)
+[2025-09-07 Une cité faite d'ambre et d'écume Ville de Gdańsk, rives de la rivière Motława, Pologne(© Oscar Dominguez/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BlueGdansk_FR-CA9649436148_UHD.jpg)
+À Gdańsk, sur les rives calmes de la rivière Motława, en Pologne, les façades colorées se reflètent dans l’eau comme dans un miroir d’antan. Ancienne forteresse slave du Xe siècle, la ville a connu les couronnes polonaises, les influences germaniques et les élans d’indépendance. Chaque pierre porte la mémoire d’un peuple, d’un passage, d’un espoir.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.RufousHummer_FR-CA9514503167_400x240.jpg "Petits mais costauds!") 2025-09-06 | ![](https://www.bing.com/th?id=OHR.SunsetPier_FR-CA7066243474_400x240.jpg "Là où la mer se donne en spectacle") 2025-09-05 | ![](https://www.bing.com/th?id=OHR.TiFF25_FR-CA5296351553_400x240.jpg "Le TIFF fête ses 50 ans") 2025-09-04 |
-| ![](https://www.bing.com/th?id=OHR.WrestlingBears_FR-CA4913260045_400x240.jpg "Jeux de mains, jeux de vilains!") 2025-09-03 | ![](https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-CA3437510349_400x240.jpg "Les arbres du passé") 2025-09-02 | ![](https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-CA2747659631_400x240.jpg "Là où les frontières s'effacent au fil de l'eau") 2025-09-01 |
-| ![](https://www.bing.com/th?id=OHR.ScottsBluff_FR-CA2319922928_400x240.jpg "Le grand Bluff de la nature") 2025-08-31 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BlueGdansk_FR-CA9649436148_400x240.jpg "Une cité faite d'ambre et d'écume") 2025-09-07 | ![](https://www.bing.com/th?id=OHR.RufousHummer_FR-CA9514503167_400x240.jpg "Petits mais costauds!") 2025-09-06 | ![](https://www.bing.com/th?id=OHR.SunsetPier_FR-CA7066243474_400x240.jpg "Là où la mer se donne en spectacle") 2025-09-05 |
+| ![](https://www.bing.com/th?id=OHR.TiFF25_FR-CA5296351553_400x240.jpg "Le TIFF fête ses 50 ans") 2025-09-04 | ![](https://www.bing.com/th?id=OHR.WrestlingBears_FR-CA4913260045_400x240.jpg "Jeux de mains, jeux de vilains!") 2025-09-03 | ![](https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-CA3437510349_400x240.jpg "Les arbres du passé") 2025-09-02 |
+| ![](https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-CA2747659631_400x240.jpg "Là où les frontières s'effacent au fil de l'eau") 2025-09-01 |  |  |
 
 # History
 [2025-09](../archives/wallpaper/fr-CA/w_2025_09.md) | [2025-08](../archives/wallpaper/fr-CA/w_2025_08.md) | [2025-07](../archives/wallpaper/fr-CA/w_2025_07.md) | [2025-06](../archives/wallpaper/fr-CA/w_2025_06.md) | [2025-05](../archives/wallpaper/fr-CA/w_2025_05.md) | [2025-04](../archives/wallpaper/fr-CA/w_2025_04.md) | [2025-03](../archives/wallpaper/fr-CA/w_2025_03.md) | [2025-02](../archives/wallpaper/fr-CA/w_2025_02.md)
