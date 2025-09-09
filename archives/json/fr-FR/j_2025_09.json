@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-09-09",
+    "head_line": "La forêt à hauteur d'écureuil",
+    "title": "Femelle écureuil roux avec de la mousse, Suisse",
+    "copyright": "© Jean-Luc and Francoise Ziegler/Minden Pictures",
+    "desc": "En Suisse, entre les branches moussues d’un vieux hêtre, une femelle écureuil roux grimpe avec précaution. Dans sa gueule, un précieux chargement : de la mousse fraîche, récoltée pour tapisser son nid perché. Ce dôme de brindilles, appelé hutte, s’abrite à la fourche des arbres, loin du sol, loin du froid.",
+    "image_url": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_400x240.jpg",
+    "main_text": "Le pelage de l’écureuil roux varie selon la saison et la région, du noir au roux.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-09-08",
     "head_line": "L'alphabétisation : un droit, un avenir",
     "title": "Bibliothèque library@orchard, Singapour",
