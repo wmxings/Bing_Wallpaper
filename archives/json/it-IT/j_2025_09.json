@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-09-16",
+    "head_line": "Un successo stratosferico",
+    "title": "Vista notturna degli Stati della costa del Golfo dallo Spazio",
+    "copyright": "© Stocktrek Images/Getty Images",
+    "desc": "Oggi, 16 settembre, si celebra la \"Giornata Internazionale per la Preservazione dello Strato di Ozono\". È il giorno in cui ricordiamo che anche ciò che non si vede può proteggere, ferire… e guarire. A oltre 360 chilometri dalla Terra, i satelliti osservano il mondo come se fosse una mappa di luci: il Golfo del Messico brilla come una costellazione, frammenti luminosi nel buio. Ma ciò che rende possibile questa visione non è la luce: è l’ombra silenziosa dello strato di ozono, che ci difende dai raggi invisibili del sole.",
+    "image_url": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_400x240.jpg",
+    "main_text": "Tutti i membri delle Nazioni Unite, ovvero 197 paesi, hanno ratificato il Protocollo di Montréal, rendendolo il primo trattato nella storia dell'ONU ad ottenere la ratifica universale.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-09-15",
     "head_line": "L'amore cammina leggero",
     "title": "Cavalieri d’Italia, Francia",
