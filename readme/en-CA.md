@@ -8,7 +8,7 @@ What do invisible gases, vintage hairspray and satellites have in common? They a
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763_400x240.jpg "A stratospheric success") 2025-09-16 | ![](https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_400x240.jpg "Cape Brenton views") 2025-09-15 | ![](https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802_400x240.jpg "Moss and mist") 2025-09-14 |
+| ![](https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763_400x240.jpg "A stratospheric success") 2025-09-16 | ![](https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA0999765737_400x240.jpg "Cape Breton views") 2025-09-15 | ![](https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802_400x240.jpg "Moss and mist") 2025-09-14 |
 | ![](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-CA6892620661_400x240.jpg "Rugged and wild") 2025-09-13 | ![](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-CA6671326546_400x240.jpg "Swim wild, swim free") 2025-09-12 | ![](https://www.bing.com/th?id=OHR.ExtremaduraJamon_EN-CA6493942250_400x240.jpg "Get ready to look up at the sky!") 2025-09-11 |
 | ![](https://www.bing.com/th?id=OHR.YorkshireHay_EN-CA6308294683_400x240.jpg "'Hay' there!") 2025-09-10 |  |  |
 
