@@ -3,7 +3,7 @@
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205_UHD.jpg)
 [2025-09-19 Place à 24 heures de légende Vue aérienne du circuit Paul Ricard, Le Castellet(© Sami Sarkis/Getty Images)](https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205_UHD.jpg)
-Sous le soleil de Provence, le rugissement des moteurs résonne dans le massif du Castellet. Le mythique Circuit Paul-Ricard s’éveille pour accueillir le Bol d’Or 2025, ultime épreuve de la saison du Championnat du monde d’endurance moto.
+Sous le soleil de Provence, le rugissement des moteurs résonne dans le massif du Castellet. Le mythique circuit Paul-Ricard s’éveille pour accueillir le Bol d’Or 2025, ultime épreuve de la saison du Championnat du monde d’endurance moto.
 
 # Recent 7 Days
 |  |  |  |
