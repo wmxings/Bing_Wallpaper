@@ -3,7 +3,7 @@
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.BearLodge_FR-CA3663920698_UHD.jpg)
 [2025-09-24 Quelle est cette tour mystérieuse? Monument national de la tour du Diable, Wyoming, États-Unis(© Laura Hedien/Getty Images)](https://www.bing.com/th?id=OHR.BearLodge_FR-CA3663920698_UHD.jpg)
-Dans les prairies du nord-est du Wyoming, aux États-Unis, une silhouette inoubliable s’élève : la tour du Diable. Monolithe de roche volcanique, jadis appelée « Bear Lodge », elle devint en 1906 le premier monument national américain, sur décision de Theodore Roosevelt.
+Dans les prairies du nord-est du Wyoming, aux États-Unis, se dresse une silhouette inoubliable : la tour du Diable. Ce monolithe de roche volcanique, jadis appelé « Bear Lodge », est devenu en 1906 le premier monument national américain, sur décision de Théodore Roosevelt.
 
 # Recent 7 Days
 |  |  |  |
