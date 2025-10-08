@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-10-09",
+    "head_line": "10 月 4 日から 10 日まで世界宇宙週間",
+    "title": "ジェームズ・ウェッブ宇宙望遠鏡が撮影した創造の柱",
+    "copyright": "© NASA",
+    "desc": "今日の画像は、NASA のジェームズ・ウェッブ宇宙望遠鏡が、2022 年 10 月に赤外線波長で捉えた「創造の柱」です。1995 年に、ハッブル宇宙望遠鏡が初めて撮影した「創造の柱」は、世界でもっとも有名な天体画像の一つといわれています。柱のように見えるガスと塵が新しい恒星を創造し、近隣の恒星の光に侵食されている様子から名付けられました…",
+    "image_url": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_400x240.jpg",
+    "main_text": "創造の柱は、星間ガスと塵から成り立っており、新しい恒星が形成される過程を示しています。ハッブル宇宙望遠鏡やジェームズ・ウェッブ宇宙望遠鏡によって撮影された高画質画像により、その詳細が知られています。",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-10-08",
     "head_line": "今日は寒露",
     "title": "竜頭の滝, 栃木県 日光市",
