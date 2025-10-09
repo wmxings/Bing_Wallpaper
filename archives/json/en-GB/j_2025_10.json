@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-10-09",
+    "head_line": "Universe in bloom",
+    "title": "The Pillars of Creation viewed by the James Webb Space Telescope",
+    "copyright": "© NASA",
+    "desc": "As World Space Week draws to a close, the cosmos continues to give us reasons to look up in awe. Picture clouds—not drifting across our skies, but stretching across space itself, cradling the birth of new stars. That's exactly what NASA's James Webb Space Telescope has revealed in its view of the Pillars of Creation—shown here—with colours and details unlike anything seen before.",
+    "image_url": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_400x240.jpg",
+    "main_text": "NASA's 'Pillars of Creation' name traces back to English Baptist preacher Charles Spurgeon's 1857 sermon, symbolising divine cosmic foundations.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.WebbPillars_EN-GB5169547738_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-10-08",
     "head_line": "Camouflage in motion",
     "title": "Day octopus, Maui, Hawaii, United States",

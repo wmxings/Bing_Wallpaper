@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-10-09",
+    "head_line": "La nebulosa del Águila",
+    "title": "Los pilares de la creación vistos por el telescopio espacial James Webb",
+    "copyright": "© NASA",
+    "desc": "Con el cierre de la Semana Mundial del Espacio, el universo nos recuerda lo mucho que aún guarda por mostrarnos. Imagina nubes que no viajan por nuestro cielo, sino que se extienden en el espacio, dando cobijo al nacimiento de nuevas estrellas. Eso es lo que el Telescopio Espacial James Webb ha revelado con su impresionante imagen de los Pilares de la Creación, una visión de colores y detalles nunca antes observados.",
+    "image_url": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.WebbPillars_ES-ES0926278571_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-10-08",
     "head_line": "Camuflaje en movimiento",
     "title": "Pulpo diurno, Maui, Hawái, EE. UU.",

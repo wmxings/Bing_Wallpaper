@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-10-09",
+    "head_line": "Ein Universum in voller Blüte",
+    "title": "Die Säulen der Schöpfung, betrachtet vom James-Webb-Weltraumteleskop",
+    "copyright": "© NASA",
+    "desc": "Es ist bereits der 9. Oktober und die Internationale Weltraumwoche neigt sich dem Ende zu. Die vergangenen Tage brachten eine Fülle an Erkenntnissen, eindrucksvollen Aufnahmen und neuen Perspektiven auf unsere Stellung im Universum. Zum krönenden Abschluss richten wir heute unseren Blick auf eine der ikonischsten Ansichten des Kosmos: die majestätischen Säulen der Schöpfung, die vom James-Webb-Weltraumteleskop eingefangen wurden.",
+    "image_url": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_400x240.jpg",
+    "main_text": "Der Name „Pillars of Creation“ geht auf eine Predigt von Charles Spurgeon (1857) zurück und symbolisiert göttliche, kosmische Grundlagen.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-10-08",
     "head_line": "Tarnung in Bewegung",
     "title": "Großer Blauer Krake, Maui, Hawaii, USA",
