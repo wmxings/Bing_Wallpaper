@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-10-09",
+    "head_line": "Les cathédrales du cosmos",
+    "title": "Les Piliers de la Création vus par le télescope spatial James Webb",
+    "copyright": "© NASA",
+    "desc": "Alors que la Semaine mondiale de l’espace s’achève, le ciel nous offre un dernier frisson d’émerveillement. Dans l’immensité silencieuse du cosmos, les Piliers de la Création s’élèvent comme des cathédrales de poussière et de gaz. Sculptés par les vents stellaires dans la nébuleuse de l’Aigle, à 6 500 années-lumière, ils forment un berceau où naissent les étoiles. Grâce au télescope spatial James Webb, leur silhouette apparaît avec une clarté inédite : des colonnes dorées, des ombres profondes, et des éclats lumineux au bord des nuages, là où la gravité enclenche la magie de la création.",
+    "image_url": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_400x240.jpg",
+    "main_text": "Le nom biblique « Piliers de la Création » désigne les colonnes de gaz et de poussières où naissent les étoiles, dans la nébuleuse de l’Aigle.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.WebbPillars_FR-CA5755457684_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-10-08",
     "head_line": "Poulpe un jour, poulpe toujours!",
     "title": "Pieuvre diurne, Maui, Hawaï, États-Unis",
