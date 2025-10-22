@@ -8,7 +8,7 @@ In Bulgaria, on the western slopes of the Balkan Mountains, the Belogradchik Roc
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_EN-GB3300175834_400x240.jpg "Set in stone") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_EN-GB3120748109_400x240.jpg "Glowing traditions") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-GB2702154812_400x240.jpg "Life in the slow lane") 2025-10-20 |
+| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_EN-GB3300175834_400x240.jpg "Set in stone") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_EN-GB8694229403_400x240.jpg "Glowing traditions") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-GB2702154812_400x240.jpg "Life in the slow lane") 2025-10-20 |
 | ![](https://www.bing.com/th?id=OHR.AppleHarvest_EN-GB2257227722_400x240.jpg "Sweet on science") 2025-10-19 | ![](https://www.bing.com/th?id=OHR.SilburyHill_EN-GB2103957342_400x240.jpg "The hill that remembers") 2025-10-18 | ![](https://www.bing.com/th?id=OHR.RockRiverFalls_EN-GB1931975271_400x240.jpg "Falling for Michigan") 2025-10-17 |
 | ![](https://www.bing.com/th?id=OHR.SiberianLynx_EN-GB8420087403_400x240.jpg "The phantom cat") 2025-10-16 |  |  |
 

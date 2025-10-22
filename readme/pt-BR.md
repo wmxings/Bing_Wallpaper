@@ -8,7 +8,7 @@ Na Bulgária, nas encostas ocidentais das Montanhas Balcãs, as Rochas de Belogr
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_PT-BR2901045290_400x240.jpg "Esculpido em pedra") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_PT-BR3829249285_400x240.jpg "Tradições iluminadas") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_PT-BR5106074004_400x240.jpg "Uma vida tranquila") 2025-10-20 |
+| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_PT-BR2901045290_400x240.jpg "Esculpido em pedra") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_PT-BR8948421877_400x240.jpg "Tradições iluminadas") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_PT-BR5106074004_400x240.jpg "Uma vida tranquila") 2025-10-20 |
 | ![](https://www.bing.com/th?id=OHR.AppleHarvest_PT-BR5524058975_400x240.jpg "Ciência doce") 2025-10-19 | ![](https://www.bing.com/th?id=OHR.SilburyHill_PT-BR5871845476_400x240.jpg "A colina que guarda memórias") 2025-10-18 | ![](https://www.bing.com/th?id=OHR.RockRiverFalls_PT-BR6243828889_400x240.jpg "Trilhas moderadas, beleza profunda") 2025-10-17 |
 | ![](https://www.bing.com/th?id=OHR.SiberianLynx_PT-BR2004015502_400x240.jpg "O fantasma da Sibéria") 2025-10-16 |  |  |
 
