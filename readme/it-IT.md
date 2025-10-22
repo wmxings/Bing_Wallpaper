@@ -8,7 +8,7 @@ Dove la pietra diventa narrazione: benvenuti nel teatro di pietra di Belogradchi
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_IT-IT4526713367_400x240.jpg "Salve Sole") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_IT-IT5153375559_400x240.jpg "Tradizione e Religione") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.MonteVelino_IT-IT3560922998_400x240.jpg "Dove respira la Montagna") 2025-10-20 |
+| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_IT-IT4526713367_400x240.jpg "Salve Sole") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_IT-IT5966033934_400x240.jpg "Tradizione e Religione") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.MonteVelino_IT-IT3560922998_400x240.jpg "Dove respira la Montagna") 2025-10-20 |
 | ![](https://www.bing.com/th?id=OHR.AppleHarvest_IT-IT5097872134_400x240.jpg "La Via della Mela") 2025-10-19 | ![](https://www.bing.com/th?id=OHR.SilburyHill_IT-IT5036622504_400x240.jpg "Montagna di Memoria") 2025-10-18 | ![](https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT4967817075_400x240.jpg "Rugiada di luce") 2025-10-17 |
 | ![](https://www.bing.com/th?id=OHR.SiberianLynx_IT-IT9885681179_400x240.jpg "Gatto fantasma?") 2025-10-16 |  |  |
 

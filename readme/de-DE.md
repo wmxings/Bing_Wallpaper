@@ -8,7 +8,7 @@ Was erzählen uns Felsen, wenn wir genau hinsehen? An den westlichen Hängen des
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_DE-DE9798723831_400x240.jpg "Felsen, die Geschichten erzählen") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_DE-DE9030345451_400x240.jpg "Leuchtende Traditionen") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_DE-DE8974751665_400x240.jpg "Ein Leben in Zeitlupe") 2025-10-20 |
+| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_DE-DE9798723831_400x240.jpg "Felsen, die Geschichten erzählen") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_DE-DE6203970797_400x240.jpg "Leuchtende Traditionen") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_DE-DE8974751665_400x240.jpg "Ein Leben in Zeitlupe") 2025-10-20 |
 | ![](https://www.bing.com/th?id=OHR.AppleHarvest_DE-DE2705439483_400x240.jpg "Erntegenuss pur") 2025-10-19 | ![](https://www.bing.com/th?id=OHR.SilburyHill_DE-DE8918422000_400x240.jpg "Wo Geschichte ruht") 2025-10-18 | ![](https://www.bing.com/th?id=OHR.MettlachAutumn_DE-DE9026182741_400x240.jpg "Ein einzigartiger Panoramablick") 2025-10-17 |
 | ![](https://www.bing.com/th?id=OHR.SiberianLynx_DE-DE4192979708_400x240.jpg "Der Schatten der Wälder") 2025-10-16 |  |  |
 

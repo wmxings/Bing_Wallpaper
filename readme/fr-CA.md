@@ -8,7 +8,7 @@ Dans le nord-ouest de la Bulgarie, sur les pentes occidentales des Balkans, ces 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_FR-CA4764793857_400x240.jpg "Pierre qui roule n'amasse pas légende… sauf ici!") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_FR-CA4627677118_400x240.jpg "Une lumière dans l'obscurité") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_FR-CA4450136469_400x240.jpg "Aujourd'hui, on s'accroche… à la paresse!") 2025-10-20 |
+| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_FR-CA4764793857_400x240.jpg "Pierre qui roule n'amasse pas légende… sauf ici!") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_FR-CA4627677118_400x240.jpg "Une lumière dans l'obscurité") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_FR-CA5056502409_400x240.jpg "Aujourd'hui, on s'accroche… à la paresse!") 2025-10-20 |
 | ![](https://www.bing.com/th?id=OHR.AppleHarvest_FR-CA4246985686_400x240.jpg "Une cueillette à croquer!") 2025-10-19 | ![](https://www.bing.com/th?id=OHR.SilburyHill_FR-CA4132362264_400x240.jpg "Une colline pas comme les autres") 2025-10-18 | ![](https://www.bing.com/th?id=OHR.JasperFestival_FR-CA3527865015_400x240.jpg "La tête dans les étoiles") 2025-10-17 |
 | ![](https://www.bing.com/th?id=OHR.SiberianLynx_FR-CA6049925751_400x240.jpg "Le chat des neiges") 2025-10-16 |  |  |
 

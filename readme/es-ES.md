@@ -8,7 +8,7 @@ En Bulgaria, en las laderas occidentales de los Balcanes, las rocas de Belogradc
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_ES-ES9951900468_400x240.jpg "Grabado en piedra") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_ES-ES9858455543_400x240.jpg "Tradiciones brillantes") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_ES-ES9765798870_400x240.jpg "La vida en el carril lento") 2025-10-20 |
+| ![](https://www.bing.com/th?id=OHR.BulgariaRocks_ES-ES9951900468_400x240.jpg "Grabado en piedra") 2025-10-22 | ![](https://www.bing.com/th?id=OHR.DiyaDiwali_ES-ES4478143118_400x240.jpg "Tradiciones brillantes") 2025-10-21 | ![](https://www.bing.com/th?id=OHR.HoffmansSloth_ES-ES9765798870_400x240.jpg "La vida en el carril lento") 2025-10-20 |
 | ![](https://www.bing.com/th?id=OHR.JaenCathedral_ES-ES4511407655_400x240.jpg "El tesoro mejor guardado") 2025-10-19 | ![](https://www.bing.com/th?id=OHR.SilburyHill_ES-ES9628182073_400x240.jpg "Una colina protectora") 2025-10-18 | ![](https://www.bing.com/th?id=OHR.RockRiverFalls_ES-ES6474484835_400x240.jpg "Afluentes del otoño") 2025-10-17 |
 | ![](https://www.bing.com/th?id=OHR.SiberianLynx_ES-ES1284959959_400x240.jpg "El gato fantasma") 2025-10-16 |  |  |
 
