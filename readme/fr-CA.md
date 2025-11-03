@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.KyotoMaple_FR-CA4615731048_UHD.jpg)
-[2025-11-02 Quand la nature peint Kyoto de rouge et de vert Feuilles d’érable et forêt de bambous à Arashiyama, Kyoto, Japon(© DoctorEgg/Getty Images)](https://www.bing.com/th?id=OHR.KyotoMaple_FR-CA4615731048_UHD.jpg)
-Dans la ville japonaise d’Arashiyama, près de Kyoto, l’automne se déploie comme une peinture vivante. Les érables s’embrasent de rouge, d’or et de cuivre, tandis que les forêts de bambou s’élancent vers le ciel dans un bruissement apaisant. Ces érables japonais aux feuilles finement découpées rappellent que la beauté est fragile, comme une flamme vouée à s'éteindre avec la saison.
+![](https://www.bing.com/th?id=OHR.MexicoJelly_FR-CA4822308838_UHD.jpg)
+[2025-11-03 Médusés devant tant de beauté Méduses dans le Pacifique, Guerrero, Mexique(© Christian Vizl/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.MexicoJelly_FR-CA4822308838_UHD.jpg)
+Sous la surface sombre du Pacifique, au large de Guerrero au Mexique, une méduse flotte, semblable à une lanterne vivante. Son ombrelle translucide pulse doucement et ses longs filaments dansent au gré des courants. Apparemment fragile, elle est pourtant l’une des plus anciennes créatures marines, présente sur Terre depuis plus de 500 millions d’années, bien avant les dinosaures.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.KyotoMaple_FR-CA4615731048_400x240.jpg "Quand la nature peint Kyoto de rouge et de vert") 2025-11-02 | ![](https://www.bing.com/th?id=OHR.BisonSprings_FR-CA4358928042_400x240.jpg "La résilience des bisons à Yellowstone") 2025-11-01 | ![](https://www.bing.com/th?id=OHR.PumpkinHalloween_FR-CA4476250622_400x240.jpg "À vos sortilèges!") 2025-10-31 |
-| ![](https://www.bing.com/th?id=OHR.PushkarFair_FR-CA6109143818_400x240.jpg "Le « bosse » du sable") 2025-10-30 | ![](https://www.bing.com/th?id=OHR.FanalForest_FR-CA5981677765_400x240.jpg "Forêt en clair-obscur") 2025-10-29 | ![](https://www.bing.com/th?id=OHR.TepliceRocks_FR-CA5818772698_400x240.jpg "Un monde au-delà de l'arche") 2025-10-28 |
-| ![](https://www.bing.com/th?id=OHR.AfricanRaven_FR-CA5487866311_400x240.jpg "Il a du bec!") 2025-10-27 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MexicoJelly_FR-CA4822308838_400x240.jpg "Médusés devant tant de beauté") 2025-11-03 | ![](https://www.bing.com/th?id=OHR.KyotoMaple_FR-CA4615731048_400x240.jpg "Quand la nature peint Kyoto de rouge et de vert") 2025-11-02 | ![](https://www.bing.com/th?id=OHR.BisonSprings_FR-CA4358928042_400x240.jpg "La résilience des bisons à Yellowstone") 2025-11-01 |
+| ![](https://www.bing.com/th?id=OHR.PumpkinHalloween_FR-CA4476250622_400x240.jpg "À vos sortilèges!") 2025-10-31 | ![](https://www.bing.com/th?id=OHR.PushkarFair_FR-CA6109143818_400x240.jpg "Le « bosse » du sable") 2025-10-30 | ![](https://www.bing.com/th?id=OHR.FanalForest_FR-CA5981677765_400x240.jpg "Forêt en clair-obscur") 2025-10-29 |
+| ![](https://www.bing.com/th?id=OHR.TepliceRocks_FR-CA5818772698_400x240.jpg "Un monde au-delà de l'arche") 2025-10-28 |  |  |
 
 # History
 [2025-11](../archives/wallpaper/fr-CA/w_2025_11.md) | [2025-10](../archives/wallpaper/fr-CA/w_2025_10.md) | [2025-09](../archives/wallpaper/fr-CA/w_2025_09.md) | [2025-08](../archives/wallpaper/fr-CA/w_2025_08.md) | [2025-07](../archives/wallpaper/fr-CA/w_2025_07.md) | [2025-06](../archives/wallpaper/fr-CA/w_2025_06.md) | [2025-05](../archives/wallpaper/fr-CA/w_2025_05.md) | [2025-04](../archives/wallpaper/fr-CA/w_2025_04.md) | [2025-03](../archives/wallpaper/fr-CA/w_2025_03.md) | [2025-02](../archives/wallpaper/fr-CA/w_2025_02.md)
