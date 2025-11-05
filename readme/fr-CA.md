@@ -3,7 +3,7 @@
 # Latest Wallpaper
 ![](https://www.bing.com/th?id=OHR.MoncayoAutumn_FR-CA5183865904_UHD.jpg)
 [2025-11-05 Saragosse en habits d'automne Forêt de hêtres de Añón de Moncayo, Parc naturel du Moncayo, Saragosse, Espagne(© David Santiago Garcia/DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.MoncayoAutumn_FR-CA5183865904_UHD.jpg)
-Qui aurait cru qu'en Aragon, une région ensoleillée et rocailleuse d’Espagne, se cachait un coin de forêt digne d'un automne canadien ? Sur les pentes du Moncayo, la hêtraie de Peña Roya, que l'on rejoint depuis le village d'Añón, enflamme la montagne d'un manteau rouge et or. La péninsule ibérique semble ainsi offrir, l’espace d’une saison, un écho des forêts du Québec ou de Charlevoix.
+Qui aurait cru qu'en Aragon, une région ensoleillée et rocailleuse d’Espagne, se cachait un coin de forêt digne d'un automne canadien? Sur les pentes du Moncayo, la hêtraie de Peña Roya, que l'on rejoint depuis le village d'Añón, enflamme la montagne d'un manteau rouge et or. La péninsule ibérique semble ainsi offrir, l’espace d’une saison, un écho des forêts du Québec ou de Charlevoix.
 
 # Recent 7 Days
 |  |  |  |
