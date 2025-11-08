@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-09",
+    "head_line": "今日はカール・セーガン・デー",
+    "title": "ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲",
+    "copyright": "© ESA/NASA",
+    "desc": "今日の画像は、約 4350 光年先にある干潟星雲（ Lagoon Nebula ）。内部に位置する散開星団 NGC6530 では生まれたばかりの星々が輝いています。1654 年ごろから 観測されていたとされており、星雲内の NGC6530 は 1680 年ごろに発見されました…",
+    "image_url": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_400x240.jpg",
+    "main_text": "ハッブル宇宙望遠鏡は 1990 年に打ち上げられ、宇宙膨張の発見で知られる天文学者エドウィン・ハッブルにちなんで名付けられました。主鏡の直径は 2.4m と高精度で、地球の低軌道を周回しながら観測を続けています。",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-08",
     "head_line": "波や風に削られた岩",
     "title": "バンドンビーチの海蝕岩, 米国 オレゴン州",
