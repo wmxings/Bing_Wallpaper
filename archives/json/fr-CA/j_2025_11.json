@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-09",
+    "head_line": "Un peu plus près des étoiles",
+    "title": "Nuages interstellaires dans la nébuleuse de la Lagune, capturés par le télescope spatial Hubble",
+    "copyright": "© ESA/NASA",
+    "desc": "Dans la nébuleuse de la Lagune, à quelque 4 350 années-lumière, un essaim d'étoiles s'éveille. Les gaz dansent, s’enflamment et se mêlent, formant un spectacle semblable aux draperies vertes et mauves d’une aurore boréale au-dessus du fjord du Saguenay. Dans NGC 6530, des piliers de poussière appelés « globules de Bok » cachent des étoiles encore à naître, comme des graines dans le sol gelé du Grand Nord.",
+    "image_url": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_400x240.jpg",
+    "main_text": "Fort Lauderdale (Floride) a lancé la Journée Carl Sagan en 2009, aujourd’hui célébrée par les passionnés d’astronomie du monde entier.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-08",
     "head_line": "L'Oregon sauvage",
     "title": "Pitons rocheux de la plage de Bandon, Oregon, États-Unis",
