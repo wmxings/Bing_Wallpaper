@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-09",
+    "head_line": "Érase una estrella",
+    "title": "Nubes interestelares en la Nebulosa de la Laguna, capturadas por el Telescopio Espacial Hubble",
+    "copyright": "© ESA/NASA",
+    "desc": "El universo vibra con la creación. En la Nebulosa de la Laguna, un cúmulo llamado NGC 6530 está dando luz a estrellas recién nacidas, recordándonos que los comienzos están tejidos en el cosmos. Situado a unos 4.350 años luz y con apenas unos millones de años, este vivero estelar aún se encuentra en su primer capítulo.",
+    "image_url": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-08",
     "head_line": "Rocas que cuentan leyendas",
     "title": "Complejo megalítico: Externsteine en el Bosque de Teutoburgo, Alemania",
