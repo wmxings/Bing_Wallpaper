@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-13",
+    "head_line": "La saison la plus magique de l'année commence!",
+    "title": "Village d’hiver de la Distillerie 2020, Toronto",
+    "copyright": "© Steve Russell/Toronto Star via Getty Images",
+    "desc": "Bien avant les lumières LED et les photos Instagram, les marchés de Noël étaient des lieux de rencontre entre voisins, des chants dans l’air et des étals de bois remplis d’artisanat. Nés en Allemagne en 1434, ces marchés à ciel ouvert apportaient chaleur et convivialité aux longs hivers.",
+    "image_url": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-12",
     "head_line": "Tous les chemins mènent à Rome",
     "title": "Vue aérienne du Colisée, Rome, Italie",
