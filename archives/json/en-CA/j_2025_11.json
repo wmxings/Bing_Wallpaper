@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-17",
+    "head_line": "Fox in focus",
+    "title": "Red fox, Canada",
+    "copyright": "© RT-Images/Getty Images",
+    "desc": "Some animals rely on strength, others on speed. Foxes? They rely on brains. And the red fox, seen in today's image, has mastered the art. Found across nearly every type of landscape on Earth, foxes have adapted over time to deserts, forests and suburbs alike. The red fox's story began in Eurasia about 400,000 years ago, and around 130,000 years ago, these creatures crossed into North America and found a permanent home.",
+    "image_url": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_400x240.jpg",
+    "main_text": "Red foxes are the largest of the 12 foxes in the Vulpes genus.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-16",
     "head_line": "Passages with a past",
     "title": "A traboule in Lyon, France",
