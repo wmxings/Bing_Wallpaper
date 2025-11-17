@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-17",
+    "head_line": "Puri parchi?",
+    "title": "Parco Nazionale Shenandoah, Virginia, USA",
+    "copyright": "© Michael Ver Sprill/Getty Images",
+    "desc": "Nel Parco Nazionale di Shenandoah, situato nello stato americano della Virginia, le montagne sembrano respirare. I Monti Blue Ridge si vestono d’autunno con hickory dorati, aceri cremisi e querce color bronzo. L’aria, a novembre, si fa sottile e frizzante, e gli ultimi bagliori della stagione si aggrappano ai pendii come segreti sussurrati. Skyline Drive si snoda per quasi 170 chilometri, offrendo vedute dove le nuvole vagano lente sopra valli senza fine. Più di 800 chilometri di sentieri conducono a cascate che si tuffano nel vuoto e a vette che salutano l’orizzonte. Stony Man, Hawksbill, Dark Hollow Falls: nomi che sembrano versi, luoghi che si leggono con i piedi.",
+    "image_url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-16",
     "head_line": "Passaggi segreti?",
     "title": "Un traboule a Lione, Francia",
