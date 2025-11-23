@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-23",
+    "head_line": "Fossile, mais pas has-been!",
+    "title": "Fossile d’ammonite de Madagascar",
+    "copyright": "© ThomasLENNE/Shutterstock",
+    "desc": "Taillée dans la pierre de Madagascar, l’ammonite fossilisée révèle une spirale d'une régularité telle qu'elle semble avoir été dessinée par la main du temps. Chaque chambre, plus grande que la précédente, suit la logique de la suite de Fibonacci, une séquence née en Inde il y a plus de deux mille ans, puis popularisée en Europe par le mathématicien italien Léonard de Pise, dit Fibonacci.",
+    "image_url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_400x240.jpg",
+    "main_text": "Fibonacci a introduit les nombres qui portent son nom en Europe en 1202, dans l’ouvrage appelé « Liber Abaci ».",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-22",
     "head_line": "Le géant qui veille sur les eaux",
     "title": "Grand Bouddha de Leshan, Sichuan, Chine",
