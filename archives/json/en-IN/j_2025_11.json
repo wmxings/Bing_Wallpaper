@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-23",
+    "head_line": "Nature's secret code",
+    "title": "Ammonite fossil from Madagascar",
+    "copyright": "© ThomasLENNE/Shutterstock",
+    "desc": "Look closely at this ammonite fossil. Its swirling shell, once home to a prehistoric sea creature, holds a mathematical secret—a spiral pattern. Each new chamber is proportionally larger than the previous one, maintaining a consistent growth ratio, often associated with the Fibonacci sequence.",
+    "image_url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_400x240.jpg",
+    "main_text": "Leonardo Bonacci (Fibonacci) first introduced the concept of Fibonacci numbers to Western Europe in 1202, in his book 'Liber Abaci.'",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-22",
     "head_line": "The guardian of the waters",
     "title": "Leshan Giant Buddha, Sichuan, China",
