@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-25",
+    "head_line": "Amor, sorte e moedas",
+    "title": "Fontana di Trevi, Roma, Itália",
+    "copyright": "© Nico De Pasquale Photography/Getty Images",
+    "desc": "Em Roma, na Itália, existe uma fonte onde moedas viram desejos: a famosa Fontana di Trevi, nossa imagem de hoje. Finalizada em 1762, ela marca o fim de um antigo caminho por onde a água era levada até a cidade — um canal construído pelos romanos que funciona até hoje. O nome “Trevi” vem de “Tre Vie” — três vias — indicando o cruzamento onde está localizada.",
+    "image_url": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-24",
     "head_line": "Segredos gravados na pedra",
     "title": "Forte de Gwalior, Madhya Pradesh, Índia",
