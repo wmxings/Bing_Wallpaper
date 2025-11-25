@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-25",
+    "head_line": "Salud, monedas sueltas y amor",
+    "title": "Fontana di Trevi en Roma, Italia",
+    "copyright": "© Nico De Pasquale Photography/Getty Images",
+    "desc": "¿Alguna vez has oído el tintineo de las monedas más fuerte que los aplausos? Esa es la Fontana de Trevi en Roma, Italia, un lugar donde se mezclan historia, sueños y selfies. Terminada en 1762, marca el final del acueducto Aqua Virgo, uno de los primeros de la antigua Roma, que todavía suministra agua hoy. Su nombre, “Trevi”, proviene de Tre Vie (“tres caminos”), el cruce donde se encuentra. Diseñada por el arquitecto Nicola Salvi y concluida por Giuseppe Pannini, esta fuente barroca de 26 metros es la más grande de la ciudad y una de las más famosas del mundo. Sus esculturas muestran a Océano (o Neptuno), dios del mar, sobre un carro de concha tirado por caballos marinos y tritones, que simbolizan la calma y la tempestad del agua.",
+    "image_url": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-11-24",
     "head_line": "Secretos tallados en piedra",
     "title": "Fortaleza de Gwalior, Madhya Pradesh, India",
