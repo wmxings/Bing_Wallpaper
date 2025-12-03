@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-12-03",
+    "head_line": "Dawn of the cranes",
+    "title": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA",
+    "copyright": "© Jack Dykinga/Minden Pictures",
+    "desc": "Every December, as morning unfolds, a chorus of rattling calls fills the marshes of the Bosque del Apache National Wildlife Refuge. This 57,000-acre (23,000-hectare) sanctuary in central New Mexico, United States, prepares to stage one of nature's most stirring performances as sandhill cranes return from their seasonal journey. Soon, tens of thousands of snow geese and other migratory birds join the scene, filling the sky with movement and sound.",
+    "image_url": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-12-02",
     "head_line": "Twinkle all the way",
     "title": "Christmas market in Leipzig, Germany",
