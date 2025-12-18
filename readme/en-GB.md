@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700_UHD.jpg)
-[2025-12-17 Fur, frost and feast Eurasian red squirrel in Northumberland, England(© Michael_Conrad/Getty Images)](https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700_UHD.jpg)
-Who could resist that squishy face? A Eurasian red squirrel perches on a snowy pine branch, paws clutching a pine cone like it's the last snack on Earth. These little acrobats stay busy collecting nuts, seeds and fungi—feasting on fresh finds in summer and on stored cones through winter.
+![](https://www.bing.com/th?id=OHR.CathedralValley_EN-GB1105265816_UHD.jpg)
+[2025-12-18 Layers of time in Utah Temple of the Sun, Capitol Reef National Park, Utah, USA(© Austin Cronnelly/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CathedralValley_EN-GB1105265816_UHD.jpg)
+Rock layers formed over millions of years and a massive bend in the Earth's crust give this desert a rare window into geologic history. This is Capitol Reef National Park in Utah, United States, where sandstone cliffs and canyons preserve a striking record of the planet's past. December 18 marks the anniversary of its designation as a national park in 1971. Today's featured image highlights the sandstone monoliths of Cathedral Valley, including the Temple of the Sun, part of this extraordinary, protected landscape.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700_400x240.jpg "Fur, frost and feast") 2025-12-17 | ![](https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-GB0782931323_400x240.jpg "Tiny hats, big spirits") 2025-12-16 | ![](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-GB0625197619_400x240.jpg "Still waters, bright lights") 2025-12-15 |
-| ![](https://www.bing.com/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_400x240.jpg "A dome-inant architecture") 2025-12-14 | ![](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-GB9932034635_400x240.jpg "Frozen reflections") 2025-12-13 | ![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-GB9791433495_400x240.jpg "The plant that paints the holidays red") 2025-12-12 |
-| ![](https://www.bing.com/th?id=OHR.EverestGlow_EN-GB7184566187_400x240.jpg "Where the sky meets Earth") 2025-12-11 |  |  |
+| ![](https://www.bing.com/th?id=OHR.CathedralValley_EN-GB1105265816_400x240.jpg "Layers of time in Utah") 2025-12-18 | ![](https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700_400x240.jpg "Fur, frost and feast") 2025-12-17 | ![](https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-GB0782931323_400x240.jpg "Tiny hats, big spirits") 2025-12-16 |
+| ![](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-GB0625197619_400x240.jpg "Still waters, bright lights") 2025-12-15 | ![](https://www.bing.com/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_400x240.jpg "A dome-inant architecture") 2025-12-14 | ![](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-GB9932034635_400x240.jpg "Frozen reflections") 2025-12-13 |
+| ![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-GB9791433495_400x240.jpg "The plant that paints the holidays red") 2025-12-12 |  |  |
 
 # History
 [2025-12](../archives/wallpaper/en-GB/w_2025_12.md) | [2025-11](../archives/wallpaper/en-GB/w_2025_11.md) | [2025-10](../archives/wallpaper/en-GB/w_2025_10.md) | [2025-09](../archives/wallpaper/en-GB/w_2025_09.md) | [2025-08](../archives/wallpaper/en-GB/w_2025_08.md) | [2025-07](../archives/wallpaper/en-GB/w_2025_07.md) | [2025-06](../archives/wallpaper/en-GB/w_2025_06.md) | [2025-05](../archives/wallpaper/en-GB/w_2025_05.md) | [2025-04](../archives/wallpaper/en-GB/w_2025_04.md) | [2025-03](../archives/wallpaper/en-GB/w_2025_03.md) | [2025-02](../archives/wallpaper/en-GB/w_2025_02.md)
