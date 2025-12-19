@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg)
-[2025-12-18 Layers of time in Utah Temple of the Sun, Capitol Reef National Park, Utah(© Austin Cronnelly/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg)
-Rock layers formed over millions of years and a massive bend in the Earth's crust give this desert a rare window into geologic history. This is Capitol Reef National Park in Utah, where sandstone cliffs and canyons preserve a striking record of the planet's past. December 18 marks the anniversary of its designation as a national park in 1971. Today's featured image highlights the sandstone monoliths of Cathedral Valley, including the Temple of the Sun, part of this extraordinary, protected landscape.
+![](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg)
+[2025-12-19 High mountains, deep history Snow-covered landscape at Bormio, Lombardy, Italy(© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg)
+Bormio is a mountain town in northern Italy's Lombardy region, nestled in the Alps near the Stelvio Pass. This location has connected communities across mountain valleys for centuries, shaping how people live and move through the region. Today's image features Bormio's winter landscape, a reflection of its high-altitude setting and enduring bond with the surrounding peaks.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_400x240.jpg "Layers of time in Utah") 2025-12-18 | ![](https://www.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_400x240.jpg "Fur, frost, and feast") 2025-12-17 | ![](https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_400x240.jpg "Tiny hats, big spirits") 2025-12-16 |
-| ![](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_400x240.jpg "Still waters, bright lights") 2025-12-15 | ![](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_400x240.jpg "The great holiday bird-off") 2025-12-14 | ![](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_400x240.jpg "Frozen reflections") 2025-12-13 |
-| ![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_400x240.jpg "The plant that paints the holidays red") 2025-12-12 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_400x240.jpg "High mountains, deep history") 2025-12-19 | ![](https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_400x240.jpg "Layers of time in Utah") 2025-12-18 | ![](https://www.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_400x240.jpg "Fur, frost, and feast") 2025-12-17 |
+| ![](https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_400x240.jpg "Tiny hats, big spirits") 2025-12-16 | ![](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_400x240.jpg "Still waters, bright lights") 2025-12-15 | ![](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_400x240.jpg "The great holiday bird-off") 2025-12-14 |
+| ![](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_400x240.jpg "Frozen reflections") 2025-12-13 |  |  |
 
 # History
 [2025-12](../archives/wallpaper/en-US/w_2025_12.md) | [2025-11](../archives/wallpaper/en-US/w_2025_11.md) | [2025-10](../archives/wallpaper/en-US/w_2025_10.md) | [2025-09](../archives/wallpaper/en-US/w_2025_09.md) | [2025-08](../archives/wallpaper/en-US/w_2025_08.md) | [2025-07](../archives/wallpaper/en-US/w_2025_07.md) | [2025-06](../archives/wallpaper/en-US/w_2025_06.md) | [2025-05](../archives/wallpaper/en-US/w_2025_05.md) | [2025-04](../archives/wallpaper/en-US/w_2025_04.md) | [2025-03](../archives/wallpaper/en-US/w_2025_03.md) | [2025-02](../archives/wallpaper/en-US/w_2025_02.md)
