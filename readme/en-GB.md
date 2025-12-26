@@ -1,14 +1,14 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.WiltshireDawn_EN-GB7019236667_UHD.jpg)
-[2025-12-26 Unboxed traditions Salisbury Cathedral, Wiltshire, England(© Julian Elliott Photography/Getty Images)](https://www.bing.com/th?id=OHR.WiltshireDawn_EN-GB7019236667_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WiltshireDawn_EN-GB7071939829_UHD.jpg)
+[2025-12-26 Unboxed traditions Salisbury Cathedral, Wiltshire, England(© Julian Elliott Photography/Getty Images)](https://www.bing.com/th?id=OHR.WiltshireDawn_EN-GB7071939829_UHD.jpg)
 The best thing about Boxing Day is that it doesn't ask much of you. No big countdown. No dramatic unwrapping. No last-minute dashes for batteries. It's a rare holiday that says, 'Sit down, finish your leftovers and take a moment.' Celebrated on December 26 in the United Kingdom and some Commonwealth countries, it's a national cool-down after Christmas has done all the heavy lifting. The term goes back to Victorian Britain, when households prepared Christmas boxes for workers and tradespeople—tokens of thanks that ranged from coins to essentials. Churches joined in by opening alms boxes and distributing donations.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.WiltshireDawn_EN-GB7019236667_400x240.jpg "Unboxed traditions") 2025-12-26 | ![](https://www.bing.com/th?id=OHR.SantaGlobe_EN-GB2190475589_400x240.jpg "Miniature worlds, infinite wonder") 2025-12-25 | ![](https://www.bing.com/th?id=OHR.ElmauChapel_EN-GB2006634958_400x240.jpg "Traditions that travel") 2025-12-24 |
+| ![](https://www.bing.com/th?id=OHR.WiltshireDawn_EN-GB7071939829_400x240.jpg "Unboxed traditions") 2025-12-26 | ![](https://www.bing.com/th?id=OHR.SantaGlobe_EN-GB2190475589_400x240.jpg "Miniature worlds, infinite wonder") 2025-12-25 | ![](https://www.bing.com/th?id=OHR.ElmauChapel_EN-GB2006634958_400x240.jpg "Traditions that travel") 2025-12-24 |
 | ![](https://www.bing.com/th?id=OHR.ReindeerFinland_EN-GB1843825252_400x240.jpg "Where holiday magic runs on hooves") 2025-12-23 | ![](https://www.bing.com/th?id=OHR.NutcrackerAnkara_EN-GB1726876299_400x240.jpg "From Hoffmann's pages to global stages") 2025-12-22 | ![](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-GB1586766616_400x240.jpg "Birth of the new sun") 2025-12-21 |
 | ![](https://www.bing.com/th?id=OHR.StarLanterns_EN-GB1419415106_400x240.jpg "Twinkle, twinkle, paper stars") 2025-12-20 |  |  |
 
