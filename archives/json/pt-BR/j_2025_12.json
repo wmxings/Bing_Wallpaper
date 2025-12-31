@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-12-31",
+    "head_line": "A festa da virada",
+    "title": "Fogos de artifício na praia de Copacabana, Rio de Janeiro",
+    "copyright": "© BrasilNut1/Getty Images",
+    "desc": "A virada do ano é sinônimo de celebração, esperança e boas energias. Mas você já se perguntou de onde vem a palavra “Réveillon”? Ela tem origem francesa, derivada do verbo “réveiller”, que significa “acordar” ou “despertar”. Na França, o termo era usado para designar jantares sofisticados na véspera de grandes festas, como o Ano Novo. Com o tempo, atravessou fronteiras e passou a representar a comemoração da virada em diversos países, inclusive no Brasil.",
+    "image_url": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_240x320.jpg"
+    }
+  },
+  {
     "date": "2025-12-30",
     "head_line": "Migração e beleza",
     "title": "Cisnes-bravos, Lago Kotoku, Kantō, Japão",
