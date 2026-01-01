@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-01-02",
+    "head_line": "アドリア海に抱かれた歴史都市",
+    "title": "ヴェネツィア, イタリア",
+    "copyright": "© Clement Leonard/Getty Images",
+    "desc": "ここはイタリアのヴェネツィア。その歴史は古く、5 世紀頃、異民族の侵攻から逃れたイタリア本土の人々が、アドリア海のラグーナへ避難したことから始まりました。そして、中世には東西貿易の中心地として繁栄し、強力な海上帝国へと成長しました…",
+    "image_url": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-01-01",
     "head_line": "今日は元日",
     "title": "えびす岩・大黒岩, 北海道",
