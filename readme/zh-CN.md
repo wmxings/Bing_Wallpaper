@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg)
-[2026-01-02 威尼斯的灵魂 威尼斯鸟瞰图, 意大利(© Clement Leonard/Getty Images)](https://www.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg)
-从高空俯瞰威尼斯，宛如一幅迷人的水上画卷，但这座意大利瑰宝真正的魅力，藏在古老墙垣与曲折水巷之间。公元5世纪，它在潟湖中的一簇岛屿上诞生，由沼泽蜕变为海上霸主。中世纪时期，威尼斯成为连接欧洲与东方的重要贸易枢纽，财富与文化在此交织。如今，哥特式宫殿、文艺复兴艺术，以及圣马可大教堂、公爵宫、里亚托桥等地标，仍在诉说这座城市的辉煌历史。
+![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg)
+[2026-01-03 传奇故事前的篇章 劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士(© pongnathee kluaythong/Getty Images)](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg)
+今日图片带我们走进瑞士劳特布隆嫩小镇，静谧山谷间，远处的施陶巴赫瀑布在阳光下闪烁。1911年，年轻的托尔金曾在徒步旅行中穿越这里，那时他还未成为《魔戒》和《霍比特人》的作者。巍峨的峭壁、银白的瀑流和清冽的山风，深深印刻在他的记忆中，被认为启发了他笔下的瑞文戴尔——中土世界中隐秘的精灵圣地。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_400x240.jpg "威尼斯的灵魂") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_400x240.jpg "伸个懒腰，迈向新年！") 2026-01-01 | ![](https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_400x240.jpg "柏林，新年之桥") 2025-12-31 |
-| ![](https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_400x240.jpg "新太阳的诞生") 2025-12-30 | ![](https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_400x240.jpg "一座比城市更悠久的教堂") 2025-12-29 | ![](https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_400x240.jpg "仍存野性") 2025-12-28 |
-| ![](https://www.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_400x240.jpg "冬之碎片") 2025-12-27 |  |  |
+| ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_400x240.jpg "传奇故事前的篇章") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_400x240.jpg "威尼斯的灵魂") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_400x240.jpg "伸个懒腰，迈向新年！") 2026-01-01 |
+| ![](https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_400x240.jpg "柏林，新年之桥") 2025-12-31 | ![](https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_400x240.jpg "新太阳的诞生") 2025-12-30 | ![](https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_400x240.jpg "一座比城市更悠久的教堂") 2025-12-29 |
+| ![](https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_400x240.jpg "仍存野性") 2025-12-28 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/zh-CN/w_2026_01.md)
