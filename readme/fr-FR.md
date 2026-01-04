@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_UHD.jpg)
-[2026-01-03 Quand la Suisse inspira la magie de Tolkien Chute de Staubbach à Lauterbrunnen, canton de Berne, Suisse(© pongnathee kluaythong/Getty Images)](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_UHD.jpg)
-Au cœur de la vallée suisse de Lauterbrunnen, quand le soleil d’hiver effleure les falaises et que la chute de Staubbach se déploie en voile d’argent, on comprend pourquoi tant de voyageurs parlent de révélation. Avec ses 297 mètres, cette cascade est l’un des plus spectaculaires d’Europe. Elle a inspiré Goethe et, bien plus tard, un jeune randonneur anglais : J.R.R. Tolkien. En 1911, à 19 ans, il arpenta ces sentiers sans imaginer que ces parois abruptes et ces forêts nourriraient la vision de Fondcombe, le refuge elfique des Monts Brumeux du célèbre roman « Le Seigneur des Anneaux ».
+![](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_UHD.jpg)
+[2026-01-04 Une vue royale ! Mont Kings, montagnes Chugach, Alaska, États-Unis(© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_UHD.jpg)
+Au cœur des montagnes Chugach, dans le nord sauvage des États-Unis, le Kings Mountain se dresse comme une page arrachée à un livre d’aventures. À plus de 1 770 mètres d’altitude, près du mile 75 de la Glenn Highway, ce sommet d’Alaska domine la vallée tel un phare de pierre sombre. Les anciens Dena’ina le nommaient Bashtl’ech’, « la pierre noire », en écho à ses flancs sculptés par d’antiques glaciers. Aujourd’hui encore, ces creux et ces arêtes racontent la lente histoire de la glace et du temps.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_400x240.jpg "Quand la Suisse inspira la magie de Tolkien") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.VeniceView_FR-FR1991720752_400x240.jpg "L'âme de Venise") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_400x240.jpg "Étirez-vous doucement dans la nouvelle année") 2026-01-01 |
-| ![](https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_400x240.jpg "Bonne année !") 2025-12-31 | ![](https://www.bing.com/th?id=OHR.JapanSwans_FR-FR9912215229_400x240.jpg "Envol mélodieux vers le Japon") 2025-12-30 | ![](https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589_400x240.jpg "La ville aux mille et une églises") 2025-12-29 |
-| ![](https://www.bing.com/th?id=OHR.RuffedLemur_FR-FR5360368107_400x240.jpg "L'adorable et menacé cousin du singe") 2025-12-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_400x240.jpg "Une vue royale !") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_400x240.jpg "Quand la Suisse inspira la magie de Tolkien") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.VeniceView_FR-FR1991720752_400x240.jpg "L'âme de Venise") 2026-01-02 |
+| ![](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_400x240.jpg "Étirez-vous doucement dans la nouvelle année") 2026-01-01 | ![](https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_400x240.jpg "Bonne année !") 2025-12-31 | ![](https://www.bing.com/th?id=OHR.JapanSwans_FR-FR9912215229_400x240.jpg "Envol mélodieux vers le Japon") 2025-12-30 |
+| ![](https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589_400x240.jpg "La ville aux mille et une églises") 2025-12-29 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)

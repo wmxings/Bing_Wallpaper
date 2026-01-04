@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_UHD.jpg)
-[2026-01-03 The steps before the saga Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland(© pongnathee kluaythong/Getty Images)](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_UHD.jpg)
-Our picture of the day takes us to the Swiss village of Lauterbrunnen, where the Staubbach Falls shimmers in the distance beyond a quiet alpine valley. This is the landscape a young traveller, JRR Tolkien, crossed during a hiking trip in 1911, long before he became the storyteller behind 'The Lord of the Rings' and 'The Hobbit.' Its soaring cliffs, silver waterfalls and crisp mountain air left a lasting impression and are believed to have inspired his vision of Rivendell, the elven refuge hidden deep in Middle-earth.
+![](https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_UHD.jpg)
+[2026-01-04 A royal view Kings Mountain, Chugach Mountains, Alaska, United States(© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_UHD.jpg)
+Kings Mountain in Chugach Mountains of Alaska, United States, isn't just another bump on the horizon—it's the kind of rugged beauty that makes you slow down and stare. Rising over 1,700 metres and sitting roughly 22 miles northeast of Palmer, this peak towers over mile 75 of the Glenn Highway, a route famous for its dramatic scenery. Its slopes bear the marks of ancient glaciers, etched into ridges and valleys that seem tailor-made for adventure.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_400x240.jpg "The steps before the saga") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.VeniceView_EN-GB4183487465_400x240.jpg "The soul of Venice") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529_400x240.jpg "Stretch into the New Year") 2026-01-01 |
-| ![](https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_400x240.jpg "New year, Scottish style") 2025-12-31 | ![](https://www.bing.com/th?id=OHR.JapanSwans_EN-GB2256410683_400x240.jpg "Whoop, there they fly") 2025-12-30 | ![](https://www.bing.com/th?id=OHR.AniTurkey_EN-GB1808269342_400x240.jpg "The church that outlived a city") 2025-12-29 |
-| ![](https://www.bing.com/th?id=OHR.RuffedLemur_EN-GB1541311205_400x240.jpg "What remains wild") 2025-12-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_400x240.jpg "A royal view") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_400x240.jpg "The steps before the saga") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.VeniceView_EN-GB4183487465_400x240.jpg "The soul of Venice") 2026-01-02 |
+| ![](https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529_400x240.jpg "Stretch into the New Year") 2026-01-01 | ![](https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_400x240.jpg "New year, Scottish style") 2025-12-31 | ![](https://www.bing.com/th?id=OHR.JapanSwans_EN-GB2256410683_400x240.jpg "Whoop, there they fly") 2025-12-30 |
+| ![](https://www.bing.com/th?id=OHR.AniTurkey_EN-GB1808269342_400x240.jpg "The church that outlived a city") 2025-12-29 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
