@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_UHD.jpg)
-[2026-01-04 A royal view Kings Mountain, Chugach Mountains, Alaska, United States(© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_UHD.jpg)
-Kings Mountain in Alaska's Chugach Mountains, United States, isn't just another bump on the horizon—it's the kind of rugged beauty that makes you slow down and stare. Rising nearly 1,800 metres and sitting roughly 35 kilometres northeast of Palmer, this peak towers over mile 75 of the Glenn Highway, a route famous for its dramatic scenery. Its slopes bear the marks of ancient glaciers, etched into ridges and valleys that seem tailor-made for adventure.
+![](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-IN2071803879_UHD.jpg)
+[2026-01-05 Herd on high alert A herd of impalas, Londolozi Game Reserve, South Africa(© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-IN2071803879_UHD.jpg)
+What stands out about Londolozi Game Reserve in South Africa isn't just the wildlife—it's the long-term commitment behind it. Since 1926, its 150 square kilometres have supported research and monitored wildlife behaviour in their natural habitat. Located within the Sabi Sand Private Game Reserve, it is home to Africa's Big Five. Londolozi is part of a larger open system that connects with Kruger National Park, allowing animals such as elephants, rhinos, lions, leopards, zebras and many antelope species to move freely without fences holding them back.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_400x240.jpg "A royal view") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-IN1404704660_400x240.jpg "The steps before the saga") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.VeniceView_EN-IN1223901248_400x240.jpg "The soul of Venice") 2026-01-02 |
-| ![](https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_400x240.jpg "Stretch into the New Year") 2026-01-01 | ![](https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_400x240.jpg "Where Berlin bridges the New Year") 2025-12-31 | ![](https://www.bing.com/th?id=OHR.JapanSwans_EN-IN9853925542_400x240.jpg "Whoop, there they fly") 2025-12-30 |
-| ![](https://www.bing.com/th?id=OHR.AniTurkey_EN-IN9670620964_400x240.jpg "The church that outlived a city") 2025-12-29 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-IN2071803879_400x240.jpg "Herd on high alert") 2026-01-05 | ![](https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_400x240.jpg "A royal view") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-IN1404704660_400x240.jpg "The steps before the saga") 2026-01-03 |
+| ![](https://www.bing.com/th?id=OHR.VeniceView_EN-IN1223901248_400x240.jpg "The soul of Venice") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_400x240.jpg "Stretch into the New Year") 2026-01-01 | ![](https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_400x240.jpg "Where Berlin bridges the New Year") 2025-12-31 |
+| ![](https://www.bing.com/th?id=OHR.JapanSwans_EN-IN9853925542_400x240.jpg "Whoop, there they fly") 2025-12-30 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)

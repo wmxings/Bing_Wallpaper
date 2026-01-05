@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_UHD.jpg)
-[2026-01-04 Vista Reale Kings Mountain, Montagne Chugach, Alaska, USA(© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_UHD.jpg)
-Kings Mountain, nelle Chugach Mountains dell’Alaska, non è soltanto un rilievo all’orizzonte: è una bellezza selvaggia che vi invita a rallentare e a contemplare. Con i suoi circa 1.770 metri di altezza, situata circa 35 chilometri a nord-est di Palmer, questa cima domina il miglio 75 della Glenn Highway, una strada celebre per i suoi scenari drammatici. I suoi pendii portano ancora i segni degli antichi ghiacciai, scolpiti in creste e vallate che sembrano disegnate per l’avventura.
+![](https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_UHD.jpg)
+[2026-01-05 Sussurri boreali? Nuuk, Groenlandia(© nevereverro/Getty Images)](https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_UHD.jpg)
+Nuuk, capitale della Groenlandia, conserva ancora il respiro del passato: la casa di Hans Egede e la Cattedrale di legno rosso raccontano il XVIII secolo, mentre il Museo Nazionale custodisce artefatti inuit e le mummie di Qilakitsoq, silenziose testimoni di un’isola antica. Persino l’unico campo da golf artico al mondo trova spazio tra montagne e mare, come un segno di modernità in un paesaggio senza tempo.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_400x240.jpg "Vista Reale") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_400x240.jpg "Scenografia dell'Anello") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_400x240.jpg "Battito della Savana") 2026-01-02 |
-| ![](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_400x240.jpg "Già svegli?") 2026-01-01 | ![](https://www.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_400x240.jpg "Fuochi di Speranza") 2025-12-31 | ![](https://www.bing.com/th?id=OHR.JapanSwans_IT-IT1972442165_400x240.jpg "Danza del Sol Levante") 2025-12-30 |
-| ![](https://www.bing.com/th?id=OHR.AniTurkey_IT-IT1549681594_400x240.jpg "Storia, Vento e Rovine") 2025-12-29 |  |  |
+| ![](https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_400x240.jpg "Sussurri boreali?") 2026-01-05 | ![](https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_400x240.jpg "Vista Reale") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_400x240.jpg "Scenografia dell'Anello") 2026-01-03 |
+| ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_400x240.jpg "Battito della Savana") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_400x240.jpg "Già svegli?") 2026-01-01 | ![](https://www.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_400x240.jpg "Fuochi di Speranza") 2025-12-31 |
+| ![](https://www.bing.com/th?id=OHR.JapanSwans_IT-IT1972442165_400x240.jpg "Danza del Sol Levante") 2025-12-30 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
