@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg)
-[2026-01-05 高角羚群紧急戒备 一群高角羚, 隆多洛齐野生动物保护区, 南非(© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg)
-隆多洛齐野生动物保护区的独特之处，不仅在于草原上的野生动物，更在于其坚守了近百年的守护。自1926年起，这片58平方英里的土地持续支持着野生动物研究工作，并监测着动物在自然栖息地中的行为。它坐落于萨比桑私人保护区，是非洲五大兽的栖息地，并与克鲁格国家公园相连，构建开放的生态系统，让象群、犀牛、狮子、豹、斑马和众多羚羊物种得以在无围栏阻隔的广袤天地间自由迁徙。
+![](https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg)
+[2026-01-06 努克的慵懒时光 努克, 格陵兰(© nevereverro/Getty Images)](https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg)
+想象一下，日常通勤途中，映入眼底的是峡湾风光、漂移的冰块，以及天际舞动的极光——这不是梦，而是努克的日常。作为格陵兰的首都，这座小而灵动的北极城市，将因纽特文化与北欧现代气息交织融合。它的故事始于1728年，由丹麦-挪威传教士汉斯·埃格德创建，最初的名字叫“Godthaab”，寓意“美好希望”。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_400x240.jpg "高角羚群紧急戒备") 2026-01-05 | ![](https://www.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_400x240.jpg "王者视野") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_400x240.jpg "传奇故事前的篇章") 2026-01-03 |
-| ![](https://www.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_400x240.jpg "威尼斯的灵魂") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_400x240.jpg "伸个懒腰，迈向新年！") 2026-01-01 | ![](https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_400x240.jpg "柏林，新年之桥") 2025-12-31 |
-| ![](https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_400x240.jpg "新太阳的诞生") 2025-12-30 |  |  |
+| ![](https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_400x240.jpg "努克的慵懒时光") 2026-01-06 | ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_400x240.jpg "高角羚群紧急戒备") 2026-01-05 | ![](https://www.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_400x240.jpg "王者视野") 2026-01-04 |
+| ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_400x240.jpg "传奇故事前的篇章") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_400x240.jpg "威尼斯的灵魂") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_400x240.jpg "伸个懒腰，迈向新年！") 2026-01-01 |
+| ![](https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_400x240.jpg "柏林，新年之桥") 2025-12-31 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/zh-CN/w_2026_01.md)
