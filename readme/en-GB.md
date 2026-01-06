@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_UHD.jpg)
-[2026-01-05 Herd on high alert A herd of impalas, Londolozi Game Reserve, South Africa(© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_UHD.jpg)
-What stands out about Londolozi Game Reserve in South Africa isn't just the wildlife—it's the long-term commitment behind it. Since 1926, its 58 square miles have supported research and monitored wildlife behaviour in their natural habitat. Located within the Sabi Sand Private Game Reserve, it is home to Africa's Big Five. Londolozi is part of a larger open system that connects with Kruger National Park, allowing animals such as elephants, rhinos, lions, leopards, zebras and many antelope species to move freely without fences holding them back.
+![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_UHD.jpg)
+[2026-01-06 Chillin' in Nuuk Nuuk, Greenland(© nevereverro/Getty Images)](https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_UHD.jpg)
+Picture a city where your daily commute offers views of fjords, drifting ice and the Northern Lights. That's everyday life in Nuuk, the capital of Greenland—a small yet spirited Arctic hub blending Inuit heritage with Nordic modernity. Founded in 1728 by Danish-Norwegian missionary Hans Egede, it began as a small settlement called Godthaab—'Good Hope.'
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_400x240.jpg "Herd on high alert") 2026-01-05 | ![](https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_400x240.jpg "A royal view") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_400x240.jpg "The steps before the saga") 2026-01-03 |
-| ![](https://www.bing.com/th?id=OHR.VeniceView_EN-GB4183487465_400x240.jpg "The soul of Venice") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529_400x240.jpg "Stretch into the New Year") 2026-01-01 | ![](https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_400x240.jpg "New year, Scottish style") 2025-12-31 |
-| ![](https://www.bing.com/th?id=OHR.JapanSwans_EN-GB2256410683_400x240.jpg "Whoop, there they fly") 2025-12-30 |  |  |
+| ![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_400x240.jpg "Chillin' in Nuuk") 2026-01-06 | ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_400x240.jpg "Herd on high alert") 2026-01-05 | ![](https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_400x240.jpg "A royal view") 2026-01-04 |
+| ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_400x240.jpg "The steps before the saga") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.VeniceView_EN-GB4183487465_400x240.jpg "The soul of Venice") 2026-01-02 | ![](https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529_400x240.jpg "Stretch into the New Year") 2026-01-01 |
+| ![](https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_400x240.jpg "New year, Scottish style") 2025-12-31 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
