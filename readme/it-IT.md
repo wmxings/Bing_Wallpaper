@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_UHD.jpg)
-[2026-01-07 Arco del Tempo Arco Turret, North Window, Arches National Park, Utah, USA(© Jim Patterson/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_UHD.jpg)
-Nel cuore dell’Arches National Park, nello stato americano dello Utah, il Turret Arch appare incorniciato dal North Window come un portale verso un tempo remoto. Le rocce geologiche di Entrada Sandstone raccontano una storia che inizia milioni di anni fa, quando dune mobili e mari poco profondi si trasformarono lentamente in pietra. L’erosione, paziente e instancabile, ha scolpito archi e forme che sembrano opere d’arte naturali, sospese tra cielo e deserto. Camminare tra queste strutture è come attraversare un paesaggio che sfida la misura umana del tempo. Ogni curva, ogni arco, è il risultato di ere geologiche che hanno plasmato la Terra con forza e delicatezza.
+![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_IT-IT4386633806_UHD.jpg)
+[2026-01-08 Natura e Cultura Storni sopra le rovine del West Pier di Brighton, Inghilterra(© Philip Reeve/Photodisc/Getty Images)](https://www.bing.com/th?id=OHR.StarlingBrighton2025_IT-IT4386633806_UHD.jpg)
+Quando un uccello porta il nome di storno, ci si aspetta che ami mettersi in mostra. Fedele al suo nome, questa piccola creatura sa come rubare la scena. Dalle piume scintillanti che riflettono verde e viola al sole, fino alla sua capacità di imitare i suoni, lo storno è il protagonista assoluto. Originario dell’Europa e dell’Asia, lo storno comune si è diffuso in tutto il mondo. Nel XIX secolo, un gruppo di questi uccelli fu introdotto a Central Park, a New York, da un appassionato di specie citate nelle opere di Shakespeare.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_400x240.jpg "Arco del Tempo") 2026-01-07 | ![](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_400x240.jpg "Befana in vista") 2026-01-06 | ![](https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_400x240.jpg "Sussurri boreali?") 2026-01-05 |
-| ![](https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_400x240.jpg "Vista Reale") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_400x240.jpg "Scenografia dell'Anello") 2026-01-03 | ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_400x240.jpg "Battito della Savana") 2026-01-02 |
-| ![](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_400x240.jpg "Già svegli?") 2026-01-01 |  |  |
+| ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_IT-IT4386633806_400x240.jpg "Natura e Cultura") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_400x240.jpg "Arco del Tempo") 2026-01-07 | ![](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_400x240.jpg "Befana in vista") 2026-01-06 |
+| ![](https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_400x240.jpg "Sussurri boreali?") 2026-01-05 | ![](https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_400x240.jpg "Vista Reale") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_400x240.jpg "Scenografia dell'Anello") 2026-01-03 |
+| ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_400x240.jpg "Battito della Savana") 2026-01-02 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
