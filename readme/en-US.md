@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg)
-[2026-01-08 Rust meets rush Starling murmuration over the ruins of Brighton's West Pier, England(© Philip Reeve/Photodisc/Getty Images)](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg)
-When a bird is called a starling, you'd expect it to be a bit of a show-off. True to its name, this little creature knows how to steal the spotlight. From shimmering feathers that glint green and purple in the sun, to its ability to mimic sounds, the starling is the headline act. Originally native to Europe and Asia, the common starling has spread across the globe. In the 19th century, a group of them were introduced to New York's Central Park by an enthusiast of birds mentioned in Shakespeare's plays.
+![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg)
+[2026-01-09 Where time grows tall Giant redwood trees in Muir Woods National Monument, California(© photo by canderson/Getty Images)](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg)
+Step into the realm of giants. Try embracing a BFG (Big Friendly Giant) as you wrap your arms around a thousand years of wisdom in a single tree trunk. Welcome to Muir Woods National Monument—established on this day in 1908—a majestic hall of coastal redwoods just north of San Francisco. These towering redwoods are the tallest trees on Earth—one here stretches about 258 feet, roughly the height of 43 people stacked head to toe. Most are 600–800 years old, and some have stood for over a millennium, yet they're still considered 'young' for a species that can live for 2,000 years.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_400x240.jpg "Rust meets rush") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_400x240.jpg "Rock legends") 2026-01-07 | ![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_400x240.jpg "Chillin' in Nuuk") 2026-01-06 |
-| ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_400x240.jpg "Herd on high alert") 2026-01-05 | ![](https://www.bing.com/th?id=OHR.KingMountain_EN-US6730743729_400x240.jpg "A royal view") 2026-01-04 | ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_400x240.jpg "The steps before the saga") 2026-01-03 |
-| ![](https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_400x240.jpg "The soul of Venice") 2026-01-02 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_400x240.jpg "Where time grows tall") 2026-01-09 | ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_400x240.jpg "Rust meets rush") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_400x240.jpg "Rock legends") 2026-01-07 |
+| ![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_400x240.jpg "Chillin' in Nuuk") 2026-01-06 | ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_400x240.jpg "Herd on high alert") 2026-01-05 | ![](https://www.bing.com/th?id=OHR.KingMountain_EN-US6730743729_400x240.jpg "A royal view") 2026-01-04 |
+| ![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_400x240.jpg "The steps before the saga") 2026-01-03 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
