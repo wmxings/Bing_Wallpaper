@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MatterhornSunrise_IT-IT0909125260_UHD.jpg)
-[2026-01-10 S'illumina d'immenso? Il Cervino riflesso nel lago Stellisee all'alba, Zermatt, Svizzera(© Andy Trowbridge/naturepl.com)](https://www.bing.com/th?id=OHR.MatterhornSunrise_IT-IT0909125260_UHD.jpg)
-Poche visioni sanno parlare al vostro cuore come il Cervino che si specchia nelle acque limpide del lago Stellisee. Con i suoi 4.478 metri, al confine tra Svizzera e Italia, questa vetta leggendaria è da sempre simbolo di bellezza e avventura, richiamo irresistibile per voi viaggiatori, alpinisti e sognatori che giungete da ogni parte del mondo. Da Zermatt, un borgo alpino che respira nel silenzio delle montagne, vedete il Cervino innalzarsi sovrano, con la sua sagoma frastagliata scolpita nel cielo come un’opera d’arte eterna.
+![](https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_UHD.jpg)
+[2026-01-11 Resistenza & Resilienza? Le mura blu di Chefchaouen, Marocco(© AnetteAndersen/Getty Images)](https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_UHD.jpg)
+L’11 gennaio 1944 il Marocco compì un passo audace verso la libertà. Sessantasei leader firmarono la Proclamazione d’Indipendenza, chiedendo la fine del dominio coloniale francese e spagnolo e affermando il diritto del Paese alla sovranità. Quel manifesto, sostenuto dal sultano Mohammed V, fu consegnato non solo alle autorità coloniali, ma anche ai rappresentanti degli Stati Uniti, del Regno Unito e dell’Unione Sovietica, segno che la lotta marocchina apparteneva al grande coro mondiale per l’autodeterminazione. La repressione non spense il movimento, e nel 1956 il Marocco conquistò l’indipendenza, aprendo una nuova pagina nella storia del Nord Africa.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_IT-IT0909125260_400x240.jpg "S'illumina d'immenso?") 2026-01-10 | ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_IT-IT0714561824_400x240.jpg "Il Bosco dei Giganti") 2026-01-09 | ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_IT-IT4386633806_400x240.jpg "Natura e Cultura") 2026-01-08 |
-| ![](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_400x240.jpg "Arco del Tempo") 2026-01-07 | ![](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_400x240.jpg "Befana in vista") 2026-01-06 | ![](https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_400x240.jpg "Sussurri boreali?") 2026-01-05 |
-| ![](https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_400x240.jpg "Vista Reale") 2026-01-04 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_400x240.jpg "Resistenza & Resilienza?") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_IT-IT0909125260_400x240.jpg "S'illumina d'immenso?") 2026-01-10 | ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_IT-IT0714561824_400x240.jpg "Il Bosco dei Giganti") 2026-01-09 |
+| ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_IT-IT4386633806_400x240.jpg "Natura e Cultura") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_400x240.jpg "Arco del Tempo") 2026-01-07 | ![](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_400x240.jpg "Befana in vista") 2026-01-06 |
+| ![](https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_400x240.jpg "Sussurri boreali?") 2026-01-05 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)

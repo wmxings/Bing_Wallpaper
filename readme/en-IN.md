@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-IN8628292064_UHD.jpg)
-[2026-01-10 Pure Swiss magic The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland(© Andy Trowbridge/naturepl.com)](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-IN8628292064_UHD.jpg)
-Few sights capture the spirit of the Alps like the Matterhorn mirrored in Lake Stellisee's glassy waters. Rising about 4,500 metres on the Swiss-Italian border, this legendary peak has long symbolised natural beauty and adventure, drawing climbers, hikers and dreamers from every corner of the globe.
+![](https://www.bing.com/th?id=OHR.BlueMorocco_EN-IN8859486933_UHD.jpg)
+[2026-01-11 From resistance to radiance Blue walls of Chefchaouen, Morocco(© AnetteAndersen/Getty Images)](https://www.bing.com/th?id=OHR.BlueMorocco_EN-IN8859486933_UHD.jpg)
+On 11 January, 1944, Morocco took a bold step toward freedom. 66 leaders signed the Proclamation of Independence, demanding an end to French and Spanish colonial rule and affirming the country's right to sovereignty. This manifesto, backed by Sultan Mohammed V, was presented not only to colonial authorities but also to representatives of the US, UK and the former Soviet Union—a signal that Morocco's struggle was part of a global call for self-determination. Though repression followed, the movement endured and by 1956 Morocco achieved full independence, marking a turning point in North African history.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-IN8628292064_400x240.jpg "Pure Swiss magic") 2026-01-10 | ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-IN2517667625_400x240.jpg "Where time grows tall") 2026-01-09 | ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-IN2955715491_400x240.jpg "Rust meets rush") 2026-01-08 |
-| ![](https://www.bing.com/th?id=OHR.OldRockArch_EN-IN2577038067_400x240.jpg "Rock legends") 2026-01-07 | ![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-IN2229697854_400x240.jpg "Chillin' in Nuuk") 2026-01-06 | ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-IN2071803879_400x240.jpg "Herd on high alert") 2026-01-05 |
-| ![](https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_400x240.jpg "A royal view") 2026-01-04 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BlueMorocco_EN-IN8859486933_400x240.jpg "From resistance to radiance") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-IN8628292064_400x240.jpg "Pure Swiss magic") 2026-01-10 | ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-IN2517667625_400x240.jpg "Where time grows tall") 2026-01-09 |
+| ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-IN2955715491_400x240.jpg "Rust meets rush") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.OldRockArch_EN-IN2577038067_400x240.jpg "Rock legends") 2026-01-07 | ![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-IN2229697854_400x240.jpg "Chillin' in Nuuk") 2026-01-06 |
+| ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-IN2071803879_400x240.jpg "Herd on high alert") 2026-01-05 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
