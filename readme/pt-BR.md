@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BlueMorocco_PT-BR3236946182_UHD.jpg)
-[2026-01-11 Cidades de resistência e liberdade Paredes azuis de Chefchaouen, Marrocos(© AnetteAndersen/Getty Images)](https://www.bing.com/th?id=OHR.BlueMorocco_PT-BR3236946182_UHD.jpg)
-Chefchaouen, a famosa "cidade azul" do Marrocos, que ilustra nossa imagem do dia, vai além da beleza — ela carrega uma rica história de resistência e luta pela liberdade. Em 1944, o país deu um passo crucial rumo à independência, com líderes exigindo o fim do domínio colonial francês e espanhol. Esse movimento pela soberania ganhou apoio internacional e, após anos de repressão, o Marrocos conquistou sua independência em 1956, mudando para sempre o rumo de sua história. Este ano, o país celebra o 70º aniversário da independência.
+![](https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_UHD.jpg)
+[2026-01-12 A guardiã dos rios Lontra-europeia e filhote, Estônia(© Sven Zacek/naturepl.com)](https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_UHD.jpg)
+Hoje observamos a lontra-europeia, um dos mamíferos mais fascinantes da Europa. Na Estônia, onde a foto do dia foi tirada, ela encontrou refúgio graças a rios limpos, pântanos e uma costa rica em alimento, sendo eleita por lá o animal do ano em 2024. Embora globalmente seja considerada quase ameaçada, sua população local cresceu de 300 indivíduos no início dos anos 2000 para cerca de 2 mil hoje. Atualmente, elas deslizam com agilidade nas florestas alagadas e águas tranquilas do país. Seu corpo aerodinâmico, pés palmados e cauda longa facilitam a caça de peixes, rãs e crustáceos, enquanto a pelagem espessa retém ar quente, permitindo mergulhos nos gelados canais do Báltico.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BlueMorocco_PT-BR3236946182_400x240.jpg "Cidades de resistência e liberdade") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_PT-BR3935856361_400x240.jpg "Pura magia suíça") 2026-01-10 | ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_400x240.jpg "Reino dos gigantes") 2026-01-09 |
-| ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_PT-BR8948857815_400x240.jpg "Quando o céu vira palco") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.NoronhaSunset_PT-BR9160496041_400x240.jpg "Paraíso brasileiro") 2026-01-07 | ![](https://www.bing.com/th?id=OHR.NuukGreenland_PT-BR9430819124_400x240.jpg "Muito além do gelo") 2026-01-06 |
-| ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_PT-BR9661107144_400x240.jpg "Manada em alerta máximo") 2026-01-05 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_400x240.jpg "A guardiã dos rios") 2026-01-12 | ![](https://www.bing.com/th?id=OHR.BlueMorocco_PT-BR3236946182_400x240.jpg "Cidades de resistência e liberdade") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_PT-BR3935856361_400x240.jpg "Pura magia suíça") 2026-01-10 |
+| ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_400x240.jpg "Reino dos gigantes") 2026-01-09 | ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_PT-BR8948857815_400x240.jpg "Quando o céu vira palco") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.NoronhaSunset_PT-BR9160496041_400x240.jpg "Paraíso brasileiro") 2026-01-07 |
+| ![](https://www.bing.com/th?id=OHR.NuukGreenland_PT-BR9430819124_400x240.jpg "Muito além do gelo") 2026-01-06 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
