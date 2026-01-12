@@ -1,14 +1,14 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_UHD.jpg)
-[2026-01-12 今日はスキーの日 ガーラ湯沢スキー場, 新潟県(© Metta Bunkeaw/Alamy)](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP2908444802_UHD.jpg)
+[2026-01-12 今日はスキーの日 ガーラ湯沢スキー場, 新潟県(© Metta Bunkeaw/Alamy)](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP2908444802_UHD.jpg)
 今日、1 月 12 日は「スキーの日」。1911 年（明治 44 年）の今日、当時のオーストリア・ハンガリー帝国の武官、テオドール・フォン・レルヒ少佐が日本の軍人にアルペンスキー術を指導しました。その後、スキー術が軍人から民間へと伝えられたことで、全国各地に「スキー」が普及したため、1994 年に、1 月 12 日が「スキーの日」として制定されました…
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_400x240.jpg "今日はスキーの日") 2026-01-12 | ![](https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_400x240.jpg "今日はモロッコの独立宣言記念日") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_400x240.jpg "朝日で黄金色に染まった山頂") 2026-01-10 |
+| ![](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP2908444802_400x240.jpg "今日はスキーの日") 2026-01-12 | ![](https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_400x240.jpg "今日はモロッコの独立宣言記念日") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_400x240.jpg "朝日で黄金色に染まった山頂") 2026-01-10 |
 | ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_JA-JP8497438583_400x240.jpg "今日はミュアウッズ国定公園の指定記念日") 2026-01-09 | ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_400x240.jpg "廃墟となった桟橋") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.OldRockArch_JA-JP5889672492_400x240.jpg "ノース・ウィンドウの開口部から望むタレットアーチ") 2026-01-07 |
 | ![](https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_400x240.jpg "グリーンランドの最大の都市") 2026-01-06 |  |  |
 
