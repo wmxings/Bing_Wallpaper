@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BlueMorocco_FR-FR4860652279_UHD.jpg)
-[2026-01-11 De la résistance au rayonnement Murs bleus de Chefchaouen, Maroc(© AnetteAndersen/Getty Images)](https://www.bing.com/th?id=OHR.BlueMorocco_FR-FR4860652279_UHD.jpg)
-Le 11 janvier 1944, le Maroc a posé un geste audacieux vers la liberté. Soixante-six leaders ont signé le Manifeste de l’Indépendance, exigeant la fin de la domination française et espagnole et affirmant le droit du pays à décider de son avenir. Soutenu par le sultan Mohammed V, ce document a été remis aux autorités coloniales ainsi qu’aux représentants des États-Unis, du Royaume-Uni et de l’ex-URSS, inscrivant ainsi la cause marocaine dans le grand mouvement mondial pour l’autodétermination. Malgré la répression, la flamme est restée vive jusqu’à l’indépendance en 1956, une étape clé pour l’Afrique du Nord.
+![](https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_UHD.jpg)
+[2026-01-12 L'Estonie, le paradis de nos loutres d'Europe Une loutre d’Europe et son petit, Estonie(© Sven Zacek/naturepl.com)](https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_UHD.jpg)
+Ce ne sont pas les traces dans la neige qui trahissent leur présence, mais ces museaux givrés qui émergent comme s’ils découvraient l’hiver. L’Estonie est l’un des meilleurs refuges européens pour la loutre d’Europe, grâce à ses rivières limpides, ses vastes zones humides et son littoral riche en proies. Espèce protégée, elle a été désignée « Animal de l’année » en 2024. Longtemps menacée, sa population est passée de moins de 300 individus avant 2000 à près de 2 000 aujourd’hui.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BlueMorocco_FR-FR4860652279_400x240.jpg "De la résistance au rayonnement") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_400x240.jpg "La magie des Alpes suisses") 2026-01-10 | ![](https://www.bing.com/th?id=OHR.CorsicaDay_FR-FR4522810421_400x240.jpg "Un détour par l'Île de Beauté") 2026-01-09 |
-| ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_FR-FR5924794368_400x240.jpg "La danse des étourneaux") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.OldRockArch_FR-FR3181488413_400x240.jpg "Une fenêtre sur le temps") 2026-01-07 | ![](https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_400x240.jpg "Qui aura la fève ?") 2026-01-06 |
-| ![](https://www.bing.com/th?id=OHR.ImpalaRooibok_FR-FR4421344601_400x240.jpg "L'histoire silencieuse des impalas") 2026-01-05 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_400x240.jpg "L'Estonie, le paradis de nos loutres d'Europe") 2026-01-12 | ![](https://www.bing.com/th?id=OHR.BlueMorocco_FR-FR4860652279_400x240.jpg "De la résistance au rayonnement") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_400x240.jpg "La magie des Alpes suisses") 2026-01-10 |
+| ![](https://www.bing.com/th?id=OHR.CorsicaDay_FR-FR4522810421_400x240.jpg "Un détour par l'Île de Beauté") 2026-01-09 | ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_FR-FR5924794368_400x240.jpg "La danse des étourneaux") 2026-01-08 | ![](https://www.bing.com/th?id=OHR.OldRockArch_FR-FR3181488413_400x240.jpg "Une fenêtre sur le temps") 2026-01-07 |
+| ![](https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_400x240.jpg "Qui aura la fève ?") 2026-01-06 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
