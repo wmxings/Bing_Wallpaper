@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg)
-[2026-01-14 Ascending history at Palamidi The staircase of the Fortress of Palamidi, Nafplio, Greece(© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg)
-National Take the Stairs Day, observed on the second Wednesday of January, encourages everyone to add small bursts of movement to daily life. Choosing stairs instead of elevators, or fitting in a short walk or bike ride, helps build healthier habits. With millions living with chronic lung disease and air quality concerns growing, simple actions that strengthen our bodies matter more than ever.
+![](https://www.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg)
+[2026-01-15 Tiny village, big views The fishing village of Reine, Norway(© Roberto Moiola/Cavan Images/SuperStock)](https://www.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg)
+Tucked deep within Norway's Arctic Circle, Reine feels like the kind of place you see on a postcard and assume can't possibly be real. But it is. This small fishing village of about 300 residents is known for its steep mountains, calm fjords, and bright red rorbuer—traditional fishermen's cabins—that dot the shoreline. Despite its size, Reine draws thousands of visitors each year.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_400x240.jpg "Ascending history at Palamidi") 2026-01-14 | ![](https://www.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_400x240.jpg "Apple rhymes and old times") 2026-01-13 | ![](https://www.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_400x240.jpg "Otter-ly Estonia") 2026-01-12 |
-| ![](https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_400x240.jpg "From resistance to radiance") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_400x240.jpg "Pure Swiss magic") 2026-01-10 | ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_400x240.jpg "Where time grows tall") 2026-01-09 |
-| ![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_400x240.jpg "Rust meets rush") 2026-01-08 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_400x240.jpg "Tiny village, big views") 2026-01-15 | ![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_400x240.jpg "Ascending history at Palamidi") 2026-01-14 | ![](https://www.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_400x240.jpg "Apple rhymes and old times") 2026-01-13 |
+| ![](https://www.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_400x240.jpg "Otter-ly Estonia") 2026-01-12 | ![](https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_400x240.jpg "From resistance to radiance") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_400x240.jpg "Pure Swiss magic") 2026-01-10 |
+| ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_400x240.jpg "Where time grows tall") 2026-01-09 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
