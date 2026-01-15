@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302_UHD.jpg)
-[2026-01-14 Ascending history at Palamidi The staircase of the Fortress of Palamidi, Nafplio, Greece(© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302_UHD.jpg)
-Some landmarks invite you in. This one makes you work for it—857 steps, eight bastions and centuries of power plays later, the Fortress of Palamidi still believes history should be earned the hard way. Rising 216 metres above the city of Nafplio in Greece, this Venetian-built stronghold dates to 1714. Each bastion of this impressive fortification is designed as an independent unit so that if one fell, the others could still be defended. The Ottomans captured the fortress a year after completion, and Greece reclaimed it in 1822, renaming the bastions after heroes like Achilles and Leonidas. Today, visitors often test themselves on the fortress's famous staircase—once believed to have 999 steps, though the actual count is 857. At the top, sweeping views of the Argolic Gulf make every step worthwhile.
+![](https://www.bing.com/th?id=OHR.ReineSunrise_EN-GB2185341004_UHD.jpg)
+[2026-01-15 Tiny village, big views The fishing village of Reine, Norway(© Roberto Moiola/Cavan Images/SuperStock)](https://www.bing.com/th?id=OHR.ReineSunrise_EN-GB2185341004_UHD.jpg)
+Tucked deep within Norway's Arctic Circle, Reine feels like the kind of place you see on a postcard and assume can't possibly be real. But it is. This small fishing village of about 300 residents is known for its steep mountains, calm fjords and bright red rorbuer—traditional fishermen's cabins—that dot the shoreline. Despite its size, Reine draws thousands of visitors each year.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302_400x240.jpg "Ascending history at Palamidi") 2026-01-14 | ![](https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613_400x240.jpg "Apple rhymes and old times") 2026-01-13 | ![](https://www.bing.com/th?id=OHR.SnowOtters_EN-GB1734376903_400x240.jpg "Otter-ly Estonia") 2026-01-12 |
-| ![](https://www.bing.com/th?id=OHR.BlueMorocco_EN-GB1561607331_400x240.jpg "From resistance to radiance") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-GB1417688844_400x240.jpg "Pure Swiss magic") 2026-01-10 | ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-GB2101130312_400x240.jpg "Where time grows tall") 2026-01-09 |
-| ![](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-GB7363670202_400x240.jpg "Crested and curious") 2026-01-08 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ReineSunrise_EN-GB2185341004_400x240.jpg "Tiny village, big views") 2026-01-15 | ![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302_400x240.jpg "Ascending history at Palamidi") 2026-01-14 | ![](https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613_400x240.jpg "Apple rhymes and old times") 2026-01-13 |
+| ![](https://www.bing.com/th?id=OHR.SnowOtters_EN-GB1734376903_400x240.jpg "Otter-ly Estonia") 2026-01-12 | ![](https://www.bing.com/th?id=OHR.BlueMorocco_EN-GB1561607331_400x240.jpg "From resistance to radiance") 2026-01-11 | ![](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-GB1417688844_400x240.jpg "Pure Swiss magic") 2026-01-10 |
+| ![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-GB2101130312_400x240.jpg "Where time grows tall") 2026-01-09 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
