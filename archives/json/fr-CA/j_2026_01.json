@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-01-18",
+    "head_line": "Le mirage d'un desert",
+    "title": "Parc National des White Sands, Nouveau-Mexique, États-Unis",
+    "copyright": "© Francesco Carucci/Getty Images",
+    "desc": "Imaginez un désert blanc qui scintille comme de la neige : nous voici à White Sands, au cœur du Nouveau-Mexique (États-Unis). Ici, les dunes ne sont pas de sable ordinaire comme celui de nos Dunes de Tadoussac, mais de gypse, formées par des cristaux érodés durant des millénaires. Elles s’étendent sur 712 km², restant fraîches même sous le soleil brûlant, tel un mirage glacé au milieu du désert.",
+    "image_url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-01-17",
     "head_line": "Le dôme de la Piazza del Plebiscito",
     "title": "Basilique San Francesco di Paola, Naples, Italie",
