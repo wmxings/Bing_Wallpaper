@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_UHD.jpg)
-[2026-01-18 Um deserto disfarçado Parque Nacional de White Sands, Novo México, EUA(© Francesco Carucci/Getty Images)](https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_UHD.jpg)
-Já imaginou um lugar onde a areia parece neve? Na imagem, o Parque Nacional White Sands, no Novo México, Estados Unidos, poderia ser confundido com o Ártico. Mas, em vez de gelo, essas dunas são feitas de gipsita — cristais de gesso que se fragmentaram ao longo de milhares de anos. O resultado? Mais de 700 km² de areia branca, formando o maior campo de dunas de gesso do planeta. Criado como monumento nacional em 1933, o parque protege esse fenômeno geológico raro, que permanece fresco mesmo sob o sol intenso.
+![](https://www.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_UHD.jpg)
+[2026-01-19 O Caribe Amazônico Praia de Alter do Chão, Santarém, Pará(© Ricardo Lima/Getty Images)](https://www.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_UHD.jpg)
+Venha descobrir o paraíso da Amazônia! A imagem mostra Alter do Chão, uma das praias mais famosas do Brasil, localizada em Santarém, no Pará. Conhecida como o “Caribe Amazônico”, ela encanta com areia branca e águas cristalinas, formando um cenário memorável em plena floresta. A praia surge principalmente no período de seca, entre agosto e dezembro, quando o nível do rio baixa e revela extensas faixas de areia.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_400x240.jpg "Um deserto disfarçado") 2026-01-18 | ![](https://www.bing.com/th?id=OHR.NaplesBasilica_PT-BR5152958001_400x240.jpg "Arquitetura sagrada") 2026-01-17 | ![](https://www.bing.com/th?id=OHR.EtoshaLeopard_PT-BR5495755355_400x240.jpg "O mestre do disfarce") 2026-01-16 |
-| ![](https://www.bing.com/th?id=OHR.Bonfim_PT-BR7860220146_400x240.jpg "Tradição, cores e história") 2026-01-15 | ![](https://www.bing.com/th?id=OHR.PalamidiFortress_PT-BR5746626849_400x240.jpg "Degraus que contam histórias") 2026-01-14 | ![](https://www.bing.com/th?id=OHR.WalesWinter_PT-BR5293630006_400x240.jpg "Sabores e versos do passado") 2026-01-13 |
-| ![](https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_400x240.jpg "A guardiã dos rios") 2026-01-12 |  |  |
+| ![](https://www.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_400x240.jpg "O Caribe Amazônico") 2026-01-19 | ![](https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_400x240.jpg "Um deserto disfarçado") 2026-01-18 | ![](https://www.bing.com/th?id=OHR.NaplesBasilica_PT-BR5152958001_400x240.jpg "Arquitetura sagrada") 2026-01-17 |
+| ![](https://www.bing.com/th?id=OHR.EtoshaLeopard_PT-BR5495755355_400x240.jpg "O mestre do disfarce") 2026-01-16 | ![](https://www.bing.com/th?id=OHR.Bonfim_PT-BR7860220146_400x240.jpg "Tradição, cores e história") 2026-01-15 | ![](https://www.bing.com/th?id=OHR.PalamidiFortress_PT-BR5746626849_400x240.jpg "Degraus que contam histórias") 2026-01-14 |
+| ![](https://www.bing.com/th?id=OHR.WalesWinter_PT-BR5293630006_400x240.jpg "Sabores e versos do passado") 2026-01-13 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
