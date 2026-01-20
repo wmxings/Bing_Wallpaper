@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_UHD.jpg)
-[2026-01-19 Eisblasen im Winterlicht Gefrorener Abraham Lake, Alberta, Kanada(© Luis F Arevalo/Getty Images)](https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_UHD.jpg)
-Wenn der Winter über die Rocky Mountains in der kanadischen Provinz Alberta zieht, verwandelt sich der Abraham Lake in ein Naturwunder, das fast unwirklich scheint. Unter der glasklaren Eisfläche erstarren Hunderte weiße Blasen in unterschiedlichen Formen und Schichten. Diese spektakulären Muster entstehen, wenn im Wasser versunkene Pflanzen Methan freisetzen. Bei stark fallenden Temperaturen steigen die Gasblasen nach oben, gefrieren jedoch in aufeinanderliegenden Schichten und bilden so ein einzigartiges, beinahe grafisches Muster, das weltweit Fotografen und Naturbegeisterte anzieht.
+![](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_UHD.jpg)
+[2026-01-20 Am Puls des Eises Eselspinguin, Petermann-Insel, Antarktis(© Paul Souders/DanitaDelimont.com/Alamy)](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_UHD.jpg)
+Eisige Landschaften wirken still, doch darunter pulsiert das Leben. Der Eselspinguin, den wir heute unter einem Bogen aus blauem Eis sehen, ist ein beeindruckendes Beispiel für die Anpassungsfähigkeit von Tieren in extremen Lebensräumen. Der Tag des Pinguins am 20. Januar lädt dazu ein, diese Überlebenskünstler genauer zu betrachten und ihre Rolle im Polarökosystem zu verstehen.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_400x240.jpg "Eisblasen im Winterlicht") 2026-01-19 | ![](https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725_400x240.jpg "Verborgene weiße Wüste") 2026-01-18 | ![](https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_400x240.jpg "Kuppel an der Piazza del Plebiscito") 2026-01-17 |
-| ![](https://www.bing.com/th?id=OHR.EtoshaLeopard_DE-DE0061843984_400x240.jpg "Wachsam und wild") 2026-01-16 | ![](https://www.bing.com/th?id=OHR.ReineSunrise_DE-DE8669629627_400x240.jpg "Kleines Dorf, große Aussichten") 2026-01-15 | ![](https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_400x240.jpg "Geschichte Stufe für Stufe") 2026-01-14 |
-| ![](https://www.bing.com/th?id=OHR.WalesWinter_DE-DE8247163112_400x240.jpg "Wo Zeit anders läuft") 2026-01-13 |  |  |
+| ![](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_400x240.jpg "Am Puls des Eises") 2026-01-20 | ![](https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_400x240.jpg "Eisblasen im Winterlicht") 2026-01-19 | ![](https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725_400x240.jpg "Verborgene weiße Wüste") 2026-01-18 |
+| ![](https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_400x240.jpg "Kuppel an der Piazza del Plebiscito") 2026-01-17 | ![](https://www.bing.com/th?id=OHR.EtoshaLeopard_DE-DE0061843984_400x240.jpg "Wachsam und wild") 2026-01-16 | ![](https://www.bing.com/th?id=OHR.ReineSunrise_DE-DE8669629627_400x240.jpg "Kleines Dorf, große Aussichten") 2026-01-15 |
+| ![](https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_400x240.jpg "Geschichte Stufe für Stufe") 2026-01-14 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
