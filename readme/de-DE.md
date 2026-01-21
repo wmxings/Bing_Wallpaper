@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_UHD.jpg)
-[2026-01-20 Am Puls des Eises Eselspinguin, Petermann-Insel, Antarktis(© Paul Souders/DanitaDelimont.com/Alamy)](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_UHD.jpg)
-Eisige Landschaften wirken still, doch darunter pulsiert das Leben. Der Eselspinguin, den wir heute unter einem Bogen aus blauem Eis sehen, ist ein beeindruckendes Beispiel für die Anpassungsfähigkeit von Tieren in extremen Lebensräumen. Der Tag des Pinguins am 20. Januar lädt dazu ein, diese Überlebenskünstler genauer zu betrachten und ihre Rolle im Polarökosystem zu verstehen.
+![](https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073_UHD.jpg)
+[2026-01-21 Ein roter Blitz im Winterweiß Eurasisches Eichhörnchen(© Galina Jacyna/Getty Images)](https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073_UHD.jpg)
+Im glitzernden Winterwald huscht ein kleiner Akrobat durch den Schnee. Das Eurasische Eichhörnchen bewegt sich geschickt zwischen Ästen und Boden, sein dichtes, rötlich-braunes Fell sowie die markanten Ohrpinsel schützen es zuverlässig vor der Kälte. Sein buschiger Schwanz dient ihm als Balancehilfe und an frostigen Tagen sogar als wärmende Decke. In Deutschland ist das Eichhörnchen weit verbreitet, von den Alpen bis an die Küsten. Als heimische Art steht es unter strengem Gesetzesschutz, der das Fangen, Verletzen oder Stören der Tiere untersagt.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_400x240.jpg "Am Puls des Eises") 2026-01-20 | ![](https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_400x240.jpg "Eisblasen im Winterlicht") 2026-01-19 | ![](https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725_400x240.jpg "Verborgene weiße Wüste") 2026-01-18 |
-| ![](https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_400x240.jpg "Kuppel an der Piazza del Plebiscito") 2026-01-17 | ![](https://www.bing.com/th?id=OHR.EtoshaLeopard_DE-DE0061843984_400x240.jpg "Wachsam und wild") 2026-01-16 | ![](https://www.bing.com/th?id=OHR.ReineSunrise_DE-DE8669629627_400x240.jpg "Kleines Dorf, große Aussichten") 2026-01-15 |
-| ![](https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_400x240.jpg "Geschichte Stufe für Stufe") 2026-01-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073_400x240.jpg "Ein roter Blitz im Winterweiß") 2026-01-21 | ![](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_400x240.jpg "Am Puls des Eises") 2026-01-20 | ![](https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_400x240.jpg "Eisblasen im Winterlicht") 2026-01-19 |
+| ![](https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725_400x240.jpg "Verborgene weiße Wüste") 2026-01-18 | ![](https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_400x240.jpg "Kuppel an der Piazza del Plebiscito") 2026-01-17 | ![](https://www.bing.com/th?id=OHR.EtoshaLeopard_DE-DE0061843984_400x240.jpg "Wachsam und wild") 2026-01-16 |
+| ![](https://www.bing.com/th?id=OHR.ReineSunrise_DE-DE8669629627_400x240.jpg "Kleines Dorf, große Aussichten") 2026-01-15 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
