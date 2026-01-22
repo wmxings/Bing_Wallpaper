@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-GB6028511849_UHD.jpg)
-[2026-01-21 A flash of red in the winter white Eurasian red squirrel(© Galina Jacyna/Getty Images)](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-GB6028511849_UHD.jpg)
-Today's image shows a Eurasian red squirrel perched in the snow, displaying the winter fur and tufted ears that make this species so striking. Native to forests across Europe and parts of Asia, red squirrels rely on seeds, nuts and fungi, stashing food in scattered caches and building nests high in hollow trees to survive the colder months.
+![](https://www.bing.com/th?id=OHR.KarlovyVary_EN-GB6157843860_UHD.jpg)
+[2026-01-22 A Bohemian spa story Karlovy Vary, Bohemia, Czechia(© Henryk Sadura/Getty Images)](https://www.bing.com/th?id=OHR.KarlovyVary_EN-GB6157843860_UHD.jpg)
+In today's image, winter settles over Karlovy Vary in Czechia, a pastel valley that built its identity around the hot springs rising through its hills. The eponymous city traces its beginnings to accounts of Charles IV, then king of Bohemia (a historic region of Czechia) and later Roman Emperor, encountering a steaming pool here in the 14th century, an early moment that set this quiet part of Bohemia on the path to becoming a spa retreat.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-GB6028511849_400x240.jpg "A flash of red in the winter white") 2026-01-21 | ![](https://www.bing.com/th?id=OHR.IciclePenguin_EN-GB5926075380_400x240.jpg "Life on the edge of the ice") 2026-01-20 | ![](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-GB2806407133_400x240.jpg "Nature's pop art") 2026-01-19 |
-| ![](https://www.bing.com/th?id=OHR.PoohDay2026_EN-GB2644442653_400x240.jpg "Lost in the Hundred Acres") 2026-01-18 | ![](https://www.bing.com/th?id=OHR.NaplesBasilica_EN-GB2516304754_400x240.jpg "The dome of Piazza del Plebiscito") 2026-01-17 | ![](https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-GB2310527142_400x240.jpg "Eye see you") 2026-01-16 |
-| ![](https://www.bing.com/th?id=OHR.ReineSunrise_EN-GB2185341004_400x240.jpg "Tiny village, big views") 2026-01-15 |  |  |
+| ![](https://www.bing.com/th?id=OHR.KarlovyVary_EN-GB6157843860_400x240.jpg "A Bohemian spa story") 2026-01-22 | ![](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-GB6028511849_400x240.jpg "A flash of red in the winter white") 2026-01-21 | ![](https://www.bing.com/th?id=OHR.IciclePenguin_EN-GB5926075380_400x240.jpg "Life on the edge of the ice") 2026-01-20 |
+| ![](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-GB2806407133_400x240.jpg "Nature's pop art") 2026-01-19 | ![](https://www.bing.com/th?id=OHR.PoohDay2026_EN-GB2644442653_400x240.jpg "Lost in the Hundred Acres") 2026-01-18 | ![](https://www.bing.com/th?id=OHR.NaplesBasilica_EN-GB2516304754_400x240.jpg "The dome of Piazza del Plebiscito") 2026-01-17 |
+| ![](https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-GB2310527142_400x240.jpg "Eye see you") 2026-01-16 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
