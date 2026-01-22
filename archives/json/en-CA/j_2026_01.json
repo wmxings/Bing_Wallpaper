@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-01-22",
+    "head_line": "A Bohemian spa story",
+    "title": "Karlovy Vary, Bohemia, Czechia",
+    "copyright": "© Henryk Sadura/Getty Images",
+    "desc": "In today's image, winter settles over Karlovy Vary in Czechia, a pastel valley that built its identity around the hot springs rising through its hills. The eponymous city traces its beginnings to accounts of Charles IV, then king of Bohemia (a historic region of Czechia) and later Roman Emperor, encountering a steaming pool here in the 14th century, an early moment that set this quiet part of Bohemia on the path to becoming a spa retreat.",
+    "image_url": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-01-21",
     "head_line": "A flash of red in the winter white",
     "title": "Eurasian red squirrel",
