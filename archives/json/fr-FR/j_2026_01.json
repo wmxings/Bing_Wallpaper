@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-01-24",
+    "head_line": "Rendez-vous sur les pistes !",
+    "title": "Le village d’Andermatt, Suisse",
+    "copyright": "© Xantana/Getty Images",
+    "desc": "Nichée au cœur de la vallée d’Urseren, en Suisse, à près de 1 440 mètres d’altitude, Andermatt dévoile son charme authentique, entourée par les sommets majestueux des Alpes suisses. Elle apparaît comme un carrefour historique et s’ouvre sur trois cols mythiques – le Gothard, la Furka et l’Oberalp – qui relient cultures et horizons, comme nos routes alpines françaises qui serpentent vers le Galibier ou l’Iseran, reliant vallées et traditions.",
+    "image_url": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-01-23",
     "head_line": "Quand la tradition viking s'invite à table",
     "title": "Des moutons dans la neige, Islande",
