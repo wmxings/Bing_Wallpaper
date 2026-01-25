@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_UHD.jpg)
-[2026-01-24 Bellezza è imperfezione Torre di Pisa, Pisa, Toscana(© seng chye teo/Moment)](https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_UHD.jpg)
-A volte un monumento diventa famoso per un difetto, eppure quel difetto racconta più della perfezione. La Torre di Pisa, nata nel 1173 come semplice campanile della cattedrale, iniziò a inclinarsi già al terzo piano, nel 1178, perché poggiava su un terreno argilloso troppo morbido. Da allora, la sua storia è un continuo dialogo tra gravità e ingegno umano. La costruzione si interruppe più volte per guerre e problemi tecnici, e questo, paradossalmente, la salvò. Il terreno ebbe così il tempo di assestarsi, evitando un crollo precoce.
+![](https://www.bing.com/th?id=OHR.BurnsPark_IT-IT3697470063_UHD.jpg)
+[2026-01-25 Poesia è Tradizione Burns National Heritage Park, Ayr, Ayrshire, Scozia(© Alister Firth/Alamy)](https://www.bing.com/th?id=OHR.BurnsPark_IT-IT3697470063_UHD.jpg)
+Ogni 25 gennaio, alzate un bicchiere per Robert Burns, il poeta che la Scozia porta nell’anima. La vostra Burns Night supper diventa un piccolo rito di calore e ironia: l’haggis, un saporito insaccato di carne, avena e spezie, accompagnato da neeps (purè di rape) e tatties (purè di patate), qualche verso letto ad alta voce e un sorso di whisky che scalda come un focolare acceso. Anche lontani dalla Scozia, vi basta apparecchiare, scegliere una poesia e lasciare che i brindisi trovino la loro strada.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_400x240.jpg "Bellezza è imperfezione") 2026-01-24 | ![](https://www.bing.com/th?id=OHR.IcelandSheep_IT-IT3552522867_400x240.jpg "Il calore del gelo") 2026-01-23 | ![](https://www.bing.com/th?id=OHR.KarlovyVary_IT-IT4150505640_400x240.jpg "Il respiro delle terme") 2026-01-22 |
-| ![](https://www.bing.com/th?id=OHR.BerrySquirrel_IT-IT4115553283_400x240.jpg "Radici, semi e futuro") 2026-01-21 | ![](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4262045366_400x240.jpg "Danza tra i ghiacchi") 2026-01-20 | ![](https://www.bing.com/th?id=OHR.BubblesAbraham_IT-IT4374269111_400x240.jpg "Chimica artistica") 2026-01-19 |
-| ![](https://www.bing.com/th?id=OHR.WhiteSandsNM_IT-IT4233174692_400x240.jpg "Pace e Sabbia") 2026-01-18 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BurnsPark_IT-IT3697470063_400x240.jpg "Poesia è Tradizione") 2026-01-25 | ![](https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_400x240.jpg "Bellezza è imperfezione") 2026-01-24 | ![](https://www.bing.com/th?id=OHR.IcelandSheep_IT-IT3552522867_400x240.jpg "Il calore del gelo") 2026-01-23 |
+| ![](https://www.bing.com/th?id=OHR.KarlovyVary_IT-IT4150505640_400x240.jpg "Il respiro delle terme") 2026-01-22 | ![](https://www.bing.com/th?id=OHR.BerrySquirrel_IT-IT4115553283_400x240.jpg "Radici, semi e futuro") 2026-01-21 | ![](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4262045366_400x240.jpg "Danza tra i ghiacchi") 2026-01-20 |
+| ![](https://www.bing.com/th?id=OHR.BubblesAbraham_IT-IT4374269111_400x240.jpg "Chimica artistica") 2026-01-19 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
