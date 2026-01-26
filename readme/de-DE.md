@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_UHD.jpg)
-[2026-01-25 Ein Abend voller Geschichte Burns National Heritage Park, Ayr, Ayrshire, Schottland(© Alister Firth/Alamy)](https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_UHD.jpg)
-Jedes Jahr am 25. Januar gedenken Menschen in Schottland und auf der ganzen Welt Robert Burns, dem Nationaldichter des Landes. An seinem Geburtstag findet traditionell die sogenannte Burns Night statt – ein Abend, der Humor, Tradition und geselliges Beisammensein verbindet und auch als Burns Supper bekannt ist. Im Mittelpunkt steht dabei oft Haggis, eine herzhafte Spezialität aus Fleisch, Hafer und Gewürzen, die mit Neeps (Steckrüben) und Tatties (Kartoffelpüree) serviert wird. Es werden Gedichte von Burns vorgetragen, Whisky ausgeschenkt und nicht selten gemeinsam „Auld Lang Syne“ angestimmt.
+![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_UHD.jpg)
+[2026-01-26 Wie aus dem Märchen entsprungen Schneebedecktes Schloss Neuschwanstein bei Hohenschwangau, Bayern(© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_UHD.jpg)
+Kaum ein Schloss hat die Fantasie der Menschen weltweit so sehr geprägt wie Neuschwanstein – und das nicht nur in Bayern. Walt Disney ließ sich bei der Gestaltung des Dornröschen-Schlosses im kalifornischen Disneyland von diesem Anblick inspirieren. Heute ragt das Bauwerk hoch über Hohenschwangau und die verschneiten Allgäuer Wälder empor und wirkt wie ein Tor in eine andere Zeit.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_400x240.jpg "Ein Abend voller Geschichte") 2026-01-25 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_DE-DE4290950061_400x240.jpg "Auszeit in der Schweiz") 2026-01-24 | ![](https://www.bing.com/th?id=OHR.IcelandSheep_DE-DE7690872056_400x240.jpg "Festmahl trotz Frost") 2026-01-23 |
-| ![](https://www.bing.com/th?id=OHR.Mimramfootbridge_DE-DE7428215729_400x240.jpg "Grenzenlos verbunden") 2026-01-22 | ![](https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073_400x240.jpg "Ein roter Blitz im Winterweiß") 2026-01-21 | ![](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_400x240.jpg "Am Puls des Eises") 2026-01-20 |
-| ![](https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_400x240.jpg "Eisblasen im Winterlicht") 2026-01-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_400x240.jpg "Wie aus dem Märchen entsprungen") 2026-01-26 | ![](https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_400x240.jpg "Ein Abend voller Geschichte") 2026-01-25 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_DE-DE4290950061_400x240.jpg "Auszeit in der Schweiz") 2026-01-24 |
+| ![](https://www.bing.com/th?id=OHR.IcelandSheep_DE-DE7690872056_400x240.jpg "Festmahl trotz Frost") 2026-01-23 | ![](https://www.bing.com/th?id=OHR.Mimramfootbridge_DE-DE7428215729_400x240.jpg "Grenzenlos verbunden") 2026-01-22 | ![](https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073_400x240.jpg "Ein roter Blitz im Winterweiß") 2026-01-21 |
+| ![](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_400x240.jpg "Am Puls des Eises") 2026-01-20 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
