@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg)
-[2026-01-25 Tradition burns bright Burns National Heritage Park, Ayr, Ayrshire, Scotland(© Alister Firth/Alamy)](https://www.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg)
-Each January 25, Scots and friends around the world raise a toast to Robert Burns, Scotland's beloved national poet. A Burns Night supper blends warmth and wit: the centerpiece is haggis, a savory pudding made from minced meat, oats, and spices, served with neeps (mashed turnips) and tatties (mashed potatoes). Add plenty of good cheer, readings of Burns's verse, and a dram of whisky, and you have a celebration that ends with a rousing chorus of 'Auld Lang Syne.' Even if you're celebrating stateside, these traditions are easy to adopt—set the table, cue the poetry, and let the toasts flow.
+![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg)
+[2026-01-26 Bavaria's gem Neuschwanstein Castle, Bavaria, Germany(© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg)
+The story of Neuschwanstein Castle begins with the dreams of King Ludwig II of Bavaria, who imagined a retreat inspired by medieval legends and grand operas. Set among mountains and forests, the castle rises with delicate towers and intricate stonework that seem to float above the valley. Although construction started in the nineteenth century, the palace was never fully completed, which adds to its aura of mystery.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_400x240.jpg "Tradition burns bright") 2026-01-25 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_400x240.jpg "A Swiss escape") 2026-01-24 | ![](https://www.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_400x240.jpg "Feasting through frost") 2026-01-23 |
-| ![](https://www.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_400x240.jpg "A Bohemian spa story") 2026-01-22 | ![](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_400x240.jpg "A flash of red in the winter white") 2026-01-21 | ![](https://www.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_400x240.jpg "Life on the edge of the ice") 2026-01-20 |
-| ![](https://www.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_400x240.jpg "Standing where hope rose") 2026-01-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_400x240.jpg "Bavaria's gem") 2026-01-26 | ![](https://www.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_400x240.jpg "Tradition burns bright") 2026-01-25 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_400x240.jpg "A Swiss escape") 2026-01-24 |
+| ![](https://www.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_400x240.jpg "Feasting through frost") 2026-01-23 | ![](https://www.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_400x240.jpg "A Bohemian spa story") 2026-01-22 | ![](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_400x240.jpg "A flash of red in the winter white") 2026-01-21 |
+| ![](https://www.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_400x240.jpg "Life on the edge of the ice") 2026-01-20 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
