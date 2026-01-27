@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_UHD.jpg)
-[2026-01-26 Una villa detenida en el tiempo Ochagavía cubierta de nieve, Navarra, España(© PhotosTime/Getty Images)](https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_UHD.jpg)
-Cubierta de nieve, Ochagavía (Otsagabia) ofrece una de las imágenes invernales más sugerentes de Navarra. Esta villa de poco más de 480 habitantes, situada en el valle de Salazar, a 85 kilómetros de Pamplona, destaca por su arquitectura tradicional, con casas de piedra, tejados muy inclinados y un puente medieval sobre el río Anduña que parece sacado de una postal.
+![](https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270_UHD.jpg)
+[2026-01-27 Sociable y ancestral Pelícanos ceñudos, Lago Kerkini, Grecia(© Guy Edwardes/naturepl.com)](https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270_UHD.jpg)
+El invierno en el lago Kerkini, en el norte de Grecia, regala algunas de las mejores vistas de pelícanos ceñudos de Europa. Sus enormes siluetas se deslizan en grupos compactos sobre las aguas tranquilas, dejando patente su impresionante tamaño. Con más de tres metros de envergadura, figuran entre las aves voladoras más grandes del mundo. Las condiciones invernales del lago permiten observarlos a corta distancia, con nitidez y continuidad.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_400x240.jpg "Una villa detenida en el tiempo") 2026-01-26 | ![](https://www.bing.com/th?id=OHR.BurnsPark_ES-ES4298228176_400x240.jpg "Cena de poesías") 2026-01-25 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_ES-ES1707128541_400x240.jpg "Un manto de belleza invernal") 2026-01-24 |
-| ![](https://www.bing.com/th?id=OHR.Toledo_ES-ES4779443125_400x240.jpg "Escarcha y luces festivas") 2026-01-23 | ![](https://www.bing.com/th?id=OHR.KarlovyVary_ES-ES6866349820_400x240.jpg "Una historia de balneario bohemio") 2026-01-22 | ![](https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_400x240.jpg "Arquitectura de cristal y hielo") 2026-01-21 |
-| ![](https://www.bing.com/th?id=OHR.IciclePenguin_ES-ES6551563961_400x240.jpg "Vida al borde del hielo") 2026-01-20 |  |  |
+| ![](https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270_400x240.jpg "Sociable y ancestral") 2026-01-27 | ![](https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_400x240.jpg "Una villa detenida en el tiempo") 2026-01-26 | ![](https://www.bing.com/th?id=OHR.BurnsPark_ES-ES4298228176_400x240.jpg "Cena de poesías") 2026-01-25 |
+| ![](https://www.bing.com/th?id=OHR.AndermattSwiss_ES-ES1707128541_400x240.jpg "Un manto de belleza invernal") 2026-01-24 | ![](https://www.bing.com/th?id=OHR.Toledo_ES-ES4779443125_400x240.jpg "Escarcha y luces festivas") 2026-01-23 | ![](https://www.bing.com/th?id=OHR.KarlovyVary_ES-ES6866349820_400x240.jpg "Una historia de balneario bohemio") 2026-01-22 |
+| ![](https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_400x240.jpg "Arquitectura de cristal y hielo") 2026-01-21 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/es-ES/w_2026_01.md)
