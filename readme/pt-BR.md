@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_UHD.jpg)
-[2026-01-27 Asas sobre Kerkini Pelicanos-crespos no Lago Kerkini, Grécia(© Guy Edwardes/naturepl.com)](https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_UHD.jpg)
-Hoje visitamos o Lago Kerkini, na Grécia, onde o inverno do hemisfério norte é dominado pelos pelicanos-crespos, que deslizam em grupos sobre águas tranquilas. Eles podem chegar a 3,5 metros de envergadura — ainda maior que o nosso tuiuiú, ou jaburu, que detém o título de maior ave voadora do Brasil com quase 3 metros de envergadura. Os pelicanos-crespos mergulham com precisão para capturar peixes e os guardam em sua bolsa laranja-avermelhada, que tem capacidade para até 13 litros de água e alimento. Cada movimento parece coreografado, refletindo-se nas águas que amplificam a grandiosidade dessas aves majestosas.
+![](https://www.bing.com/th?id=OHR.WhanganuiPark_PT-BR6611388869_UHD.jpg)
+[2026-01-28 O rio que dança com a floresta Parque Nacional Whanganui, Retaruke, Nova Zelândia(© Matthew Micah Wright/Getty Images)](https://www.bing.com/th?id=OHR.WhanganuiPark_PT-BR6611388869_UHD.jpg)
+O Parque Nacional Whanganui, na Nova Zelândia, visto na imagem, revela um dos cenários fluviais mais impressionantes do mundo: o rio Whanganui serpenteando por vales profundos e gargantas esculpidas. Embora o leito do rio não esteja oficialmente dentro dos limites do parque, sua presença define a paisagem e convida a uma das aventuras imperdíveis do país: a Whanganui Journey, percurso de canoagem que atravessa cânions, corredeiras e trechos de natureza selvagem.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_400x240.jpg "Asas sobre Kerkini") 2026-01-27 | ![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_PT-BR5083137761_400x240.jpg "A joia da Baviera") 2026-01-26 | ![](https://www.bing.com/th?id=OHR.AnniversarySP_PT-BR3102321116_400x240.jpg "História e modernidade") 2026-01-25 |
-| ![](https://www.bing.com/th?id=OHR.AndermattSwiss_PT-BR2683096769_400x240.jpg "Um paraíso gelado") 2026-01-24 | ![](https://www.bing.com/th?id=OHR.IcelandSheep_PT-BR6680059407_400x240.jpg "Tradição viking") 2026-01-23 | ![](https://www.bing.com/th?id=OHR.KarlovyVary_PT-BR9942350940_400x240.jpg "Elegância termal") 2026-01-22 |
-| ![](https://www.bing.com/th?id=OHR.BerrySquirrel_PT-BR0149336681_400x240.jpg "Pequenos guardiões das florestas") 2026-01-21 |  |  |
+| ![](https://www.bing.com/th?id=OHR.WhanganuiPark_PT-BR6611388869_400x240.jpg "O rio que dança com a floresta") 2026-01-28 | ![](https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_400x240.jpg "Asas sobre Kerkini") 2026-01-27 | ![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_PT-BR5083137761_400x240.jpg "A joia da Baviera") 2026-01-26 |
+| ![](https://www.bing.com/th?id=OHR.AnniversarySP_PT-BR3102321116_400x240.jpg "História e modernidade") 2026-01-25 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_PT-BR2683096769_400x240.jpg "Um paraíso gelado") 2026-01-24 | ![](https://www.bing.com/th?id=OHR.IcelandSheep_PT-BR6680059407_400x240.jpg "Tradição viking") 2026-01-23 |
+| ![](https://www.bing.com/th?id=OHR.KarlovyVary_PT-BR9942350940_400x240.jpg "Elegância termal") 2026-01-22 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
