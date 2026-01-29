@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.WhanganuiPark_FR-FR8047545940_UHD.jpg)
-[2026-01-28 Suivez le courant de Whanganui Parc National de Whanganui, Retaruke, Nouvelle-Zélande(© Matthew Micah Wright/Getty Images)](https://www.bing.com/th?id=OHR.WhanganuiPark_FR-FR8047545940_UHD.jpg)
-Au cœur de l’île du Nord, le parc national de Whanganui offre l’un des paysages fluviaux les plus singuliers de Nouvelle-Zélande. Créé en 1986, il s’étend sur près de 740 km², enveloppant des vallées profondes où la rivière Whanganui dessine ses méandres. Bien qu’elle ne figure pas officiellement dans les limites du parc, cette rivière façonne tout : ses forêts, ses sentiers et le célèbre Whanganui Journey, classé parmi les « Great Walks » du pays.
+![](https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_UHD.jpg)
+[2026-01-29 Un incontournable de Milwaukee L'atrium ouvert de huit étages du Milwaukee City Hall, Wisconsin, États-Unis(© lavin photography/Getty Images)](https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_UHD.jpg)
+Si vous avez déjà visité Milwaukee et levé les yeux en flânant dans son centre-ville, votre regard s’est très probablement posé sur l’impressionnant City Hall. Achevé en 1895, ce chef-d’œuvre de style Renaissance flamande ne se contente pas de dominer la ville : il en incarne l’âme. Pendant près de huit décennies, il fut le plus haut édifice de Milwaukee, symbole d’une cité en plein essor. Son architecte, Henry C. Koch, y a mêlé des influences germaniques à l’histoire locale, hommage à la forte empreinte allemande qui façonna le quartier, un peu comme nos hôtels de ville français, tels ceux de Lille ou de Lyon, porteurs de l’identité d’une cité.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.WhanganuiPark_FR-FR8047545940_400x240.jpg "Suivez le courant de Whanganui") 2026-01-28 | ![](https://www.bing.com/th?id=OHR.DalmationPelicans_FR-FR5454969823_400x240.jpg "Pélicans en vue !") 2026-01-27 | ![](https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_400x240.jpg "Une touche de couleurs qui ravive l'hiver") 2026-01-26 |
-| ![](https://www.bing.com/th?id=OHR.BurnsPark_FR-FR5985378264_400x240.jpg "Une fête tout en poésie") 2026-01-25 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_400x240.jpg "Rendez-vous sur les pistes !") 2026-01-24 | ![](https://www.bing.com/th?id=OHR.IcelandSheep_FR-FR4056749778_400x240.jpg "Quand la tradition viking s'invite à table") 2026-01-23 |
-| ![](https://www.bing.com/th?id=OHR.KarlovyVary_FR-FR4051423733_400x240.jpg "Bohème et thermale") 2026-01-22 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_400x240.jpg "Un incontournable de Milwaukee") 2026-01-29 | ![](https://www.bing.com/th?id=OHR.WhanganuiPark_FR-FR8047545940_400x240.jpg "Suivez le courant de Whanganui") 2026-01-28 | ![](https://www.bing.com/th?id=OHR.DalmationPelicans_FR-FR5454969823_400x240.jpg "Pélicans en vue !") 2026-01-27 |
+| ![](https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_400x240.jpg "Une touche de couleurs qui ravive l'hiver") 2026-01-26 | ![](https://www.bing.com/th?id=OHR.BurnsPark_FR-FR5985378264_400x240.jpg "Une fête tout en poésie") 2026-01-25 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_400x240.jpg "Rendez-vous sur les pistes !") 2026-01-24 |
+| ![](https://www.bing.com/th?id=OHR.IcelandSheep_FR-FR4056749778_400x240.jpg "Quand la tradition viking s'invite à table") 2026-01-23 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
