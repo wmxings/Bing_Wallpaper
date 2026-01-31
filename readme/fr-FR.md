@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_UHD.jpg)
-[2026-01-30 Comme un air de déjà-vu… St. Michael's Mount à Marazion, Cornouailles, Angleterre, Royaume-Uni(© Baxter Bradford/robertharding/Getty Images)](https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_UHD.jpg)
-Imaginez une île surgissant des flots turquoise de Cornouailles (Angleterre), reliée à la terre ferme seulement lorsque la mer se retire. Il est possible d’y accéder seulement quelques heures par jour, en empruntant une chaussée de granit polie par des siècles de passage de pèlerins et de pêcheurs. Bienvenue à St Michael’s Mount, le Mont Saint-Michel anglais, joyau posé face à Marazion, où légendes et histoire s’entrelacent.
+![](https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_UHD.jpg)
+[2026-01-31 Un mirage noir et blanc dans la savane Des zèbres des plaines, Parc National d’Etosha, Namibie(© Mogens Trolle/Shutterstock)](https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_UHD.jpg)
+Certains animaux se fondent dans la nature… Mais pas les zèbres. Avec leurs rayures noires et blanches, le camouflage semble difficile. Pourtant, il s’agit là d’un véritable chef-d’œuvre d’ingéniosité. Le 31 janvier, la Journée internationale du zèbre leur rend hommage, rappelant que ces équidés africains sont bien plus qu’une robe aux motifs graphiques.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_400x240.jpg "Comme un air de déjà-vu…") 2026-01-30 | ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_400x240.jpg "Un incontournable de Milwaukee") 2026-01-29 | ![](https://www.bing.com/th?id=OHR.WhanganuiPark_FR-FR8047545940_400x240.jpg "Suivez le courant de Whanganui") 2026-01-28 |
-| ![](https://www.bing.com/th?id=OHR.DalmationPelicans_FR-FR5454969823_400x240.jpg "Pélicans en vue !") 2026-01-27 | ![](https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_400x240.jpg "Une touche de couleurs qui ravive l'hiver") 2026-01-26 | ![](https://www.bing.com/th?id=OHR.BurnsPark_FR-FR5985378264_400x240.jpg "Une fête tout en poésie") 2026-01-25 |
-| ![](https://www.bing.com/th?id=OHR.AndermattSwiss_FR-FR0683764999_400x240.jpg "Rendez-vous sur les pistes !") 2026-01-24 |  |  |
+| ![](https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_400x240.jpg "Un mirage noir et blanc dans la savane") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_400x240.jpg "Comme un air de déjà-vu…") 2026-01-30 | ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_400x240.jpg "Un incontournable de Milwaukee") 2026-01-29 |
+| ![](https://www.bing.com/th?id=OHR.WhanganuiPark_FR-FR8047545940_400x240.jpg "Suivez le courant de Whanganui") 2026-01-28 | ![](https://www.bing.com/th?id=OHR.DalmationPelicans_FR-FR5454969823_400x240.jpg "Pélicans en vue !") 2026-01-27 | ![](https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_400x240.jpg "Une touche de couleurs qui ravive l'hiver") 2026-01-26 |
+| ![](https://www.bing.com/th?id=OHR.BurnsPark_FR-FR5985378264_400x240.jpg "Une fête tout en poésie") 2026-01-25 |  |  |
 
 # History
 [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
