@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Olinda_PT-BR0382342103_UHD.jpg)
-[2026-02-01 Beleza colonial Casa colorida em Olinda, Pernambuco(© Robert Pekar/Alamy)](https://www.bing.com/th?id=OHR.Olinda_PT-BR0382342103_UHD.jpg)
-Você já imaginou caminhar por ruas que respiram história desde o século XVI? Bem-vindo a Olinda, para onde nossa foto nos leva. Fundado em março de 1535, o município brasileiro do estado de Pernambuco fica a apenas seis quilômetros da capital Recife. Hoje é um dos centros coloniais mais bem preservados do Brasil — tanto que seu Centro Histórico foi reconhecido como Patrimônio Mundial pela UNESCO em 1982.
+![](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_UHD.jpg)
+[2026-02-02 O veredito da marmota Marmotas-alpinas, Parque Nacional Hohe Tauern, Áustria(© Raimund Linke/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_UHD.jpg)
+Na Pensilvânia, Estados Unidos, o 2 de fevereiro transforma uma marmota em profeta climático. No Dia da Marmota, celebrado no auge do inverno do Hemisfério Norte, Punxsutawney Phil sai da toca e, segundo a lenda, sua sombra decide se o frio vai se estender ou se a primavera está chegando. A tradição começou na Europa, onde ouriços e texugos eram os relógios naturais das estações. Imigrantes alemães se adaptaram ao animal local ao chegarem às Américas e hoje, o evento reúne até 40 mil pessoas, com milhões acompanhando as transmissões ao vivo que fazem do pequeno roedor uma estrela.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Olinda_PT-BR0382342103_400x240.jpg "Beleza colonial") 2026-02-01 | ![](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_400x240.jpg "Amor à primeira listra") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_400x240.jpg "Entre o mito e a maré") 2026-01-30 |
-| ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_400x240.jpg "O ponto alto da memória") 2026-01-29 | ![](https://www.bing.com/th?id=OHR.WhanganuiPark_PT-BR6611388869_400x240.jpg "O rio que dança com a floresta") 2026-01-28 | ![](https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_400x240.jpg "Asas sobre Kerkini") 2026-01-27 |
-| ![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_PT-BR5083137761_400x240.jpg "A joia da Baviera") 2026-01-26 |  |  |
+| ![](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_400x240.jpg "O veredito da marmota") 2026-02-02 | ![](https://www.bing.com/th?id=OHR.Olinda_PT-BR0382342103_400x240.jpg "Beleza colonial") 2026-02-01 | ![](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_400x240.jpg "Amor à primeira listra") 2026-01-31 |
+| ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_400x240.jpg "Entre o mito e a maré") 2026-01-30 | ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_400x240.jpg "O ponto alto da memória") 2026-01-29 | ![](https://www.bing.com/th?id=OHR.WhanganuiPark_PT-BR6611388869_400x240.jpg "O rio que dança com a floresta") 2026-01-28 |
+| ![](https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_400x240.jpg "Asas sobre Kerkini") 2026-01-27 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/pt-BR/w_2026_02.md) | [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
