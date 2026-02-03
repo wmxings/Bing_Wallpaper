@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg)
-[2026-02-03 太浩湖视觉盛宴 翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国(© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg)
-当一个地方同时被地质学家、电影镜头和民间传说反复提及，它必定不只是一处风景。横跨加州与内华达州的太浩湖，正是这样一片承载故事的水域。它诞生于冰河时代，断层活动与冰川雕琢造就了深不见底的湖盆，如今已成为美国最深的淡水湖之一。很久以前，瓦绍族人世代栖居湖畔，随季节更替捕鱼、采集。几个世纪后，矿工的脚步踏入此地，汽船划破湖面，太浩湖也由资源中心，转变为四季皆宜的休闲度假地。
+![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg)
+[2026-02-04 优雅掠过天际 雪中​​的红鸢(© Carl Mckie/500px/Getty Images)](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg)
+红鸢是一种格外引人注目的猛禽，红褐色的羽毛、浅色的头部，再加上一条修长的叉形尾羽，使它们在飞行中能展现出极高的操控精准度。该物种主要分布于欧洲，在英国、西班牙、法国和德国等地尤为常见。英格兰的奇尔特恩丘陵是红鸢保护工作的经典成功案例：这里的红鸢曾几近消失，直到20世纪80年代末至90年代初，从西班牙引入雏鸟放归自然后，红鸢才重新回到了这片天空。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_400x240.jpg "太浩湖视觉盛宴") 2026-02-03 | ![](https://www.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_400x240.jpg "影子的承诺") 2026-02-02 | ![](https://www.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_400x240.jpg "奇迹之墙") 2026-02-01 |
-| ![](https://www.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_400x240.jpg "一见钟情") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_ZH-CN5878042411_400x240.jpg "海潮退却之处") 2026-01-30 | ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_400x240.jpg "密尔沃基的传奇故事") 2026-01-29 |
-| ![](https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_400x240.jpg "随河而行") 2026-01-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_400x240.jpg "优雅掠过天际") 2026-02-04 | ![](https://www.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_400x240.jpg "太浩湖视觉盛宴") 2026-02-03 | ![](https://www.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_400x240.jpg "影子的承诺") 2026-02-02 |
+| ![](https://www.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_400x240.jpg "奇迹之墙") 2026-02-01 | ![](https://www.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_400x240.jpg "一见钟情") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_ZH-CN5878042411_400x240.jpg "海潮退却之处") 2026-01-30 |
+| ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_400x240.jpg "密尔沃基的传奇故事") 2026-01-29 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/zh-CN/w_2026_02.md) | [2026-01](../archives/wallpaper/zh-CN/w_2026_01.md)
