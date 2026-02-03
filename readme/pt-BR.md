@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_UHD.jpg)
-[2026-02-02 O veredito da marmota Marmotas-alpinas, Parque Nacional Hohe Tauern, Áustria(© Raimund Linke/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_UHD.jpg)
-Na Pensilvânia, Estados Unidos, o 2 de fevereiro transforma uma marmota em profeta climático. No Dia da Marmota, celebrado no auge do inverno do Hemisfério Norte, Punxsutawney Phil sai da toca e, segundo a lenda, sua sombra decide se o frio vai se estender ou se a primavera está chegando. A tradição começou na Europa, onde ouriços e texugos eram os relógios naturais das estações. Imigrantes alemães se adaptaram ao animal local ao chegarem às Américas e hoje, o evento reúne até 40 mil pessoas, com milhões acompanhando as transmissões ao vivo que fazem do pequeno roedor uma estrela.
+![](https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_UHD.jpg)
+[2026-02-03 Os segredos de Lake Tahoe Emerald Bay e Ilha Fanette, Lake Tahoe, Califórnia, Estados Unidos(© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_UHD.jpg)
+Você sabe que um lugar é especial quando sua geologia, sua história e suas lendas disputam pela nossa atenção. Emerald Bay, cantinho icônico de Lake Tahoe, na divisa entre Califórnia e Nevada, hipnotiza com seu azul profundo e tons esmeralda nas áreas rasas. Formada por falhas geológicas e esculpida por geleiras na Era do Gelo, Tahoe é uma das bacias de água doce mais profundas dos Estados Unidos. Sob a superfície, restos de barcos e balsas naufragados permanecem preservados graças às águas frias e ao baixo nível de oxigênio, enquanto Ilha Fannette se ergue como ponto firme de rocha e vegetação no centro da baía.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_400x240.jpg "O veredito da marmota") 2026-02-02 | ![](https://www.bing.com/th?id=OHR.Olinda_PT-BR0382342103_400x240.jpg "Beleza colonial") 2026-02-01 | ![](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_400x240.jpg "Amor à primeira listra") 2026-01-31 |
-| ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_400x240.jpg "Entre o mito e a maré") 2026-01-30 | ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_400x240.jpg "O ponto alto da memória") 2026-01-29 | ![](https://www.bing.com/th?id=OHR.WhanganuiPark_PT-BR6611388869_400x240.jpg "O rio que dança com a floresta") 2026-01-28 |
-| ![](https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_400x240.jpg "Asas sobre Kerkini") 2026-01-27 |  |  |
+| ![](https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_400x240.jpg "Os segredos de Lake Tahoe") 2026-02-03 | ![](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_400x240.jpg "O veredito da marmota") 2026-02-02 | ![](https://www.bing.com/th?id=OHR.Olinda_PT-BR0382342103_400x240.jpg "Beleza colonial") 2026-02-01 |
+| ![](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_400x240.jpg "Amor à primeira listra") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_400x240.jpg "Entre o mito e a maré") 2026-01-30 | ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_400x240.jpg "O ponto alto da memória") 2026-01-29 |
+| ![](https://www.bing.com/th?id=OHR.WhanganuiPark_PT-BR6611388869_400x240.jpg "O rio que dança com a floresta") 2026-01-28 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/pt-BR/w_2026_02.md) | [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
