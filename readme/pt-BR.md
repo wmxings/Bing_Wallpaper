@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_UHD.jpg)
-[2026-02-03 Os segredos de Lake Tahoe Emerald Bay e Ilha Fanette, Lake Tahoe, Califórnia, Estados Unidos(© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_UHD.jpg)
-Você sabe que um lugar é especial quando sua geologia, sua história e suas lendas disputam pela nossa atenção. Emerald Bay, cantinho icônico de Lake Tahoe, na divisa entre Califórnia e Nevada, hipnotiza com seu azul profundo e tons esmeralda nas áreas rasas. Formada por falhas geológicas e esculpida por geleiras na Era do Gelo, Tahoe é uma das bacias de água doce mais profundas dos Estados Unidos. Sob a superfície, restos de barcos e balsas naufragados permanecem preservados graças às águas frias e ao baixo nível de oxigênio, enquanto Ilha Fannette se ergue como ponto firme de rocha e vegetação no centro da baía.
+![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_PT-BR2333314404_UHD.jpg)
+[2026-02-04 Graça em pleno voo Milhafre-real na neve(© Carl Mckie/500px/Getty Images)](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_PT-BR2333314404_UHD.jpg)
+Nas Chiltern Hills, uma cadeia de colinas ao sudeste da Inglaterra, um milhafre-real cruza a nevasca. Sua plumagem castanho-avermelhada contrasta com o céu invernal, enquanto a cauda bifurcada atua como leme, ajustando curvas e planadas. Com cerca de 60 a 66 centímetros de comprimento e envergadura próxima de 1,5 metro, esse rapinante economiza energia ao máximo. Raramente bate as asas sem necessidade, lendo o terreno em busca de carniça, pequenos mamíferos ou invertebrados. Seu chamado agudo, inconfundível, revela sua presença antes de o olhar alcançá-lo.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_400x240.jpg "Os segredos de Lake Tahoe") 2026-02-03 | ![](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_400x240.jpg "O veredito da marmota") 2026-02-02 | ![](https://www.bing.com/th?id=OHR.Olinda_PT-BR0382342103_400x240.jpg "Beleza colonial") 2026-02-01 |
-| ![](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_400x240.jpg "Amor à primeira listra") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_400x240.jpg "Entre o mito e a maré") 2026-01-30 | ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_400x240.jpg "O ponto alto da memória") 2026-01-29 |
-| ![](https://www.bing.com/th?id=OHR.WhanganuiPark_PT-BR6611388869_400x240.jpg "O rio que dança com a floresta") 2026-01-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_PT-BR2333314404_400x240.jpg "Graça em pleno voo") 2026-02-04 | ![](https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_400x240.jpg "Os segredos de Lake Tahoe") 2026-02-03 | ![](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_400x240.jpg "O veredito da marmota") 2026-02-02 |
+| ![](https://www.bing.com/th?id=OHR.Olinda_PT-BR0382342103_400x240.jpg "Beleza colonial") 2026-02-01 | ![](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_400x240.jpg "Amor à primeira listra") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_400x240.jpg "Entre o mito e a maré") 2026-01-30 |
+| ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_400x240.jpg "O ponto alto da memória") 2026-01-29 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/pt-BR/w_2026_02.md) | [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
