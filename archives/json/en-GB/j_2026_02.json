@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-02-04",
+    "head_line": "A Swiss escape",
+    "title": "Andermatt village in the Alps, Switzerland",
+    "copyright": "© Xantana/Getty Images",
+    "desc": "Nestled in the Urseren Valley at 1,437 metres, Andermatt is a charming Swiss village embraced by the majestic Alps. Long a vital crossroads, it's linked by three iconic passes—Gotthard, Furka and Oberalp—each enhancing its allure as a gateway between regions and cultures.",
+    "image_url": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-02-03",
     "head_line": "Tahoe serving views",
     "title": "Emerald Bay and Fannette Island, Lake Tahoe, California, USA",
