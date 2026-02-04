@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)
-[2026-02-03 Tahoe serving views Emerald Bay and Fannette Island, Lake Tahoe, California(© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)
-You know a place holds stories when geologists, filmmakers, and local folklore all claim it for different reasons. Lake Tahoe, straddling the border between California and Nevada, fits that bill perfectly. Formed during the Ice Age, the lake was shaped by faulting and glacial carving that created its deep basin. It is now one of the deepest freshwater lakes in the United States. For generations, the Washoe people lived around these clear waters, fishing and gathering seasonally. Centuries later, miners arrived, steamboats crossed the water, and Tahoe shifted from a resource hub to a year-round retreat.
+![](https://www.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg)
+[2026-02-04 The face of change Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver(© Cyrus McCrimmon/The Denver Post via Getty Images)](https://www.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg)
+Picture this: it's 1955, a winter evening in Montgomery, Alabama. A seamstress heads home after work. The bus fills with other passengers. The driver demands she give up her seat. Rosa Parks wasn't trying to make waves, but her refusal set off a chain reaction that would propel the civil rights movement into a new phase. Raised in rural Alabama, she grew up under segregation and later worked with the NAACP as a secretary and investigator, gathering testimony of racial violence and discrimination. By the time she declined to move, she was already a committed activist.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_400x240.jpg "Tahoe serving views") 2026-02-03 | ![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_400x240.jpg "A shadow's promise") 2026-02-02 | ![](https://www.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_400x240.jpg "Celebrate. Reflect. Rise.") 2026-02-01 |
-| ![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_400x240.jpg "Love at first stripe") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_400x240.jpg "Where the sea makes way") 2026-01-30 | ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_400x240.jpg "A tall story of Milwaukee") 2026-01-29 |
-| ![](https://www.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_400x240.jpg "Flow with it") 2026-01-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_400x240.jpg "The face of change") 2026-02-04 | ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_400x240.jpg "Tahoe serving views") 2026-02-03 | ![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_400x240.jpg "A shadow's promise") 2026-02-02 |
+| ![](https://www.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_400x240.jpg "Celebrate. Reflect. Rise.") 2026-02-01 | ![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_400x240.jpg "Love at first stripe") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_400x240.jpg "Where the sea makes way") 2026-01-30 |
+| ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_400x240.jpg "A tall story of Milwaukee") 2026-01-29 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-US/w_2026_02.md) | [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
