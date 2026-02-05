@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-02-05",
+    "head_line": "L'art sans égal des vagues",
+    "title": "Les marais salants de Gozo, Malte",
+    "copyright": "© Marius Roman/Getty Images",
+    "desc": "Imaginez un rivage où l’histoire des vagues s’imprime à chaque marée. À Xwejni Bay, sur l’île de Gozo, la seconde île de l’archipel maltais, le littoral calcaire se transforme en un damier de bassins taillés à la main, vestiges d’un savoir-faire transmis depuis des siècles. À chaque marée, l’eau s’y dépose, puis le soleil méditerranéen opère sa magie : il évapore doucement l’eau, laissant derrière lui des cristaux de sel purs.",
+    "image_url": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-02-04",
     "head_line": "La grâce incarnée",
     "title": "Le milan royal sous la neige",

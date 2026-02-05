@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_UHD.jpg)
-[2026-02-04 Grace on the wing Red kite in snow(© Carl Mckie/500px/Getty Images)](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_UHD.jpg)
-Red kites are striking birds of prey known for their reddish‑brown bodies, pale heads and long, forked tails that help them steer with impressive precision. Mostly found in Europe, they thrive in countries such as the United Kingdom, Spain, France and Germany. The Chiltern Hills in England are one of the biggest conservation success stories: once nearly wiped out there, the birds rebounded after chicks from Spain were released in the late 1980s and early 1990s.
+![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-CA7894640375_UHD.jpg)
+[2026-02-05 Stuck in a grid Salt evaporation ponds on the island of Gozo, Malta(© Marius Roman/Getty Images)](https://www.bing.com/th?id=OHR.MaltaSalt_EN-CA7894640375_UHD.jpg)
+Xwejni Bay in Gozo, Malta, has a way of making everyday elements look like a quiet choreography between sea, stone and sun. You can't help but pause and look closer, right? Centuries back, families began carving these limestone pans, shaping hundreds of basins that trap seawater with each wave. Once the water settles in, the sun's heat does the rest, slowly evaporating it into natural Mediterranean salt. Gozo became a salt-making hub because its limestone coast is easy to shape, and its warm, dry summers keep the crystallisation process steady. The first crystals form around May, marking the beginning of the harvesting season. Workers rake the salt by hand, sweep it with brooms and brushes, gather it into small piles to dry for another day, then bag it and store it in the caves.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_400x240.jpg "Grace on the wing") 2026-02-04 | ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-CA7084329765_400x240.jpg "Tahoe serving views") 2026-02-03 | ![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-CA4426727478_400x240.jpg "A shadow's promise") 2026-02-02 |
-| ![](https://www.bing.com/th?id=OHR.Olinda_EN-CA6673268018_400x240.jpg "Walls of wonder") 2026-02-01 | ![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-CA5067971826_400x240.jpg "Love at first stripe") 2026-01-31 | ![](https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_400x240.jpg "Carved for the cold") 2026-01-30 |
-| ![](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-CA4166565215_400x240.jpg "A tall story of Milwaukee") 2026-01-29 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-CA7894640375_400x240.jpg "Stuck in a grid") 2026-02-05 | ![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_400x240.jpg "Grace on the wing") 2026-02-04 | ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-CA7084329765_400x240.jpg "Tahoe serving views") 2026-02-03 |
+| ![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-CA4426727478_400x240.jpg "A shadow's promise") 2026-02-02 | ![](https://www.bing.com/th?id=OHR.Olinda_EN-CA6673268018_400x240.jpg "Walls of wonder") 2026-02-01 | ![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-CA5067971826_400x240.jpg "Love at first stripe") 2026-01-31 |
+| ![](https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_400x240.jpg "Carved for the cold") 2026-01-30 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
