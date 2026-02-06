@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-02-06",
+    "head_line": "Oro de Italia",
+    "title": "Pico Ra Gusela en el Paso Giau, cerca de Cortina d’Ampezzo, Italia",
+    "copyright": "© Tomasz Podolski/Getty Images",
+    "desc": "Los Juegos Olímpicos de Invierno de 2026 se celebrarán del 6 al 22 de febrero en Italia, con sedes repartidas entre Milán y Cortina d’Ampezzo. Muy cerca de Cortina se encuentra el Paso de Giau, uno de los collados más icónicos de los Dolomitas, desde el que emerge la inconfundible Ra Gusela, una aguja de roca que domina el horizonte.",
+    "image_url": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-02-05",
     "head_line": "Atrapados en una cuadrícula",
     "title": "Estanques de evaporación de sal en la isla de Gozo, Malta",

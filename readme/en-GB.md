@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-GB4895639801_UHD.jpg)
-[2026-02-05 Stuck in a grid Salt evaporation ponds on the island of Gozo, Malta(© Marius Roman/Getty Images)](https://www.bing.com/th?id=OHR.MaltaSalt_EN-GB4895639801_UHD.jpg)
-Xwejni Bay in Gozo, Malta, has a way of making everyday elements look like a quiet choreography between sea, stone and sun. You can't help but pause and look closer, right? Centuries back, families began carving these limestone pans, shaping hundreds of basins that trap seawater with each wave. Once the water settles in, the sun's heat does the rest, slowly evaporating it into natural Mediterranean salt. Gozo became a salt-making hub because its limestone coast is easy to shape, and its warm, dry summers keep the crystallisation process steady. The first crystals form around May, marking the beginning of the harvesting season. Workers rake the salt by hand, sweep it with brooms and brushes, gather it into small piles to dry for another day, then bag it and store it in the caves.
+![](https://www.bing.com/th?id=OHR.GiauPass_EN-GB8439205435_UHD.jpg)
+[2026-02-06 Ra Gusela—peak of the Olympic season Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy(© Tomasz Podolski/Getty Images)](https://www.bing.com/th?id=OHR.GiauPass_EN-GB8439205435_UHD.jpg)
+The 2026 Winter Olympics begin today, and few settings capture their spirit better than the Dolomites. Rising sharply above the Giau Pass, the 2,595-metre Ra Gusela peak delivers the kind of dramatic alpine scenery that defines the Milano-Cortina 2026 Games—a joint edition hosted by Milan and Cortina d'Ampezzo, blending metropolitan energy with deep alpine heritage.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-GB4895639801_400x240.jpg "Stuck in a grid") 2026-02-05 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_400x240.jpg "A Swiss escape") 2026-02-04 | ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-GB4097522391_400x240.jpg "Tahoe serving views") 2026-02-03 |
-| ![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-GB8463846788_400x240.jpg "A shadow's promise") 2026-02-02 | ![](https://www.bing.com/th?id=OHR.Olinda_EN-GB3341173663_400x240.jpg "Walls of wonder") 2026-02-01 | ![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-GB2928302935_400x240.jpg "Love at first stripe") 2026-01-31 |
-| ![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-GB2680243066_400x240.jpg "Where the sea makes way") 2026-01-30 |  |  |
+| ![](https://www.bing.com/th?id=OHR.GiauPass_EN-GB8439205435_400x240.jpg "Ra Gusela—peak of the Olympic season") 2026-02-06 | ![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-GB4895639801_400x240.jpg "Stuck in a grid") 2026-02-05 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_400x240.jpg "A Swiss escape") 2026-02-04 |
+| ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-GB4097522391_400x240.jpg "Tahoe serving views") 2026-02-03 | ![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-GB8463846788_400x240.jpg "A shadow's promise") 2026-02-02 | ![](https://www.bing.com/th?id=OHR.Olinda_EN-GB3341173663_400x240.jpg "Walls of wonder") 2026-02-01 |
+| ![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-GB2928302935_400x240.jpg "Love at first stripe") 2026-01-31 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
