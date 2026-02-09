@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_UHD.jpg)
-[2026-02-08 From quiet nights to adventurous days Corfu at night, Greece(© whitewizzard/Getty Images)](https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_UHD.jpg)
-The island of Corfu, Greece, meets you at night with a quiet kind of intensity: stone facades catching warm lamplight, fortress walls rising in sharp outline and narrow lanes unfolding like a lived-in labyrinth. The Old Town doesn't just look historic—it feels inhabited, shaped by centuries of shifting cultures and the slow rhythm of island life after dark.
+![](https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_UHD.jpg)
+[2026-02-09 Patterns in motion Amur leopard cat, Russia(© Valeriy Maleev/naturepl.com)](https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_UHD.jpg)
+The leopard cat is a small wild cat found across South, Southeast, and East Asia. Similar in size to a house cat but longer-legged and slenderer, it generally measures 38–76 centimetres long, with a tail about 18–30 centimetres. Depending on the region, adults weigh roughly 0.5–7 kilograms. Their appearance varies widely: southern individuals tend to have warm golden coats, while those farther north often have pale grey fur that thickens for winter.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_400x240.jpg "From quiet nights to adventurous days") 2026-02-08 | ![](https://www.bing.com/th?id=OHR.SalarUyuni_EN-CA9166148917_400x240.jpg "Salt, sky and the stillness between") 2026-02-07 | ![](https://www.bing.com/th?id=OHR.GiauPass_EN-CA8083583270_400x240.jpg "Ra Gusela—peak of the Olympic season") 2026-02-06 |
-| ![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-CA7894640375_400x240.jpg "Stuck in a grid") 2026-02-05 | ![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_400x240.jpg "Grace on the wing") 2026-02-04 | ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-CA7084329765_400x240.jpg "Tahoe serving views") 2026-02-03 |
-| ![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-CA4426727478_400x240.jpg "A shadow's promise") 2026-02-02 |  |  |
+| ![](https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_400x240.jpg "Patterns in motion") 2026-02-09 | ![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_400x240.jpg "From quiet nights to adventurous days") 2026-02-08 | ![](https://www.bing.com/th?id=OHR.SalarUyuni_EN-CA9166148917_400x240.jpg "Salt, sky and the stillness between") 2026-02-07 |
+| ![](https://www.bing.com/th?id=OHR.GiauPass_EN-CA8083583270_400x240.jpg "Ra Gusela—peak of the Olympic season") 2026-02-06 | ![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-CA7894640375_400x240.jpg "Stuck in a grid") 2026-02-05 | ![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_400x240.jpg "Grace on the wing") 2026-02-04 |
+| ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-CA7084329765_400x240.jpg "Tahoe serving views") 2026-02-03 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
