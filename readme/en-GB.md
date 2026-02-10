@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.LeopardCat_EN-GB6887295327_UHD.jpg)
-[2026-02-09 Patterns in motion Amur leopard cat, Russia(© Valeriy Maleev/naturepl.com)](https://www.bing.com/th?id=OHR.LeopardCat_EN-GB6887295327_UHD.jpg)
-The leopard cat is a small wild cat found across South, Southeast and East Asia. Similar in size to a house cat but longer-legged and slenderer, it generally measures 38–66 centimetres long, with a tail about 17–31 centimetres. Depending on the region, adults weigh roughly 0.55–7 kilograms. Their appearance varies widely: southern individuals tend to have warm golden coats, while those farther north often have pale grey fur that thickens for winter.
+![](https://www.bing.com/th?id=OHR.IbizaIslets_EN-GB7236526241_UHD.jpg)
+[2026-02-10 Where the Sirens sing Islets of Es Vedrà and Es Vedranell, Ibiza, Spain(© L. Apolli/Getty Images)](https://www.bing.com/th?id=OHR.IbizaIslets_EN-GB7236526241_UHD.jpg)
+Just southwest of Ibiza, Spain, lie the uninhabited islets of Es Vedrà and Es Vedranell. Part of a protected nature reserve, these dramatic rock formations are admired for their ecological value and visual impact. Es Vedrà rises around 400 metres straight from the sea, its sheer limestone cliffs resembling a mountain range. Nearby, the jagged outline of Es Vedranell has earned it the nickname 'sleeping dragon,' appearing to guard its larger sibling.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.LeopardCat_EN-GB6887295327_400x240.jpg "Patterns in motion") 2026-02-09 | ![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-GB6599547326_400x240.jpg "From quiet nights to adventurous days") 2026-02-08 | ![](https://www.bing.com/th?id=OHR.SalarUyuni_EN-GB6291060813_400x240.jpg "Salt, sky and the stillness between") 2026-02-07 |
-| ![](https://www.bing.com/th?id=OHR.GiauPass_EN-GB8439205435_400x240.jpg "Ra Gusela—peak of the Olympic season") 2026-02-06 | ![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-GB4895639801_400x240.jpg "Stuck in a grid") 2026-02-05 | ![](https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_400x240.jpg "A Swiss escape") 2026-02-04 |
-| ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-GB4097522391_400x240.jpg "Tahoe serving views") 2026-02-03 |  |  |
+| ![](https://www.bing.com/th?id=OHR.IbizaIslets_EN-GB7236526241_400x240.jpg "Where the Sirens sing") 2026-02-10 | ![](https://www.bing.com/th?id=OHR.LeopardCat_EN-GB6887295327_400x240.jpg "Patterns in motion") 2026-02-09 | ![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-GB6599547326_400x240.jpg "From quiet nights to adventurous days") 2026-02-08 |
+| ![](https://www.bing.com/th?id=OHR.SalarUyuni_EN-GB6291060813_400x240.jpg "Salt, sky and the stillness between") 2026-02-07 | ![](https://www.bing.com/th?id=OHR.GiauPass_EN-GB8439205435_400x240.jpg "Ra Gusela—peak of the Olympic season") 2026-02-06 | ![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-GB4895639801_400x240.jpg "Stuck in a grid") 2026-02-05 |
+| ![](https://www.bing.com/th?id=OHR.AndermattSwiss_EN-GB4496349406_400x240.jpg "A Swiss escape") 2026-02-04 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
