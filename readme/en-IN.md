@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_UHD.jpg)
-[2026-02-12 Evolution in focus Blue-footed booby, Galápagos Islands, Ecuador(© Karine Aigner/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_UHD.jpg)
-Darwin Day marks more than a birthday—it marks a shift in thinking. Charles Darwin's observations connected variation, the survival of individuals best suited to their environment, and inheritance in ways science still builds on. His legacy rests on years of studying variation—finches, fossils, barnacles—and recognising patterns others had overlooked. When 'On the Origin of Species' was published in 1859, it offered a framework explaining how species evolve through natural selection.
+![](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-IN9279410683_UHD.jpg)
+[2026-02-13 Built to bring closer Third Thai-Lao Friendship Bridge connecting Laos and Thailand(© chaiyut samsuk/Getty Images)](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-IN9279410683_UHD.jpg)
+Before bridges, rivers set the pace of travel. Now, with bridges, people do. That shift explains why cross-border links like the Third Thai-Lao Friendship Bridge connecting Laos and Thailand matter. Bridges come in many forms, each built to meet a specific challenge. Arch bridges manage compression, suspension bridges span long distances and concrete box-girder bridges prioritise stability and load efficiency. This bridge uses the box-girder design, making it a practical choice for crossing the wide, fast-moving Mekong River.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_400x240.jpg "Evolution in focus") 2026-02-12 | ![](https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412_400x240.jpg "The valley of contrasts") 2026-02-11 | ![](https://www.bing.com/th?id=OHR.IbizaIslets_EN-IN9026256507_400x240.jpg "Where the Sirens sing") 2026-02-10 |
-| ![](https://www.bing.com/th?id=OHR.LeopardCat_EN-IN8978692496_400x240.jpg "Patterns in motion") 2026-02-09 | ![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-IN8915585913_400x240.jpg "From quiet nights to adventurous days") 2026-02-08 | ![](https://www.bing.com/th?id=OHR.SalarUyuni_EN-IN8847464255_400x240.jpg "Salt, sky and the stillness between") 2026-02-07 |
-| ![](https://www.bing.com/th?id=OHR.GiauPass_EN-IN8683361749_400x240.jpg "Ra Gusela—peak of the Olympic season") 2026-02-06 |  |  |
+| ![](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-IN9279410683_400x240.jpg "Built to bring closer") 2026-02-13 | ![](https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_400x240.jpg "Evolution in focus") 2026-02-12 | ![](https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412_400x240.jpg "The valley of contrasts") 2026-02-11 |
+| ![](https://www.bing.com/th?id=OHR.IbizaIslets_EN-IN9026256507_400x240.jpg "Where the Sirens sing") 2026-02-10 | ![](https://www.bing.com/th?id=OHR.LeopardCat_EN-IN8978692496_400x240.jpg "Patterns in motion") 2026-02-09 | ![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-IN8915585913_400x240.jpg "From quiet nights to adventurous days") 2026-02-08 |
+| ![](https://www.bing.com/th?id=OHR.SalarUyuni_EN-IN8847464255_400x240.jpg "Salt, sky and the stillness between") 2026-02-07 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-IN/w_2026_02.md) | [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
