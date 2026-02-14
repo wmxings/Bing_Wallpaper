@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg)
-[2026-02-14 爱意绽放 荷包牡丹(© Dorene Hookey/Cavan Images)](https://www.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg)
-情人节象征着各种关于“心”的情感——热烈的、柔和的、充满希望的，或含蓄脆弱的。在众多象征之中，鲜少有植物能像荷包牡丹如此贴切地寓意情人节。它拥有醒目的心形花朵，每逢春季便悄然绽放，植株高约2英尺，展开宽度接近30英寸，营造出一种柔和优雅、富有诗意的景致。
+![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_UHD.jpg)
+[2026-02-15 浪涛下的歌谣 蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国(© Kiliii Fish/Cavan Images)](https://www.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_UHD.jpg)
+世界鲸鱼日定于每年2月的第3个星期日，起源于20世纪80年代的夏威夷。当时，当地社区会庆祝座头鲸在迁徙季节重返近海。这一纪念日随后逐渐受到国际关注，尤其是在1986年国际捕鲸委员会通过商业捕鲸禁令之后，该举措成为全球鲸类保护的重要里程碑。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_400x240.jpg "爱意绽放") 2026-02-14 | ![](https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_400x240.jpg "为拉近距离而建") 2026-02-13 | ![](https://www.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_400x240.jpg "聚焦进化") 2026-02-12 |
-| ![](https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_400x240.jpg "对比之谷") 2026-02-11 | ![](https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_400x240.jpg "海妖歌唱之处") 2026-02-10 | ![](https://www.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_400x240.jpg "斑纹流转") 2026-02-09 |
-| ![](https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_400x240.jpg "从宁静的夜晚到充满冒险的白天") 2026-02-08 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_400x240.jpg "浪涛下的歌谣") 2026-02-15 | ![](https://www.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_400x240.jpg "爱意绽放") 2026-02-14 | ![](https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_400x240.jpg "为拉近距离而建") 2026-02-13 |
+| ![](https://www.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_400x240.jpg "聚焦进化") 2026-02-12 | ![](https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_400x240.jpg "对比之谷") 2026-02-11 | ![](https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_400x240.jpg "海妖歌唱之处") 2026-02-10 |
+| ![](https://www.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_400x240.jpg "斑纹流转") 2026-02-09 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/zh-CN/w_2026_02.md) | [2026-01](../archives/wallpaper/zh-CN/w_2026_01.md)
