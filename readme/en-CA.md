@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_UHD.jpg)
-[2026-02-15 Songs beneath the waves Humpback whales in Monterey Bay, California, United States(© Kiliii Fish/Cavan Images)](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_UHD.jpg)
-World Whale Day, observed on the third Sunday of February, began in the 1980s in Hawaii, where communities celebrated the seasonal return of migrating humpback whales. The day gained wider recognition after the International Whaling Commission's 1986 moratorium on commercial whaling, which marked a major milestone in international whale conservation.
+![](https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_UHD.jpg)
+[2026-02-16 When Banff slows down Scenic view of lake by snowcapped mountains in Banff, Alberta(© Herbert Rong/Getty Images)](https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_UHD.jpg)
+Banff in Alberta didn't grow quietly. It arrived with railways, hot springs and a vision: to protect places of rare beauty. In 1883, railway workers stumbled upon warm mineral water bubbling from Sulphur Mountain—an unlikely surprise in the cold sweep of the Rockies. The discovery drew attention quickly. By 1885, the surrounding land has been set aside as a protected reserve. What did that lead to? The beginnings of Banff National Park, Canada's first, and a blueprint the country would return to again and again.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_400x240.jpg "Songs beneath the waves") 2026-02-15 | ![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-CA0194351855_400x240.jpg "Love in bloom") 2026-02-14 | ![](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-CA9180302051_400x240.jpg "Built to bring closer") 2026-02-13 |
-| ![](https://www.bing.com/th?id=OHR.DarwinBooby_EN-CA8905313156_400x240.jpg "Evolution in focus") 2026-02-12 | ![](https://www.bing.com/th?id=OHR.BadwaterFlats_EN-CA8544222126_400x240.jpg "The valley of contrasts") 2026-02-11 | ![](https://www.bing.com/th?id=OHR.IbizaIslets_EN-CA9725218583_400x240.jpg "Where the Sirens sing") 2026-02-10 |
-| ![](https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_400x240.jpg "Patterns in motion") 2026-02-09 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_400x240.jpg "When Banff slows down") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_400x240.jpg "Songs beneath the waves") 2026-02-15 | ![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-CA0194351855_400x240.jpg "Love in bloom") 2026-02-14 |
+| ![](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-CA9180302051_400x240.jpg "Built to bring closer") 2026-02-13 | ![](https://www.bing.com/th?id=OHR.DarwinBooby_EN-CA8905313156_400x240.jpg "Evolution in focus") 2026-02-12 | ![](https://www.bing.com/th?id=OHR.BadwaterFlats_EN-CA8544222126_400x240.jpg "The valley of contrasts") 2026-02-11 |
+| ![](https://www.bing.com/th?id=OHR.IbizaIslets_EN-CA9725218583_400x240.jpg "Where the Sirens sing") 2026-02-10 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
