@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BanffWinter_EN-IN9640409909_UHD.jpg)
-[2026-02-16 When Banff slows down Scenic view of lake by snowcapped mountains in Banff, Alberta, Canada(© Herbert Rong/Getty Images)](https://www.bing.com/th?id=OHR.BanffWinter_EN-IN9640409909_UHD.jpg)
-Banff in Alberta, Canada, didn't grow quietly. It arrived with railways, hot springs and a vision: to protect places of rare beauty. In 1883, railway workers stumbled upon warm mineral water bubbling from Sulphur Mountain—an unlikely surprise in the cold sweep of the Rockies. The discovery drew attention quickly. By 1885, the surrounding land has been set aside as a protected reserve. What did that lead to? The beginnings of Banff National Park, Canada's first, and a blueprint the country would return to again and again.
+![](https://www.bing.com/th?id=OHR.NewYearLantern_EN-IN7681988539_UHD.jpg)
+[2026-02-17 Fifteen days of light Red lanterns celebrating Chinese New Year(© Gins Wang/Getty Images)](https://www.bing.com/th?id=OHR.NewYearLantern_EN-IN7681988539_UHD.jpg)
+Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional Chinese lunisolar calendar. This calendar follows the phases of the moon and the rhythms of the seasons. Red lanterns—like the ones shown in today's image—are widely associated with the celebration. The holiday falls on the new moon between January 21 and February 20 and has been observed for more than 2,000 years. In 2024, UNESCO added the Spring Festival to its Intangible Cultural Heritage of Humanity list, recognising its cultural and historical importance.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BanffWinter_EN-IN9640409909_400x240.jpg "When Banff slows down") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_400x240.jpg "Under Shiva's gaze") 2026-02-15 | ![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_400x240.jpg "Love in bloom") 2026-02-14 |
-| ![](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-IN9279410683_400x240.jpg "Built to bring closer") 2026-02-13 | ![](https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_400x240.jpg "Evolution in focus") 2026-02-12 | ![](https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412_400x240.jpg "The valley of contrasts") 2026-02-11 |
-| ![](https://www.bing.com/th?id=OHR.IbizaIslets_EN-IN9026256507_400x240.jpg "Where the Sirens sing") 2026-02-10 |  |  |
+| ![](https://www.bing.com/th?id=OHR.NewYearLantern_EN-IN7681988539_400x240.jpg "Fifteen days of light") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.BanffWinter_EN-IN9640409909_400x240.jpg "When Banff slows down") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_400x240.jpg "Under Shiva's gaze") 2026-02-15 |
+| ![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_400x240.jpg "Love in bloom") 2026-02-14 | ![](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-IN9279410683_400x240.jpg "Built to bring closer") 2026-02-13 | ![](https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_400x240.jpg "Evolution in focus") 2026-02-12 |
+| ![](https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412_400x240.jpg "The valley of contrasts") 2026-02-11 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-IN/w_2026_02.md) | [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
