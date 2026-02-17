@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_UHD.jpg)
-[2026-02-16 York goes Norse (again) York, England(© CHUNYIP WONG/iStock/Getty Images)](https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_UHD.jpg)
-If winter had a battle cry, it would sound like a horn blast echoing across cobbles. Each February, the Jorvik Viking Festival in York turns history into a living, shouting, occasionally bearded event. Run by the team behind the Jorvik Viking Centre, the festival celebrates the city's past as Jórvík—from 16 to 22 February this year—a major Viking settlement from the 9th century.
+![](https://www.bing.com/th?id=OHR.NewYearLantern_EN-GB0911837862_UHD.jpg)
+[2026-02-17 Fifteen days of light Red lanterns celebrating Chinese New Year(© Gins Wang/Getty Images)](https://www.bing.com/th?id=OHR.NewYearLantern_EN-GB0911837862_UHD.jpg)
+Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional Chinese lunisolar calendar. This calendar follows the phases of the moon and the rhythms of the seasons. Red lanterns—like the ones shown in today's image—are widely associated with the celebration. The holiday falls on the new moon between 21 January and 20 February and has been observed for more than 2,000 years. In 2024, UNESCO added the Spring Festival to its Intangible Cultural Heritage of Humanity list, recognising its cultural and historical importance.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_400x240.jpg "York goes Norse (again)") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_400x240.jpg "Songs beneath the waves") 2026-02-15 | ![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-GB9308860747_400x240.jpg "Love in bloom") 2026-02-14 |
-| ![](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-GB8080277679_400x240.jpg "Built to bring closer") 2026-02-13 | ![](https://www.bing.com/th?id=OHR.DarwinBooby_EN-GB7767254645_400x240.jpg "Evolution in focus") 2026-02-12 | ![](https://www.bing.com/th?id=OHR.BadwaterFlats_EN-GB7497288557_400x240.jpg "The valley of contrasts") 2026-02-11 |
-| ![](https://www.bing.com/th?id=OHR.IbizaIslets_EN-GB7236526241_400x240.jpg "Where the Sirens sing") 2026-02-10 |  |  |
+| ![](https://www.bing.com/th?id=OHR.NewYearLantern_EN-GB0911837862_400x240.jpg "Fifteen days of light") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_400x240.jpg "York goes Norse (again)") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_400x240.jpg "Songs beneath the waves") 2026-02-15 |
+| ![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-GB9308860747_400x240.jpg "Love in bloom") 2026-02-14 | ![](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-GB8080277679_400x240.jpg "Built to bring closer") 2026-02-13 | ![](https://www.bing.com/th?id=OHR.DarwinBooby_EN-GB7767254645_400x240.jpg "Evolution in focus") 2026-02-12 |
+| ![](https://www.bing.com/th?id=OHR.BadwaterFlats_EN-GB7497288557_400x240.jpg "The valley of contrasts") 2026-02-11 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
