@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_UHD.jpg)
-[2026-02-18 Letzte Spur der Wildheit Przewalski-Pferde(© Nemyrivskyi Viacheslav/Getty Images)](https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_UHD.jpg)
-Wildheit in ihrer reinsten Form zeigt sich im Przewalski-Pferd. Es gilt als die letzte wirklich wilde Pferdeart der Erde. Einst durch die Steppen Zentralasiens ziehend, verschwand es in den 1960er-Jahren aus der Natur, weil Jagd, Lebensraumverlust und Konkurrenz durch Viehhaltung seinen Bestand drastisch dezimierten. Sein Überleben verdankt die Art einer kleinen Gruppe, die im frühen 20. Jahrhundert eingefangen wurde und zur Grundlage aller heutigen Tiere wurde.
+![](https://www.bing.com/th?id=OHR.DragonsEyeRock_DE-DE6085575680_UHD.jpg)
+[2026-02-19 Im Blick des Drachen Die Felsformation Dragon’s Eye am Strand von Uttakleiv, Norwegen(© reisegraf/Getty Images)](https://www.bing.com/th?id=OHR.DragonsEyeRock_DE-DE6085575680_UHD.jpg)
+Was blickt uns hier an? Ein Auge? Ein Drache? Oder ein stiller Zeuge der Erdgeschichte? Nicht ohne Grund trägt diese Felsformation am Strand von Uttakleiv auf den Lofoten in Norwegen den Namen „Dragon’s Eye“. Sie sieht aus wie das Auge eines Drachen, das aus der Tiefe der Zeit zurückschaut. Doch hinter diesem geheimnisvollen Eindruck steckt Geologie.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_400x240.jpg "Letzte Spur der Wildheit") 2026-02-18 | ![](https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_400x240.jpg "Fünfzehn Tage voller Licht") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_400x240.jpg "Kölle Alaaf!") 2026-02-16 |
-| ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_400x240.jpg "Die Taktgeber der Meere") 2026-02-15 | ![](https://www.bing.com/th?id=OHR.ValentineHearts_DE-DE3786630140_400x240.jpg "Liebe in voller Blüte") 2026-02-14 | ![](https://www.bing.com/th?id=OHR.FriendshipBridge_DE-DE8245998463_400x240.jpg "Brücken, die Nähe schaffen") 2026-02-13 |
-| ![](https://www.bing.com/th?id=OHR.BerlinaleHall_DE-DE3416408525_400x240.jpg "Filmkunst, Vielfalt und Tradition") 2026-02-12 |  |  |
+| ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_DE-DE6085575680_400x240.jpg "Im Blick des Drachen") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_400x240.jpg "Letzte Spur der Wildheit") 2026-02-18 | ![](https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_400x240.jpg "Fünfzehn Tage voller Licht") 2026-02-17 |
+| ![](https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_400x240.jpg "Kölle Alaaf!") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_400x240.jpg "Die Taktgeber der Meere") 2026-02-15 | ![](https://www.bing.com/th?id=OHR.ValentineHearts_DE-DE3786630140_400x240.jpg "Liebe in voller Blüte") 2026-02-14 |
+| ![](https://www.bing.com/th?id=OHR.FriendshipBridge_DE-DE8245998463_400x240.jpg "Brücken, die Nähe schaffen") 2026-02-13 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
