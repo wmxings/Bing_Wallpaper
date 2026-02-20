@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-CA2213623928_UHD.jpg)
-[2026-02-19 Where the land stares back The Dragon's Eye rock formation at Uttakleiv Beach, Norway(© reisegraf/Getty Images)](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-CA2213623928_UHD.jpg)
-Dragon's Eye sounds like something pulled from legend, and standing on Norway's Uttakleiv Beach in the Lofoten Islands, it's easy to see why. The formation, carved into ancient rock and framed by sand and sea, looks uncannily alive, as though the land itself is watching you. Shaped over thousands of years by ice and water, it has become one of the region's most captivating sights.
+![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-CA8124259212_UHD.jpg)
+[2026-02-20 Where light falls Horsetail Fall in Yosemite National Park, California, United States(© Jorge Villalba/Getty Images)](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-CA8124259212_UHD.jpg)
+Today we celebrate the birthday of Ansel Adams, an American photographer whose vision helped shape the world's perception of Yosemite National Park, which lies just across the border in California. Yosemite is renowned for its granite walls, dramatic waterfalls and striking light, all of which have inspired generations of artists. One of its most intriguing sights is the Firefall, a term that refers to two distinct events in the park's history. For decades, visitors gathered at Glacier Point to watch an artificial Firefall, in which embers were pushed off the cliff in a glowing stream of fire.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-CA2213623928_400x240.jpg "Where the land stares back") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-CA1440158754_400x240.jpg "Born to stay wild") 2026-02-18 | ![](https://www.bing.com/th?id=OHR.NewYearLantern_EN-CA1106555722_400x240.jpg "Fifteen days of light") 2026-02-17 |
-| ![](https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_400x240.jpg "When Banff slows down") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_400x240.jpg "Songs beneath the waves") 2026-02-15 | ![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-CA0194351855_400x240.jpg "Love in bloom") 2026-02-14 |
-| ![](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-CA9180302051_400x240.jpg "Built to bring closer") 2026-02-13 |  |  |
+| ![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-CA8124259212_400x240.jpg "Where light falls") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-CA2213623928_400x240.jpg "Where the land stares back") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-CA1440158754_400x240.jpg "Born to stay wild") 2026-02-18 |
+| ![](https://www.bing.com/th?id=OHR.NewYearLantern_EN-CA1106555722_400x240.jpg "Fifteen days of light") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_400x240.jpg "When Banff slows down") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_400x240.jpg "Songs beneath the waves") 2026-02-15 |
+| ![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-CA0194351855_400x240.jpg "Love in bloom") 2026-02-14 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)

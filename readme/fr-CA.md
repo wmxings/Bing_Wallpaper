@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-CA6892198253_UHD.jpg)
-[2026-02-19 Un regard hypnotisant Dragon's Eye, formation rocheuse sur la plage d’Uttakleiv, Norvège(© reisegraf/Getty Images)](https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-CA6892198253_UHD.jpg)
-Le « Dragon’s Eye » (« Œil de dragon » en français) semble évoquer un mythe ancien, et sur la plage norvégienne d’Uttakleiv, dans les îles Lofoten, on comprend aussitôt pourquoi. Nichée dans un socle de roches métamorphiques vieilles de millions d’années, la formation semble palpiter sous la lumière arctique, comme si le paysage lui-même observait les visiteurs. Façonnée durant des millénaires par la glace et les marées, elle est devenue l’un des spectacles naturels les plus envoûtants du nord de la Norvège.
+![](https://www.bing.com/th?id=OHR.AdamsFirefall_FR-CA5596610084_UHD.jpg)
+[2026-02-20 Quand la neige fond en lave La chute d’Horsetail, Parc national de Yosemite, Californie, États-Unis(© Jorge Villalba/Getty Images)](https://www.bing.com/th?id=OHR.AdamsFirefall_FR-CA5596610084_UHD.jpg)
+Aujourd’hui, on célèbre l’anniversaire d’Ansel Adams, le photographe qui a façonné notre regard sur le Parc national de Yosemite, en Californie (États-Unis). Parmi les merveilles de ce parc sculpté par le granite, l’eau et la lumière, une vue presque irréelle continue de captiver les visiteurs : celle de « Firefall », la cascade de feu.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-CA6892198253_400x240.jpg "Un regard hypnotisant") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-CA6421034547_400x240.jpg "Nés pour rester sauvages") 2026-02-18 | ![](https://www.bing.com/th?id=OHR.NewYearLantern_FR-CA8901839113_400x240.jpg "Quinze jours de lumière") 2026-02-17 |
-| ![](https://www.bing.com/th?id=OHR.BanffWinter_FR-CA2584265368_400x240.jpg "Banff au ralenti…") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-CA6777518726_400x240.jpg "Un chant sous les vagues") 2026-02-15 | ![](https://www.bing.com/th?id=OHR.ValentineHearts_FR-CA7167207051_400x240.jpg "L'amour fleurissant") 2026-02-14 |
-| ![](https://www.bing.com/th?id=OHR.FriendshipBridge_FR-CA7118708178_400x240.jpg "Construit pour rapprocher") 2026-02-13 |  |  |
+| ![](https://www.bing.com/th?id=OHR.AdamsFirefall_FR-CA5596610084_400x240.jpg "Quand la neige fond en lave") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-CA6892198253_400x240.jpg "Un regard hypnotisant") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-CA6421034547_400x240.jpg "Nés pour rester sauvages") 2026-02-18 |
+| ![](https://www.bing.com/th?id=OHR.NewYearLantern_FR-CA8901839113_400x240.jpg "Quinze jours de lumière") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.BanffWinter_FR-CA2584265368_400x240.jpg "Banff au ralenti…") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-CA6777518726_400x240.jpg "Un chant sous les vagues") 2026-02-15 |
+| ![](https://www.bing.com/th?id=OHR.ValentineHearts_FR-CA7167207051_400x240.jpg "L'amour fleurissant") 2026-02-14 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/fr-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-CA/w_2026_01.md)
