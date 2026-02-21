@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.AdamsFirefall_PT-BR4725440029_UHD.jpg)
-[2026-02-20 O mundo depois do clique Horsetail Fall no Parque Nacional de Yosemite, Califórnia, EUA(© Jorge Villalba/Getty Images)](https://www.bing.com/th?id=OHR.AdamsFirefall_PT-BR4725440029_UHD.jpg)
-Fotógrafos não apenas registram paisagens; eles transformam como as vemos. Nos Estados Unidos, cem anos atrás, Ansel Adams eternizou o Parque Nacional de Yosemite, na Califórnia, em preto e branco. Um de seus temas foi El Capitan, monólito de granito que desafia escaladores com seus mais de 900 metros verticais. Décadas depois, Galen Rowell capturou a efêmera Cascata de Fogo, na borda leste de El Capitan. Visto na imagem do dia, o fenômeno luminoso acontece quando, por alguns dias em fevereiro, o pôr do sol sobre a Horsetail Fall parece transformar a água em lava.
+![](https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_UHD.jpg)
+[2026-02-21 A lógica do instinto Raposa-vermelha no Parque Nacional de Grand Teton, Wyoming, EUA(© Radomir Jakubowski/naturepl.com)](https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_UHD.jpg)
+No Parque Nacional de Grand Teton, em Wyoming, Estados Unidos, esta raposa-vermelha é um ponto de cor em meio à nevasca. Ela é a prova viva de que a evolução sabe o que faz: o pelo espesso e ruivo funciona como armadura contra o inverno rigoroso, enquanto as orelhas giram como radares, captando o menor movimento sob a neve. A raposa escuta, calcula e mergulha com precisão cirúrgica, alcançando presas que nunca chegam a aparecer na superfície.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.AdamsFirefall_PT-BR4725440029_400x240.jpg "O mundo depois do clique") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_PT-BR9453939614_400x240.jpg "Quando a pedra te olha de volta") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.SavanaBA_PT-BR8450191150_400x240.jpg "As raízes profundas da resistência") 2026-02-18 |
-| ![](https://www.bing.com/th?id=OHR.NewYearLantern_PT-BR7587558127_400x240.jpg "A luz que cruza oceanos") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.BanffWinter_PT-BR7066922976_400x240.jpg "No branco de Banff") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_PT-BR6399797691_400x240.jpg "Vozes que ecoam sob as ondas") 2026-02-15 |
-| ![](https://www.bing.com/th?id=OHR.Carnaval26_PT-BR4981816549_400x240.jpg "A alegria que não cabe nas ruas") 2026-02-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_400x240.jpg "A lógica do instinto") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_PT-BR4725440029_400x240.jpg "O mundo depois do clique") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_PT-BR9453939614_400x240.jpg "Quando a pedra te olha de volta") 2026-02-19 |
+| ![](https://www.bing.com/th?id=OHR.SavanaBA_PT-BR8450191150_400x240.jpg "As raízes profundas da resistência") 2026-02-18 | ![](https://www.bing.com/th?id=OHR.NewYearLantern_PT-BR7587558127_400x240.jpg "A luz que cruza oceanos") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.BanffWinter_PT-BR7066922976_400x240.jpg "No branco de Banff") 2026-02-16 |
+| ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_PT-BR6399797691_400x240.jpg "Vozes que ecoam sob as ondas") 2026-02-15 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/pt-BR/w_2026_02.md) | [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
