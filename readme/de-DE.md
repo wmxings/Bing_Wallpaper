@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SwanHesse_DE-DE7086737425_UHD.jpg)
-[2026-02-20 Geborgenheit auf dem Wasser Höckerschwan schwimmt mit Küken, Hessen(© Wilfried Martin/Getty Images)](https://www.bing.com/th?id=OHR.SwanHesse_DE-DE7086737425_UHD.jpg)
-Sanft gleitet ein Höckerschwan mit seinen Küken über die ruhige Wasseroberfläche. Diese Szene lässt sich an vielen Seen und Flusslandschaften beobachten – vom Bodensee über die Mecklenburgische Seenplatte bis hin zu renaturierten Flussarmen in zahlreichen Städten. Höckerschwäne finden dort geschützte Uferzonen und reichlich Wasserpflanzen, die ihre wichtigste Nahrungsquelle bilden.
+![](https://www.bing.com/th?id=OHR.TetonFox_DE-DE7543648384_UHD.jpg)
+[2026-02-21 Die Stille des Winters Rotfuchs im Schneefall, Grand‑Teton‑Nationalpark, Wyoming, USA(© Radomir Jakubowski/naturepl.com)](https://www.bing.com/th?id=OHR.TetonFox_DE-DE7543648384_UHD.jpg)
+Inmitten des dichten Schneefalls im Grand‑Teton‑Nationalpark im US‑Bundesstaat Wyoming hält ein Rotfuchs inne. Dieser flüchtige Moment der Ruhe verdeutlicht, wie souverän sich diese Art selbst in den extremen Wintern der Rocky Mountains behauptet. Südlich des Yellowstone‑Nationalparks gelegen, ist das Schutzgebiet geprägt von hochalpinen Wäldern und weiten Tälern, in denen über Monate hinweg eine geschlossene Schneedecke liegt.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SwanHesse_DE-DE7086737425_400x240.jpg "Geborgenheit auf dem Wasser") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_DE-DE6085575680_400x240.jpg "Im Blick des Drachen") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_400x240.jpg "Letzte Spur der Wildheit") 2026-02-18 |
-| ![](https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_400x240.jpg "Fünfzehn Tage voller Licht") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_400x240.jpg "Kölle Alaaf!") 2026-02-16 | ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_400x240.jpg "Die Taktgeber der Meere") 2026-02-15 |
-| ![](https://www.bing.com/th?id=OHR.ValentineHearts_DE-DE3786630140_400x240.jpg "Liebe in voller Blüte") 2026-02-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.TetonFox_DE-DE7543648384_400x240.jpg "Die Stille des Winters") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.SwanHesse_DE-DE7086737425_400x240.jpg "Geborgenheit auf dem Wasser") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_DE-DE6085575680_400x240.jpg "Im Blick des Drachen") 2026-02-19 |
+| ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_400x240.jpg "Letzte Spur der Wildheit") 2026-02-18 | ![](https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_400x240.jpg "Fünfzehn Tage voller Licht") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_400x240.jpg "Kölle Alaaf!") 2026-02-16 |
+| ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_400x240.jpg "Die Taktgeber der Meere") 2026-02-15 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
