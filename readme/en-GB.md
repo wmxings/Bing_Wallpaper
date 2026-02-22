@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_UHD.jpg)
-[2026-02-21 Whispers of winter Red fox, Grand Teton National Park, Wyoming, United States(© Radomir Jakubowski/naturepl.com)](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_UHD.jpg)
-A red fox standing in the snowfall of Grand Teton National Park is more than a picturesque moment—it offers a glimpse into the resilience of one of North America's most adaptable predators. This small carnivore is instantly recognisable by its sharp gaze and thick, fiery coat that helps it thrive even in Wyoming's harsh winter conditions. Snow muffles sound, yet the animal's extraordinary hearing allows it to detect prey moving beneath the surface. You can almost imagine it pausing amid the drifting flakes, ears rotating, body perfectly still, waiting for the faintest rustle.
+![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_UHD.jpg)
+[2026-02-22 The mother of hills The hill of Mam Tor, Derbyshire, England(© john finney photography/Getty Images)](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_UHD.jpg)
+'Shivering Mountain' is a dramatic nickname, but Mam Tor has earned it over hundreds of years. Rising above Castleton in England's Peak District, it lies within the United Kingdom's first national park, which spans 555 square miles. This landmark takes its name from Old English, 'mam' meaning 'mother,' a nod to the smaller hills it appears to cradle. Yet this 'mother mountain' is famously unstable. Its layers of shale and sandstone have caused landslips for centuries, including a collapse that permanently closed the A625 road in 1979.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_400x240.jpg "Whispers of winter") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-GB5806562123_400x240.jpg "Where light falls") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-GB1409400272_400x240.jpg "Where the land stares back") 2026-02-19 |
-| ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-GB1150597463_400x240.jpg "Born to stay wild") 2026-02-18 | ![](https://www.bing.com/th?id=OHR.NewYearLantern_EN-GB0911837862_400x240.jpg "Fifteen days of light") 2026-02-17 | ![](https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_400x240.jpg "York goes Norse (again)") 2026-02-16 |
-| ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_400x240.jpg "Songs beneath the waves") 2026-02-15 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_400x240.jpg "The mother of hills") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_400x240.jpg "Whispers of winter") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-GB5806562123_400x240.jpg "Where light falls") 2026-02-20 |
+| ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-GB1409400272_400x240.jpg "Where the land stares back") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-GB1150597463_400x240.jpg "Born to stay wild") 2026-02-18 | ![](https://www.bing.com/th?id=OHR.NewYearLantern_EN-GB0911837862_400x240.jpg "Fifteen days of light") 2026-02-17 |
+| ![](https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_400x240.jpg "York goes Norse (again)") 2026-02-16 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)

@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-02-22",
+    "head_line": "La colline mère",
+    "title": "Mam Tor, Derbyshire, Angleterre",
+    "copyright": "© john finney photography/Getty Images",
+    "desc": "Surnommée « Shivering Mountain » (montagne frissonnante), Mam Tor domine les environs de Castleton, au cœur du premier parc national d’Angleterre. Sa silhouette massive semble veiller sur les collines qu’elle enlace doucement, écho à son nom issu de l’anglais ancien et signifiant « colline mère ». Mais cette maternité est instable : ses couches de schiste et de grès s’effritent depuis des siècles, provoquant même la destruction d’une route à la fin des années 1970. Bien avant ces glissements — qui rappellent les pentes instables du Vercors ou les falaises normandes — des peuples de l’âge du Bronze s’y étaient installés. Les vestiges de leurs habitations rondes et d’anciens chemins demeurent visibles sous la bruyère.",
+    "image_url": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-02-21",
     "head_line": "Majesté alpine",
     "title": "Le bouquetin des Alpes",
