@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_UHD.jpg)
-[2026-02-22 La colline mère Mam Tor, Derbyshire, Angleterre(© john finney photography/Getty Images)](https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_UHD.jpg)
-Surnommée « Shivering Mountain » (montagne frissonnante), Mam Tor domine les environs de Castleton, au cœur du premier parc national d’Angleterre. Sa silhouette massive semble veiller sur les collines qu’elle enlace doucement, écho à son nom issu de l’anglais ancien et signifiant « colline mère ». Mais cette maternité est instable : ses couches de schiste et de grès s’effritent depuis des siècles, provoquant même la destruction d’une route à la fin des années 1970. Bien avant ces glissements — qui rappellent les pentes instables du Vercors ou les falaises normandes — des peuples de l’âge du Bronze s’y étaient installés. Les vestiges de leurs habitations rondes et d’anciens chemins demeurent visibles sous la bruyère.
+![](https://www.bing.com/th?id=OHR.BavariaEgret_FR-FR5715271621_UHD.jpg)
+[2026-02-23 L'élégance immaculée La grande aigrette, Haute-Bavière, Allemagne(© Konrad Wothe/naturepl.com)](https://www.bing.com/th?id=OHR.BavariaEgret_FR-FR5715271621_UHD.jpg)
+Avec sa stature fine, son long cou sinueux et son bec jaune vif, cet élégant héron n’est autre que la grande aigrette. Présente sur presque tous les continents, elle fréquente aussi bien les marais de Camargue que les deltas lointains. En tant que carnivore, elle est connue pour chasser ses proies avec une patience et une précision remarquables : elle reste complètement figée, puis se lance comme un éclair sur un poisson, une grenouille ou un petit rongeur. Cette patience presque cérémonielle fait partie de son charme silencieux.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_400x240.jpg "La colline mère") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_400x240.jpg "Majesté alpine") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.LemonFestival_FR-FR1757347913_400x240.jpg "Des citrons par milliers") 2026-02-20 |
-| ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-FR6691267699_400x240.jpg "Un regard hypnotisant") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_400x240.jpg "Nés pour rester sauvages") 2026-02-18 | ![](https://www.bing.com/th?id=OHR.NewYearLantern_FR-FR2946545684_400x240.jpg "Quinze jours de lumière") 2026-02-17 |
-| ![](https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_400x240.jpg "Parfait pour un grand bol d'air") 2026-02-16 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BavariaEgret_FR-FR5715271621_400x240.jpg "L'élégance immaculée") 2026-02-23 | ![](https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_400x240.jpg "La colline mère") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_400x240.jpg "Majesté alpine") 2026-02-21 |
+| ![](https://www.bing.com/th?id=OHR.LemonFestival_FR-FR1757347913_400x240.jpg "Des citrons par milliers") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-FR6691267699_400x240.jpg "Un regard hypnotisant") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_400x240.jpg "Nés pour rester sauvages") 2026-02-18 |
+| ![](https://www.bing.com/th?id=OHR.NewYearLantern_FR-FR2946545684_400x240.jpg "Quinze jours de lumière") 2026-02-17 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
