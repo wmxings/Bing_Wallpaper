@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BavariaEgret_EN-GB1955700244_UHD.jpg)
-[2026-02-23 Snowfield monarch Great white egret, Upper Bavaria, Germany(© Konrad Wothe/naturepl.com)](https://www.bing.com/th?id=OHR.BavariaEgret_EN-GB1955700244_UHD.jpg)
-The great egret is a striking large heron, easily recognisable by its pure white plumage, long neck and sharp yellow bill. Known for its cosmopolitan distribution, it occupies habitats around the world and adapts well to many aquatic environments. Adults measure about 94–104 centimetres in body length, with a wingspan of 1.3 to 1.5 metres and weigh about a kilogram, giving them a tall, elegant silhouette—roughly chest‑high when compared to a 2‑metre-tall person. As carnivores, they feed primarily on fish but also take amphibians, insects, small mammals and occasionally reptiles. Their patient hunting style, standing motionless before striking with sudden precision, is one of their most distinctive traits.
+![](https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_UHD.jpg)
+[2026-02-24 The pulse beneath the pond Water lilies at Grand Cenote, Tulum, Mexico(© Christian Vizl/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_UHD.jpg)
+Floating lilies, crystal-clear pools and a hidden world below: welcome to the Grand Cenote in Tulum, Mexico. This natural sinkhole formed thousands of years ago when collapsing rock let aquifer waters in. Over time, the chamber filled with clear fresh water that now connects a vast underground system of caves. At first, our eyes rest on the still surface. The water lilies we see in the image float without hurry, their broad leaves catching sunlight while supporting rich ecosystems underneath. These botanical wonders belong to one of the oldest flowering lineages on Earth, dating back more than 125 million years—older than most dinosaurs. Each bloom has evolved clever tricks to attract pollinators—beetles, bees, flies and even the wind—using scent, shape and timing to ensure survival in still water.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BavariaEgret_EN-GB1955700244_400x240.jpg "Snowfield monarch") 2026-02-23 | ![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_400x240.jpg "The mother of hills") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_400x240.jpg "Whispers of winter") 2026-02-21 |
-| ![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-GB5806562123_400x240.jpg "Where light falls") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-GB1409400272_400x240.jpg "Where the land stares back") 2026-02-19 | ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-GB1150597463_400x240.jpg "Born to stay wild") 2026-02-18 |
-| ![](https://www.bing.com/th?id=OHR.NewYearLantern_EN-GB0911837862_400x240.jpg "Fifteen days of light") 2026-02-17 |  |  |
+| ![](https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_400x240.jpg "The pulse beneath the pond") 2026-02-24 | ![](https://www.bing.com/th?id=OHR.BavariaEgret_EN-GB1955700244_400x240.jpg "Snowfield monarch") 2026-02-23 | ![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_400x240.jpg "The mother of hills") 2026-02-22 |
+| ![](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_400x240.jpg "Whispers of winter") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-GB5806562123_400x240.jpg "Where light falls") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-GB1409400272_400x240.jpg "Where the land stares back") 2026-02-19 |
+| ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-GB1150597463_400x240.jpg "Born to stay wild") 2026-02-18 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
