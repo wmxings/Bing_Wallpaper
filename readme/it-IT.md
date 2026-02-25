@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SanremoLiguria_IT-IT4317774368_UHD.jpg)
-[2026-02-24 Palcoscenico sul mare Spiaggia di Sanremo, Liguria(© fbxx/iStock/Getty Images)](https://www.bing.com/th?id=OHR.SanremoLiguria_IT-IT4317774368_UHD.jpg)
-Il sole cala lento sulla spiaggia di Sanremo, tingendo il cielo e il mare di sfumature di arancio e porpora. L’inverno ancora si sente nell’aria, ma il panorama sembra già promettere festa e musica. Le luci della città cominciano a brillare, piccoli riflessi che danzano sulla superficie dell’acqua. È il 24 febbraio e, tra queste strade e il lungomare, si prepara ogni anno uno spettacolo unico: il Festival di Sanremo. Non è solo una gara di canzoni, è una città che respira note, applausi e attese, un luogo dove emozioni e melodie si intrecciano come i colori del cielo al tramonto.
+![](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg)
+[2026-02-25 L'ultima grotta? Grotta di ghiaccio, ghiacciaio Mendenhall, Alaska, USA(© Designpics/Adobe Stock)](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg)
+Nascosto poco fuori da Juneau, nello stato americano dell’Alaska, il ghiacciaio Mendenhall sembra quasi irreale. Entrare in una delle sue rare grotte di ghiaccio blu è come uscire dal tempo: il silenzio si allarga, la luce filtra attraverso secoli di ghiaccio compattato e tutto si tinge di azzurro. Il ghiacciaio si estende per circa 20 km dal Juneau Icefield, scorrendo lentamente verso la valle, cambiando forma anno dopo anno. Il suo colore intenso nasce dalla densità del ghiaccio, che assorbe quasi tutte le lunghezze d’onda della luce e lascia emergere solo il blu più profondo. Le grotte si formano quando l’acqua di fusione scava tunnel nel ghiaccio e scompaiono altrettanto in fretta, collassando o dissolvendosi al cambiare delle condizioni.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SanremoLiguria_IT-IT4317774368_400x240.jpg "Palcoscenico sul mare") 2026-02-24 | ![](https://www.bing.com/th?id=OHR.TulumLilies_IT-IT7765619476_400x240.jpg "Battito floreale") 2026-02-23 | ![](https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_400x240.jpg "La madre delle colline") 2026-02-22 |
-| ![](https://www.bing.com/th?id=OHR.TetonFox_IT-IT8444976522_400x240.jpg "Sussurro invernale") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_IT-IT7705285382_400x240.jpg "Dove cade la luce") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.GiauPass_IT-IT5498738884_400x240.jpg "Oltre la cima") 2026-02-19 |
-| ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_IT-IT6104947665_400x240.jpg "Ribelli della steppa") 2026-02-18 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_400x240.jpg "L'ultima grotta?") 2026-02-25 | ![](https://www.bing.com/th?id=OHR.SanremoLiguria_IT-IT4317774368_400x240.jpg "Palcoscenico sul mare") 2026-02-24 | ![](https://www.bing.com/th?id=OHR.TulumLilies_IT-IT7765619476_400x240.jpg "Battito floreale") 2026-02-23 |
+| ![](https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_400x240.jpg "La madre delle colline") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.TetonFox_IT-IT8444976522_400x240.jpg "Sussurro invernale") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_IT-IT7705285382_400x240.jpg "Dove cade la luce") 2026-02-20 |
+| ![](https://www.bing.com/th?id=OHR.GiauPass_IT-IT5498738884_400x240.jpg "Oltre la cima") 2026-02-19 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
