@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg)
-[2026-02-24 The pulse beneath the pond Water lilies at Grand Cenote, Tulum, Mexico(© Christian Vizl/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg)
-Floating lilies, glass-clear pools, and a hidden world below: welcome to the Grand Cenote in Tulum, Mexico. This natural sinkhole formed thousands of years ago when collapsing rock let aquifer waters in. Over time, the chamber filled with clear freshwater that now connects a vast underground system of caves. At first, our eyes rest on the still surface. The water lilies we see in the image float without hurry, their broad leaves catching sunlight while supporting rich ecosystems underneath. These botanical wonders belong to one of the oldest flowering lineages on Earth, dating back more than 125 million years—older than most dinosaurs. Each bloom has evolved clever tricks to attract pollinators—beetles, bees, flies, and even the wind—using scent, shape, and timing to ensure survival in still water.
+![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg)
+[2026-02-25 Ice, lit from within Ice cave in the Mendenhall Glacier, Alaska(© Designpics/Adobe Stock)](https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg)
+Hidden just outside Juneau, Alaska, the Mendenhall Glacier feels almost unreal, inside and out. Step into one of its rare blue ice caves, and the world turns quiet and luminous, with light filtering through centuries-old compacted ice. The glacier stretches about 13 miles from the Juneau Icefield, slowly flowing toward the valley below and reshaping itself year by year.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_400x240.jpg "The pulse beneath the pond") 2026-02-24 | ![](https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_400x240.jpg "Snowfield monarch") 2026-02-23 | ![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_400x240.jpg "The mother of hills") 2026-02-22 |
-| ![](https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_400x240.jpg "Whispers of winter") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_400x240.jpg "Where light falls") 2026-02-20 | ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_400x240.jpg "Where the land stares back") 2026-02-19 |
-| ![](https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_400x240.jpg "Born to stay wild") 2026-02-18 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_400x240.jpg "Ice, lit from within") 2026-02-25 | ![](https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_400x240.jpg "The pulse beneath the pond") 2026-02-24 | ![](https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_400x240.jpg "Snowfield monarch") 2026-02-23 |
+| ![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_400x240.jpg "The mother of hills") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_400x240.jpg "Whispers of winter") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_400x240.jpg "Where light falls") 2026-02-20 |
+| ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_400x240.jpg "Where the land stares back") 2026-02-19 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-US/w_2026_02.md) | [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
