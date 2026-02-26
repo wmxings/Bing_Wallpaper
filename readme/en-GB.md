@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg)
-[2026-02-25 Ice, lit from within Ice cave in the Mendenhall Glacier, Alaska, United States(© Designpics/Adobe Stock)](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg)
-Hidden just outside Juneau in Alaska, United States, the Mendenhall Glacier feels almost unreal, inside and out. Step into one of its rare blue ice caves, and the world turns quiet and luminous, with light filtering through centuries-old compacted ice. The glacier stretches about 13 miles from the Juneau Icefield, slowly flowing toward the valley below and reshaping itself year by year.
+![](https://www.bing.com/th?id=OHR.GrandSunset_EN-GB4172876731_UHD.jpg)
+[2026-02-26 One grand view Grand Canyon and the Colorado River, Arizona, United States(© Matt Anderson Photography/Getty Images)](https://www.bing.com/th?id=OHR.GrandSunset_EN-GB4172876731_UHD.jpg)
+Every day at the Grand Canyon National Park in Arizona, United States, tells a story. At the heart of it all flows the Colorado River, winding for hundreds of miles through layered stone, quietly shaping the canyon one season at a time. Visitors can slow down and explore through ranger-led programs and talks that highlight the canyon's geology, wildlife and cultural history. A walk along the South Rim offers sweeping views where California condors circle overhead, while elk, mule deer and bighorn sheep roam the park's diverse habitats. Stargazing and scenic overlooks add to the experience, especially during winter's clearer nights.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_400x240.jpg "Ice, lit from within") 2026-02-25 | ![](https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_400x240.jpg "The pulse beneath the pond") 2026-02-24 | ![](https://www.bing.com/th?id=OHR.BavariaEgret_EN-GB1955700244_400x240.jpg "Snowfield monarch") 2026-02-23 |
-| ![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_400x240.jpg "The mother of hills") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_400x240.jpg "Whispers of winter") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-GB5806562123_400x240.jpg "Where light falls") 2026-02-20 |
-| ![](https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-GB1409400272_400x240.jpg "Where the land stares back") 2026-02-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.GrandSunset_EN-GB4172876731_400x240.jpg "One grand view") 2026-02-26 | ![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_400x240.jpg "Ice, lit from within") 2026-02-25 | ![](https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_400x240.jpg "The pulse beneath the pond") 2026-02-24 |
+| ![](https://www.bing.com/th?id=OHR.BavariaEgret_EN-GB1955700244_400x240.jpg "Snowfield monarch") 2026-02-23 | ![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_400x240.jpg "The mother of hills") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_400x240.jpg "Whispers of winter") 2026-02-21 |
+| ![](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-GB5806562123_400x240.jpg "Where light falls") 2026-02-20 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)

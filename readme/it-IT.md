@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg)
-[2026-02-25 L'ultima grotta? Grotta di ghiaccio, ghiacciaio Mendenhall, Alaska, USA(© Designpics/Adobe Stock)](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg)
-Nascosto poco fuori da Juneau, nello stato americano dell’Alaska, il ghiacciaio Mendenhall sembra quasi irreale. Entrare in una delle sue rare grotte di ghiaccio blu è come uscire dal tempo: il silenzio si allarga, la luce filtra attraverso secoli di ghiaccio compattato e tutto si tinge di azzurro. Il ghiacciaio si estende per circa 20 km dal Juneau Icefield, scorrendo lentamente verso la valle, cambiando forma anno dopo anno. Il suo colore intenso nasce dalla densità del ghiaccio, che assorbe quasi tutte le lunghezze d’onda della luce e lascia emergere solo il blu più profondo. Le grotte si formano quando l’acqua di fusione scava tunnel nel ghiaccio e scompaiono altrettanto in fretta, collassando o dissolvendosi al cambiare delle condizioni.
+![](https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_UHD.jpg)
+[2026-02-26 Onde di pietra Grand Canyon e fiume Colorado, Arizona, USA(© Matt Anderson Photography/Getty Images)](https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_UHD.jpg)
+Oggi, 26 febbraio, è una data speciale per il Grand Canyon National Park. Nel 1919 venne ufficialmente designato parco nazionale, un passaggio fondamentale per la tutela di una delle meraviglie naturali più iconiche degli Stati Uniti. Al centro di tutto scorre il fiume Colorado, che si snoda per centinaia di chilometri tra strati di roccia, modellando il canyon stagione dopo stagione. Per chi si trova nei dintorni, l’anniversario diventa un invito a fermarsi e ad ascoltare il paesaggio. I programmi e gli incontri guidati dai ranger raccontano la geologia, la fauna e le storie umane intrecciate alle pareti del canyon.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_400x240.jpg "L'ultima grotta?") 2026-02-25 | ![](https://www.bing.com/th?id=OHR.SanremoLiguria_IT-IT4317774368_400x240.jpg "Palcoscenico sul mare") 2026-02-24 | ![](https://www.bing.com/th?id=OHR.TulumLilies_IT-IT7765619476_400x240.jpg "Battito floreale") 2026-02-23 |
-| ![](https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_400x240.jpg "La madre delle colline") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.TetonFox_IT-IT8444976522_400x240.jpg "Sussurro invernale") 2026-02-21 | ![](https://www.bing.com/th?id=OHR.AdamsFirefall_IT-IT7705285382_400x240.jpg "Dove cade la luce") 2026-02-20 |
-| ![](https://www.bing.com/th?id=OHR.GiauPass_IT-IT5498738884_400x240.jpg "Oltre la cima") 2026-02-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_400x240.jpg "Onde di pietra") 2026-02-26 | ![](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_400x240.jpg "L'ultima grotta?") 2026-02-25 | ![](https://www.bing.com/th?id=OHR.SanremoLiguria_IT-IT4317774368_400x240.jpg "Palcoscenico sul mare") 2026-02-24 |
+| ![](https://www.bing.com/th?id=OHR.TulumLilies_IT-IT7765619476_400x240.jpg "Battito floreale") 2026-02-23 | ![](https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_400x240.jpg "La madre delle colline") 2026-02-22 | ![](https://www.bing.com/th?id=OHR.TetonFox_IT-IT8444976522_400x240.jpg "Sussurro invernale") 2026-02-21 |
+| ![](https://www.bing.com/th?id=OHR.AdamsFirefall_IT-IT7705285382_400x240.jpg "Dove cade la luce") 2026-02-20 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
