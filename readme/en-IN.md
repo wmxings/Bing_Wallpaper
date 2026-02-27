@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989_UHD.jpg)
-[2026-02-27 Life on thinning ice Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States(© Steven Kazlowski/naturepl.com)](https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989_UHD.jpg)
-International Polar Bear Day underscores how closely these Arctic giants are tied to their frozen realms. Celebrated on February 27, the day shines a light on polar bears and the rapidly changing world beneath their paws. The world's largest land carnivores roam across vast icy landscapes, sometimes covering hundreds of kilometres in search of food. They're perfectly adapted to life on sea ice, with large paws that can span more than 30 centimetres and help them swim for kilometres.
+![](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294_UHD.jpg)
+[2026-02-28 Overflowing with community Olo'upena Falls, island of Moloka'i, Hawaii, United States(© Andrew Aylett/Getty Images)](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294_UHD.jpg)
+Moloka'i, often called the most Hawaiian of the islands, offers a slower rhythm shaped by nature and strong community ties. Formed by volcanic activity more than a million years ago, the island covers about 673 square kilometres and rises from the Pacific Ocean in long ridges and broad valleys. Unlike its busier neighbours, Moloka'i has resisted large-scale development, preserving a strong sense of local cohesion where families, traditions and stewardship of the land encapsulate central values. Life here focuses on the ocean, the land and stories passed down through generations.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989_400x240.jpg "Life on thinning ice") 2026-02-27 | ![](https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_400x240.jpg "One grand view") 2026-02-26 | ![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-IN1317214650_400x240.jpg "Ice, lit from within") 2026-02-25 |
-| ![](https://www.bing.com/th?id=OHR.TulumLilies_EN-IN0356190937_400x240.jpg "The pulse beneath the pond") 2026-02-24 | ![](https://www.bing.com/th?id=OHR.BavariaEgret_EN-IN0132576693_400x240.jpg "Snowfield monarch") 2026-02-23 | ![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-IN9955621368_400x240.jpg "The mother of hills") 2026-02-22 |
-| ![](https://www.bing.com/th?id=OHR.TetonFox_EN-IN9506769655_400x240.jpg "Whispers of winter") 2026-02-21 |  |  |
+| ![](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294_400x240.jpg "Overflowing with community") 2026-02-28 | ![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989_400x240.jpg "Life on thinning ice") 2026-02-27 | ![](https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_400x240.jpg "One grand view") 2026-02-26 |
+| ![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-IN1317214650_400x240.jpg "Ice, lit from within") 2026-02-25 | ![](https://www.bing.com/th?id=OHR.TulumLilies_EN-IN0356190937_400x240.jpg "The pulse beneath the pond") 2026-02-24 | ![](https://www.bing.com/th?id=OHR.BavariaEgret_EN-IN0132576693_400x240.jpg "Snowfield monarch") 2026-02-23 |
+| ![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-IN9955621368_400x240.jpg "The mother of hills") 2026-02-22 |  |  |
 
 # History
 [2026-02](../archives/wallpaper/en-IN/w_2026_02.md) | [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
