@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.RilaCrocuses_DE-DE6081650633_UHD.jpg)
-[2026-03-04 Krokusse im Rampenlicht Violette Krokusse an den Sieben Rila‑Seen, Bulgarien(© Maya Karkalicheva/Getty Images)](https://www.bing.com/th?id=OHR.RilaCrocuses_DE-DE6081650633_UHD.jpg)
-Sobald in den Rila-Bergen im Südwesten Bulgariens der Schnee zu schmelzen beginnt, zeigt sich ein besonderer Frühlingsbote: violette Krokusse, die in kleinen Gruppen aus der Erde sprießen. Rund um die Sieben Rila-Seen bilden sie in den Frühlingsmonaten ein farbenfrohes Muster und durchbrechen die winterliche Stille. Die Region liegt im Nationalpark Rila, dem größten des Landes. Der Park schützt über 120 dauerhafte und rund 30 saisonale Gletscherseen, deren klares Wasser Moore, Hochweiden und seltene alpine Pflanzen speist, ein empfindliches Ökosystem, das im Frühjahr langsam wieder zum Leben erwacht.
+![](https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_UHD.jpg)
+[2026-03-05 Wo Felsen Geschichten erzählen Abendstimmung über Göreme, Kappadokien, Türkei(© ONNAJA/Getty Images)](https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_UHD.jpg)
+Wenn der Abend über Göreme in der türkischen Region Kappadokien hereinbricht, verwandelt sich die Landschaft in ein faszinierendes Lichterspiel. Über Jahrtausende haben Wind und Temperaturschwankungen aus weichem Tuffstein die berühmten Feenkamine geformt. Dieses UNESCO‑Welterbe beeindruckt nicht nur durch seine außergewöhnliche Geologie, sondern auch durch eine tief reichende Geschichte. Unter der Oberfläche erstreckt sich ein weit verzweigtes Netz unterirdischer Städte und mehr als 600 Höhlenkirchen, von denen einige noch gut erhaltene Fresken zeigen.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.RilaCrocuses_DE-DE6081650633_400x240.jpg "Krokusse im Rampenlicht") 2026-03-04 | ![](https://www.bing.com/th?id=OHR.BabyElephant_DE-DE5859439374_400x240.jpg "Hüter der Wildnis") 2026-03-03 | ![](https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_400x240.jpg "Geschichten auf dem Wasser") 2026-03-02 |
-| ![](https://www.bing.com/th?id=OHR.BalearesDay_DE-DE6256697714_400x240.jpg "Im Licht der Balearen") 2026-03-01 | ![](https://www.bing.com/th?id=OHR.OloupenaFalls_DE-DE5017042185_400x240.jpg "Höhen über dem Pazifik") 2026-02-28 | ![](https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_400x240.jpg "Leben auf schwindendem Eis") 2026-02-27 |
-| ![](https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_400x240.jpg "Wo der Tag erwacht") 2026-02-26 |  |  |
+| ![](https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_400x240.jpg "Wo Felsen Geschichten erzählen") 2026-03-05 | ![](https://www.bing.com/th?id=OHR.RilaCrocuses_DE-DE6081650633_400x240.jpg "Krokusse im Rampenlicht") 2026-03-04 | ![](https://www.bing.com/th?id=OHR.BabyElephant_DE-DE5859439374_400x240.jpg "Hüter der Wildnis") 2026-03-03 |
+| ![](https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_400x240.jpg "Geschichten auf dem Wasser") 2026-03-02 | ![](https://www.bing.com/th?id=OHR.BalearesDay_DE-DE6256697714_400x240.jpg "Im Licht der Balearen") 2026-03-01 | ![](https://www.bing.com/th?id=OHR.OloupenaFalls_DE-DE5017042185_400x240.jpg "Höhen über dem Pazifik") 2026-02-28 |
+| ![](https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_400x240.jpg "Leben auf schwindendem Eis") 2026-02-27 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
