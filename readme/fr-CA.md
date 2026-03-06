@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.GoremeTwilight_FR-CA5793400182_UHD.jpg)
-[2026-03-05 Roche antique et lumières modernes Göreme le soir, Cappadoce, Turquie(© ONNAJA/Getty Images)](https://www.bing.com/th?id=OHR.GoremeTwilight_FR-CA5793400182_UHD.jpg)
-Quand le soir tombe sur Göreme, au cœur de la Cappadoce, en Turquie, les reliefs s’embrasent d’une lumière douce. Classé à l’UNESCO depuis 1985, ce paysage de « cheminées de fées » est né du dépôt de cendres volcaniques qui, durcies avec le temps, ont été façonnées au cours des siècles par l’eau et par le vent. Un peu comme nos abris sous roche innus ou nos parois sculptées par les glaciers, chaque recoin de cette vallée à l’allure presque fantastique reflète la rencontre entre la nature et ceux qui l’ont habitée.
+![](https://www.bing.com/th?id=OHR.WaveDenmark_FR-CA4609032919_UHD.jpg)
+[2026-03-06 Des vagues en béton Projet résidentiel The Wave, Vejle, Danemark(© Frank Bach/Alamy)](https://www.bing.com/th?id=OHR.WaveDenmark_FR-CA4609032919_UHD.jpg)
+L’architecture prend tout son sens lorsqu’elle est pensée en harmonie avec le territoire. Sur la photo du jour, ces constructions, situées à Vejle (Danemark), au bord d’un fjord paisible, ne se limitent pas à leur rôle de bâtiments d’habitation. Le complexe, nommé « The Wave » (« La Vague »), étroitement lié à son environnement, en est la preuve.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.GoremeTwilight_FR-CA5793400182_400x240.jpg "Roche antique et lumières modernes") 2026-03-05 | ![](https://www.bing.com/th?id=OHR.RilaCrocuses_FR-CA5380039525_400x240.jpg "Lumière sur les crocus") 2026-03-04 | ![](https://www.bing.com/th?id=OHR.BabyElephant_FR-CA4521397968_400x240.jpg "Gardiens de la faune sauvage") 2026-03-03 |
-| ![](https://www.bing.com/th?id=OHR.SamuiThailand_FR-CA4699413933_400x240.jpg "Un héritage flottant") 2026-03-02 | ![](https://www.bing.com/th?id=OHR.OwlonGuard_FR-CA3024478389_400x240.jpg "Chouette ou hibou?") 2026-03-01 | ![](https://www.bing.com/th?id=OHR.OloupenaFalls_FR-CA6440026394_400x240.jpg "L'union entre nature et communauté") 2026-02-28 |
-| ![](https://www.bing.com/th?id=OHR.ArcitcCub_FR-CA2390594939_400x240.jpg "La vie sur une banquise toujours plus fine") 2026-02-27 |  |  |
+| ![](https://www.bing.com/th?id=OHR.WaveDenmark_FR-CA4609032919_400x240.jpg "Des vagues en béton") 2026-03-06 | ![](https://www.bing.com/th?id=OHR.GoremeTwilight_FR-CA5793400182_400x240.jpg "Roche antique et lumières modernes") 2026-03-05 | ![](https://www.bing.com/th?id=OHR.RilaCrocuses_FR-CA5380039525_400x240.jpg "Lumière sur les crocus") 2026-03-04 |
+| ![](https://www.bing.com/th?id=OHR.BabyElephant_FR-CA4521397968_400x240.jpg "Gardiens de la faune sauvage") 2026-03-03 | ![](https://www.bing.com/th?id=OHR.SamuiThailand_FR-CA4699413933_400x240.jpg "Un héritage flottant") 2026-03-02 | ![](https://www.bing.com/th?id=OHR.OwlonGuard_FR-CA3024478389_400x240.jpg "Chouette ou hibou?") 2026-03-01 |
+| ![](https://www.bing.com/th?id=OHR.OloupenaFalls_FR-CA6440026394_400x240.jpg "L'union entre nature et communauté") 2026-02-28 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/fr-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-CA/w_2026_01.md)
