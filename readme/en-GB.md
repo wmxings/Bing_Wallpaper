@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_UHD.jpg)
-[2026-03-07 Peak-a-boo! The Brocken, Harz National Park, Germany(© imageBROKER/AVTG/Getty Images)](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_UHD.jpg)
-Imagine reaching the Brocken in Harz National Park, Germany, as clouds slide across the ridge. With the sun behind you, mist ahead—then a giant, haloed shadow forms. Ever wondered why climbers once feared this sight? The phenomenon, called the Brocken spectre, is an eerie natural optical effect that occurs when sunlight projects a person's shadow onto cloud or fog. Rising about 1,141 metres, the Brocken is the highest peak in northern Germany and has long inspired folklore, including tales of witches gathering here during Walpurgis Night.
+![](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-GB6516927034_UHD.jpg)
+[2026-03-08 Urban blooms Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon, United States(© Eric Vogt/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-GB6516927034_UHD.jpg)
+Tom McCall Waterfront Park, a 36-acre (15-hectare) urban oasis along the Willamette River in Portland, Oregon in the United States, is one of the city's most beloved green spaces. Each spring—typically from mid-March to early April—it transforms into a sea of soft pink and white as cherry blossoms bloom. These vibrant trees along scenic walking paths offer a peaceful escape in the heart of the city. The park also features notable landmarks like Salmon Street Springs, an interactive fountain with numerous water jets and the Portland Saturday Market, a favourite local destination.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_400x240.jpg "Peak-a-boo!") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_EN-GB5644835999_400x240.jpg "Waves cast in concrete") 2026-03-06 | ![](https://www.bing.com/th?id=OHR.GoremeTwilight_EN-GB6866115691_400x240.jpg "Ancient rocks, modern lights") 2026-03-05 |
-| ![](https://www.bing.com/th?id=OHR.RilaCrocuses_EN-GB6687558312_400x240.jpg "Crocuses in the spotlight") 2026-03-04 | ![](https://www.bing.com/th?id=OHR.BabyElephant_EN-GB6477641376_400x240.jpg "Guardians of the wild") 2026-03-03 | ![](https://www.bing.com/th?id=OHR.SamuiThailand_EN-GB6229613519_400x240.jpg "Floating legacies") 2026-03-02 |
-| ![](https://www.bing.com/th?id=OHR.StDavidsDay2026_EN-GB5978747461_400x240.jpg "A day of leeks and legends") 2026-03-01 |  |  |
+| ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-GB6516927034_400x240.jpg "Urban blooms") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_400x240.jpg "Peak-a-boo!") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_EN-GB5644835999_400x240.jpg "Waves cast in concrete") 2026-03-06 |
+| ![](https://www.bing.com/th?id=OHR.GoremeTwilight_EN-GB6866115691_400x240.jpg "Ancient rocks, modern lights") 2026-03-05 | ![](https://www.bing.com/th?id=OHR.RilaCrocuses_EN-GB6687558312_400x240.jpg "Crocuses in the spotlight") 2026-03-04 | ![](https://www.bing.com/th?id=OHR.BabyElephant_EN-GB6477641376_400x240.jpg "Guardians of the wild") 2026-03-03 |
+| ![](https://www.bing.com/th?id=OHR.SamuiThailand_EN-GB6229613519_400x240.jpg "Floating legacies") 2026-03-02 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)

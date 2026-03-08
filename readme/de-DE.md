@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_UHD.jpg)
-[2026-03-07 Zwischen Wald und Wellen Pacific Rim National Park Reserve, Vancouver Island, Kanada(© EmilyNorton/Getty Images)](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_UHD.jpg)
-Das Pacific Rim National Park Reserve an der Westküste von Vancouver Island schützt eine der markantesten Küstenlandschaften Kanadas. Weite Sandstrände, felsige Buchten und vorgelagerte Inseln münden hier in den offenen Pazifik, während im Hinterland dichte, gemäßigte Regenwälder dominieren. Wind, Wellen und Gezeiten formen die Landschaft fortlaufend und machen die Dynamik der Küste deutlich.
+![](https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_UHD.jpg)
+[2026-03-08 Ein Platz mit Geschichte Neues Schloss am Schlossplatz in Stuttgart, Baden‑Württemberg(© Jorg Greuel/Getty Images)](https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_UHD.jpg)
+Heute richtet sich der Blick auf Baden‑Württemberg, wo die Bürgerinnen und Bürger einen neuen Landtag wählen. Im drittgrößten Bundesland Deutschlands gilt erstmals ein reformiertes Wahlrecht mit zwei Stimmen. Zudem dürfen Jugendliche ab 16 Jahren an der Wahl teilnehmen.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_400x240.jpg "Zwischen Wald und Wellen") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_400x240.jpg "Wellen aus Beton") 2026-03-06 | ![](https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_400x240.jpg "Wo Felsen Geschichten erzählen") 2026-03-05 |
-| ![](https://www.bing.com/th?id=OHR.RilaCrocuses_DE-DE6081650633_400x240.jpg "Krokusse im Rampenlicht") 2026-03-04 | ![](https://www.bing.com/th?id=OHR.BabyElephant_DE-DE5859439374_400x240.jpg "Hüter der Wildnis") 2026-03-03 | ![](https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_400x240.jpg "Geschichten auf dem Wasser") 2026-03-02 |
-| ![](https://www.bing.com/th?id=OHR.BalearesDay_DE-DE6256697714_400x240.jpg "Im Licht der Balearen") 2026-03-01 |  |  |
+| ![](https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_400x240.jpg "Ein Platz mit Geschichte") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_400x240.jpg "Zwischen Wald und Wellen") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_400x240.jpg "Wellen aus Beton") 2026-03-06 |
+| ![](https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_400x240.jpg "Wo Felsen Geschichten erzählen") 2026-03-05 | ![](https://www.bing.com/th?id=OHR.RilaCrocuses_DE-DE6081650633_400x240.jpg "Krokusse im Rampenlicht") 2026-03-04 | ![](https://www.bing.com/th?id=OHR.BabyElephant_DE-DE5859439374_400x240.jpg "Hüter der Wildnis") 2026-03-03 |
+| ![](https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_400x240.jpg "Geschichten auf dem Wasser") 2026-03-02 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
