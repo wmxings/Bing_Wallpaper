@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg)
-[2026-03-09 A perfectly timed nap Gray seal sleeping on the beach, Orkney Islands, Scotland(© Andrew Mason/Minden Pictures)](https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg)
-National Napping Day couldn't be better timed. It falls on the Monday after Daylight Saving Time begins, when clocks move forward and we all lose an hour of sleep. Consider today an official excuse to slow down and make up for it. The sleeping gray seal in this image, spotted along Scotland's coast, is a fitting reminder for the day: rest matters.
+![](https://www.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg)
+[2026-03-10 Fire under frost Geothermal blue pool Bláhver at Hveravellir, Iceland(© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg)
+Have you ever wondered what happens when fire, ice, and time negotiate the same territory? Iceland's Hveravellir geothermal field has the answer. In this highland hotspot, energy from the Earth's interior meets the icy surface, triggering a volatile dialogue between pressure, temperature, and stone. Fumaroles hiss, steam curls into the air, and the ground paints itself with sulfur whites, rust reds, and ochre yellows—not only artistry, but chemical reactions driven by extreme heat. In today's image, Bláhver, a natural hot spring, dazzles in electric blue. Its color comes from mineral- and silica-rich waters that reflect light on the surface.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_400x240.jpg "A perfectly timed nap") 2026-03-09 | ![](https://www.bing.com/th?id=OHR.UlmClock_EN-US6692804943_400x240.jpg "The art of saving daylight") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_400x240.jpg "A legendary sunrise") 2026-03-07 |
-| ![](https://www.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_400x240.jpg "Waves cast in concrete") 2026-03-06 | ![](https://www.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_400x240.jpg "Ancient rocks, modern lights") 2026-03-05 | ![](https://www.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_400x240.jpg "Crocuses in the spotlight") 2026-03-04 |
-| ![](https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_400x240.jpg "Guardians of the wild") 2026-03-03 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_400x240.jpg "Fire under frost") 2026-03-10 | ![](https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_400x240.jpg "A perfectly timed nap") 2026-03-09 | ![](https://www.bing.com/th?id=OHR.UlmClock_EN-US6692804943_400x240.jpg "The art of saving daylight") 2026-03-08 |
+| ![](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_400x240.jpg "A legendary sunrise") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_400x240.jpg "Waves cast in concrete") 2026-03-06 | ![](https://www.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_400x240.jpg "Ancient rocks, modern lights") 2026-03-05 |
+| ![](https://www.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_400x240.jpg "Crocuses in the spotlight") 2026-03-04 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/en-US/w_2026_03.md) | [2026-02](../archives/wallpaper/en-US/w_2026_02.md) | [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
