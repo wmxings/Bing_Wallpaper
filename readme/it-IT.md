@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_UHD.jpg)
-[2026-03-10 Ghiaccio infiammato Pozza termale Bláhver a Hveravellir, Islanda(© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_UHD.jpg)
-Vi siete mai chiesti cosa succede quando fuoco, ghiaccio e tempo si incontrano sullo stesso terreno? Nel campo geotermico di Hveravellir, in Islanda, questa straordinaria danza prende vita. Qui, l’energia che viene dall’interno della Terra si scontra con la superficie glaciale, dando vita a un dialogo instabile tra pressione, temperatura e roccia. Le fumarole sibilano, il vapore si arriccia nell’aria e il suolo si tinge di bianchi sulfurei, rossi ruggine e gialli ocra: non solo pittura della natura, ma chimica in azione sotto calore estremo. Ammirate Bláhver, una sorgente termale naturale, che abbaglia con il suo blu elettrico, nato dalle acque ricche di minerali e silice che catturano e riflettono la luce.
+![](https://www.bing.com/th?id=OHR.PeachBloom_IT-IT0094086704_UHD.jpg)
+[2026-03-11 ...Fiori di Pesco... Peschi in fiore, Cieza, Murcia, Spagna(© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.PeachBloom_IT-IT0094086704_UHD.jpg)
+Come cantava il grande Lucio Battisti? “Fiori rosa, fiori di pesco...” e la primavera non sussurra, esplode. Tra febbraio e marzo, questa piccola città nella regione spagnola di Murcia diventa il cuore pulsante della Floración, la fioritura dei peschi. In pochi giorni, quasi 50 km², la più grande produzione municipale di pesche della Spagna, si trasforma in un mare di fiori che vediamo nell’immagine di oggi.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_400x240.jpg "Ghiaccio infiammato") 2026-03-10 | ![](https://www.bing.com/th?id=OHR.NappingSeal_IT-IT6211764298_400x240.jpg "Un sano pisolino") 2026-03-09 | ![](https://www.bing.com/th?id=OHR.FestaDellaDonna_IT-IT6097435290_400x240.jpg "La voce del coraggio") 2026-03-08 |
-| ![](https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_400x240.jpg "Eredità Romana") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_IT-IT6019644027_400x240.jpg "Onde architettoniche") 2026-03-06 | ![](https://www.bing.com/th?id=OHR.GoremeTwilight_IT-IT4720927286_400x240.jpg "Rocce e luci") 2026-03-05 |
-| ![](https://www.bing.com/th?id=OHR.RilaCrocuses_IT-IT4861499603_400x240.jpg "Risvegli") 2026-03-04 |  |  |
+| ![](https://www.bing.com/th?id=OHR.PeachBloom_IT-IT0094086704_400x240.jpg "...Fiori di Pesco...") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_400x240.jpg "Ghiaccio infiammato") 2026-03-10 | ![](https://www.bing.com/th?id=OHR.NappingSeal_IT-IT6211764298_400x240.jpg "Un sano pisolino") 2026-03-09 |
+| ![](https://www.bing.com/th?id=OHR.FestaDellaDonna_IT-IT6097435290_400x240.jpg "La voce del coraggio") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_400x240.jpg "Eredità Romana") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_IT-IT6019644027_400x240.jpg "Onde architettoniche") 2026-03-06 |
+| ![](https://www.bing.com/th?id=OHR.GoremeTwilight_IT-IT4720927286_400x240.jpg "Rocce e luci") 2026-03-05 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
