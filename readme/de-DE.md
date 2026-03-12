@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PeachBloom_DE-DE6974968795_UHD.jpg)
-[2026-03-11 Frühlingsgruß in Rosa Pfirsichblüte in Cieza, Murcia, Spanien(© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.PeachBloom_DE-DE6974968795_UHD.jpg)
-Sobald der Frühling in der spanischen Region Murcia Einzug hält, wandelt sich die Landschaft um Cieza innerhalb weniger Tage vollständig. Zwischen Februar und März beginnt die Pfirsichblüte, „La Floración“, bei der Millionen von Bäumen ihre Knospen öffnen und das Tal des Segura-Flusses in Rosa- und Weißtöne tauchen. Das milde Klima und das geschützte Bergland begünstigen diesen frühen Start in die Vegetationsperiode.
+![](https://www.bing.com/th?id=OHR.SunbitternEcuador_DE-DE7333956665_UHD.jpg)
+[2026-03-12 Farbsignal im Wald Junger Sonnenralle beim Flügelspreizen am Nest, Ecuador(© Andy Rouse/naturepl.com)](https://www.bing.com/th?id=OHR.SunbitternEcuador_DE-DE7333956665_UHD.jpg)
+Was wie ein ruhiger Moment im Unterholz wirkt, entpuppt sich als kurzer Ausbruch von Farbe. Hoch oben in den Nebelwäldern Ecuadors breitet eine junge Sonnenralle ihre Flügel aus. Für einen Augenblick leuchten orange, schwarze und weiße Muster durch das gedämpfte Grün, ein Vorgeschmack auf die dramatischen Zeichnungen, die erwachsene Tiere später in Verteidigungsposen zeigen.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PeachBloom_DE-DE6974968795_400x240.jpg "Frühlingsgruß in Rosa") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_DE-DE6750493768_400x240.jpg "Wärme unter Eis") 2026-03-10 | ![](https://www.bing.com/th?id=OHR.NappingSeal_DE-DE4413060426_400x240.jpg "Ein Moment der Ruhe") 2026-03-09 |
-| ![](https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_400x240.jpg "Ein Platz mit Geschichte") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_400x240.jpg "Zwischen Wald und Wellen") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_400x240.jpg "Wellen aus Beton") 2026-03-06 |
-| ![](https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_400x240.jpg "Wo Felsen Geschichten erzählen") 2026-03-05 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SunbitternEcuador_DE-DE7333956665_400x240.jpg "Farbsignal im Wald") 2026-03-12 | ![](https://www.bing.com/th?id=OHR.PeachBloom_DE-DE6974968795_400x240.jpg "Frühlingsgruß in Rosa") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_DE-DE6750493768_400x240.jpg "Wärme unter Eis") 2026-03-10 |
+| ![](https://www.bing.com/th?id=OHR.NappingSeal_DE-DE4413060426_400x240.jpg "Ein Moment der Ruhe") 2026-03-09 | ![](https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_400x240.jpg "Ein Platz mit Geschichte") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_400x240.jpg "Zwischen Wald und Wellen") 2026-03-07 |
+| ![](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_400x240.jpg "Wellen aus Beton") 2026-03-06 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)

@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PeachBloom_IT-IT0094086704_UHD.jpg)
-[2026-03-11 ...Fiori di Pesco... Peschi in fiore, Cieza, Murcia, Spagna(© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.PeachBloom_IT-IT0094086704_UHD.jpg)
-Come cantava il grande Lucio Battisti? “Fiori rosa, fiori di pesco...” e la primavera non sussurra, esplode. Tra febbraio e marzo, questa piccola città nella regione spagnola di Murcia diventa il cuore pulsante della Floración, la fioritura dei peschi. In pochi giorni, quasi 50 km², la più grande produzione municipale di pesche della Spagna, si trasforma in un mare di fiori che vediamo nell’immagine di oggi.
+![](https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_UHD.jpg)
+[2026-03-12 Balli esotici Tarabuso del sole, in parata nuziale presso il nido, Ecuador(© Andy Rouse/naturepl.com)](https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_UHD.jpg)
+Nelle alte foreste nebulose dell’Ecuador, un giovane tarabuso del sole dispiega le ali in un gesto ancora acerbo ma già intenso, lasciando affiorare bagliori di arancione, nero e bianco nella luce verde che filtra tra le fronde. Questo improvviso scarto cromatico spezza la quiete dei rami velati di muschio e del sottobosco in penombra, regalando uno scorcio dei sorprendenti motivi che decorano le sue ali. Negli adulti, questi colori audaci emergono soprattutto durante le parate difensive, quando per pochi istanti un uccello schivo si trasforma in una visione spettacolare.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PeachBloom_IT-IT0094086704_400x240.jpg "...Fiori di Pesco...") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_400x240.jpg "Ghiaccio infiammato") 2026-03-10 | ![](https://www.bing.com/th?id=OHR.NappingSeal_IT-IT6211764298_400x240.jpg "Un sano pisolino") 2026-03-09 |
-| ![](https://www.bing.com/th?id=OHR.FestaDellaDonna_IT-IT6097435290_400x240.jpg "La voce del coraggio") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_400x240.jpg "Eredità Romana") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_IT-IT6019644027_400x240.jpg "Onde architettoniche") 2026-03-06 |
-| ![](https://www.bing.com/th?id=OHR.GoremeTwilight_IT-IT4720927286_400x240.jpg "Rocce e luci") 2026-03-05 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_400x240.jpg "Balli esotici") 2026-03-12 | ![](https://www.bing.com/th?id=OHR.PeachBloom_IT-IT0094086704_400x240.jpg "...Fiori di Pesco...") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_400x240.jpg "Ghiaccio infiammato") 2026-03-10 |
+| ![](https://www.bing.com/th?id=OHR.NappingSeal_IT-IT6211764298_400x240.jpg "Un sano pisolino") 2026-03-09 | ![](https://www.bing.com/th?id=OHR.FestaDellaDonna_IT-IT6097435290_400x240.jpg "La voce del coraggio") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_400x240.jpg "Eredità Romana") 2026-03-07 |
+| ![](https://www.bing.com/th?id=OHR.WaveDenmark_IT-IT6019644027_400x240.jpg "Onde architettoniche") 2026-03-06 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)

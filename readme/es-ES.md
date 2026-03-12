@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PeachBloom_ES-ES2051621542_UHD.jpg)
-[2026-03-11 El paraíso rosado de Murcia Melocotoneros en flor, Cieza, Murcia(© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.PeachBloom_ES-ES2051621542_UHD.jpg)
-La Floración en Cieza transforma cada año el valle del Segura, en Murcia, en un escenario vibrante donde los campos se tiñen de rosa y blanco. Los frutales despiertan con una explosión cromática que anuncia la llegada de la primavera y envuelve el paisaje en una atmósfera casi irreal. Caminar entre los árboles permite sentir el aroma fresco de los pétalos y observar cómo la luz del sol realza los tonos suaves que caracterizan esta celebración natural.
+![](https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433_UHD.jpg)
+[2026-03-12 Alas en movimiento Garza de sol exhibiéndose en el nido, Ecuador(© Andy Rouse/naturepl.com)](https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433_UHD.jpg)
+La garza de sol es conocida por la delicadeza con la que despliega sus alas mientras se encuentra en el nido en los bosques de Ecuador. Durante estas exhibiciones muestra los patrones que recuerdan a grandes ojos en pleno resplandor tenue del sotobosque, lo que crea un efecto visual sorprendente y llamativo. Este comportamiento suele emplearse para distraer a posibles depredadores y también para reforzar la comunicación con su pareja. La escena resulta especialmente notable por la serenidad con la que el ave mantiene el equilibrio en el nido mientras presenta su elegante abanico alar con precisión casi coreográfica.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PeachBloom_ES-ES2051621542_400x240.jpg "El paraíso rosado de Murcia") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.Zumaia_ES-ES4174062610_400x240.jpg "Magia entre acantilados") 2026-03-10 | ![](https://www.bing.com/th?id=OHR.NappingSeal_ES-ES1870560603_400x240.jpg "Una siesta perfecta") 2026-03-09 |
-| ![](https://www.bing.com/th?id=OHR.UlmClock_ES-ES1689465791_400x240.jpg "El arte del tiempo") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.BrockenSunrise_ES-ES7835866143_400x240.jpg "Donde amanece el día") 2026-03-07 | ![](https://www.bing.com/th?id=OHR.WaveDenmark_ES-ES1179544868_400x240.jpg "Olas moldeadas en hormigón") 2026-03-06 |
-| ![](https://www.bing.com/th?id=OHR.GoremeTwilight_ES-ES6859912248_400x240.jpg "Rocas antiguas, luces modernas") 2026-03-05 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433_400x240.jpg "Alas en movimiento") 2026-03-12 | ![](https://www.bing.com/th?id=OHR.PeachBloom_ES-ES2051621542_400x240.jpg "El paraíso rosado de Murcia") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.Zumaia_ES-ES4174062610_400x240.jpg "Magia entre acantilados") 2026-03-10 |
+| ![](https://www.bing.com/th?id=OHR.NappingSeal_ES-ES1870560603_400x240.jpg "Una siesta perfecta") 2026-03-09 | ![](https://www.bing.com/th?id=OHR.UlmClock_ES-ES1689465791_400x240.jpg "El arte del tiempo") 2026-03-08 | ![](https://www.bing.com/th?id=OHR.BrockenSunrise_ES-ES7835866143_400x240.jpg "Donde amanece el día") 2026-03-07 |
+| ![](https://www.bing.com/th?id=OHR.WaveDenmark_ES-ES1179544868_400x240.jpg "Olas moldeadas en hormigón") 2026-03-06 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/es-ES/w_2026_03.md) | [2026-02](../archives/wallpaper/es-ES/w_2026_02.md) | [2026-01](../archives/wallpaper/es-ES/w_2026_01.md)
