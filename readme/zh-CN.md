@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg)
-[2026-03-14 圆周率的古老启示 兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国(© Helen Hotson/Alamy)](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg)
-在圆周率尚未有名字之前，人们就被它的奥秘所吸引。每年的3月14日，被定为“圆周率日”，以纪念数学中最著名的常数之一。这个日期正好对应圆周率π的前三位数字(3.14)，即圆的周长与直径之比。圆周率无穷且不循环的小数部分长期以来一直令学者们着迷。现代的庆祝活动始于1988年，当时物理学家拉里·肖(Larry Shaw)用一种特别的方式纪念这一天：享用美味的派(pie)。
+![](https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg)
+[2026-03-15 掠海而过 太平洋沿岸国家公园保护区，温哥华岛，加拿大(© EmilyNorton/Getty Images)](https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg)
+在加拿大，“太平洋沿岸鲸鱼节”庆祝成千上万头灰鲸每年春季的迁徙盛况——它们沿着岛屿西海岸近岸而行，场面壮观。这项节日由当地社区于20世纪80年代发起，旨在纪念灰鲸从墨西哥下加利福尼亚的繁殖潟湖启程，踏上北返旅程的重要时刻。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_400x240.jpg "圆周率的古老启示") 2026-03-14 | ![](https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_400x240.jpg "静谧的石之杰作") 2026-03-13 | ![](https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_400x240.jpg "排练中的翅膀") 2026-03-12 |
-| ![](https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_400x240.jpg "一个美好的春天") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_400x240.jpg "霜下之火") 2026-03-10 | ![](https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_400x240.jpg "一次恰到好处的午睡") 2026-03-09 |
-| ![](https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_400x240.jpg "节约日光的艺术") 2026-03-08 |  |  |
+| ![](https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_400x240.jpg "掠海而过") 2026-03-15 | ![](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_400x240.jpg "圆周率的古老启示") 2026-03-14 | ![](https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_400x240.jpg "静谧的石之杰作") 2026-03-13 |
+| ![](https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_400x240.jpg "排练中的翅膀") 2026-03-12 | ![](https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_400x240.jpg "一个美好的春天") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_400x240.jpg "霜下之火") 2026-03-10 |
+| ![](https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_400x240.jpg "一次恰到好处的午睡") 2026-03-09 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/zh-CN/w_2026_03.md) | [2026-02](../archives/wallpaper/zh-CN/w_2026_02.md) | [2026-01](../archives/wallpaper/zh-CN/w_2026_01.md)
