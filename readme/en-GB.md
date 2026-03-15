@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-GB7624290325_UHD.jpg)
-[2026-03-14 An ancient angle on Pi Lanyon Quoit, a Neolithic dolmen in Cornwall, England(© Helen Hotson/Alamy)](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-GB7624290325_UHD.jpg)
-Long before pi had a name, people were drawn to its mystery. Every year on March 14, Pi Day highlights one of math's most recognisable constants. The date reflects the first three digits of pi (π), the ratio of a circle's circumference to its diameter: 3.14. Pi's infinite, nonrepeating decimal has fascinated thinkers for a long time. The modern celebration began in 1988, when physicist Larry Shaw marked the day with a fitting tribute: serving pie.
+![](https://www.bing.com/th?id=OHR.MotheringSunday2026_EN-GB9211202468_UHD.jpg)
+[2026-03-15 A peck of care A robin feeding its chick, Netherlands(© CreativeNature_nl/iStock/Getty Images)](https://www.bing.com/th?id=OHR.MotheringSunday2026_EN-GB9211202468_UHD.jpg)
+Before the kettle boils on Mothering Sunday, a robin is already at work. Spring is its busiest season, and parenting is in full swing. This bird may look small, but it runs a tight family operation. The female selects the nest site and builds a cup of moss and leaves. She incubates the eggs, staying put while life develops beneath her. Meanwhile, the male plays provider, delivering insects to keep her fuelled. Once the chicks hatch, both parents feed them every few minutes. No snooze button, no packed lunches—just beaks full of worms.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-GB7624290325_400x240.jpg "An ancient angle on Pi") 2026-03-14 | ![](https://www.bing.com/th?id=OHR.VendeeVaults_EN-GB7453353937_400x240.jpg "A quiet masterpiece in stone") 2026-03-13 | ![](https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-GB7250985153_400x240.jpg "Wings in rehearsal") 2026-03-12 |
-| ![](https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_400x240.jpg "A peachy keen spring") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_EN-GB6911172002_400x240.jpg "Fire under frost") 2026-03-10 | ![](https://www.bing.com/th?id=OHR.NappingSeal_EN-GB6694764610_400x240.jpg "A perfectly timed nap") 2026-03-09 |
-| ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-GB6516927034_400x240.jpg "Urban blooms") 2026-03-08 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MotheringSunday2026_EN-GB9211202468_400x240.jpg "A peck of care") 2026-03-15 | ![](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-GB7624290325_400x240.jpg "An ancient angle on Pi") 2026-03-14 | ![](https://www.bing.com/th?id=OHR.VendeeVaults_EN-GB7453353937_400x240.jpg "A quiet masterpiece in stone") 2026-03-13 |
+| ![](https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-GB7250985153_400x240.jpg "Wings in rehearsal") 2026-03-12 | ![](https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_400x240.jpg "A peachy keen spring") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_EN-GB6911172002_400x240.jpg "Fire under frost") 2026-03-10 |
+| ![](https://www.bing.com/th?id=OHR.NappingSeal_EN-GB6694764610_400x240.jpg "A perfectly timed nap") 2026-03-09 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
