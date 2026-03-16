@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PacificRimNP_IT-IT0253430752_UHD.jpg)
-[2026-03-15 Maree-vigliose Riserva del Parco Nazionale Pacific Rim, Isola di Vancouver, Canada(© EmilyNorton/Getty Images)](https://www.bing.com/th?id=OHR.PacificRimNP_IT-IT0253430752_UHD.jpg)
-La primavera a Vancouver Island ha un ritmo tutto suo. In Canada, il Pacific Rim Whale Festival celebra la migrazione di migliaia di balene grigie, che passano lungo la costa occidentale dell’isola. Nato negli anni ’80 dalle comunità locali, il festival segna il loro ritorno verso nord, dalle lagune di riproduzione della Baja California, in Messico. Oggi è un evento di più giorni dedicato all’educazione marina e all’osservazione rispettosa della fauna. Marzo e i primi giorni di aprile sono i periodi migliori. Le balene si fermano lungo la costa per nutrirsi e riposare durante il lungo viaggio di 16.000-22.500 km di andata e ritorno.
+![](https://www.bing.com/th?id=OHR.PandaForest_IT-IT6604612571_UHD.jpg)
+[2026-03-16 Nel Pandaverso Panda gigante che mangia bambù, Cina(© Entwicklungsknecht/Getty Images)](https://www.bing.com/th?id=OHR.PandaForest_IT-IT6604612571_UHD.jpg)
+Tra i rami di bambù e le montagne velate della Cina, il panda gigante incarna oggi una delle storie più emblematiche della conservazione della natura. Il 16 marzo, con la “Giornata Mondiale del Panda”, questa specie simbolo torna al centro dell’attenzione, insieme alle sfide che continuano a metterne alla prova la sopravvivenza. Endemici della Cina, i panda hanno rischiato seriamente l’estinzione a causa della frammentazione dell’habitat e dei bassi tassi di riproduzione. Gli sforzi congiunti della comunità internazionale stanno lentamente dando frutti, ma il percorso è tutt’altro che concluso.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PacificRimNP_IT-IT0253430752_400x240.jpg "Maree-vigliose") 2026-03-15 | ![](https://www.bing.com/th?id=OHR.CornwallDolmen_IT-IT6505695058_400x240.jpg "P(r)imordiale") 2026-03-14 | ![](https://www.bing.com/th?id=OHR.VendeeVaults_IT-IT6457526698_400x240.jpg "Ombre gotiche") 2026-03-13 |
-| ![](https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_400x240.jpg "Balli esotici") 2026-03-12 | ![](https://www.bing.com/th?id=OHR.PeachBloom_IT-IT0094086704_400x240.jpg "...Fiori di Pesco...") 2026-03-11 | ![](https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_400x240.jpg "Ghiaccio infiammato") 2026-03-10 |
-| ![](https://www.bing.com/th?id=OHR.NappingSeal_IT-IT6211764298_400x240.jpg "Un sano pisolino") 2026-03-09 |  |  |
+| ![](https://www.bing.com/th?id=OHR.PandaForest_IT-IT6604612571_400x240.jpg "Nel Pandaverso") 2026-03-16 | ![](https://www.bing.com/th?id=OHR.PacificRimNP_IT-IT0253430752_400x240.jpg "Maree-vigliose") 2026-03-15 | ![](https://www.bing.com/th?id=OHR.CornwallDolmen_IT-IT6505695058_400x240.jpg "P(r)imordiale") 2026-03-14 |
+| ![](https://www.bing.com/th?id=OHR.VendeeVaults_IT-IT6457526698_400x240.jpg "Ombre gotiche") 2026-03-13 | ![](https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_400x240.jpg "Balli esotici") 2026-03-12 | ![](https://www.bing.com/th?id=OHR.PeachBloom_IT-IT0094086704_400x240.jpg "...Fiori di Pesco...") 2026-03-11 |
+| ![](https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_400x240.jpg "Ghiaccio infiammato") 2026-03-10 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
