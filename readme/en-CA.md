@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_UHD.jpg)
-[2026-03-19 Spike your curiosity Short-beaked echidna, Adelaide Hills, Australia(© Etienne Littlefair/naturepl.com)](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_UHD.jpg)
-An egg-laying mammal. No teeth. Reptilian gait. Built-in body armour. If the short-beaked echidna sounds like a checklist of contradictions, that's because it is—and it owns it. Native to Australia, Tasmania and parts of New Guinea, it's one of the few surviving monotremes, or mammals that lay eggs. Despite the headlines, it still qualifies as a mammal: it has fur, produces milk and is warm-blooded. The twist? Milk is released through specialised skin patches rather than nipples, leaving the young to lap it up.
+![](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-CA7724863293_UHD.jpg)
+[2026-03-20 The quiet bloom of change Snowdrops in spring(© klagyivik/Getty Images)](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-CA7724863293_UHD.jpg)
+A white snowdrop is spring's quiet debut. No confetti, no countdown—just a delicate flower appearing as the spring equinox balances day and night. Snowdrops are among the first to bloom, often pushing through cold soil before winter fully packs up. Their drooping, bell-shaped flowers may look delicate, but they're built for early arrival. Special antifreeze proteins in their cells help them tolerate frost, making them well suited to unpredictable late-winter weather.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_400x240.jpg "Spike your curiosity") 2026-03-19 | ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-CA9305833993_400x240.jpg "Urban blooms") 2026-03-18 | ![](https://www.bing.com/th?id=OHR.DonegalFort_EN-CA9009549230_400x240.jpg "Ireland's spiritual crossroads") 2026-03-17 |
-| ![](https://www.bing.com/th?id=OHR.AuroraIsland_EN-CA8332911364_400x240.jpg "Where stillness steals the show") 2026-03-16 | ![](https://www.bing.com/th?id=OHR.PacificRimNP_EN-CA7886674430_400x240.jpg "Passing through, making waves") 2026-03-15 | ![](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-CA7041540991_400x240.jpg "An ancient angle on Pi") 2026-03-14 |
-| ![](https://www.bing.com/th?id=OHR.VendeeVaults_EN-CA6633656389_400x240.jpg "A quiet masterpiece in stone") 2026-03-13 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-CA7724863293_400x240.jpg "The quiet bloom of change") 2026-03-20 | ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_400x240.jpg "Spike your curiosity") 2026-03-19 | ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-CA9305833993_400x240.jpg "Urban blooms") 2026-03-18 |
+| ![](https://www.bing.com/th?id=OHR.DonegalFort_EN-CA9009549230_400x240.jpg "Ireland's spiritual crossroads") 2026-03-17 | ![](https://www.bing.com/th?id=OHR.AuroraIsland_EN-CA8332911364_400x240.jpg "Where stillness steals the show") 2026-03-16 | ![](https://www.bing.com/th?id=OHR.PacificRimNP_EN-CA7886674430_400x240.jpg "Passing through, making waves") 2026-03-15 |
+| ![](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-CA7041540991_400x240.jpg "An ancient angle on Pi") 2026-03-14 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/en-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
