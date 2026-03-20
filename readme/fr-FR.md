@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg)
-[2026-03-19 Piquez votre curiosité L’échidné à nez court, Adelaide Hills, Australie(© Etienne Littlefair/naturepl.com)](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg)
-Un mammifère qui pond des œufs, dépourvu de dents, à la démarche presque reptilienne et couvert de piquants : l’échidné à nez court semble défier les lois de la logique. Présent en Australie, en Tasmanie et en Nouvelle-Guinée, il fait partie des rares monotrèmes encore vivants. Malgré son apparence préhistorique, il reste bien un mammifère : il a des poils, le sang chaud et produit du lait… sécrété par des glandes mammaires sans mamelons, que le petit lape directement sur la peau.
+![](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_UHD.jpg)
+[2026-03-20 La diversité à l'unisson Vue sur le quartier d’Endoume, les Îles du Frioul et le Château d'If, Marseille(© RIEGER Bertrand/hemis.fr/Alamy)](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_UHD.jpg)
+Chaque 20 mars, la Journée de la Francophonie invite à un voyage sans passeport, guidé par une langue qui épouse les paysages. Du souffle salin du Saint-Laurent aux forêts équatoriales d’Afrique centrale, des vignobles d’Europe aux lagons du Pacifique, le français résonne comme un lien vivant entre les peuples.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_400x240.jpg "Piquez votre curiosité") 2026-03-19 | ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-FR9680778495_400x240.jpg "Quand la ville éclot") 2026-03-18 | ![](https://www.bing.com/th?id=OHR.DonegalFort_FR-FR9519864850_400x240.jpg "Le carrefour spirituel de l'Irlande") 2026-03-17 |
-| ![](https://www.bing.com/th?id=OHR.PandaForest_FR-FR3318025531_400x240.jpg "Au royaume des pandas") 2026-03-16 | ![](https://www.bing.com/th?id=OHR.PacificRimNP_FR-FR6570594682_400x240.jpg "Une silhouette entre les vagues") 2026-03-15 | ![](https://www.bing.com/th?id=OHR.CornwallDolmen_FR-FR8803174117_400x240.jpg "Pi sous un angle néolithique") 2026-03-14 |
-| ![](https://www.bing.com/th?id=OHR.VendeeVaults_FR-FR8462470705_400x240.jpg "Une œuvre d'art en pierre") 2026-03-13 |  |  |
+| ![](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_400x240.jpg "La diversité à l'unisson") 2026-03-20 | ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_400x240.jpg "Piquez votre curiosité") 2026-03-19 | ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-FR9680778495_400x240.jpg "Quand la ville éclot") 2026-03-18 |
+| ![](https://www.bing.com/th?id=OHR.DonegalFort_FR-FR9519864850_400x240.jpg "Le carrefour spirituel de l'Irlande") 2026-03-17 | ![](https://www.bing.com/th?id=OHR.PandaForest_FR-FR3318025531_400x240.jpg "Au royaume des pandas") 2026-03-16 | ![](https://www.bing.com/th?id=OHR.PacificRimNP_FR-FR6570594682_400x240.jpg "Une silhouette entre les vagues") 2026-03-15 |
+| ![](https://www.bing.com/th?id=OHR.CornwallDolmen_FR-FR8803174117_400x240.jpg "Pi sous un angle néolithique") 2026-03-14 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
