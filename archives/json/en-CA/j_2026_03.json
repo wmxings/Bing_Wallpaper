@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-03-21",
+    "head_line": "Where roots run wild",
+    "title": "Letea Forest, Danube Delta, Romania",
+    "copyright": "© Wild Wonders of Europe/Widstrand/Nature Picture Library",
+    "desc": "If Earth had a maintenance crew, forests would be spearheading it. They absorb carbon emissions, reduce soil erosion, safeguard biodiversity, influence rainfall and help maintain clean water supplies. They still cover about 31% of the world's land area, yet their continued decline shows how vulnerable these natural systems have become. Vast stretches continue to be cleared for agriculture, infrastructure and resource extraction, weakening ecosystems at an alarming rate.",
+    "image_url": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_400x240.jpg",
+    "main_text": "The UN FAO estimates that about 10 million hectares of forest are cut down each year.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.LeteaForest_EN-CA8565877542_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-03-20",
     "head_line": "The quiet bloom of change",
     "title": "Snowdrops in spring",
