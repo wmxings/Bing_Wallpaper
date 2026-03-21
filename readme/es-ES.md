@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_UHD.jpg)
-[2026-03-20 Susurros de primavera Abubilla descansando sobre una piedra(© Brais Seara/Getty Images)](https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_UHD.jpg)
-La llegada del equinoccio de primavera marca un momento de equilibrio en el calendario y también una señal para muchas aves que retoman antiguos recorridos. Entre ellas destaca la abubilla, reconocible por su plumaje cálido y la cresta que despliega como un abanico. Su presencia en marzo no es casual porque forma parte de las poblaciones migratorias que regresan entre finales de febrero y abril para ocupar de nuevo sus zonas de cría en regiones templadas.
+![](https://www.bing.com/th?id=OHR.LeteaForest_ES-ES5974566570_UHD.jpg)
+[2026-03-21 Donde las raíces crecen libres Bosque de Letea, delta del Danubio, Rumanía(© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://www.bing.com/th?id=OHR.LeteaForest_ES-ES5974566570_UHD.jpg)
+Cada 21 de marzo celebramos el Día Internacional de los Bosques, una fecha pensada para recordarnos que los árboles no solo decoran el paisaje. También son un refugio de vida y un alivio para nuestras ciudades y nuestras rutinas. Es una jornada que invita a mirar el mundo con calma y a redescubrir esos lugares que siguen latiendo pese a todo.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_400x240.jpg "Susurros de primavera") 2026-03-20 | ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_400x240.jpg "El guardián espinoso de Australia") 2026-03-19 | ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_ES-ES3666469155_400x240.jpg "Flores urbanas") 2026-03-18 |
-| ![](https://www.bing.com/th?id=OHR.DonegalFort_ES-ES3467375923_400x240.jpg "La encrucijada espiritual de Irlanda") 2026-03-17 | ![](https://www.bing.com/th?id=OHR.PandaForest_ES-ES3300051788_400x240.jpg "Calma entre bambúes") 2026-03-16 | ![](https://www.bing.com/th?id=OHR.FallasValencia_ES-ES2854700408_400x240.jpg "Tradición que ilumina") 2026-03-15 |
-| ![](https://www.bing.com/th?id=OHR.CornwallDolmen_ES-ES3155419743_400x240.jpg "Una antigua perspectiva sobre Pi") 2026-03-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.LeteaForest_ES-ES5974566570_400x240.jpg "Donde las raíces crecen libres") 2026-03-21 | ![](https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_400x240.jpg "Susurros de primavera") 2026-03-20 | ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_400x240.jpg "El guardián espinoso de Australia") 2026-03-19 |
+| ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_ES-ES3666469155_400x240.jpg "Flores urbanas") 2026-03-18 | ![](https://www.bing.com/th?id=OHR.DonegalFort_ES-ES3467375923_400x240.jpg "La encrucijada espiritual de Irlanda") 2026-03-17 | ![](https://www.bing.com/th?id=OHR.PandaForest_ES-ES3300051788_400x240.jpg "Calma entre bambúes") 2026-03-16 |
+| ![](https://www.bing.com/th?id=OHR.FallasValencia_ES-ES2854700408_400x240.jpg "Tradición que ilumina") 2026-03-15 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/es-ES/w_2026_03.md) | [2026-02](../archives/wallpaper/es-ES/w_2026_02.md) | [2026-01](../archives/wallpaper/es-ES/w_2026_01.md)
