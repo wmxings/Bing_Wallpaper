@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg)
-[2026-03-23 当水划出界线 坦噶尼喀湖，非洲(© BEST-BACKGROUNDS/NASA/Shutterstock)](https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg)
-今天是世界水日。该纪念日由联合国于1992年设立，并于次年首次举行。人类已不能再随波逐流——我们必须守护那些维系生命的水流。在非洲东部大裂谷的坦噶尼喀湖，几乎最能体现这种紧迫感。从太空俯瞰，它宛如一条长约420英里（约676公里）的蓝色丝带，连接着坦桑尼亚、布隆迪、刚果民主共和国和赞比亚。在湖岸边，它则是一处拥有约1000万年历史的裂谷盆地，由地壳缓慢张裂形成。
+![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg)
+[2026-03-24 春天的形状 东湖樱花园的樱花，武汉，中国(© Zhang Qiao/VCG/Getty Images)](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg)
+从空中俯瞰，中国武汉的东湖樱花园宛如一朵淡紫色的云，轻柔地停驻在大地之上。成千上万株樱花同时盛放，浅色花瓣在公园中心一座金色五层宝塔周围织就出一片生机盎然的花海穹顶。宝塔以沉静而对称的姿态挺立，层层飞檐在柔和的春日色彩映衬下熠熠生辉。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_400x240.jpg "当水划出界线") 2026-03-23 | ![](https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_400x240.jpg "当水划出界线") 2026-03-22 | ![](https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_400x240.jpg "根系自由生长的地方") 2026-03-21 |
-| ![](https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_400x240.jpg "春日绯梦") 2026-03-20 | ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_400x240.jpg "激发你的好奇心") 2026-03-19 | ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_400x240.jpg "城市花开") 2026-03-18 |
-| ![](https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_400x240.jpg "爱尔兰的精神十字路口") 2026-03-17 |  |  |
+| ![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_400x240.jpg "春天的形状") 2026-03-24 | ![](https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_400x240.jpg "当水划出界线") 2026-03-23 | ![](https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_400x240.jpg "当水划出界线") 2026-03-22 |
+| ![](https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_400x240.jpg "根系自由生长的地方") 2026-03-21 | ![](https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_400x240.jpg "春日绯梦") 2026-03-20 | ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_400x240.jpg "激发你的好奇心") 2026-03-19 |
+| ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_400x240.jpg "城市花开") 2026-03-18 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/zh-CN/w_2026_03.md) | [2026-02](../archives/wallpaper/zh-CN/w_2026_02.md) | [2026-01](../archives/wallpaper/zh-CN/w_2026_01.md)
