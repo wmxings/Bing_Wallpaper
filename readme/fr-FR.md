@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_UHD.jpg)
-[2026-03-23 Guidés par la météo Orage sur des cactus saguaro, désert de Sonora, Arizona, États-Unis(© Jack Dykinga/Nature Picture Library)](https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_UHD.jpg)
-La puissance de la nature résonne avec éclat lors des grandes tempêtes. Elles inquiètent, bien sûr, mais fascinent tout autant. Apprendre à lire ces forces, souvent invisibles, à les anticiper et à les respecter, permet à nos sociétés de mieux cohabiter avec un monde en perpétuel mouvement.
+![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_UHD.jpg)
+[2026-03-24 Ça sent le printemps ! Cerisiers en fleurs au jardin des cerisiers du Lac de l’Est, Wuhan, Chine(© Zhang Qiao/VCG/Getty Images)](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_UHD.jpg)
+Vu du ciel, le jardin des cerisiers du lac de l’Est, à Wuhan, en Chine, ressemble à un nuage lilas posé avec douceur sur la terre. Des milliers de cerisiers fleurissent simultanément, entourant de leurs pétales pâles la pagode dorée de cinq étages. Au centre, sa silhouette symétrique s’élève avec sérénité, soulignée par les tons pastel du printemps.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_400x240.jpg "Guidés par la météo") 2026-03-23 | ![](https://www.bing.com/th?id=OHR.TanganyikaWater_FR-FR4249922863_400x240.jpg "Quand l'eau façonne le paysage") 2026-03-22 | ![](https://www.bing.com/th?id=OHR.LeteaForest_FR-FR7321636250_400x240.jpg "Les racines, nos piliers") 2026-03-21 |
-| ![](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_400x240.jpg "La diversité à l'unisson") 2026-03-20 | ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_400x240.jpg "Piquez votre curiosité") 2026-03-19 | ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-FR9680778495_400x240.jpg "Quand la ville éclot") 2026-03-18 |
-| ![](https://www.bing.com/th?id=OHR.DonegalFort_FR-FR9519864850_400x240.jpg "Le carrefour spirituel de l'Irlande") 2026-03-17 |  |  |
+| ![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_400x240.jpg "Ça sent le printemps !") 2026-03-24 | ![](https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_400x240.jpg "Guidés par la météo") 2026-03-23 | ![](https://www.bing.com/th?id=OHR.TanganyikaWater_FR-FR4249922863_400x240.jpg "Quand l'eau façonne le paysage") 2026-03-22 |
+| ![](https://www.bing.com/th?id=OHR.LeteaForest_FR-FR7321636250_400x240.jpg "Les racines, nos piliers") 2026-03-21 | ![](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_400x240.jpg "La diversité à l'unisson") 2026-03-20 | ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_400x240.jpg "Piquez votre curiosité") 2026-03-19 |
+| ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-FR9680778495_400x240.jpg "Quand la ville éclot") 2026-03-18 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
