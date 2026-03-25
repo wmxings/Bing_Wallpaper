@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_UHD.jpg)
-[2026-03-25 今日はマナティー感謝の日 マナティー, 米国 フロリダ州(© Gregory Sweeney/Getty Images)](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_UHD.jpg)
-毎年 3 月の最終水曜日は「マナティー感謝の日」。マナティーは、海牛目に属する大型の哺乳類です。穏やかな水生動物として人気ですが、開発による生息地の破壊や水質汚染などにより生息環境が脅かされています。また、泳ぐ速度が遅いため船を避けることができず、衝突事故に遭うことが多いほか、乱獲などにより個体数が減少しています。「マナティー感謝の日」は、そんなマナティーについて意識し、保護などの啓発を行う日です。
+![](https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_UHD.jpg)
+[2026-03-26 森に溶け込む吊り橋 ローガン・クリーク吊り橋, カナダ(© Tandem Stock/Adobe Stock)](https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_UHD.jpg)
+ウエストコースト・トレイルは、カナダ・ブリティッシュコロンビア州バンクーバー島西岸に位置する、全長約 75km に及ぶハイキングコースです。この地域の沿岸は、かつて「太平洋の墓場」と呼ばれるほど難破船事故が多発しており、トレイルは、事故発生時の救助活動に迅速に対応するため、1907 年に整備されました。現在では、世界中のハイカーが憧れる「聖地」の一つとなっています。そして画像は、このトレイルの途中に架かるローガン・クリーク吊り橋です。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_400x240.jpg "今日はマナティー感謝の日") 2026-03-25 | ![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_400x240.jpg "桜に包まれた五重塔") 2026-03-24 | ![](https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_400x240.jpg "今日は世界気象デー") 2026-03-23 |
-| ![](https://www.bing.com/th?id=OHR.TanganyikaWater_JA-JP1905215650_400x240.jpg "今日は世界水の日") 2026-03-22 | ![](https://www.bing.com/th?id=OHR.LeteaForest_JA-JP1668119659_400x240.jpg "今日は国際森林デー") 2026-03-21 | ![](https://www.bing.com/th?id=OHR.SpringSnowdrops_JA-JP8554533353_400x240.jpg "今日は春分の日") 2026-03-20 |
-| ![](https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_400x240.jpg "卵を産む哺乳類") 2026-03-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_400x240.jpg "森に溶け込む吊り橋") 2026-03-26 | ![](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_400x240.jpg "今日はマナティー感謝の日") 2026-03-25 | ![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_400x240.jpg "桜に包まれた五重塔") 2026-03-24 |
+| ![](https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_400x240.jpg "今日は世界気象デー") 2026-03-23 | ![](https://www.bing.com/th?id=OHR.TanganyikaWater_JA-JP1905215650_400x240.jpg "今日は世界水の日") 2026-03-22 | ![](https://www.bing.com/th?id=OHR.LeteaForest_JA-JP1668119659_400x240.jpg "今日は国際森林デー") 2026-03-21 |
+| ![](https://www.bing.com/th?id=OHR.SpringSnowdrops_JA-JP8554533353_400x240.jpg "今日は春分の日") 2026-03-20 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/ja-JP/w_2026_03.md) | [2026-02](../archives/wallpaper/ja-JP/w_2026_02.md) | [2026-01](../archives/wallpaper/ja-JP/w_2026_01.md)
