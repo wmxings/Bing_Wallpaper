@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.RadioCityHall_IT-IT8882732527_UHD.jpg)
-[2026-03-27 La scena infinita Radio City Music Hall, New York City, USA(© Clarence Holmes Photography/Alamy)](https://www.bing.com/th?id=OHR.RadioCityHall_IT-IT8882732527_UHD.jpg)
-L’interno della Radio City Music Hall cattura e accende l’entusiasmo. Sembra di entrare nel cuore di New York, in un sogno Art Déco che riflette l’idea di futuro degli anni Trenta. Non è solo una meraviglia architettonica: è l’essenza stessa di ciò che il 27 marzo celebriamo con la “Giornata Mondiale del Teatro”, la forza viva e irripetibile dello spettacolo dal vivo. Inaugurato nel 1932, in piena Grande Depressione, il Radio City Music Hall non fu pensato per essere discreto, ma per stupire: quasi 6.000 posti, archi luminosi, un palcoscenico monumentale. Ma la magia del teatro non appartiene a un solo luogo. Anche in Italia, da templi storici come il Teatro alla Scala di Milano o il Teatro La Fenice di Venezia, fino ai tanti teatri disseminati in città e borghi, il sipario continua ad alzarsi ogni sera. Quando le luci si abbassano e il palco prende vita, si rinnova quel rito collettivo che questa Giornata ci invita a custodire.
+![](https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_UHD.jpg)
+[2026-03-28 Spirito indomito Bufalo africano, Cratere di Ngorongoro, Tanzania(© jesuss8/500px/Getty Images)](https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_UHD.jpg)
+Il bufalo africano, creatura potente e imponente, popola le savane e le zone umide della Tanzania, in particolare all’interno della Ngorongoro Conservation Area (NCA). Conosciuto per le sue grandi corna ricurve e la mole massiccia, è uno dei “Big Five” africani (bufalo, elefante, leopardo, rinoceronte, leone) ed è ampiamente rispettato per la forza e resistenza. La NCA, sito del Patrimonio Mondiale dell’UNESCO, offre uno scenario spettacolare e ricco dal punto di vista ecologico per osservare questi formidabili erbivori.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.RadioCityHall_IT-IT8882732527_400x240.jpg "La scena infinita") 2026-03-27 | ![](https://www.bing.com/th?id=OHR.LoganCreek_IT-IT4625300484_400x240.jpg "Passi nel vuoto?") 2026-03-26 | ![](https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_400x240.jpg "E quindi uscimmo a riveder le stelle") 2026-03-25 |
-| ![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_400x240.jpg "Ballo di petali") 2026-03-24 | ![](https://www.bing.com/th?id=OHR.SonoranStorm_IT-IT4419770010_400x240.jpg "Disco-Deserto") 2026-03-23 | ![](https://www.bing.com/th?id=OHR.TanganyikaWater_IT-IT3818481809_400x240.jpg "Ogni goccia conta") 2026-03-22 |
-| ![](https://www.bing.com/th?id=OHR.LeteaForest_IT-IT3515792567_400x240.jpg "Cuore Verde") 2026-03-21 |  |  |
+| ![](https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_400x240.jpg "Spirito indomito") 2026-03-28 | ![](https://www.bing.com/th?id=OHR.RadioCityHall_IT-IT8882732527_400x240.jpg "La scena infinita") 2026-03-27 | ![](https://www.bing.com/th?id=OHR.LoganCreek_IT-IT4625300484_400x240.jpg "Passi nel vuoto?") 2026-03-26 |
+| ![](https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_400x240.jpg "E quindi uscimmo a riveder le stelle") 2026-03-25 | ![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_400x240.jpg "Ballo di petali") 2026-03-24 | ![](https://www.bing.com/th?id=OHR.SonoranStorm_IT-IT4419770010_400x240.jpg "Disco-Deserto") 2026-03-23 |
+| ![](https://www.bing.com/th?id=OHR.TanganyikaWater_IT-IT3818481809_400x240.jpg "Ogni goccia conta") 2026-03-22 |  |  |
 
 # History
 [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
