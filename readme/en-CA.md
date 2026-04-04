@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-CA6719297675_UHD.jpg)
-[2026-04-03 Bridging the gap, one arm at a time Armbrug bridge, Amsterdam, Netherlands(© Alexander Spatari/Getty Images)](https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-CA6719297675_UHD.jpg)
-Some bridges in Amsterdam just get you across a canal. The Armbrug does more—it seems to wave hello as you pass. Nestled over the Oudezijds Voorburgwal canal, its name, meaning 'arm bridge,' refers to the nearby Oudezijds Armsteeg (Old Side Arm Alley), not a literal limb, but it's easy to imagine it greeting cyclists and pedestrians along the way.
+![](https://www.bing.com/th?id=OHR.GrouseGuff_EN-CA6763957448_UHD.jpg)
+[2026-04-04 The lek side story Black grouse males facing off on a lekking site, Estonia(© Sven Zacek/Nature Picture Library)](https://www.bing.com/th?id=OHR.GrouseGuff_EN-CA6763957448_UHD.jpg)
+Before sunrise, the moorland clock punches in—and the dance floor opens. Male black grouse don't send invites; they boom them. Welcome to lekking season, where romance is competitive, noisy and strictly outdoors.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-CA6719297675_400x240.jpg "Bridging the gap, one arm at a time") 2026-04-03 | ![](https://www.bing.com/th?id=OHR.WildflowerValley_EN-CA5205263100_400x240.jpg "Patterns of spring") 2026-04-02 | ![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-CA4832337394_400x240.jpg "Hopping into April") 2026-04-01 |
-| ![](https://www.bing.com/th?id=OHR.ParadiseCave_EN-CA4527234429_400x240.jpg "Underground paradise") 2026-03-31 | ![](https://www.bing.com/th?id=OHR.IndiaCranes_EN-CA7425221513_400x240.jpg "Elegance in motion") 2026-03-30 | ![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-CA3906475667_400x240.jpg "Serenity by the sea") 2026-03-29 |
-| ![](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-CA3514902846_400x240.jpg "The untamed spirit") 2026-03-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.GrouseGuff_EN-CA6763957448_400x240.jpg "The lek side story") 2026-04-04 | ![](https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-CA6719297675_400x240.jpg "Bridging the gap, one arm at a time") 2026-04-03 | ![](https://www.bing.com/th?id=OHR.WildflowerValley_EN-CA5205263100_400x240.jpg "Patterns of spring") 2026-04-02 |
+| ![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-CA4832337394_400x240.jpg "Hopping into April") 2026-04-01 | ![](https://www.bing.com/th?id=OHR.ParadiseCave_EN-CA4527234429_400x240.jpg "Underground paradise") 2026-03-31 | ![](https://www.bing.com/th?id=OHR.IndiaCranes_EN-CA7425221513_400x240.jpg "Elegance in motion") 2026-03-30 |
+| ![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-CA3906475667_400x240.jpg "Serenity by the sea") 2026-03-29 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/en-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/en-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
