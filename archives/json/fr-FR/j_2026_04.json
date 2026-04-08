@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-08",
+    "head_line": "La Cité Émeraude",
+    "title": "Seattle, Washington, États-Unis",
+    "copyright": "© Jim Patterson/Tandem Stills + Motion",
+    "desc": "Sur le front de mer de Seattle, aux États-Unis, la lumière flotte entre ciel et mer et adoucit les silhouettes de la ville. Son nom rend hommage au chef Si’ahl, figure des peuples Duwamish et Suquamish, dont l’héritage façonne encore l’identité de la région. Des rues abruptes descendent vers les quais d’Elliott Bay, tandis que la Space Needle, dressée au-dessus de la ligne d’horizon, veille comme un repère familier. Plus haut, Pike Place Market, fondé en 1907, continue de rythmer la vie quotidienne tout en préservant des traditions profondément ancrées.",
+    "image_url": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-07",
     "head_line": "Une branche à la fois",
     "title": "Castor, Allemagne",

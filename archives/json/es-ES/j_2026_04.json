@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-08",
+    "head_line": "La \"Ciudad Esmeralda\"",
+    "title": "Seattle, Washington, EE. UU.",
+    "copyright": "© Jim Patterson/Tandem Stills + Motion",
+    "desc": "Seattle se extiende entre el océano Pacífico y las montañas del noroeste de Estados Unidos, en el estado de Washington, rodeada de agua y vegetación. Sus parques, colinas arboladas y un clima húmedo que mantiene el verde constante explican por qué recibe el apodo de la \"Ciudad Esmeralda\".",
+    "image_url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-07",
     "head_line": "Manos a la obra",
     "title": "Castor europeo, Alemania",
