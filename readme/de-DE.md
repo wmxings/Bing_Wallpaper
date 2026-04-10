@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_UHD.jpg)
-[2026-04-09 Schleier aus Licht Wasserfall Sgwd yr Eira, Bannau-Brycheiniog-Nationalpark, Wales(© Guy Edwardes/Nature Picture Library)](https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_UHD.jpg)
-Der Wasserfall Sgwd yr Eira stürzt in klaren Linien über eine Felswand im Süden von Wales. Sein walisischer Name bedeutet „Wasserfall des Schnees“ und verweist auf den hellen Schleier, der über den dunklen Stein gleitet. Besonders an diesem Ort ist die unmittelbare Nähe: Ein schmaler Pfad führt direkt hinter den Wasserfall, sodass man ihn aus einer seltenen Perspektive erleben kann – mit dem Klang, dem Licht und der kühlen Gischt ganz nah.
+![](https://www.bing.com/th?id=OHR.FoxSiblings_DE-DE2992215006_UHD.jpg)
+[2026-04-10 Kleine Pfoten, große Ideen Zwei junge Rotfüchse im Nationalpark Karula, Estland(© Sven Zacek/Nature Picture Library)](https://www.bing.com/th?id=OHR.FoxSiblings_DE-DE2992215006_UHD.jpg)
+Zum Tag der Geschwister rückt ein besonderes Band in den Mittelpunkt – und selten zeigt es sich so bezaubernd wie bei diesen beiden jungen Rotfüchsen im estnischen Nationalpark Karula. Eng beieinander sitzen sie im Gras, als würden sie ein stilles Geheimnis teilen. Dieses Zusammensein ist kein Zufall, denn Fuchswelpen wachsen in Würfen auf, in denen Nähe und Zusammenarbeit überlebenswichtig sind.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_400x240.jpg "Schleier aus Licht") 2026-04-09 | ![](https://www.bing.com/th?id=OHR.SeattleSunrise_DE-DE4194725859_400x240.jpg "Die Smaragdstadt") 2026-04-08 | ![](https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900_400x240.jpg "Biberkraft am Werk") 2026-04-07 |
-| ![](https://www.bing.com/th?id=OHR.CastleBlossoms_DE-DE0573709826_400x240.jpg "Beständig durch die Zeit") 2026-04-06 | ![](https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_400x240.jpg "Frohe Ostern!") 2026-04-05 | ![](https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_400x240.jpg "Wenn die Balz zur Bühne wird") 2026-04-04 |
-| ![](https://www.bing.com/th?id=OHR.ArmbrugBridge_DE-DE4018943683_400x240.jpg "Eine Brücke mit Charakter") 2026-04-03 |  |  |
+| ![](https://www.bing.com/th?id=OHR.FoxSiblings_DE-DE2992215006_400x240.jpg "Kleine Pfoten, große Ideen") 2026-04-10 | ![](https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_400x240.jpg "Schleier aus Licht") 2026-04-09 | ![](https://www.bing.com/th?id=OHR.SeattleSunrise_DE-DE4194725859_400x240.jpg "Die Smaragdstadt") 2026-04-08 |
+| ![](https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900_400x240.jpg "Biberkraft am Werk") 2026-04-07 | ![](https://www.bing.com/th?id=OHR.CastleBlossoms_DE-DE0573709826_400x240.jpg "Beständig durch die Zeit") 2026-04-06 | ![](https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_400x240.jpg "Frohe Ostern!") 2026-04-05 |
+| ![](https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_400x240.jpg "Wenn die Balz zur Bühne wird") 2026-04-04 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
