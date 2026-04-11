@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-12",
+    "head_line": "离开地球的第一步",
+    "title": "城市灯光在下方划过, 拍摄于国际空间站",
+    "copyright": "© NASA",
+    "desc": "今天，世界纪念国际载人航天日，这是联合国设立的纪念日，旨在纪念人类首次进入太空的旅程以及人类太空时代的开始。这个日期回忆起1961年4月12日，尤里·加加林绕地球飞行，证明人类可以离开地球并安全返回。",
+    "image_url": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_400x240.jpg",
+    "main_text": "联合国在2011年设立了国际人类航天日，距首次有人类航天飞行已有50年。",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-11",
     "head_line": "火山外衣",
     "title": "帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙",

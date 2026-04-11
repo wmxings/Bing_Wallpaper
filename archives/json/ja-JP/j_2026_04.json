@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-12",
+    "head_line": "今日は世界宇宙飛行の日",
+    "title": "光の筋となる都市の夜景, 国際宇宙ステーション",
+    "copyright": "© NASA",
+    "desc": "今日 4 月 12 日は世界宇宙飛行の日。1961 年、ロシアの宇宙飛行士ユーリイ・ガガーリンが、史上初の有人宇宙飛行に成功した日です。彼の宇宙探求の精神は、現在、地上から約 400km 上空に建設された巨大な有人実験施設である国際宇宙ステーション (ISS) に受け継がれています。2000 年から継続的に有人運用されている ISS では、宇宙飛行士たちが日々、地球を観測しながら医学や気候化学などの研究を行い、人類が地球外で生活し働く可能性を探っています。",
+    "image_url": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_400x240.jpg",
+    "main_text": "無重力環境では筋肉や骨が弱くなるため、宇宙飛行士はその低下を防ぐ目的で、筋力トレーニングなどの運動を毎日約 2 時間行っています。",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-11",
     "head_line": "乾いた大地に囲まれた青い海",
     "title": "パパガヨビーチ, スペイン",
