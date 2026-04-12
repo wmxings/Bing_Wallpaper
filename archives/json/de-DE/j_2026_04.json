@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-12",
+    "head_line": "Der erste Schritt ins All",
+    "title": "Lichterspuren der Erde, aufgenommen von der Internationalen Raumstation",
+    "copyright": "© NASA",
+    "desc": "Der Internationale Tag der bemannten Raumfahrt erinnert an einen Wendepunkt der Menschheitsgeschichte. Am 12. April 1961 umkreiste Juri Gagarin erstmals die Erde und kehrte sicher zurück – ein Ereignis, das den Beginn der modernen Raumfahrt markierte. Ein deutscher Meilenstein folgte 1978, als Sigmund Jähn im Rahmen des sowjetischen Interkosmos‑Programms als erster Deutscher ins All flog. Während seines Aufenthalts führte er wissenschaftliche Experimente durch und sammelte Erfahrungen, die den internationalen Austausch in der Raumfahrt förderten.",
+    "image_url": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_400x240.jpg",
+    "main_text": "Die Vereinten Nationen führten den Internationalen Tag der bemannten Raumfahrt im Jahr 2011 ein, 50 Jahre nach dem ersten bemannten Raumflug.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-11",
     "head_line": "Wo Lava auf Meer trifft",
     "title": "Playa del Papagayo, Lanzarote, Kanarische Inseln, Spanien",

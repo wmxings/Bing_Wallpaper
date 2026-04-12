@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-12",
+    "head_line": "El primer paso fuera de la Tierra",
+    "title": "Luces de la ciudad desde la Estación Espacial Internacional",
+    "copyright": "© NASA",
+    "desc": "El Día Internacional de los Vuelos Espaciales Tripulados se celebra cada 12 de abril para recordar un hito que transformó la historia de la humanidad. Ese día de 1961, Yuri Gagarin se convirtió en el primer ser humano en viajar al espacio, lo que supuso el inicio de una nueva era de exploración.",
+    "image_url": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_400x240.jpg",
+    "main_text": "La ONU estableció el Día Internacional de los Vuelos Espaciales Tripulados en 2011, cincuenta años después del primer vuelo espacial humano.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-11",
     "head_line": "Origen volcánico",
     "title": "Playas de Papagayo, Lanzarote, Islas Canarias",

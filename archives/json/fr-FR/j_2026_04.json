@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-12",
+    "head_line": "Le premier pas hors Terre",
+    "title": "Lumières de villes vues depuis la Station Spatiale Internationale",
+    "copyright": "© NASA",
+    "desc": "Aujourd’hui, on célèbre la Journée internationale du vol spatial habité, une date qui rappelle le moment où l’humanité a quitté son berceau et s’est aventurée pour la première fois dans l’espace. Le 12 avril 1961, Yuri Gagarine a fait le tour de la Terre, ouvrant la voie à une ère où le ciel a cessé d’être une limite. Son exploit demeure le souffle fondateur de notre curiosité collective.",
+    "image_url": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_400x240.jpg",
+    "main_text": "L'ONU a institué la Journée internationale du vol spatial habité en 2011, 50 ans après le premier vol spatial habité.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-11",
     "head_line": "3, 2, 1… À vos pédales !",
     "title": "Le Trocadéro et la Tour Eiffel à l’aube, Paris",
