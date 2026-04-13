@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BorregoStars_EN-IN2846815950_UHD.jpg)
-[2026-04-13 After the lights go down Milky Way over Anza-Borrego Desert State Park, California, United States(© Kevin Key/Slworking)/Getty Images)](https://www.bing.com/th?id=OHR.BorregoStars_EN-IN2846815950_UHD.jpg)
-When the lights go down, the universe puts on a show. International Dark Sky Week, celebrated each April, invites everyone to rediscover the night and learn why darkness is worth protecting. Launched in 2003, the week highlights how excessive artificial light affects wildlife, human health, energy use and our ability to see the stars. Fewer lights don't mean less safety—smart, well-designed lighting can do both.
+![](https://www.bing.com/th?id=OHR.AmbedkarJayanti2026_EN-IN3641683791_UHD.jpg)
+[2026-04-14 Not just a birthday, a revolution Ambedkar Memorial Park, Lucknow, Uttar Pradesh(© Varun Kumar Tiwari/iStock/Getty Images)](https://www.bing.com/th?id=OHR.AmbedkarJayanti2026_EN-IN3641683791_UHD.jpg)
+Every year on April 14, India pauses to honour a man who drafted more than just a constitution—he drafted the blueprint for social justice. Ambedkar Jayanti celebrates Dr. B.R. Ambedkar, a scholar, reformer and relentless champion of equality. Born in 1891, Ambedkar faced the harsh realities of caste discrimination but turned every hurdle into a stepping stone for change.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BorregoStars_EN-IN2846815950_400x240.jpg "After the lights go down") 2026-04-13 | ![](https://www.bing.com/th?id=OHR.SpaceTrails_EN-IN2633640541_400x240.jpg "The first step off Earth") 2026-04-12 | ![](https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-IN2411013538_400x240.jpg "Volcanic veneer") 2026-04-11 |
-| ![](https://www.bing.com/th?id=OHR.FoxSiblings_EN-IN1951935452_400x240.jpg "Plotting paws") 2026-04-10 | ![](https://www.bing.com/th?id=OHR.WalesWaterfall_EN-IN1569227475_400x240.jpg "Veil of light") 2026-04-09 | ![](https://www.bing.com/th?id=OHR.SeattleSunrise_EN-IN1391422222_400x240.jpg "The Emerald City") 2026-04-08 |
-| ![](https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-IN1152151443_400x240.jpg "Reefside roommates") 2026-04-07 |  |  |
+| ![](https://www.bing.com/th?id=OHR.AmbedkarJayanti2026_EN-IN3641683791_400x240.jpg "Not just a birthday, a revolution") 2026-04-14 | ![](https://www.bing.com/th?id=OHR.BorregoStars_EN-IN2846815950_400x240.jpg "After the lights go down") 2026-04-13 | ![](https://www.bing.com/th?id=OHR.SpaceTrails_EN-IN2633640541_400x240.jpg "The first step off Earth") 2026-04-12 |
+| ![](https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-IN2411013538_400x240.jpg "Volcanic veneer") 2026-04-11 | ![](https://www.bing.com/th?id=OHR.FoxSiblings_EN-IN1951935452_400x240.jpg "Plotting paws") 2026-04-10 | ![](https://www.bing.com/th?id=OHR.WalesWaterfall_EN-IN1569227475_400x240.jpg "Veil of light") 2026-04-09 |
+| ![](https://www.bing.com/th?id=OHR.SeattleSunrise_EN-IN1391422222_400x240.jpg "The Emerald City") 2026-04-08 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/en-IN/w_2026_04.md) | [2026-03](../archives/wallpaper/en-IN/w_2026_03.md) | [2026-02](../archives/wallpaper/en-IN/w_2026_02.md) | [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
