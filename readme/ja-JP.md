@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.OcellarisClownfish_JA-JP4425106127_UHD.jpg)
-[2026-04-14 イソギンチャクの中で身を寄せる小魚 クマノミ, インドネシア(© Magnus Lundgren/Nature Picture Library)](https://www.bing.com/th?id=OHR.OcellarisClownfish_JA-JP4425106127_UHD.jpg)
-イソギンチャクは、植物のようにも見えますが、実際はクラゲやサンゴに近い動物です。岩などに付着して生息し、毒針のついた糸が入ったカプセル状の「刺胞」をもつ触手で獲物を捕らえます。そして、画像はそんなイソギンチャクと共生するクマノミ。インドネシアのラジャ・アンパット諸島で撮影されたものです。クマノミは、刺胞から身を守る特殊な粘液によって、イソギンチャクの触手を安全な住処としており、そのお返しに、捕食者を追い払ったりイソギンチャクに食べ残しを与えたりしています。
+![](https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg)
+[2026-04-15 富士芝桜まつりが開催中 芝桜, 山梨県(© DoctorEgg/Getty images)](https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg)
+4 月 11 日から 5 月 24 日まで、山梨県の富士本栖湖リゾートで「富士芝桜まつり」が開催されます。富士山の麓に広がる広大な敷地には、ピンクや白など色とりどりの芝桜が約 50 万株も咲き誇り、春の富士山との美しいコラボレーションを披露してくれます。毎年全国から多くの観光客が訪れており、今年のテーマは「春の特等席。」です。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.OcellarisClownfish_JA-JP4425106127_400x240.jpg "イソギンチャクの中で身を寄せる小魚") 2026-04-14 | ![](https://www.bing.com/th?id=OHR.BorregoStars_JA-JP7872026496_400x240.jpg "今日から国際ダークスカイ・ウィーク") 2026-04-13 | ![](https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_400x240.jpg "今日は世界宇宙飛行の日") 2026-04-12 |
-| ![](https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_400x240.jpg "乾いた大地に囲まれた青い海") 2026-04-11 | ![](https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_400x240.jpg "今日はきょうだいの日") 2026-04-10 | ![](https://www.bing.com/th?id=OHR.WalesWaterfall_JA-JP5848698751_400x240.jpg "森の中に流れ落ちる滝") 2026-04-09 |
-| ![](https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_400x240.jpg "夕焼けに染まる港と街の景色") 2026-04-08 |  |  |
+| ![](https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_400x240.jpg "富士芝桜まつりが開催中") 2026-04-15 | ![](https://www.bing.com/th?id=OHR.OcellarisClownfish_JA-JP4425106127_400x240.jpg "イソギンチャクの中で身を寄せる小魚") 2026-04-14 | ![](https://www.bing.com/th?id=OHR.BorregoStars_JA-JP7872026496_400x240.jpg "今日から国際ダークスカイ・ウィーク") 2026-04-13 |
+| ![](https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_400x240.jpg "今日は世界宇宙飛行の日") 2026-04-12 | ![](https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_400x240.jpg "乾いた大地に囲まれた青い海") 2026-04-11 | ![](https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_400x240.jpg "今日はきょうだいの日") 2026-04-10 |
+| ![](https://www.bing.com/th?id=OHR.WalesWaterfall_JA-JP5848698751_400x240.jpg "森の中に流れ落ちる滝") 2026-04-09 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/ja-JP/w_2026_04.md) | [2026-03](../archives/wallpaper/ja-JP/w_2026_03.md) | [2026-02](../archives/wallpaper/ja-JP/w_2026_02.md) | [2026-01](../archives/wallpaper/ja-JP/w_2026_01.md)
