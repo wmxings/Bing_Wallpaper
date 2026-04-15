@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-15",
+    "head_line": "Immersion au cœur de chefs-d'œuvre",
+    "title": "Exposition immersive Van Gogh aux Carrières des Lumières, Les Baux-de-Provence",
+    "copyright": "© Patrick Aventurier/Getty Images",
+    "desc": "L’art fait partie de notre quotidien, parfois si naturellement qu’on en oublie sa puissance. Depuis toujours, la créativité exprime ce que nous sommes et trace les contours de notre avenir. Le 15 avril, la Journée mondiale de l’art célèbre le lien entre les artistes et celles et ceux qui se laissent toucher par leurs visions.",
+    "image_url": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_400x240.jpg",
+    "main_text": "La Journée mondiale de l'art est célébrée le 15 avril pour marquer l'anniversaire de Léonard de Vinci, en hommage à son influence sur l'art et la créativité humaine.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.VanGoghFields_FR-FR6202000817_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-14",
     "head_line": "Colocataires des récifs",
     "title": "Poisson-clown dans une anémone de mer, Îles Raja Ampat, Indonésie",
