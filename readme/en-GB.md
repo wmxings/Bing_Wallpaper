@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_UHD.jpg)
-[2026-04-18 The silence of unfinished giants Moai statue quarry, Rano Raraku, Easter Island, Chile(© Gavin Hellier/Alamy)](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_UHD.jpg)
-Today, on World Heritage Day, attention turns to places that tell humanity's shared story—protected for their exceptional cultural or natural value. One of them rises from volcanic stone on Easter Island, Chile. At Rano Raraku, the slopes of an extinct volcano became the workshop where nearly all of the island's famous moai were carved. The image captures this remarkable quarry, where half-finished figures emerge from the rock, frozen mid-creation.
+![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_UHD.jpg)
+[2026-04-19 A cottage full of stories Anne Hathaway's cottage and garden, Stratford-upon-Avon, England(© David Steele/Shutterstock)](https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_UHD.jpg)
+Today's image shows Anne Hathaway's cottage in Stratford‑upon‑Avon, England, the childhood home of Shakespeare's future wife. This 15th-century thatched cottage, now preserved as a museum, offers a rare glimpse into the domestic world that surrounded the young playwright.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_400x240.jpg "The silence of unfinished giants") 2026-04-18 | ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-GB2090404206_400x240.jpg "Bat signal: ON") 2026-04-17 | ![](https://www.bing.com/th?id=OHR.SkagitTulips_EN-GB8838173363_400x240.jpg "Petal parade") 2026-04-16 |
-| ![](https://www.bing.com/th?id=OHR.VanGoghFields_EN-GB8594559434_400x240.jpg "Stepping inside the living canvas") 2026-04-15 | ![](https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-GB8330340192_400x240.jpg "Reefside roommates") 2026-04-14 | ![](https://www.bing.com/th?id=OHR.BorregoStars_EN-GB8139506405_400x240.jpg "After the lights go down") 2026-04-13 |
-| ![](https://www.bing.com/th?id=OHR.SpaceTrails_EN-GB7928814675_400x240.jpg "The first step off Earth") 2026-04-12 |  |  |
+| ![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_400x240.jpg "A cottage full of stories") 2026-04-19 | ![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_400x240.jpg "The silence of unfinished giants") 2026-04-18 | ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-GB2090404206_400x240.jpg "Bat signal: ON") 2026-04-17 |
+| ![](https://www.bing.com/th?id=OHR.SkagitTulips_EN-GB8838173363_400x240.jpg "Petal parade") 2026-04-16 | ![](https://www.bing.com/th?id=OHR.VanGoghFields_EN-GB8594559434_400x240.jpg "Stepping inside the living canvas") 2026-04-15 | ![](https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-GB8330340192_400x240.jpg "Reefside roommates") 2026-04-14 |
+| ![](https://www.bing.com/th?id=OHR.BorregoStars_EN-GB8139506405_400x240.jpg "After the lights go down") 2026-04-13 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
