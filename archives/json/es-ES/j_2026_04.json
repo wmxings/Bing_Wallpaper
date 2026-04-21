@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-21",
+    "head_line": "Un escudo natural",
+    "title": "Erizo europeo, Francia",
+    "copyright": "© Klein & Hubert/Nature Picture Library",
+    "desc": "El erizo europeo es un habitante discreto de los paisajes rurales y periurbanos de Francia. Presente en praderas, setos y jardines, este pequeño mamífero nocturno se mueve al anochecer en busca de insectos, lombrices y otros invertebrados, guiado por un olfato fino y un oído atento. Su andar tranquilo contrasta con la eficacia de sus púas.",
+    "image_url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_400x240.jpg",
+    "main_text": "Sus 5.000-7.000 púas son pelos rígidos y huecos hechos de queratina, no verdaderas púas como las del puercoespín.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-20",
     "head_line": "Identidad sevillana",
     "title": "Castañuelas flamencas",

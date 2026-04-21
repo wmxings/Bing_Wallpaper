@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_UHD.jpg)
-[2026-04-20 Ein Rathaus mit Geschichte Rathaus St. Johann, Saarbrücken, Saarland(© frantic00/Getty Images)](https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_UHD.jpg)
-Saarbrücken ist eine Stadt zwischen Kulturen. Ihre Lage nahe der französischen Grenze hat Architektur, Stadtbild und Alltag über Jahrhunderte hinweg geprägt. Entlang der Saar treffen historische Einflüsse und städtisches Leben aufeinander und schaffen so ein vielschichtiges urbanes Umfeld.
+![](https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_UHD.jpg)
+[2026-04-21 Stachelige Frühlingspatrouille Europäischer Igel, Frankreich(© Klein & Hubert/Nature Picture Library)](https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_UHD.jpg)
+Mit dem Frühling zeigt sich ein vertrauter Bewohner unserer Landschaften. Der Europäische Igel, der hier in Frankreich zu sehen ist, ist ein überwiegend nachtaktives Tier, das meist allein lebt. Mit seiner feinen Nase und seinem guten Gehör durchstreift er Wiesen, Gärten und Waldränder auf der Suche nach Insekten, Würmern oder Schnecken. Droht Gefahr, zieht er sich zusammen und formt eine schützende Stachelkugel – eine einfache, aber wirkungsvolle Strategie. Nach dem Winterschlaf kehren Igel in vielen Teilen Europas in ihre Reviere zurück. Ihr Stoffwechsel fährt nun wieder hoch und sie müssen rasch neue Energiereserven aufbauen.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_400x240.jpg "Ein Rathaus mit Geschichte") 2026-04-20 | ![](https://www.bing.com/th?id=OHR.TranBA_DE-DE2926110774_400x240.jpg "Die Handschrift der Gezeiten") 2026-04-19 | ![](https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_400x240.jpg "Ein Tor zur Geschichte") 2026-04-18 |
-| ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824_400x240.jpg "Fest an Mamas Seite") 2026-04-17 | ![](https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684_400x240.jpg "Ein Meer aus Tulpen") 2026-04-16 | ![](https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701_400x240.jpg "Eintauchen in eine lebendige Leinwand") 2026-04-15 |
-| ![](https://www.bing.com/th?id=OHR.OcellarisClownfish_DE-DE4824723739_400x240.jpg "Nachbarn im Riff") 2026-04-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_400x240.jpg "Stachelige Frühlingspatrouille") 2026-04-21 | ![](https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_400x240.jpg "Ein Rathaus mit Geschichte") 2026-04-20 | ![](https://www.bing.com/th?id=OHR.TranBA_DE-DE2926110774_400x240.jpg "Die Handschrift der Gezeiten") 2026-04-19 |
+| ![](https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_400x240.jpg "Ein Tor zur Geschichte") 2026-04-18 | ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824_400x240.jpg "Fest an Mamas Seite") 2026-04-17 | ![](https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684_400x240.jpg "Ein Meer aus Tulpen") 2026-04-16 |
+| ![](https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701_400x240.jpg "Eintauchen in eine lebendige Leinwand") 2026-04-15 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)

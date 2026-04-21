@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SunsetKiva_EN-GB3079917136_UHD.jpg)
-[2026-04-20 The adventure doesn't end at sundown Canyonlands National Park, Moab, Utah, United States(© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SunsetKiva_EN-GB3079917136_UHD.jpg)
-There are more than 400 sites across the National Park System in the United States that preserve natural and cultural heritage while creating unforgettable outdoor experiences. From coastlines and forests to vast desert landscapes, these protected sites invite exploration, reflection and wonder.
+![](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-GB3383384255_UHD.jpg)
+[2026-04-21 Spring's prickly patrol European hedgehog, France(© Klein & Hubert/Nature Picture Library)](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-GB3383384255_UHD.jpg)
+Spring arrives with a small, spiky ambassador: the European hedgehog, spotted here in France. Part cuddle, part survival gear, this tiny forager is mostly nocturnal and usually solitary, guided mainly by smell and sound. Its job description is simple: roam, sniff through leaf litter and vacuum up invertebrates like worms, beetles, slugs and caterpillars—the kind of snacks that keep ecosystems running and gardeners smiling. When danger shows up, it doesn't negotiate or flee. It curls into a tight ball and lets its spines do the talking.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SunsetKiva_EN-GB3079917136_400x240.jpg "The adventure doesn't end at sundown") 2026-04-20 | ![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_400x240.jpg "A cottage full of stories") 2026-04-19 | ![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_400x240.jpg "The silence of unfinished giants") 2026-04-18 |
-| ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-GB2090404206_400x240.jpg "Bat signal: ON") 2026-04-17 | ![](https://www.bing.com/th?id=OHR.SkagitTulips_EN-GB8838173363_400x240.jpg "Petal parade") 2026-04-16 | ![](https://www.bing.com/th?id=OHR.VanGoghFields_EN-GB8594559434_400x240.jpg "Stepping inside the living canvas") 2026-04-15 |
-| ![](https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-GB8330340192_400x240.jpg "Reefside roommates") 2026-04-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-GB3383384255_400x240.jpg "Spring's prickly patrol") 2026-04-21 | ![](https://www.bing.com/th?id=OHR.SunsetKiva_EN-GB3079917136_400x240.jpg "The adventure doesn't end at sundown") 2026-04-20 | ![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_400x240.jpg "A cottage full of stories") 2026-04-19 |
+| ![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_400x240.jpg "The silence of unfinished giants") 2026-04-18 | ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-GB2090404206_400x240.jpg "Bat signal: ON") 2026-04-17 | ![](https://www.bing.com/th?id=OHR.SkagitTulips_EN-GB8838173363_400x240.jpg "Petal parade") 2026-04-16 |
+| ![](https://www.bing.com/th?id=OHR.VanGoghFields_EN-GB8594559434_400x240.jpg "Stepping inside the living canvas") 2026-04-15 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
