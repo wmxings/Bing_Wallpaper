@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_UHD.jpg)
-[2026-04-21 Stachelige Frühlingspatrouille Europäischer Igel, Frankreich(© Klein & Hubert/Nature Picture Library)](https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_UHD.jpg)
-Mit dem Frühling zeigt sich ein vertrauter Bewohner unserer Landschaften. Der Europäische Igel, der hier in Frankreich zu sehen ist, ist ein überwiegend nachtaktives Tier, das meist allein lebt. Mit seiner feinen Nase und seinem guten Gehör durchstreift er Wiesen, Gärten und Waldränder auf der Suche nach Insekten, Würmern oder Schnecken. Droht Gefahr, zieht er sich zusammen und formt eine schützende Stachelkugel – eine einfache, aber wirkungsvolle Strategie. Nach dem Winterschlaf kehren Igel in vielen Teilen Europas in ihre Reviere zurück. Ihr Stoffwechsel fährt nun wieder hoch und sie müssen rasch neue Energiereserven aufbauen.
+![](https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_UHD.jpg)
+[2026-04-22 Die Stimme der Erde Naturschutzgebiet Alam‑Pedja, Landkreis Tartu, Estland(© Sven Zacek/Nature Picture Library)](https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_UHD.jpg)
+Der Tag der Erde erinnert daran, dass Umweltbewusstsein aus konkreten Sorgen entstanden ist. Im Jahr 1970 machten Proteste auf verschmutzte Flüsse, belastete Luft und zerstörte Landschaften aufmerksam und setzten damit politische Veränderungen in Gang. Heute wird der 22. April weltweit begangen, um Bilanz zu ziehen und neue Ziele zu formulieren. Das Motto „Our Power, Our Planet“ für das Jahr 2026 richtet dabei den Blick nach vorn: Bis 2030 soll die globale Kapazität erneuerbarer Energien deutlich ausgebaut werden.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_400x240.jpg "Stachelige Frühlingspatrouille") 2026-04-21 | ![](https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_400x240.jpg "Ein Rathaus mit Geschichte") 2026-04-20 | ![](https://www.bing.com/th?id=OHR.TranBA_DE-DE2926110774_400x240.jpg "Die Handschrift der Gezeiten") 2026-04-19 |
-| ![](https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_400x240.jpg "Ein Tor zur Geschichte") 2026-04-18 | ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824_400x240.jpg "Fest an Mamas Seite") 2026-04-17 | ![](https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684_400x240.jpg "Ein Meer aus Tulpen") 2026-04-16 |
-| ![](https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701_400x240.jpg "Eintauchen in eine lebendige Leinwand") 2026-04-15 |  |  |
+| ![](https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_400x240.jpg "Die Stimme der Erde") 2026-04-22 | ![](https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_400x240.jpg "Stachelige Frühlingspatrouille") 2026-04-21 | ![](https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_400x240.jpg "Ein Rathaus mit Geschichte") 2026-04-20 |
+| ![](https://www.bing.com/th?id=OHR.TranBA_DE-DE2926110774_400x240.jpg "Die Handschrift der Gezeiten") 2026-04-19 | ![](https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_400x240.jpg "Ein Tor zur Geschichte") 2026-04-18 | ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824_400x240.jpg "Fest an Mamas Seite") 2026-04-17 |
+| ![](https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684_400x240.jpg "Ein Meer aus Tulpen") 2026-04-16 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
