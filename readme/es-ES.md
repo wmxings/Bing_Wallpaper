@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_UHD.jpg)
-[2026-04-22 Un día de concienciación Reserva natural de Alam-Pedja, condado de Tartu, Estonia(© Sven Zacek/Nature Picture Library)](https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_UHD.jpg)
-El Día de la Tierra se celebra cada 22 de abril como una jornada dedicada a reflexionar sobre la relación entre la humanidad y el planeta. Desde su creación, esta fecha invita a tomar conciencia del valor de los ecosistemas y de la necesidad de protegerlos mediante gestos cotidianos y acciones colectivas.
+![](https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_UHD.jpg)
+[2026-04-23 Historias que florecen Rosa roja dentro de un libro abierto(© Albert Cabezas/Getty Images)](https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_UHD.jpg)
+Cada 23 de abril, Sant Jordi transforma las calles en un escaparate de libros y rosas. En Cataluña, autores y lectores se encuentran al aire libre mientras las librerías salen a la calle, creando una celebración cultural única que mezcla tradición y vida cotidiana. El gesto de regalar una rosa tiene su origen medieval y se vinculó más tarde al intercambio de libros.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_400x240.jpg "Un día de concienciación") 2026-04-22 | ![](https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_400x240.jpg "Un escudo natural") 2026-04-21 | ![](https://www.bing.com/th?id=OHR.FlamencoSevilla_ES-ES8411080911_400x240.jpg "Identidad sevillana") 2026-04-20 |
-| ![](https://www.bing.com/th?id=OHR.SunsetKiva_ES-ES8818639574_400x240.jpg "Un cielo para recordar") 2026-04-19 | ![](https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_400x240.jpg "El silencio de los gigantes") 2026-04-18 | ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_400x240.jpg "Vuelo silencioso") 2026-04-17 |
-| ![](https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326_400x240.jpg "Desfile de pétalos") 2026-04-16 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_400x240.jpg "Historias que florecen") 2026-04-23 | ![](https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_400x240.jpg "Un día de concienciación") 2026-04-22 | ![](https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_400x240.jpg "Un escudo natural") 2026-04-21 |
+| ![](https://www.bing.com/th?id=OHR.FlamencoSevilla_ES-ES8411080911_400x240.jpg "Identidad sevillana") 2026-04-20 | ![](https://www.bing.com/th?id=OHR.SunsetKiva_ES-ES8818639574_400x240.jpg "Un cielo para recordar") 2026-04-19 | ![](https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_400x240.jpg "El silencio de los gigantes") 2026-04-18 |
+| ![](https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_400x240.jpg "Vuelo silencioso") 2026-04-17 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/es-ES/w_2026_04.md) | [2026-03](../archives/wallpaper/es-ES/w_2026_03.md) | [2026-02](../archives/wallpaper/es-ES/w_2026_02.md) | [2026-01](../archives/wallpaper/es-ES/w_2026_01.md)
