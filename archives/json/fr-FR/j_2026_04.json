@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-25",
+    "head_line": "Comme un manchot dans l'eau",
+    "title": "Manchots des Galápagos, Îles Galápagos, Équateur",
+    "copyright": "© Henley Spiers/Nature Picture Library",
+    "desc": "Les manchots évoquent spontanément l’Antarctique, pourtant ces irrésistibles oiseaux marins ne se tiennent pas toujours près de la glace. Les manchots des Galápagos, visibles ici, en sont la preuve. Endémiques de cet archipel volcanique situé à près de 1 000 kilomètres des côtes d’Équateur, ils sont les plus nordiques de leur famille. Leur présence en plein cœur des tropiques n’est possible que grâce à des courants océaniques froids et riches en nutriments, qui apportent nourriture et températures supportables. Petits, rapides et parfaitement adaptés, ils passent une grande partie de la journée dans l’eau pour éviter la chaleur.",
+    "image_url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_400x240.jpg",
+    "main_text": "Contrairement au pingouin qui est un oiseau de l’hémisphère Nord qui peut voler, le manchot vit dans l’hémisphère Sud et ne vole pas. Ses ailes servent à nager.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-04-24",
     "head_line": "Le roi des marais",
     "title": "Flamant rose, Aigues-Mortes",
