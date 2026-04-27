@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MilanGalleria_EN-IN2538393019_UHD.jpg)
-[2026-04-27 Glass with class The glass dome of Galleria Vittorio Emanuele II, Milan, Italy(© PhillipMinnis/Getty Images)](https://www.bing.com/th?id=OHR.MilanGalleria_EN-IN2538393019_UHD.jpg)
-Designed by architect Giuseppe Mengoni and completed in 1877, the Galleria Vittorio Emanuele II in Milan, Italy, is one of the world's oldest and most famous shopping arcades. Located between Piazza del Duomo and Piazza della Scala, it features a stunning glass-and-iron roof and an elegant, octagonal layout. Affectionately known as 'Milan's living room,' the Galleria is home to high-end boutiques, historic cafés such as Caffè Biffi and Camparino in Galleria and renowned restaurants.
+![](https://www.bing.com/th?id=OHR.AndeanBear_EN-IN2726227738_UHD.jpg)
+[2026-04-28 Spectacles in the wild Spectacled bear resting in tree, Ecuador(© Andy Rouse/Nature Picture Library)](https://www.bing.com/th?id=OHR.AndeanBear_EN-IN2726227738_UHD.jpg)
+The spectacled bear, also known as the Andean bear, is the only South American bear of the Ursidae family. Inhabiting the northern and central Andes Mountains, it dwells primarily in forested areas and feeds mainly on shoots and fruit. Pale markings around the eyes often resemble eyeglasses, or 'spectacles,' giving the species its distinctive name.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MilanGalleria_EN-IN2538393019_400x240.jpg "Glass with class") 2026-04-27 | ![](https://www.bing.com/th?id=OHR.AppleBlossoms_EN-IN2309236905_400x240.jpg "Bloom boom") 2026-04-26 | ![](https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-IN2047471212_400x240.jpg "Breaking the penguin rules") 2026-04-25 |
-| ![](https://www.bing.com/th?id=OHR.SlashPine_EN-IN1738190990_400x240.jpg "The power of taking it slow") 2026-04-24 | ![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_400x240.jpg "A cottage full of stories") 2026-04-23 | ![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-IN0962469731_400x240.jpg "The power of protest") 2026-04-22 |
-| ![](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-IN0774143305_400x240.jpg "Spring's prickly patrol") 2026-04-21 |  |  |
+| ![](https://www.bing.com/th?id=OHR.AndeanBear_EN-IN2726227738_400x240.jpg "Spectacles in the wild") 2026-04-28 | ![](https://www.bing.com/th?id=OHR.MilanGalleria_EN-IN2538393019_400x240.jpg "Glass with class") 2026-04-27 | ![](https://www.bing.com/th?id=OHR.AppleBlossoms_EN-IN2309236905_400x240.jpg "Bloom boom") 2026-04-26 |
+| ![](https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-IN2047471212_400x240.jpg "Breaking the penguin rules") 2026-04-25 | ![](https://www.bing.com/th?id=OHR.SlashPine_EN-IN1738190990_400x240.jpg "The power of taking it slow") 2026-04-24 | ![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_400x240.jpg "A cottage full of stories") 2026-04-23 |
+| ![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-IN0962469731_400x240.jpg "The power of protest") 2026-04-22 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/en-IN/w_2026_04.md) | [2026-03](../archives/wallpaper/en-IN/w_2026_03.md) | [2026-02](../archives/wallpaper/en-IN/w_2026_02.md) | [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
