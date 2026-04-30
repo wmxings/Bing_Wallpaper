@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-CA6523750356_UHD.jpg)
-[2026-04-29 History anchored in stone Belém Tower on the bank of the Tagus River, Lisbon, Portugal(© f9photos/Getty Images)](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-CA6523750356_UHD.jpg)
-Ships leaving Lisbon once passed a small stone tower before meeting the wide Atlantic. That tower, standing on the bank of the Tagus River, served as both a guardian and a farewell. Say hello to Belém Tower—a fortress that watched Portugal sail into the Age of Exploration.
+![](https://www.bing.com/th?id=OHR.DutchTulips_EN-CA7547956552_UHD.jpg)
+[2026-04-30 Tulips run the show Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands(© Martin Ruegner/Getty Images)](https://www.bing.com/th?id=OHR.DutchTulips_EN-CA7547956552_UHD.jpg)
+Imagine a flower sparking a financial frenzy. Sounds unlikely, right? Yet in the 1630s, tulips did exactly that in the Netherlands. During tulip mania, rare bulbs became luxury items traded for astonishing sums—some valued at prices comparable to a house. Why so valuable? Unusual colours and striped patterns were scarce and unpredictable, and collectors wanted the rarest varieties they could find.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-CA6523750356_400x240.jpg "History anchored in stone") 2026-04-29 | ![](https://www.bing.com/th?id=OHR.AndeanBear_EN-CA5387573161_400x240.jpg "Spectacles in the wild") 2026-04-28 | ![](https://www.bing.com/th?id=OHR.MilanGalleria_EN-CA9394952547_400x240.jpg "Glass with class") 2026-04-27 |
-| ![](https://www.bing.com/th?id=OHR.AppleBlossoms_EN-CA6292160620_400x240.jpg "Bloom boom") 2026-04-26 | ![](https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-CA5860211884_400x240.jpg "Breaking the penguin rules") 2026-04-25 | ![](https://www.bing.com/th?id=OHR.SlashPine_EN-CA5488126378_400x240.jpg "A tribute to trees") 2026-04-24 |
-| ![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-CA5163724238_400x240.jpg "A cottage full of stories") 2026-04-23 |  |  |
+| ![](https://www.bing.com/th?id=OHR.DutchTulips_EN-CA7547956552_400x240.jpg "Tulips run the show") 2026-04-30 | ![](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-CA6523750356_400x240.jpg "History anchored in stone") 2026-04-29 | ![](https://www.bing.com/th?id=OHR.AndeanBear_EN-CA5387573161_400x240.jpg "Spectacles in the wild") 2026-04-28 |
+| ![](https://www.bing.com/th?id=OHR.MilanGalleria_EN-CA9394952547_400x240.jpg "Glass with class") 2026-04-27 | ![](https://www.bing.com/th?id=OHR.AppleBlossoms_EN-CA6292160620_400x240.jpg "Bloom boom") 2026-04-26 | ![](https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-CA5860211884_400x240.jpg "Breaking the penguin rules") 2026-04-25 |
+| ![](https://www.bing.com/th?id=OHR.SlashPine_EN-CA5488126378_400x240.jpg "A tribute to trees") 2026-04-24 |  |  |
 
 # History
 [2026-04](../archives/wallpaper/en-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/en-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
