@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_UHD.jpg)
-[2026-05-02 Light at the end of the isle Tŵr Mawr Lighthouse, Ynys Llanddwyn, Anglesey, Wales(© Lukas Bischoff/Getty Images)](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_UHD.jpg)
-At the far edge of Ynys Llanddwyn, where the land quietly gives way to sea, Tŵr Mawr Lighthouse stands watch without making a fuss. It is not tall, not flashy, but it knows its purpose—and it keeps it bright.
+![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-GB2436436985_UHD.jpg)
+[2026-05-03 Savanna afterglow Leopard sleeping in a tree in the savannah, Masai Mara National Reserve, Kenya(© Klein & Hubert/Nature Picture Library)](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-GB2436436985_UHD.jpg)
+High above the savanna in Kenya's Masai Mara, a leopard curls up on a tree branch, napping as the grasslands glow at sunset. On International Leopard Day, observed on 3 May, we celebrate one of the world's most adaptable big cats. Leopards roam across Africa and parts of Asia, thriving in habitats that range from forests and mountains to open savannas. Their spotted coats are unique to each individual, like fingerprints, and their powerful climbing skills allow them to stash prey high in trees, out of reach of scavengers.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_400x240.jpg "Light at the end of the isle") 2026-05-02 | ![](https://www.bing.com/th?id=OHR.BrightonFestival2026_EN-GB4224499383_400x240.jpg "Hop on, it's a creative ride") 2026-05-01 | ![](https://www.bing.com/th?id=OHR.DutchTulips_EN-GB7175502570_400x240.jpg "Tulips run the show") 2026-04-30 |
-| ![](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-GB6963805322_400x240.jpg "History anchored in stone") 2026-04-29 | ![](https://www.bing.com/th?id=OHR.AndeanBear_EN-GB6464683386_400x240.jpg "Spectacles in the wild") 2026-04-28 | ![](https://www.bing.com/th?id=OHR.MilanGalleria_EN-GB6160485704_400x240.jpg "Glass with class") 2026-04-27 |
-| ![](https://www.bing.com/th?id=OHR.AppleBlossoms_EN-GB5436574714_400x240.jpg "Bloom boom") 2026-04-26 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-GB2436436985_400x240.jpg "Savanna afterglow") 2026-05-03 | ![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_400x240.jpg "Light at the end of the isle") 2026-05-02 | ![](https://www.bing.com/th?id=OHR.BrightonFestival2026_EN-GB4224499383_400x240.jpg "Hop on, it's a creative ride") 2026-05-01 |
+| ![](https://www.bing.com/th?id=OHR.DutchTulips_EN-GB7175502570_400x240.jpg "Tulips run the show") 2026-04-30 | ![](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-GB6963805322_400x240.jpg "History anchored in stone") 2026-04-29 | ![](https://www.bing.com/th?id=OHR.AndeanBear_EN-GB6464683386_400x240.jpg "Spectacles in the wild") 2026-04-28 |
+| ![](https://www.bing.com/th?id=OHR.MilanGalleria_EN-GB6160485704_400x240.jpg "Glass with class") 2026-04-27 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
