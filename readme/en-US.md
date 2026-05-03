@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)
-[2026-05-02 The magic of Jasper Small lake and marsh in Jasper National Park in Alberta, Canada(© Don White/Getty Images)](https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)
-Can you picture more than 4,200 square miles of protected wilderness? That's Jasper National Park in Alberta, Canada. Established in 1907 as part of a growing network of protected landscapes in the Canadian Rockies, it was designated a national park in 1930. The park reflects both conservation efforts and much older Indigenous connections, including those of the Nakoda and Secwépemc peoples. Its terrain ranges from glacier-fed rivers and alpine meadows to dense conifer forests dominated by spruce and pine.
+![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg)
+[2026-05-03 Savanna afterglow Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya(© Klein & Hubert/Nature Picture Library)](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg)
+High above the savanna in Kenya's Masai Mara, a leopard curls up on a tree branch, napping as the grasslands glow at sunset. On International Leopard Day, observed on May 3, we celebrate one of the world's most adaptable big cats. Leopards roam across Africa and parts of Asia, thriving in habitats that range from forests and mountains to open savannas. Their spotted coats are unique to each individual, like fingerprints, and their powerful climbing skills allow them to stash prey high in trees, out of reach of scavengers.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_400x240.jpg "The magic of Jasper") 2026-05-02 | ![](https://www.bing.com/th?id=OHR.KoiPond_EN-US0207799352_400x240.jpg "A pond of stories") 2026-05-01 | ![](https://www.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_400x240.jpg "Tulips run the show") 2026-04-30 |
-| ![](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_400x240.jpg "History anchored in stone") 2026-04-29 | ![](https://www.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_400x240.jpg "Spectacles in the wild") 2026-04-28 | ![](https://www.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_400x240.jpg "Glass with class") 2026-04-27 |
-| ![](https://www.bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_400x240.jpg "Bloom boom") 2026-04-26 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_400x240.jpg "Savanna afterglow") 2026-05-03 | ![](https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_400x240.jpg "The magic of Jasper") 2026-05-02 | ![](https://www.bing.com/th?id=OHR.KoiPond_EN-US0207799352_400x240.jpg "A pond of stories") 2026-05-01 |
+| ![](https://www.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_400x240.jpg "Tulips run the show") 2026-04-30 | ![](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_400x240.jpg "History anchored in stone") 2026-04-29 | ![](https://www.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_400x240.jpg "Spectacles in the wild") 2026-04-28 |
+| ![](https://www.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_400x240.jpg "Glass with class") 2026-04-27 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/en-US/w_2026_05.md) | [2026-04](../archives/wallpaper/en-US/w_2026_04.md) | [2026-03](../archives/wallpaper/en-US/w_2026_03.md) | [2026-02](../archives/wallpaper/en-US/w_2026_02.md) | [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
