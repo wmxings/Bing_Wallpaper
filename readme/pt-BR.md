@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_UHD.jpg)
-[2026-05-03 Um sono merecido Leopardo dormindo em uma árvore na Reserva Nacional Masai Mara, Quênia(© Klein & Hubert/Nature Picture Library)](https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_UHD.jpg)
-Um leopardo se enrola num galho no alto da savana de Masai Mara, no Quênia, como se tivesse escolhido o melhor camarote para o pôr do sol. Mestre da adaptação, ele circula por grande parte da África e por áreas da Ásia, atravessando florestas, montanhas e savanas com a mesma segurança. Cada indivíduo carrega um padrão único de manchas, como uma impressão digital, que ajuda a camuflar o corpo na paisagem. Já sua força e a estratégia entram em cena quando ele arrasta presas para o alto das árvores, reduzindo as chances de roubo por competidores e carniceiros. Noturno, esse grande felino não caça por corridas longas. Assim como a onça‑pintada no Brasil, prefere a arte da espera, do cálculo e do ataque no momento certo.
+![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_PT-BR6460099776_UHD.jpg)
+[2026-05-04 Uma paisagem de outro planeta Ksar Ouled Soltane, distrito de Tataouine, Tunísia(© Dark_Eni/Getty Images Plus)](https://www.bing.com/th?id=OHR.KsarOuledSoltane_PT-BR6460099776_UHD.jpg)
+No Dia de Star Wars, a realidade faz cosplay de ficção científica e desafia você a notar a diferença. A data começou como uma brincadeira que virou tradição entre fãs: em inglês, “May the Fourth” (quatro de maio) soa como “May the Force be with you” (que a Força esteja com você).
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_400x240.jpg "Um sono merecido") 2026-05-03 | ![](https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_400x240.jpg "Uma noite preservada") 2026-05-02 | ![](https://www.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851_400x240.jpg "Jornada nas alturas") 2026-05-01 |
-| ![](https://www.bing.com/th?id=OHR.DutchTulips_PT-BR9358504949_400x240.jpg "Uma paleta de pétalas") 2026-04-30 | ![](https://www.bing.com/th?id=OHR.BelemTowerBank_PT-BR9115323805_400x240.jpg "O último porto seguro") 2026-04-29 | ![](https://www.bing.com/th?id=OHR.AndeanBear_PT-BR8313253312_400x240.jpg "O mundo visto do alto") 2026-04-28 |
-| ![](https://www.bing.com/th?id=OHR.MilanGalleria_PT-BR7355456303_400x240.jpg "Elegância sobre vidro") 2026-04-27 |  |  |
+| ![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_PT-BR6460099776_400x240.jpg "Uma paisagem de outro planeta") 2026-05-04 | ![](https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_400x240.jpg "Um sono merecido") 2026-05-03 | ![](https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_400x240.jpg "Uma noite preservada") 2026-05-02 |
+| ![](https://www.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851_400x240.jpg "Jornada nas alturas") 2026-05-01 | ![](https://www.bing.com/th?id=OHR.DutchTulips_PT-BR9358504949_400x240.jpg "Uma paleta de pétalas") 2026-04-30 | ![](https://www.bing.com/th?id=OHR.BelemTowerBank_PT-BR9115323805_400x240.jpg "O último porto seguro") 2026-04-29 |
+| ![](https://www.bing.com/th?id=OHR.AndeanBear_PT-BR8313253312_400x240.jpg "O mundo visto do alto") 2026-04-28 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/pt-BR/w_2026_05.md) | [2026-04](../archives/wallpaper/pt-BR/w_2026_04.md) | [2026-03](../archives/wallpaper/pt-BR/w_2026_03.md) | [2026-02](../archives/wallpaper/pt-BR/w_2026_02.md) | [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
