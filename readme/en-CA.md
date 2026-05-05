@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_EN-CA5863757495_UHD.jpg)
-[2026-05-04 Sci‑fi, Earth‑made Ksar Ouled Soltane, Tataouine district in southern Tunisia(© Dark_Eni/Getty Images Plus)](https://www.bing.com/th?id=OHR.KsarOuledSoltane_EN-CA5863757495_UHD.jpg)
-May the 4th be with you! On Star Wars Day, reality cosplays as science fiction and dares you to tell the difference. Our image takes us to Ksar Ouled Soltane in Tunisia's Tataouine district, where stacked clay granaries rise like sand‑coloured fortresses. Dating back to the 15th century, this storehouse complex was built by Berber communities to protect harvests from heat, theft and time. Function first. Beauty as a side effect.
+![](https://www.bing.com/th?id=OHR.BullQuebec_EN-CA5955231847_UHD.jpg)
+[2026-05-05 In step with the forest A majestic bull moose foraging through the green undergrowth, Quebec(© pchoui/Getty Images)](https://www.bing.com/th?id=OHR.BullQuebec_EN-CA5955231847_UHD.jpg)
+Not one to hurry, a bull moose moves with steady purpose—and for good reason. As part of the North American moose population native to Canada, these animals are well adapted to long winters and short growing seasons. Their diet shifts with availability: in summer, they browse fresh leaves, shrubs and aquatic plants; in winter, they rely more on woody material like twigs and bark.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_EN-CA5863757495_400x240.jpg "Sci‑fi, Earth‑made") 2026-05-04 | ![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-CA1789008589_400x240.jpg "Savannah afterglow") 2026-05-03 | ![](https://www.bing.com/th?id=OHR.GreenJasper_EN-CA5522153954_400x240.jpg "The magic of Jasper") 2026-05-02 |
-| ![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-CA5457397043_400x240.jpg "Light at the end of the isle") 2026-05-01 | ![](https://www.bing.com/th?id=OHR.DutchTulips_EN-CA7547956552_400x240.jpg "Tulips run the show") 2026-04-30 | ![](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-CA6523750356_400x240.jpg "History anchored in stone") 2026-04-29 |
-| ![](https://www.bing.com/th?id=OHR.AndeanBear_EN-CA5387573161_400x240.jpg "Spectacles in the wild") 2026-04-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BullQuebec_EN-CA5955231847_400x240.jpg "In step with the forest") 2026-05-05 | ![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_EN-CA5863757495_400x240.jpg "Sci‑fi, Earth‑made") 2026-05-04 | ![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-CA1789008589_400x240.jpg "Savannah afterglow") 2026-05-03 |
+| ![](https://www.bing.com/th?id=OHR.GreenJasper_EN-CA5522153954_400x240.jpg "The magic of Jasper") 2026-05-02 | ![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-CA5457397043_400x240.jpg "Light at the end of the isle") 2026-05-01 | ![](https://www.bing.com/th?id=OHR.DutchTulips_EN-CA7547956552_400x240.jpg "Tulips run the show") 2026-04-30 |
+| ![](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-CA6523750356_400x240.jpg "History anchored in stone") 2026-04-29 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/en-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/en-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/en-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
