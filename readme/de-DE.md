@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_UHD.jpg)
-[2026-05-06 Die Kräfte der Natur Gewitter über der Ebene, Bulgarien(© Revolu7ion93/Getty Images)](https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_UHD.jpg)
-Dunkle Gewitterwolken ziehen über die weiten Ebenen Bulgariens und entladen sich über einer offenen Kulturlandschaft. Die flachen Regionen im Norden und Süden des Landes zählen zu den fruchtbarsten Gebieten Südosteuropas und reagieren besonders sensibel auf plötzliche Wetterumschwünge.
+![](https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475_UHD.jpg)
+[2026-05-07 Weite Horizonte der Wüste Kofa National Wildlife Refuge, Arizona, USA(© Denis Tangney Jr/Getty Images)](https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475_UHD.jpg)
+Mit dem Kofa National Wildlife Refuge erstreckt sich im Südwesten Arizonas, USA, ein weitläufiges Schutzgebiet, das von offenen Wüstenflächen, schroffen Bergzügen und einer überraschenden ökologischen Vielfalt geprägt ist. Das Gebiet liegt in der Sonora‑Wüste und wurde 1939 eingerichtet, um Dickhornschafe zu schützen, deren trittsichere Silhouetten bis heute das weite und offene Landschaftsbild prägen.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_400x240.jpg "Die Kräfte der Natur") 2026-05-06 | ![](https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_400x240.jpg "Ein Stück Ostseetradition") 2026-05-05 | ![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_DE-DE0772664249_400x240.jpg "Reale Kulisse, galaktische Fantasie") 2026-05-04 |
-| ![](https://www.bing.com/th?id=OHR.MasaiLeopard_DE-DE1183742562_400x240.jpg "Rast in der Savanne") 2026-05-03 | ![](https://www.bing.com/th?id=OHR.GreenJasper_DE-DE3724735614_400x240.jpg "Die Magie von Jasper") 2026-05-02 | ![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_400x240.jpg "Ein stiller Wächter an der Küste") 2026-05-01 |
-| ![](https://www.bing.com/th?id=OHR.DutchTulips_DE-DE6573946518_400x240.jpg "Tulpen im Rampenlicht") 2026-04-30 |  |  |
+| ![](https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475_400x240.jpg "Weite Horizonte der Wüste") 2026-05-07 | ![](https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_400x240.jpg "Die Kräfte der Natur") 2026-05-06 | ![](https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_400x240.jpg "Ein Stück Ostseetradition") 2026-05-05 |
+| ![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_DE-DE0772664249_400x240.jpg "Reale Kulisse, galaktische Fantasie") 2026-05-04 | ![](https://www.bing.com/th?id=OHR.MasaiLeopard_DE-DE1183742562_400x240.jpg "Rast in der Savanne") 2026-05-03 | ![](https://www.bing.com/th?id=OHR.GreenJasper_DE-DE3724735614_400x240.jpg "Die Magie von Jasper") 2026-05-02 |
+| ![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_400x240.jpg "Ein stiller Wächter an der Küste") 2026-05-01 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/de-DE/w_2026_05.md) | [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
