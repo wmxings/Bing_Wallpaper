@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-05-08",
+    "head_line": "Passione, pedali e paesaggi",
+    "title": "Giro d’Italia",
+    "copyright": "© LUK BENIES/Stringer/Getty Images",
+    "desc": "Il Giro d’Italia è più di una corsa: è un racconto in movimento che attraversa paesaggi, storia e fatica, trasformando ogni tappa in un viaggio. Dalle strade costiere alle grandi salite alpine, ogni chilometro unisce territori diversi in una narrazione fatta di ritmo, strategia e resistenza, mentre il pubblico accompagna i corridori lungo un mosaico di città, borghi e scenari naturali.",
+    "image_url": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_400x240.jpg",
+    "main_text": "Il Giro d’Italia, nato nel 1909, è famoso per le sue tappe sulle montagne più iconiche, come il Passo dello Stelvio. Ogni anno, la maglia rosa premia il leader della classifica generale.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-05-07",
     "head_line": "Cronache di sabbia",
     "title": "Riserva naturale nazionale di Kofa, Arizona, USA",
