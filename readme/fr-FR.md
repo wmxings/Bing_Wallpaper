@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-FR6637164956_UHD.jpg)
-[2026-05-09 L'eau, architecte de Krka Chutes de Skradinski Buk, Parc national de Krka, Croatie(© Amazing Aerial Agency/Adobe Stock)](https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-FR6637164956_UHD.jpg)
-L’eau est l’architecte du parc national de Krka, en Croatie. Elle y sculpte des bassins émeraude et des chutes en gradins le long de la rivière Krka. L’image met en lumière les chutes de Skradinski Buk, véritables joyaux du parc, nichés dans une forêt dense près du village de Lozovac.
+![](https://www.bing.com/th?id=OHR.Fratercula_FR-FR5694797887_UHD.jpg)
+[2026-05-10 Plonger, s'envoler et survivre Macareux moines, Pays de Galles(© FLPA/Alamy)](https://www.bing.com/th?id=OHR.Fratercula_FR-FR5694797887_UHD.jpg)
+Le long des côtes rocheuses de l’Atlantique Nord, au Pays de Galles, le macareux moine niche dans des terriers creusés à flanc de falaise. Son plumage noir et blanc et son bec éclatant le rendent inoubliable, mais cet oiseau marin reste fragile : la raréfaction des poissons et le réchauffement des océans l’ont fait basculer dans la catégorie des espèces vulnérables. Chaque printemps, il revient fidèlement pondre un unique œuf, puis plonge avec aisance, « volant » sous l’eau à la poursuite de harengs et de lançons.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-FR6637164956_400x240.jpg "L'eau, architecte de Krka") 2026-05-09 | ![](https://www.bing.com/th?id=OHR.SardinianDonkey_FR-FR6669383604_400x240.jpg "Bien plus qu'un « iii ahn »") 2026-05-08 | ![](https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_400x240.jpg "Un désert à l'état pur") 2026-05-07 |
-| ![](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030_400x240.jpg "Des plaines sous haute tension") 2026-05-06 | ![](https://www.bing.com/th?id=OHR.MayoAgave_FR-FR5361312928_400x240.jpg "Où l'histoire prend racine") 2026-05-05 | ![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_FR-FR8093866685_400x240.jpg "Que la Force soit avec vous !") 2026-05-04 |
-| ![](https://www.bing.com/th?id=OHR.MasaiLeopard_FR-FR4209826917_400x240.jpg "Perché dans la savane") 2026-05-03 |  |  |
+| ![](https://www.bing.com/th?id=OHR.Fratercula_FR-FR5694797887_400x240.jpg "Plonger, s'envoler et survivre") 2026-05-10 | ![](https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-FR6637164956_400x240.jpg "L'eau, architecte de Krka") 2026-05-09 | ![](https://www.bing.com/th?id=OHR.SardinianDonkey_FR-FR6669383604_400x240.jpg "Bien plus qu'un « iii ahn »") 2026-05-08 |
+| ![](https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_400x240.jpg "Un désert à l'état pur") 2026-05-07 | ![](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030_400x240.jpg "Des plaines sous haute tension") 2026-05-06 | ![](https://www.bing.com/th?id=OHR.MayoAgave_FR-FR5361312928_400x240.jpg "Où l'histoire prend racine") 2026-05-05 |
+| ![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_FR-FR8093866685_400x240.jpg "Que la Force soit avec vous !") 2026-05-04 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
