@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MotherCub_FR-CA6952526998_UHD.jpg)
-[2026-05-10 Un lien qui dure pour la vie Ourse polaire jouant avec ses oursons, Parc national Wapusk, Manitoba(© Hao Jiang/Getty Images)](https://www.bing.com/th?id=OHR.MotherCub_FR-CA6952526998_UHD.jpg)
-À l’occasion de la fête des Mères, on célèbre l’attention, la patience et la protection qui façonnent nos vies. Dans la nature, ces qualités s’expriment avec force là où la survie est un défi constant. À Wapusk, dans le nord du Manitoba, une ourse polaire et ses petits partagent un instant de jeu sur la toundra arctique, vaste et silencieuse.
+![](https://www.bing.com/th?id=OHR.QueenslandReef_FR-CA1633759764_UHD.jpg)
+[2026-05-11 Une architecture sous-marine Vue aérienne de la Grande Barrière de Corail, Queensland, Australie(© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.QueenslandReef_FR-CA1633759764_UHD.jpg)
+Au large de la côte nord-est de l’Australie, la Grande Barrière de corail s’étire dans les eaux turquoise de la mer de Corail. Bordant le Queensland sur plus de 2 200 kilomètres, elle constitue le plus vaste récif corallien de la planète, composée de près de 3 000 formations coralliennes et de centaines d’îles.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MotherCub_FR-CA6952526998_400x240.jpg "Un lien qui dure pour la vie") 2026-05-10 | ![](https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-CA1338552126_400x240.jpg "L'eau, architecte de Krka") 2026-05-09 | ![](https://www.bing.com/th?id=OHR.TulipFestOT_FR-CA6683059104_400x240.jpg "Ottawa tapie de tulipes") 2026-05-08 |
-| ![](https://www.bing.com/th?id=OHR.Kofa_FR-CA6547767566_400x240.jpg "Un désert à l'état pur") 2026-05-07 | ![](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-CA6415102284_400x240.jpg "Des plaines sous haute tension") 2026-05-06 | ![](https://www.bing.com/th?id=OHR.BullQuebec_FR-CA6260493831_400x240.jpg "Promenons-nous dans les bois") 2026-05-05 |
-| ![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_FR-CA6095095804_400x240.jpg "Que la Force soit avec vous!") 2026-05-04 |  |  |
+| ![](https://www.bing.com/th?id=OHR.QueenslandReef_FR-CA1633759764_400x240.jpg "Une architecture sous-marine") 2026-05-11 | ![](https://www.bing.com/th?id=OHR.MotherCub_FR-CA6952526998_400x240.jpg "Un lien qui dure pour la vie") 2026-05-10 | ![](https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-CA1338552126_400x240.jpg "L'eau, architecte de Krka") 2026-05-09 |
+| ![](https://www.bing.com/th?id=OHR.TulipFestOT_FR-CA6683059104_400x240.jpg "Ottawa tapie de tulipes") 2026-05-08 | ![](https://www.bing.com/th?id=OHR.Kofa_FR-CA6547767566_400x240.jpg "Un désert à l'état pur") 2026-05-07 | ![](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-CA6415102284_400x240.jpg "Des plaines sous haute tension") 2026-05-06 |
+| ![](https://www.bing.com/th?id=OHR.BullQuebec_FR-CA6260493831_400x240.jpg "Promenons-nous dans les bois") 2026-05-05 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/fr-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-CA/w_2026_01.md)
