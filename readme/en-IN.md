@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Pitigliano_EN-IN6839021414_UHD.jpg)
-[2026-05-14 A journey through time Medieval town of Pitigliano, Tuscany, Italy(© bluejayphoto/Getty Images Plus)](https://www.bing.com/th?id=OHR.Pitigliano_EN-IN6839021414_UHD.jpg)
-Perched on a tufa ridge in southern Tuscany, Italy, Pitigliano is a small town with a big personality. Its roots stretch back to Etruscan times, and the winding streets still echo the past, from medieval fortifications to Renaissance palaces. Walking through its narrow alleys, you can feel centuries of life carved into the stone, while small piazzas invite pauses for coffee or gelato. This enduring treasure is often called 'Little Jerusalem' for its historic Jewish quarter, where a synagogue and historic cemetery tell stories of a once-thriving community.
+![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-IN8821227225_UHD.jpg)
+[2026-05-15 Whale you save me? A family of sperm whales, Indian Ocean(© Tony Wu/Nature Picture Library)](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-IN8821227225_UHD.jpg)
+Brains, brawn and a serious case of going deep—the sperm whale isn't here for surface-level living. This Endangered Species Day, meet a giant that thinks big and dives deeper.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Pitigliano_EN-IN6839021414_400x240.jpg "A journey through time") 2026-05-14 | ![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-IN6543590373_400x240.jpg "Rock on, Milky Way!") 2026-05-13 | ![](https://www.bing.com/th?id=OHR.Fratercula_EN-IN6270767271_400x240.jpg "Flap, dive, survive") 2026-05-12 |
-| ![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-IN6010161885_400x240.jpg "Underwater architecture") 2026-05-11 | ![](https://www.bing.com/th?id=OHR.MotherCub_EN-IN5755289238_400x240.jpg "A bond that endures") 2026-05-10 | ![](https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-IN5310888144_400x240.jpg "The architect of Krka") 2026-05-09 |
-| ![](https://www.bing.com/th?id=OHR.SardinianDonkey_EN-IN5118136670_400x240.jpg "More than a hee-haw") 2026-05-08 |  |  |
+| ![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-IN8821227225_400x240.jpg "Whale you save me?") 2026-05-15 | ![](https://www.bing.com/th?id=OHR.Pitigliano_EN-IN6839021414_400x240.jpg "A journey through time") 2026-05-14 | ![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-IN6543590373_400x240.jpg "Rock on, Milky Way!") 2026-05-13 |
+| ![](https://www.bing.com/th?id=OHR.Fratercula_EN-IN6270767271_400x240.jpg "Flap, dive, survive") 2026-05-12 | ![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-IN6010161885_400x240.jpg "Underwater architecture") 2026-05-11 | ![](https://www.bing.com/th?id=OHR.MotherCub_EN-IN5755289238_400x240.jpg "A bond that endures") 2026-05-10 |
+| ![](https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-IN5310888144_400x240.jpg "The architect of Krka") 2026-05-09 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/en-IN/w_2026_05.md) | [2026-04](../archives/wallpaper/en-IN/w_2026_04.md) | [2026-03](../archives/wallpaper/en-IN/w_2026_03.md) | [2026-02](../archives/wallpaper/en-IN/w_2026_02.md) | [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
