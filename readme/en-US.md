@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg)
-[2026-05-15 Whale you save me? A family of sperm whales, Indian Ocean(© Tony Wu/Nature Picture Library)](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg)
-Brains, brawn, and a serious case of going deep—the sperm whale isn't here for surface-level living. This Endangered Species Day, meet a giant that thinks big and dives deeper.
+![](https://www.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg)
+[2026-05-16 Rock bottom? Not here Smith Rock State Park, Oregon(© Alex Ratson/Getty Images)](https://www.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg)
+What do you call a place where the rocks do the climbing, and humans try to keep up? Welcome to Smith Rock State Park in Oregon, where cliffs rise fast, and excuses fall faster. It sits inside the 26-mile-long Crooked River Caldera, shaped by multiple volcanic eruptions. Its welded tuff cliffs are made from compressed volcanic ash that cooled under pressure. The Crooked River carved the canyon, while formations like the Spire rise up to 700 feet.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_400x240.jpg "Whale you save me?") 2026-05-15 | ![](https://www.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_400x240.jpg "A journey through time") 2026-05-14 | ![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_400x240.jpg "Rock on, Milky Way!") 2026-05-13 |
-| ![](https://www.bing.com/th?id=OHR.Fratercula_EN-US1020898539_400x240.jpg "Flap, dive, survive") 2026-05-12 | ![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_400x240.jpg "Underwater architecture") 2026-05-11 | ![](https://www.bing.com/th?id=OHR.MotherCub_EN-US0916425414_400x240.jpg "A bond that endures") 2026-05-10 |
-| ![](https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_400x240.jpg "The architect of Krka") 2026-05-09 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_400x240.jpg "Rock bottom? Not here") 2026-05-16 | ![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_400x240.jpg "Whale you save me?") 2026-05-15 | ![](https://www.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_400x240.jpg "A journey through time") 2026-05-14 |
+| ![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_400x240.jpg "Rock on, Milky Way!") 2026-05-13 | ![](https://www.bing.com/th?id=OHR.Fratercula_EN-US1020898539_400x240.jpg "Flap, dive, survive") 2026-05-12 | ![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_400x240.jpg "Underwater architecture") 2026-05-11 |
+| ![](https://www.bing.com/th?id=OHR.MotherCub_EN-US0916425414_400x240.jpg "A bond that endures") 2026-05-10 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/en-US/w_2026_05.md) | [2026-04](../archives/wallpaper/en-US/w_2026_04.md) | [2026-03](../archives/wallpaper/en-US/w_2026_03.md) | [2026-02](../archives/wallpaper/en-US/w_2026_02.md) | [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
