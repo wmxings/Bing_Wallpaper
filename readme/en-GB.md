@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151_UHD.jpg)
-[2026-05-16 Rock bottom? Not here Smith Rock State Park, Oregon, United States(© Alex Ratson/Getty Images)](https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151_UHD.jpg)
-What do you call a place where the rocks do the climbing, and humans try to keep up? Welcome to Smith Rock State Park in Oregon, United States, where cliffs rise fast and excuses fall faster. It sits inside the 26-mile-long Crooked River Caldera, shaped by multiple volcanic eruptions. Its welded tuff cliffs are made from compressed volcanic ash that cooled under pressure. The Crooked River carved the canyon, while formations like the Spire rise over 200 metres.
+![](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-GB6739469556_UHD.jpg)
+[2026-05-17 Quiet peak, loud view Hawksbill Mountain in Shenandoah National Park, Virginia, United States(© John Baggaley/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-GB6739469556_UHD.jpg)
+How high is high enough for a great view? In the eastern United States, it doesn't take much. Hawksbill Mountain is the highest point in Shenandoah National Park, Virginia, United States, at more than 1,200 metres, showing how these older mountains rely on openness, not elevation. The park's establishment in 1935 involved reforestation after extensive farming and logging. Today, much of that land has returned to forest, supporting mixed hardwoods, mountain laurel and rhododendron. What else? Some of the rocks found here date back over 1 billion years, among the oldest in the state. The park shelters over 200 bird species and 32 species of fish and remains dog-friendly, allowing pets in campgrounds and on most trails.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151_400x240.jpg "Rock bottom? Not here") 2026-05-16 | ![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369_400x240.jpg "Whale you save me?") 2026-05-15 | ![](https://www.bing.com/th?id=OHR.Pitigliano_EN-GB3042825945_400x240.jpg "A journey through time") 2026-05-14 |
-| ![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-GB2646719010_400x240.jpg "Rock on, Milky Way!") 2026-05-13 | ![](https://www.bing.com/th?id=OHR.Fratercula_EN-GB2057712590_400x240.jpg "Flap, dive, survive") 2026-05-12 | ![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-GB1671253384_400x240.jpg "Underwater architecture") 2026-05-11 |
-| ![](https://www.bing.com/th?id=OHR.GreenJasper_EN-GB1051436873_400x240.jpg "The magic of Jasper") 2026-05-10 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-GB6739469556_400x240.jpg "Quiet peak, loud view") 2026-05-17 | ![](https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151_400x240.jpg "Rock bottom? Not here") 2026-05-16 | ![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369_400x240.jpg "Whale you save me?") 2026-05-15 |
+| ![](https://www.bing.com/th?id=OHR.Pitigliano_EN-GB3042825945_400x240.jpg "A journey through time") 2026-05-14 | ![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-GB2646719010_400x240.jpg "Rock on, Milky Way!") 2026-05-13 | ![](https://www.bing.com/th?id=OHR.Fratercula_EN-GB2057712590_400x240.jpg "Flap, dive, survive") 2026-05-12 |
+| ![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-GB1671253384_400x240.jpg "Underwater architecture") 2026-05-11 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
