@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-05-18",
+    "head_line": "Ein Ort zum Entdecken und Staunen",
+    "title": "Natural History Museum, London, England",
+    "copyright": "© Colm Keating/Tandem Stills + Motion",
+    "desc": "Manchmal genügt ein Schritt durch die Tür eines Museums, um der Zeit eine neue Tiefe zu verleihen. Fossilien zeugen von Leben vor Millionen von Jahren, funkelnde Edelsteine von geologischen Prozessen, die unseren Planeten formten. Museen machen solche Verbindungen sichtbar und eröffnen Räume, in denen Vergangenheit, Gegenwart und Zukunft aufeinandertreffen.",
+    "image_url": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-05-17",
     "head_line": "Stiller Gipfel, weite Sicht",
     "title": "Hawksbill Mountain im Shenandoah‑Nationalpark, Virginia, USA",
