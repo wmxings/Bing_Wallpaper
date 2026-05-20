@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_UHD.jpg)
-[2026-05-19 La pointe nord de Majorque Phare de Formentor, Majorque, Îles Baléares, Espagne(© Allard Schager/Getty Images)](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_UHD.jpg)
-À l’extrémité nord de Majorque, dans les îles Baléares (Espagne), le phare de Formentor veille sur les falaises abruptes du cap, là où les vents se croisent et sculptent l’air. Mis en service pour la première fois en 1863, il domine la Méditerranée à environ 200 mètres au-dessus des flots, au bout d’une route étroite et sinueuse depuis Port de Pollença.
+![](https://www.bing.com/th?id=OHR.BumbleBee_FR-FR9421197553_UHD.jpg)
+[2026-05-20 D'indispensables petites bêtes Bourdon, Worcester, Angleterre(© SimonEastwood87/Shutterstock)](https://www.bing.com/th?id=OHR.BumbleBee_FR-FR9421197553_UHD.jpg)
+Un léger bourdonnement, ou une pluie de pollen presque invisible : voilà ce dont dépend l’avenir de notre alimentation. Chaque 20 mai, la Journée mondiale des abeilles nous invite à observer ces pollinisateurs discrets, comme le bourdon à l’œuvre sur l’image du jour — concentré, patient, indispensable.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_400x240.jpg "La pointe nord de Majorque") 2026-05-19 | ![](https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_400x240.jpg "Jeu, set et match !") 2026-05-18 | ![](https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-FR7678507020_400x240.jpg "Sommet paisible, vue éclatante") 2026-05-17 |
-| ![](https://www.bing.com/th?id=OHR.BirchForest_FR-FR7115403118_400x240.jpg "Ô bouleau !") 2026-05-16 | ![](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_400x240.jpg "Le géant des fonds marins") 2026-05-15 | ![](https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676_400x240.jpg "Un voyage dans le temps") 2026-05-14 |
-| ![](https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_400x240.jpg "L'art de briller sans projecteurs") 2026-05-13 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BumbleBee_FR-FR9421197553_400x240.jpg "D'indispensables petites bêtes") 2026-05-20 | ![](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_400x240.jpg "La pointe nord de Majorque") 2026-05-19 | ![](https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_400x240.jpg "Jeu, set et match !") 2026-05-18 |
+| ![](https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-FR7678507020_400x240.jpg "Sommet paisible, vue éclatante") 2026-05-17 | ![](https://www.bing.com/th?id=OHR.BirchForest_FR-FR7115403118_400x240.jpg "Ô bouleau !") 2026-05-16 | ![](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_400x240.jpg "Le géant des fonds marins") 2026-05-15 |
+| ![](https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676_400x240.jpg "Un voyage dans le temps") 2026-05-14 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
