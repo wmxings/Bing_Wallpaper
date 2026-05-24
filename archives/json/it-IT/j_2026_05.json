@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-05-24",
+    "head_line": "La voce nella roccia",
+    "title": "Parco naturale Tre Cime, Trentino-Alto Adige",
+    "copyright": "© Adisorn Fineday Chutikunakorn/Getty Images",
+    "desc": "La «Giornata europea dei parchi» celebra le aree protette del continente, ricordando la nascita dei primi parchi nazionali europei nel 1909. È anche un invito a riconoscere che molti dei paesaggi più iconici di oggi esistono grazie a una cura costante nel tempo. L’immagine di oggi racconta bene questa eredità: il parco naturale Tre Cime, nel nord Italia.",
+    "image_url": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-05-23",
     "head_line": "Voci del passato?",
     "title": "Tartarughe e farfalle",
