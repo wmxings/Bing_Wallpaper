@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.OtterDay_IT-IT8003946324_UHD.jpg)
-[2026-05-27 Il lato acquaceo della cura Lontra marina, Kachemak Bay, Homer, Alaska, USA(© roclwyr/Getty Images)](https://www.bing.com/th?id=OHR.OtterDay_IT-IT8003946324_UHD.jpg)
-Nella «Giornata mondiale della lontra», questa lontra, qui nelle acque della baia di Kachemak, in Alaska (USA), ci ricorda quanto siano preziose. Affascinanti e vitali per gli ecosistemi, contribuiscono a mantenerli in equilibrio. La ricorrenza, sostenuta dall’Otter Specialist Group (OSG), rete globale impegnata nella tutela di tutte le 14 specie, ne celebra il ruolo essenziale. Giocose e intelligenti, sono anche preziosi indicatori della salute degli ambienti acquatici, oggi minacciati da perdita di habitat e inquinamento.
+![](https://www.bing.com/th?id=OHR.HwaesongFortress_IT-IT4766993604_UHD.jpg)
+[2026-05-28 Estetica e disciplina Antiche mura della fortezza di Hwaseong, Suwon, Corea del Sud(© aomam/Getty Images)](https://www.bing.com/th?id=OHR.HwaesongFortress_IT-IT4766993604_UHD.jpg)
+Quando la notte avvolge Suwon, in Corea del Sud, l’antica muraglia che serpeggia nella città rivela la sua doppia natura. Protezione e armonia finiscono per confondersi, fino a sembrare la stessa cosa. Tra il 1794 e il 1796, sotto il re Jeongjo della dinastia Joseon, nacque la Fortezza di Hwaseong, non solo come difesa, ma come idea di rinnovamento. Un progetto politico e umano insieme, pensato per rendere lo Stato più efficiente e per onorare la memoria del padre del re.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.OtterDay_IT-IT8003946324_400x240.jpg "Il lato acquaceo della cura") 2026-05-27 | ![](https://www.bing.com/th?id=OHR.LupineBloom_IT-IT4470674281_400x240.jpg "Aperitivo naturale?") 2026-05-26 | ![](https://www.bing.com/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_400x240.jpg "La villa dei tempi") 2026-05-25 |
-| ![](https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_400x240.jpg "La voce nella roccia") 2026-05-24 | ![](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_400x240.jpg "Voci del passato?") 2026-05-23 | ![](https://www.bing.com/th?id=OHR.KauehiAtollLagoon_IT-IT9581557315_400x240.jpg "Fragili equilbri") 2026-05-22 |
-| ![](https://www.bing.com/th?id=OHR.SichuanTea_IT-IT6566248519_400x240.jpg "Rituali d'oriente") 2026-05-21 |  |  |
+| ![](https://www.bing.com/th?id=OHR.HwaesongFortress_IT-IT4766993604_400x240.jpg "Estetica e disciplina") 2026-05-28 | ![](https://www.bing.com/th?id=OHR.OtterDay_IT-IT8003946324_400x240.jpg "Il lato acquaceo della cura") 2026-05-27 | ![](https://www.bing.com/th?id=OHR.LupineBloom_IT-IT4470674281_400x240.jpg "Aperitivo naturale?") 2026-05-26 |
+| ![](https://www.bing.com/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_400x240.jpg "La villa dei tempi") 2026-05-25 | ![](https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_400x240.jpg "La voce nella roccia") 2026-05-24 | ![](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_400x240.jpg "Voci del passato?") 2026-05-23 |
+| ![](https://www.bing.com/th?id=OHR.KauehiAtollLagoon_IT-IT9581557315_400x240.jpg "Fragili equilbri") 2026-05-22 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/it-IT/w_2026_05.md) | [2026-04](../archives/wallpaper/it-IT/w_2026_04.md) | [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
