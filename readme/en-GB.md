@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768_UHD.jpg)
-[2026-05-30 Reading between the lines Plains zebra foal in Etosha National Park, Namibia(© Sharon Heald/Nature Picture Library)](https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768_UHD.jpg)
-Etosha National Park, Namibia, is not a place for soft starts, and the plains zebra foal in this image seems to get the memo. In a land this vast—nearly 8,600 square miles of salt pans and grassland—timing is everything, and hesitation is expensive. Lions, spotted hyenas, wild dogs, cheetahs and leopards constantly pressure the herd—especially the youngest—so zebras are born ready. Minutes after arrival, they're upright. Hours later, they're moving.
+![](https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-GB2174930094_UHD.jpg)
+[2026-05-31 Follow the flow Aerial view of Everglades National Park, Florida, United States(© Tetra Images/Getty Images)](https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-GB2174930094_UHD.jpg)
+Wetlands don't shout for attention–they flow quietly, shaping entire landscapes. Few places prove their power like Everglades National Park in the United States. From above, Florida's famous 'River of Grass' unfolds as a vast patchwork of shallow water, sawgrass, mangroves and winding channels, shaped by freshwater slowly flowing south from Lake Okeechobee. It's also the only place on Earth where American alligators and American crocodiles share space, each sticking to their preferred waters.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768_400x240.jpg "Reading between the lines") 2026-05-30 | ![](https://www.bing.com/th?id=OHR.SummitEverest_EN-GB1382419791_400x240.jpg "A 'peak' into history") 2026-05-29 | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-GB7039150905_400x240.jpg "Design meets discipline") 2026-05-28 |
-| ![](https://www.bing.com/th?id=OHR.OtterDay_EN-GB6482423127_400x240.jpg "No 'otter' like them") 2026-05-27 | ![](https://www.bing.com/th?id=OHR.LupineBloom_EN-GB6153888495_400x240.jpg "A season written in lupine") 2026-05-26 | ![](https://www.bing.com/th?id=OHR.HawaMahal2026_EN-GB5975614147_400x240.jpg "A breeze in stone") 2026-05-25 |
-| ![](https://www.bing.com/th?id=OHR.DolomitesPark_EN-GB5776508823_400x240.jpg "Preserving Europe's wild places") 2026-05-24 |  |  |
+| ![](https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-GB2174930094_400x240.jpg "Follow the flow") 2026-05-31 | ![](https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768_400x240.jpg "Reading between the lines") 2026-05-30 | ![](https://www.bing.com/th?id=OHR.SummitEverest_EN-GB1382419791_400x240.jpg "A 'peak' into history") 2026-05-29 |
+| ![](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-GB7039150905_400x240.jpg "Design meets discipline") 2026-05-28 | ![](https://www.bing.com/th?id=OHR.OtterDay_EN-GB6482423127_400x240.jpg "No 'otter' like them") 2026-05-27 | ![](https://www.bing.com/th?id=OHR.LupineBloom_EN-GB6153888495_400x240.jpg "A season written in lupine") 2026-05-26 |
+| ![](https://www.bing.com/th?id=OHR.HawaMahal2026_EN-GB5975614147_400x240.jpg "A breeze in stone") 2026-05-25 |  |  |
 
 # History
 [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
