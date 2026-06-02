@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_UHD.jpg)
-[2026-06-01 L'éclat sicilien Palerme au crépuscule, Sicile, Italie(© Sean Pavone/Getty Images)](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_UHD.jpg)
-Capitale vibrante de la Sicile, en Italie, Palerme se dévoile comme un palimpseste méditerranéen. Fondée par les Phéniciens, puis façonnée par les Romains, les Arabes, les Normands et les Espagnols, la ville porte en elle la mémoire de civilisations entremêlées. Cette histoire se lit encore dans la pierre : palais arabo-normands classés au patrimoine mondial de l’UNESCO, églises aux lignes orientales, façades baroques baignées de lumière.
+![](https://www.bing.com/th?id=OHR.Qinghai_FR-FR8896155512_UHD.jpg)
+[2026-06-02 Nuances de bleu Route nationale 315 traversant le lac Xitai Jinaier, Province du Qinghai, Chine(© Kaicheng Xu/Getty Images)](https://www.bing.com/th?id=OHR.Qinghai_FR-FR8896155512_UHD.jpg)
+Dans les hauts déserts de l’ouest chinois, le lac Xitai Jinaier déploie ses eaux salées au cœur du bassin du Qaidam, traçant un chemin presque irréel. La route nationale 315 longe et traverse certaines parties du lac, comme suspendue, donnant l’étrange sensation de rouler entre deux mondes distincts. Par temps clair, l’horizon tremble légèrement sous l’effet de la chaleur, accentuant l’illusion d’un mirage.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_400x240.jpg "L'éclat sicilien") 2026-06-01 | ![](https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_400x240.jpg "Un lien éternel") 2026-05-31 | ![](https://www.bing.com/th?id=OHR.EquusQuagga_FR-FR5450236947_400x240.jpg "Lire entre les lignes") 2026-05-30 |
-| ![](https://www.bing.com/th?id=OHR.SummitEverest_FR-FR5658913315_400x240.jpg "Le summum de l'histoire de l'alpinisme") 2026-05-29 | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_400x240.jpg "Quand architecture et discipline ne font qu'une") 2026-05-28 | ![](https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_400x240.jpg "Aussi attendrissante qu'essentielle") 2026-05-27 |
-| ![](https://www.bing.com/th?id=OHR.LupineBloom_FR-FR4014773564_400x240.jpg "Marée bleue sur la colline") 2026-05-26 |  |  |
+| ![](https://www.bing.com/th?id=OHR.Qinghai_FR-FR8896155512_400x240.jpg "Nuances de bleu") 2026-06-02 | ![](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_400x240.jpg "L'éclat sicilien") 2026-06-01 | ![](https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_400x240.jpg "Un lien éternel") 2026-05-31 |
+| ![](https://www.bing.com/th?id=OHR.EquusQuagga_FR-FR5450236947_400x240.jpg "Lire entre les lignes") 2026-05-30 | ![](https://www.bing.com/th?id=OHR.SummitEverest_FR-FR5658913315_400x240.jpg "Le summum de l'histoire de l'alpinisme") 2026-05-29 | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_400x240.jpg "Quand architecture et discipline ne font qu'une") 2026-05-28 |
+| ![](https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_400x240.jpg "Aussi attendrissante qu'essentielle") 2026-05-27 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/fr-FR/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
