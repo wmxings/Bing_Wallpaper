@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Qinghai_DE-DE2779615258_UHD.jpg)
-[2026-06-02 Wo der Weg das Wasser teilt Straße durch den Xitai-Jinaier-See, Provinz Qinghai, China(© Kaicheng Xu/Getty Images)](https://www.bing.com/th?id=OHR.Qinghai_DE-DE2779615258_UHD.jpg)
-Wie eine surreal wirkende Linie zieht sich eine Straße durch den Xitai-Jinaier-See im Westen Chinas. Der Salzsee, auch als West Taijinar Lake bekannt, liegt im abgelegenen Qaidam-Becken auf über 2.600 Metern Höhe. Ein Abschnitt der Nationalstraße 315 verläuft direkt durch das seichte Wasser und erzeugt den Eindruck, als würde die Fahrbahn zwischen zwei Farben schweben. Auf der einen Seite schimmert das Wasser tiefblau, auf der anderen in grün‑türkisen Tönen – ein Kontrast, der durch unterschiedliche Mineralkonzentrationen entsteht, etwa durch variierende Salz- und Lithiumgehalte im Wasser.
+![](https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_UHD.jpg)
+[2026-06-03 Wo die Straße endet, beginnt das Abenteuer Radfahrer in den Bardenas Reales, einem Naturpark und Biosphärenreservat in Navarra, Spanien(© Artur Debat/Getty Images)](https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_UHD.jpg)
+Ihr Arbeitsweg mag anders aussehen als die Szene in unserem heutigen Bild – doch auch in Deutschland gehört das Fahrrad längst zum Alltag. Aktuelle Studien zeigen, dass immer mehr Menschen regelmäßig aufs Rad steigen, sei es für den Weg zur Arbeit, kurze Erledigungen oder Ausflüge ins Grüne. Am Weltfahrradtag am 3. Juni geht es darum, Mobilität neu zu denken und vertraute Strecken anders zu erleben.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Qinghai_DE-DE2779615258_400x240.jpg "Wo der Weg das Wasser teilt") 2026-06-02 | ![](https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_400x240.jpg "Geschichten aus Stein und Zeit") 2026-06-01 | ![](https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_400x240.jpg "Gelb, soweit das Auge reicht") 2026-05-31 |
-| ![](https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_400x240.jpg "Zwischen den Streifen lesen") 2026-05-30 | ![](https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129_400x240.jpg "Ein Gipfelmoment der Geschichte") 2026-05-29 | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_400x240.jpg "Form trifft Ordnung") 2026-05-28 |
-| ![](https://www.bing.com/th?id=OHR.OtterDay_DE-DE4262333472_400x240.jpg "Einzigartig auf ihre Art") 2026-05-27 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_400x240.jpg "Wo die Straße endet, beginnt das Abenteuer") 2026-06-03 | ![](https://www.bing.com/th?id=OHR.Qinghai_DE-DE2779615258_400x240.jpg "Wo der Weg das Wasser teilt") 2026-06-02 | ![](https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_400x240.jpg "Geschichten aus Stein und Zeit") 2026-06-01 |
+| ![](https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_400x240.jpg "Gelb, soweit das Auge reicht") 2026-05-31 | ![](https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_400x240.jpg "Zwischen den Streifen lesen") 2026-05-30 | ![](https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129_400x240.jpg "Ein Gipfelmoment der Geschichte") 2026-05-29 |
+| ![](https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_400x240.jpg "Form trifft Ordnung") 2026-05-28 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/de-DE/w_2026_06.md) | [2026-05](../archives/wallpaper/de-DE/w_2026_05.md) | [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
