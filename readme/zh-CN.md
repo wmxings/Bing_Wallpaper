@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg)
-[2026-06-03 路之所止，行之所启 骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙(© Artur Debat/Getty Images)](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg)
-虽然日常的通勤之路或许不像今日画面中那般波澜壮阔，但这并不妨碍我们跨上单车，开始蹬踏。在“世界自行车日”到来之际，联合国向全球发出倡议，邀我们重新审视两轮出行的无限可能——无论是在穿梭于现代都市，还是纵贯于偏远荒原。每年的6月3日，这一由联合国发起的国际纪念日旨在认可自行车作为一种务实的出行方式，在促进公众健康、降低碳排放以及提升交通普惠性方面所发挥的关键作用。
+![](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg)
+[2026-06-04 优雅羽饰 梳理羽毛的雪鹭，佛罗里达州中部，美国(© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg)
+名如其诗，形亦如画。这就是雪鹭（Snowy egret）——通体洁白的羽衣，衬托着黑色长腿下明黄色的“脚掌”，构成了一幅极具视觉冲击力的画面。曾几何时，人类对这种鹭鸟在繁殖季节长出的装饰性婚羽（形似蕾丝般轻柔飘逸的丝状羽毛）有着极大的市场需求，用于点缀时尚女帽。这一嗜好险些让该物种走向灭绝，幸而后续的自然保护行动成功挽救了它们。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_400x240.jpg "路之所止，行之所启") 2026-06-03 | ![](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN7745288142_400x240.jpg "穿行于蓝色之间") 2026-06-02 | ![](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_400x240.jpg "历史的况味") 2026-06-01 |
-| ![](https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_400x240.jpg "顺流而行") 2026-05-31 | ![](https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_400x240.jpg "读懂黑白之间") 2026-05-30 | ![](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_400x240.jpg "巅峰历史时刻") 2026-05-29 |
-| ![](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_400x240.jpg "设计与秩序相结合") 2026-05-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_400x240.jpg "优雅羽饰") 2026-06-04 | ![](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_400x240.jpg "路之所止，行之所启") 2026-06-03 | ![](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN7745288142_400x240.jpg "穿行于蓝色之间") 2026-06-02 |
+| ![](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_400x240.jpg "历史的况味") 2026-06-01 | ![](https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_400x240.jpg "顺流而行") 2026-05-31 | ![](https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_400x240.jpg "读懂黑白之间") 2026-05-30 |
+| ![](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_400x240.jpg "巅峰历史时刻") 2026-05-29 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/zh-CN/w_2026_06.md) | [2026-05](../archives/wallpaper/zh-CN/w_2026_05.md) | [2026-04](../archives/wallpaper/zh-CN/w_2026_04.md) | [2026-03](../archives/wallpaper/zh-CN/w_2026_03.md) | [2026-02](../archives/wallpaper/zh-CN/w_2026_02.md) | [2026-01](../archives/wallpaper/zh-CN/w_2026_01.md)
