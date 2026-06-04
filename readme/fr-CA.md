@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BardenasReales_FR-CA5237684924_UHD.jpg)
-[2026-06-03 Quand on partait de bon matin... Cycliste dans le parc naturel des Bardenas Reales, Navarre, Espagne(© Artur Debat/Getty Images)](https://www.bing.com/th?id=OHR.BardenasReales_FR-CA5237684924_UHD.jpg)
-Votre trajet quotidien n’a sans doute rien à voir avec celui de l’image du jour, mais il mérite tout autant d’être parcouru à vélo. La Journée mondiale de la bicyclette, célébrée chaque 3 juin sous l’égide de l’ONU, invite à repenser nos déplacements : plus sains, moins polluants et accessibles à tous — sur deux roues.
+![](https://www.bing.com/th?id=OHR.PreeningEgret_FR-CA5399816974_UHD.jpg)
+[2026-06-04 D'élégantes plumes Aigrette neigeuse, Floride centrale, États-Unis(© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.PreeningEgret_FR-CA5399816974_UHD.jpg)
+Nom poétique, allure délicate. L’aigrette neigeuse se distingue par son plumage d’un blanc éclatant et ses étonnantes « pantoufles » jaunes, posées au bout de fines pattes noires. Cette apparence gracieuse a bien failli lui coûter cher : au début du XXᵉ siècle, ses plumes nuptiales, très prisées pour les chapeaux, ont mené l’espèce au bord de la disparition.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BardenasReales_FR-CA5237684924_400x240.jpg "Quand on partait de bon matin...") 2026-06-03 | ![](https://www.bing.com/th?id=OHR.Qinghai_FR-CA8995705420_400x240.jpg "Nuances de bleu") 2026-06-02 | ![](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-CA4763720725_400x240.jpg "L'éclat sicilien") 2026-06-01 |
-| ![](https://www.bing.com/th?id=OHR.HumberRiverTrail_FR-CA4592084106_400x240.jpg "Suivez le courant") 2026-05-31 | ![](https://www.bing.com/th?id=OHR.EquusQuagga_FR-CA5183876662_400x240.jpg "Lire entre les lignes") 2026-05-30 | ![](https://www.bing.com/th?id=OHR.SummitEverest_FR-CA5813581014_400x240.jpg "Le summum de l'histoire de l'alpinisme") 2026-05-29 |
-| ![](https://www.bing.com/th?id=OHR.HwaesongFortress_FR-CA2048114002_400x240.jpg "Quand architecture et discipline ne font qu'une") 2026-05-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.PreeningEgret_FR-CA5399816974_400x240.jpg "D'élégantes plumes") 2026-06-04 | ![](https://www.bing.com/th?id=OHR.BardenasReales_FR-CA5237684924_400x240.jpg "Quand on partait de bon matin...") 2026-06-03 | ![](https://www.bing.com/th?id=OHR.Qinghai_FR-CA8995705420_400x240.jpg "Nuances de bleu") 2026-06-02 |
+| ![](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-CA4763720725_400x240.jpg "L'éclat sicilien") 2026-06-01 | ![](https://www.bing.com/th?id=OHR.HumberRiverTrail_FR-CA4592084106_400x240.jpg "Suivez le courant") 2026-05-31 | ![](https://www.bing.com/th?id=OHR.EquusQuagga_FR-CA5183876662_400x240.jpg "Lire entre les lignes") 2026-05-30 |
+| ![](https://www.bing.com/th?id=OHR.SummitEverest_FR-CA5813581014_400x240.jpg "Le summum de l'histoire de l'alpinisme") 2026-05-29 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/fr-CA/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-CA/w_2026_01.md)
