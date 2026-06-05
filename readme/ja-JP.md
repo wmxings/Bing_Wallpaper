@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg)
-[2026-06-05 今日は世界環境デー サーレク国立公園, スウェーデン(© Robert Haasmann/Getty Images)](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg)
-今日 6 月 5 日は「世界環境デー」。環境保全への関心を深めるために、国連が定めた国際デーです。そして、ここはスウェーデンのサーレク国立公園。1909 年に設立されたヨーロッパで最も古い国立公園の一つです。公園内には、約 100 の氷河と、長い時間をかけて形づくられた谷が広がり、ヘラジカやクズリ、絶滅危惧種であるユーラシアオオヤマネコなどの野生動物が生息しています。
+![](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg)
+[2026-06-06 今日は米国の「トレイルデー」 ナチェズ・トレース・パークウェイのトレイル, 米国 ミシシッピ州(© The best photo is earned/Getty Images Plus)](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg)
+今日 6 月 6 日は、米国の「トレイルデー」。米国ハイキング協会主催のイベントで、毎年 6 月の最初の土曜日に行われています。この日は、ハイキングのほか、トレイルの保護や清掃活動が行われます。そして、今日の画像は、ミシシッピ州テュペロ近郊にあるナチェズ・トレース・パークウェイにあるトレイルです。ナチェズ・トレース・パークウェイは、何世紀ものあいだ先住民によって利用され、18 世紀後半から 19 世紀初頭には、ヨーロッパの探検家や商人たちの交易路としても使われてきました。現在は全長約 710km の自動車用道路がメインの公園です。道路は、トラックやツアーバスなどの通行は禁止されているため、ゆったりと自然の景観を楽しむことができます。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_400x240.jpg "今日は世界環境デー") 2026-06-05 | ![](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_400x240.jpg "羽を整える水辺の鳥") 2026-06-04 | ![](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_400x240.jpg "今日は世界自転車デー") 2026-06-03 |
-| ![](https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_400x240.jpg "今日は横浜開港記念日") 2026-06-02 | ![](https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851_400x240.jpg "二つの世界をつなぐ一本道") 2026-06-01 | ![](https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602_400x240.jpg "今日は米国の湿地月間の最終日") 2026-05-31 |
-| ![](https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_400x240.jpg "夕焼けに佇む若いシマウマ") 2026-05-30 |  |  |
+| ![](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_400x240.jpg "今日は米国の「トレイルデー」") 2026-06-06 | ![](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_400x240.jpg "今日は世界環境デー") 2026-06-05 | ![](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_400x240.jpg "羽を整える水辺の鳥") 2026-06-04 |
+| ![](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_400x240.jpg "今日は世界自転車デー") 2026-06-03 | ![](https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_400x240.jpg "今日は横浜開港記念日") 2026-06-02 | ![](https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851_400x240.jpg "二つの世界をつなぐ一本道") 2026-06-01 |
+| ![](https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602_400x240.jpg "今日は米国の湿地月間の最終日") 2026-05-31 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/ja-JP/w_2026_06.md) | [2026-05](../archives/wallpaper/ja-JP/w_2026_05.md) | [2026-04](../archives/wallpaper/ja-JP/w_2026_04.md) | [2026-03](../archives/wallpaper/ja-JP/w_2026_03.md) | [2026-02](../archives/wallpaper/ja-JP/w_2026_02.md) | [2026-01](../archives/wallpaper/ja-JP/w_2026_01.md)
