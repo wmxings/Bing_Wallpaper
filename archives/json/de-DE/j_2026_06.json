@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-06-08",
+    "head_line": "Gleiten im Takt der Wellen",
+    "title": "Gelbe Haarqualle im Ozean",
+    "copyright": "© Alexander Semenov Images/Shutterstock",
+    "desc": "Lassen Sie sich heute treiben! Der Welttag der Ozeane lädt dazu ein, dem Rhythmus des Wassers zu folgen. Ein faszinierender Begleiter dabei ist die Gelbe Haarqualle. Sie gilt als die größte Qualle der Welt und lebt in den kalten Meeren des Nordatlantiks und des Nordpazifiks. Ihr glockenförmiger Schirm besteht aus acht Lappen, darunter hängen dichte Büschel aus langen, haarähnlichen Tentakeln. Mit der Strömung gleitend, ernährt sie sich von Plankton, kleinen Fischen und Krebstieren. In arktischen Regionen können Exemplare einen Schirmdurchmesser von über 1,8 Metern erreichen.",
+    "image_url": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_400x240.jpg",
+    "main_text": "Obwohl sie größtenteils aus Wasser besteht, kann die Gelbe Haarqualle bis zu 36 Meter lang werden – länger als ein Blauwal.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-06-07",
     "head_line": "Ruinen voller Geschichte",
     "title": "Ruine von Dunseverick Castle, County Antrim, Nordirland",
