@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-06-09",
+    "head_line": "Taste the sunset",
+    "title": "Vernazza, Cinque Terre, Liguria, Italy",
+    "copyright": "© Kelly Cheng/Getty Images",
+    "desc": "Vernazza is a small seaside town in Cinque Terre, in Italy's Liguria region. Built around the area's only natural harbour, it has long been tied to the sea. First recorded in 1080 as a fortified settlement and maritime base, it later became part of the Republic of Genoa's coastal defences. To this day, the village preserves its past in the ruins of Doria Castle and the watchtowers overlooking the bay. At the water's edge stands the Church of Santa Margherita d'Antiochia, first mentioned in 1318 and expanded in later centuries, with a bell tower overlooking the port. Above the houses and narrow lanes, steep terraces support vineyards and olive groves, shaped by generations of stonework in a landscape protected within Cinque Terre National Park, part of a UNESCO World Heritage Site. Picture an aperitivo here: a glass of local white wine, the harbour in view and Ligurian favourites like focaccia and basil pesto—basically a postcard you can taste.",
+    "image_url": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-06-08",
     "head_line": "Drift with the current",
     "title": "Lion's mane jellyfish swimming in the ocean",

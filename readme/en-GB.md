@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Cyanea_EN-GB9769682227_UHD.jpg)
-[2026-06-08 Drift with the current Lion's mane jellyfish swimming in the ocean(© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.Cyanea_EN-GB9769682227_UHD.jpg)
-Today is World Oceans Day, so follow the lead of a creature that goes wherever the water takes it. Want to spot a lion's mane jellyfish? Look in cold northern seas. Its bell is split into eight lobes, and beneath it hang long tentacles and oral arms. As it drifts with the current, stinging cells snare plankton and small fish. For humans, the sting can be painful. Reactions vary, and even a washed-up tentacle can still hurt. The rule is simple: admire it, then leave it alone. Some lion's manes in Arctic waters have bells more than 1.8 metres across, but most sightings are smaller animals near shore after storms or strong currents.
+![](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_UHD.jpg)
+[2026-06-09 Taste the sunset Vernazza, Cinque Terre, Liguria, Italy(© Kelly Cheng/Getty Images)](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_UHD.jpg)
+Vernazza is a small seaside town in Cinque Terre, in Italy's Liguria region. Built around the area's only natural harbour, it has long been tied to the sea. First recorded in 1080 as a fortified settlement and maritime base, it later became part of the Republic of Genoa's coastal defences. To this day, the village preserves its past in the ruins of Doria Castle and the watchtowers overlooking the bay. At the water's edge stands the Church of Santa Margherita d'Antiochia, first mentioned in 1318 and expanded in later centuries, with a bell tower overlooking the port. Above the houses and narrow lanes, steep terraces support vineyards and olive groves, shaped by generations of stonework in a landscape protected within Cinque Terre National Park, part of a UNESCO World Heritage Site. Picture an aperitivo here: a glass of local white wine, the harbour in view and Ligurian favourites like focaccia and basil pesto—basically a postcard you can taste.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Cyanea_EN-GB9769682227_400x240.jpg "Drift with the current") 2026-06-08 | ![](https://www.bing.com/th?id=OHR.DunseverickCastle2026_EN-GB9557094817_400x240.jpg "The last wall standing") 2026-06-07 | ![](https://www.bing.com/th?id=OHR.HikingNatchez_EN-GB9388336824_400x240.jpg "Wander often, wonder more") 2026-06-06 |
-| ![](https://www.bing.com/th?id=OHR.WedLapland_EN-GB9256196437_400x240.jpg "The quiet power of an unclaimed world") 2026-06-05 | ![](https://www.bing.com/th?id=OHR.PreeningEgret_EN-GB9120612883_400x240.jpg "Fancy feathers") 2026-06-04 | ![](https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_400x240.jpg "Where the road stops, the ride begins") 2026-06-03 |
-| ![](https://www.bing.com/th?id=OHR.Qinghai_EN-GB8807388585_400x240.jpg "Between the blues") 2026-06-02 |  |  |
+| ![](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_400x240.jpg "Taste the sunset") 2026-06-09 | ![](https://www.bing.com/th?id=OHR.Cyanea_EN-GB9769682227_400x240.jpg "Drift with the current") 2026-06-08 | ![](https://www.bing.com/th?id=OHR.DunseverickCastle2026_EN-GB9557094817_400x240.jpg "The last wall standing") 2026-06-07 |
+| ![](https://www.bing.com/th?id=OHR.HikingNatchez_EN-GB9388336824_400x240.jpg "Wander often, wonder more") 2026-06-06 | ![](https://www.bing.com/th?id=OHR.WedLapland_EN-GB9256196437_400x240.jpg "The quiet power of an unclaimed world") 2026-06-05 | ![](https://www.bing.com/th?id=OHR.PreeningEgret_EN-GB9120612883_400x240.jpg "Fancy feathers") 2026-06-04 |
+| ![](https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_400x240.jpg "Where the road stops, the ride begins") 2026-06-03 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/en-GB/w_2026_06.md) | [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
