@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-06-14",
+    "head_line": "C'est la danse des canards",
+    "title": "Canard colvert",
+    "copyright": "© Philippe Paternolli/Getty Images",
+    "desc": "Au petit matin, le colvert glisse sur l’eau calme tel un pinceau glissant sur une toile. Son plumage chatoyant — tête vert émeraude chez le mâle, robe brun moucheté chez la femelle — capte la lumière naissante. On le croise des marais de Camargue aux canaux urbains d’Amsterdam, fidèle compagnon des paysages aquatiques d’Europe.",
+    "image_url": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_400x240.jpg",
+    "main_text": "Très adaptable, le colvert est l'espèce de canard la plus répandue au monde ; il prospère aussi bien dans les zones humides naturelles que dans les environnements urbains, tels que les parcs.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-06-13",
     "head_line": "Au fil du temps",
     "title": "Coucher de soleil au parc national des Badlands, Dakota du Sud, États-Unis",
