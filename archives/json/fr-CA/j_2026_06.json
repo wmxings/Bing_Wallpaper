@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-06-16",
+    "head_line": "Les gardiennes des récifs",
+    "title": "Un couple de tortues imbriquées près de Seven Mile Beach, Grand Cayman, Îles Caïmans",
+    "copyright": "© Alex Mustard/Nature Picture Library",
+    "desc": "Chaque 16 juin, la Journée mondiale des tortues marines nous invite à contempler ces navigateurs millénaires, présents depuis plus de 100 millions d’années. Leur lenteur n’est qu’apparente : elles parcourent des distances immenses entre zones d’alimentation et plages de ponte. En broutant les herbiers et en régulant les récifs, elles maintiennent l’équilibre d’écosystèmes essentiels à une vie marine foisonnante. Pourtant, leur destin vacille face à la disparition des habitats, au plastique, au réchauffement des océans et aux captures accidentelles.",
+    "image_url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_400x240.jpg",
+    "main_text": "C'est la température du sable dans lequel les œufs de tortues marines incubent qui détermine si les nouveau-nés seront des mâles ou des femelles.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-06-15",
     "head_line": "Le silence des vallées",
     "title": "Parc national des Great Smoky Mountains, Tennessee, États-Unis",
