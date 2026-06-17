@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SevenMileTurtle_ES-ES8939258902_UHD.jpg)
-[2026-06-16 Al ritmo del océano Pareja de tortugas carey cerca de Seven Mile Beach, Gran Caimán, Islas Caimán(© Alex Mustard/Nature Picture Library)](https://www.bing.com/th?id=OHR.SevenMileTurtle_ES-ES8939258902_UHD.jpg)
-El 16 de junio se celebra el Día Mundial de las Tortugas Marinas, una fecha dedicada a la conservación de estos reptiles milenarios. La elección del día rinde homenaje a Archie Carr, biólogo marino considerado uno de los mayores defensores de las tortugas. Su labor impulsó la investigación y la protección de especies amenazadas por la contaminación, la pesca incidental y la pérdida de hábitat. Hoy, esta jornada invita a reflexionar sobre la fragilidad de los océanos y sobre la necesidad de actuar para garantizar su futuro.
+![](https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_UHD.jpg)
+[2026-06-17 Un ascenso de vértigo Carretera Tremola en el paso de San Gotardo, en Airolo, Suiza(© Sandro Bisaro/Getty Images)](https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_UHD.jpg)
+La carretera Tremola, situada en el paso de San Gotardo en Airolo, Suiza, es una de las rutas más emblemáticas de los Alpes. Conserva su trazado histórico de adoquines y una sucesión de curvas cerradas que serpentean por la ladera, ofreciendo una experiencia de conducción única. A lo largo del ascenso, el paisaje combina praderas alpinas, rocas y vistas abiertas que cambian con cada giro.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_ES-ES8939258902_400x240.jpg "Al ritmo del océano") 2026-06-16 | ![](https://www.bing.com/th?id=OHR.ParkEstd_ES-ES8806715182_400x240.jpg "Perfeccionado por el tiempo") 2026-06-15 | ![](https://www.bing.com/th?id=OHR.DuckPond_ES-ES8621996260_400x240.jpg "Belleza flotante") 2026-06-14 |
-| ![](https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_400x240.jpg "Historia en piedra viva") 2026-06-13 | ![](https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_400x240.jpg "Un destello en pleno vuelo") 2026-06-12 | ![](https://www.bing.com/th?id=OHR.Limpets_ES-ES0650754334_400x240.jpg "Fuerza silenciosa") 2026-06-11 |
-| ![](https://www.bing.com/th?id=OHR.Hnausapollur_ES-ES9919226001_400x240.jpg "Un destello azul") 2026-06-10 |  |  |
+| ![](https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_400x240.jpg "Un ascenso de vértigo") 2026-06-17 | ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_ES-ES8939258902_400x240.jpg "Al ritmo del océano") 2026-06-16 | ![](https://www.bing.com/th?id=OHR.ParkEstd_ES-ES8806715182_400x240.jpg "Perfeccionado por el tiempo") 2026-06-15 |
+| ![](https://www.bing.com/th?id=OHR.DuckPond_ES-ES8621996260_400x240.jpg "Belleza flotante") 2026-06-14 | ![](https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_400x240.jpg "Historia en piedra viva") 2026-06-13 | ![](https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_400x240.jpg "Un destello en pleno vuelo") 2026-06-12 |
+| ![](https://www.bing.com/th?id=OHR.Limpets_ES-ES0650754334_400x240.jpg "Fuerza silenciosa") 2026-06-11 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/es-ES/w_2026_06.md) | [2026-05](../archives/wallpaper/es-ES/w_2026_05.md) | [2026-04](../archives/wallpaper/es-ES/w_2026_04.md) | [2026-03](../archives/wallpaper/es-ES/w_2026_03.md) | [2026-02](../archives/wallpaper/es-ES/w_2026_02.md) | [2026-01](../archives/wallpaper/es-ES/w_2026_01.md)
