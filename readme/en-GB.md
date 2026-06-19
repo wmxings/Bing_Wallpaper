@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-GB0811852640_UHD.jpg)
-[2026-06-18 A rock-solid marvel Aerial view of the ruins of Sacsayhuamán, Cusco, Peru(© Creative-Family/Getty Images Plus)](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-GB0811852640_UHD.jpg)
-Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 8 metres tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.
+![](https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_UHD.jpg)
+[2026-06-19 What stands at the edge? La Rocchetta Lighthouse, Piombino, Tuscany, Italy(© StevanZZ/Getty Images)](https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_UHD.jpg)
+Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-GB0811852640_400x240.jpg "A rock-solid marvel") 2026-06-18 | ![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-GB0467957598_400x240.jpg "Twist your way up") 2026-06-17 | ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-GB9965359647_400x240.jpg "Nature's reef keepers") 2026-06-16 |
-| ![](https://www.bing.com/th?id=OHR.ParkEstd_EN-GB0010694750_400x240.jpg "Aged to scenic perfection") 2026-06-15 | ![](https://www.bing.com/th?id=OHR.BadSunset_EN-GB9659525576_400x240.jpg "Layers of change") 2026-06-14 | ![](https://www.bing.com/th?id=OHR.TroopingTheColour2026_EN-GB9412651820_400x240.jpg "Marching to the royal beat") 2026-06-13 |
-| ![](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-GB0400736039_400x240.jpg "A flash in flight") 2026-06-12 |  |  |
+| ![](https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_400x240.jpg "What stands at the edge?") 2026-06-19 | ![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-GB0811852640_400x240.jpg "A rock-solid marvel") 2026-06-18 | ![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-GB0467957598_400x240.jpg "Twist your way up") 2026-06-17 |
+| ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-GB9965359647_400x240.jpg "Nature's reef keepers") 2026-06-16 | ![](https://www.bing.com/th?id=OHR.ParkEstd_EN-GB0010694750_400x240.jpg "Aged to scenic perfection") 2026-06-15 | ![](https://www.bing.com/th?id=OHR.BadSunset_EN-GB9659525576_400x240.jpg "Layers of change") 2026-06-14 |
+| ![](https://www.bing.com/th?id=OHR.TroopingTheColour2026_EN-GB9412651820_400x240.jpg "Marching to the royal beat") 2026-06-13 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/en-GB/w_2026_06.md) | [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
