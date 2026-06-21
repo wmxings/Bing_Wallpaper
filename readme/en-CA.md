@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_UHD.jpg)
-[2026-06-20 An ocean's frozen cathedral Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean(© Steven Kazlowski/Nature Picture Library)](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_UHD.jpg)
-A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg.
+![](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg)
+[2026-06-21 Rooted across generations Red maple leaf, symbol of Canada(© namaki/Getty Images)](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg)
+How many stories can a single day hold? Quite a lot, actually. Today in Canada, National Indigenous Peoples Day celebrates First Nations, Inuit and Métis peoples whose knowledge, traditions and skills have shaped life across the country for thousands of years. The day was officially recognised in 1996 after years of calls from Indigenous organisations and leaders seeking stronger recognition of their cultures and communities.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_400x240.jpg "An ocean's frozen cathedral") 2026-06-20 | ![](https://www.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085_400x240.jpg "Where the light stands") 2026-06-19 | ![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682_400x240.jpg "A rock-solid marvel") 2026-06-18 |
-| ![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_400x240.jpg "Twist your way up") 2026-06-17 | ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_400x240.jpg "Nature's reef keepers") 2026-06-16 | ![](https://www.bing.com/th?id=OHR.ParkEstd_EN-CA5456833657_400x240.jpg "Aged to scenic perfection") 2026-06-15 |
-| ![](https://www.bing.com/th?id=OHR.DuckPond_EN-CA5165691235_400x240.jpg "Drift and paddle") 2026-06-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_400x240.jpg "Rooted across generations") 2026-06-21 | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_400x240.jpg "An ocean's frozen cathedral") 2026-06-20 | ![](https://www.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085_400x240.jpg "Where the light stands") 2026-06-19 |
+| ![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682_400x240.jpg "A rock-solid marvel") 2026-06-18 | ![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_400x240.jpg "Twist your way up") 2026-06-17 | ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_400x240.jpg "Nature's reef keepers") 2026-06-16 |
+| ![](https://www.bing.com/th?id=OHR.ParkEstd_EN-CA5456833657_400x240.jpg "Aged to scenic perfection") 2026-06-15 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/en-CA/w_2026_06.md) | [2026-05](../archives/wallpaper/en-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/en-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/en-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)

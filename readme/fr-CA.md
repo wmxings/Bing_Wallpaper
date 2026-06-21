@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_UHD.jpg)
-[2026-06-20 Sculpté dans la glace Arche naturelle sculptée dans un iceberg, Océan Antarctique(© Steven Kazlowski/Nature Picture Library)](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_UHD.jpg)
-Une arche sculptée de glace surgit des eaux froides de l’océan Austral, le long de la péninsule Antarctique, région particulièrement touchée par le réchauffement climatique. Cette matière figée s’est formée il y a des millénaires, lorsque la neige s’est lentement comprimée pour devenir de la glace. Un jour, sous l’effet de contraintes mécaniques liées à des fractures internes, un fragment de glacier ou de plateforme flottante se détache : ce phénomène, appelé vêlage, donne naissance à un iceberg voyageur.
+![](https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400_UHD.jpg)
+[2026-06-21 Racines et territoires La feuille d'érable rouge, symbole du Canada(© namaki/Getty Images)](https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400_UHD.jpg)
+Combien d’histoires une seule journée peut-elle raconter? Au Canada, le 21 juin en murmure des milliers. À l’aube de l’été, la lumière s’attarde sur les forêts boréales, les lacs miroitants et les vastes plaines, rappelant la présence millénaire des Premières Nations, des Inuits et des Métis.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_400x240.jpg "Sculpté dans la glace") 2026-06-20 | ![](https://www.bing.com/th?id=OHR.IsolaElba_FR-CA6826330322_400x240.jpg "Entre ciel, mer et mémoire") 2026-06-19 | ![](https://www.bing.com/th?id=OHR.Saqsaywaman_FR-CA6074758013_400x240.jpg "Une merveille faite de pierre") 2026-06-18 |
-| ![](https://www.bing.com/th?id=OHR.TremolaRoad_FR-CA5218229801_400x240.jpg "Prêt pour une échappée?") 2026-06-17 | ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_400x240.jpg "Les gardiennes des récifs") 2026-06-16 | ![](https://www.bing.com/th?id=OHR.ParkEstd_FR-CA1676143118_400x240.jpg "Le silence des vallées") 2026-06-15 |
-| ![](https://www.bing.com/th?id=OHR.DuckPond_FR-CA7727491720_400x240.jpg "C'est la danse des canards") 2026-06-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400_400x240.jpg "Racines et territoires") 2026-06-21 | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_400x240.jpg "Sculpté dans la glace") 2026-06-20 | ![](https://www.bing.com/th?id=OHR.IsolaElba_FR-CA6826330322_400x240.jpg "Entre ciel, mer et mémoire") 2026-06-19 |
+| ![](https://www.bing.com/th?id=OHR.Saqsaywaman_FR-CA6074758013_400x240.jpg "Une merveille faite de pierre") 2026-06-18 | ![](https://www.bing.com/th?id=OHR.TremolaRoad_FR-CA5218229801_400x240.jpg "Prêt pour une échappée?") 2026-06-17 | ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_400x240.jpg "Les gardiennes des récifs") 2026-06-16 |
+| ![](https://www.bing.com/th?id=OHR.ParkEstd_FR-CA1676143118_400x240.jpg "Le silence des vallées") 2026-06-15 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/fr-CA/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-CA/w_2026_01.md)
