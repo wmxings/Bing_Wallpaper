@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg)
-[2026-06-21 Rooted across generations Red maple leaf, symbol of Canada(© namaki/Getty Images)](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg)
-How many stories can a single day hold? Quite a lot, actually. Today in Canada, National Indigenous Peoples Day celebrates First Nations, Inuit and Métis peoples whose knowledge, traditions and skills have shaped life across the country for thousands of years. The day was officially recognised in 1996 after years of calls from Indigenous organisations and leaders seeking stronger recognition of their cultures and communities.
+![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-CA8536233053_UHD.jpg)
+[2026-06-22 A lush kingdom Quinault rainforest, Olympic National Park, Washington state, United States(© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-CA8536233053_UHD.jpg)
+June 22 is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_400x240.jpg "Rooted across generations") 2026-06-21 | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_400x240.jpg "An ocean's frozen cathedral") 2026-06-20 | ![](https://www.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085_400x240.jpg "Where the light stands") 2026-06-19 |
-| ![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682_400x240.jpg "A rock-solid marvel") 2026-06-18 | ![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_400x240.jpg "Twist your way up") 2026-06-17 | ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_400x240.jpg "Nature's reef keepers") 2026-06-16 |
-| ![](https://www.bing.com/th?id=OHR.ParkEstd_EN-CA5456833657_400x240.jpg "Aged to scenic perfection") 2026-06-15 |  |  |
+| ![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-CA8536233053_400x240.jpg "A lush kingdom") 2026-06-22 | ![](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_400x240.jpg "Rooted across generations") 2026-06-21 | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_400x240.jpg "An ocean's frozen cathedral") 2026-06-20 |
+| ![](https://www.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085_400x240.jpg "Where the light stands") 2026-06-19 | ![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682_400x240.jpg "A rock-solid marvel") 2026-06-18 | ![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_400x240.jpg "Twist your way up") 2026-06-17 |
+| ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_400x240.jpg "Nature's reef keepers") 2026-06-16 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/en-CA/w_2026_06.md) | [2026-05](../archives/wallpaper/en-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/en-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/en-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
