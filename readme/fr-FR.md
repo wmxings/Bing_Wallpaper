@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_UHD.jpg)
-[2026-06-22 Un royaume humide Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis(© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_UHD.jpg)
-Le 22 juin, la Journée mondiale des forêts tropicales nous invite à protéger ces mondes vivants, principalement présents sous les tropiques, mais ne couvrant qu’environ 6 % des terres émergées. De l’Amazonie au bassin du Congo, jusqu’aux forêts d’Asie du Sud-Est, ces écosystèmes foisonnent de vie et régulent le climat. Leur richesse ne se mesure pas seulement en hectares, mais en chants d’oiseaux, cycles d’eau et équilibres fragiles.
+![](https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414_UHD.jpg)
+[2026-06-23 Empreinte intemporelle à l'horizon Mont Fuji sur l’île de Honshū, Japon(© phutthiseth thongtae/Getty Images)](https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414_UHD.jpg)
+Le mont Fuji, plus haut sommet du Japon, s’élève à 3 776 mètres d’altitude sur l’île de Honshū, à environ 100 km au sud-ouest de Tokyo. Sa silhouette quasi parfaite révèle sa nature volcanique : un géant endormi depuis l’éruption de Hōei en décembre 1707, bien que toujours considéré comme actif. À l’époque, ses cendres avaient recouvert une large partie de l’est du pays, jusqu’à Edo, l’actuelle Tokyo. Aujourd’hui encore, il incarne la rencontre entre forces naturelles puissantes et mémoire collective.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_400x240.jpg "Un royaume humide") 2026-06-22 | ![](https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_400x240.jpg "Tous en chœur !") 2026-06-21 | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_400x240.jpg "Sculpté dans la glace") 2026-06-20 |
-| ![](https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_400x240.jpg "Entre ciel, mer et mémoire") 2026-06-19 | ![](https://www.bing.com/th?id=OHR.Saqsaywaman_FR-FR7364469911_400x240.jpg "Une merveille faite de pierre") 2026-06-18 | ![](https://www.bing.com/th?id=OHR.TremolaRoad_FR-FR5199411184_400x240.jpg "Prêt pour une échappée ?") 2026-06-17 |
-| ![](https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-FR7065841321_400x240.jpg "Les gardiennes des récifs") 2026-06-16 |  |  |
+| ![](https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414_400x240.jpg "Empreinte intemporelle à l'horizon") 2026-06-23 | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_400x240.jpg "Un royaume humide") 2026-06-22 | ![](https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_400x240.jpg "Tous en chœur !") 2026-06-21 |
+| ![](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_400x240.jpg "Sculpté dans la glace") 2026-06-20 | ![](https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_400x240.jpg "Entre ciel, mer et mémoire") 2026-06-19 | ![](https://www.bing.com/th?id=OHR.Saqsaywaman_FR-FR7364469911_400x240.jpg "Une merveille faite de pierre") 2026-06-18 |
+| ![](https://www.bing.com/th?id=OHR.TremolaRoad_FR-FR5199411184_400x240.jpg "Prêt pour une échappée ?") 2026-06-17 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/fr-FR/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)

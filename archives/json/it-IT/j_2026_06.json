@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-06-23",
+    "head_line": "Firma celeste",
+    "title": "Monte Fuji, Honshu, Giappone",
+    "copyright": "© phutthiseth thongtae/Getty Images",
+    "desc": "Il Monte Fuji, la montagna più alta del Giappone, si innalza fino a 3.776 metri sull’isola di Honshu, circa 100 chilometri a sud-ovest di Tokyo. Il suo cono quasi perfetto è uno stratovulcano, inattivo dall’ultima eruzione del dicembre 1707, ma ancora classificato come attivo. Quell’ultimo grande evento è noto come eruzione Hōei. Sparse cenere e altri materiali vulcanici su tutto il Giappone orientale, raggiungendo Edo (l’attuale Tokyo).",
+    "image_url": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-06-22",
     "head_line": "Il richiamo della foresta?",
     "title": "Foresta pluviale di Quinault, parco nazionale Olympic, Washington, USA",
