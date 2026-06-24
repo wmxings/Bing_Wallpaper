@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Fujisan_EN-GB3917508589_UHD.jpg)
-[2026-06-23 Signature on the horizon Mount Fuji on Honshu Island, Japan(© phutthiseth thongtae/Getty Images)](https://www.bing.com/th?id=OHR.Fujisan_EN-GB3917508589_UHD.jpg)
-Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.
+![](https://www.bing.com/th?id=OHR.BFPollin_EN-GB9787494533_UHD.jpg)
+[2026-06-24 Pollen meets wings Butterfly pollinating on yellow flower(© lzh/Getty Images)](https://www.bing.com/th?id=OHR.BFPollin_EN-GB9787494533_UHD.jpg)
+Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Fujisan_EN-GB3917508589_400x240.jpg "Signature on the horizon") 2026-06-23 | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-GB3562324915_400x240.jpg "A lush kingdom") 2026-06-22 | ![](https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_400x240.jpg "Feathered fathers") 2026-06-21 |
-| ![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-GB1807420935_400x240.jpg "An ocean's frozen cathedral") 2026-06-20 | ![](https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_400x240.jpg "What stands at the edge?") 2026-06-19 | ![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-GB0811852640_400x240.jpg "A rock-solid marvel") 2026-06-18 |
-| ![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-GB0467957598_400x240.jpg "Twist your way up") 2026-06-17 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BFPollin_EN-GB9787494533_400x240.jpg "Pollen meets wings") 2026-06-24 | ![](https://www.bing.com/th?id=OHR.Fujisan_EN-GB3917508589_400x240.jpg "Signature on the horizon") 2026-06-23 | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-GB3562324915_400x240.jpg "A lush kingdom") 2026-06-22 |
+| ![](https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_400x240.jpg "Feathered fathers") 2026-06-21 | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-GB1807420935_400x240.jpg "An ocean's frozen cathedral") 2026-06-20 | ![](https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_400x240.jpg "What stands at the edge?") 2026-06-19 |
+| ![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-GB0811852640_400x240.jpg "A rock-solid marvel") 2026-06-18 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/en-GB/w_2026_06.md) | [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
