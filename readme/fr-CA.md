@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BFPollin_FR-CA2925982458_UHD.jpg)
-[2026-06-24 Silence, ça butine! Papillon sur une fleur jaune(© lzh/Getty Images)](https://www.bing.com/th?id=OHR.BFPollin_FR-CA2925982458_UHD.jpg)
-Observer de près un geste minuscule, c’est parfois découvrir tout un univers, comme celui de ce papillon posé sur une fleur jaune, y puisant son nectar. En se nourrissant, il emporte avec lui une fine poussière de pollen qu’il déposera sur une autre corolle. Ce cycle discret permet aux plantes de se reproduire et de perdurer. Les pollinisateurs ne se limitent pas aux abeilles : papillons, oiseaux, chauves-souris et coléoptères participent tous à cet échange vital, soutenant la diversité des plantes sauvages comme celle des fruits et légumes qui garnissent nos assiettes.
+![](https://www.bing.com/th?id=OHR.GrandPlace_FR-CA9674223942_UHD.jpg)
+[2026-06-25 Grande et incontournable Bâtiments sur la Grand-Place de Bruxelles, Belgique(© Vladislav Zolotov/Getty Images Plus)](https://www.bing.com/th?id=OHR.GrandPlace_FR-CA9674223942_UHD.jpg)
+Peu de places en Belgique racontent leur histoire avec autant d’éloquence que la Grand-Place de Bruxelles. Tout autour, la plupart des façades abritaient autrefois des commerces. Brasseurs, boulangers, marchands ou artisans, tous façonnaient la pierre comme un langage, y inscrivant symboles, blasons et dorures pour affirmer leur rang et rivaliser avec leurs voisins. Les styles dialoguent librement : les élans gothiques côtoient les courbes baroques, tandis que l’Hôtel de Ville, plus ancien et asymétrique, semble orchestrer l’ensemble avec assurance.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BFPollin_FR-CA2925982458_400x240.jpg "Silence, ça butine!") 2026-06-24 | ![](https://www.bing.com/th?id=OHR.Fujisan_FR-CA9092514003_400x240.jpg "Empreinte intemporelle à l'horizon") 2026-06-23 | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-CA2183444706_400x240.jpg "Un royaume humide") 2026-06-22 |
-| ![](https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400_400x240.jpg "Racines et territoires") 2026-06-21 | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_400x240.jpg "Sculpté dans la glace") 2026-06-20 | ![](https://www.bing.com/th?id=OHR.IsolaElba_FR-CA6826330322_400x240.jpg "Entre ciel, mer et mémoire") 2026-06-19 |
-| ![](https://www.bing.com/th?id=OHR.Saqsaywaman_FR-CA6074758013_400x240.jpg "Une merveille faite de pierre") 2026-06-18 |  |  |
+| ![](https://www.bing.com/th?id=OHR.GrandPlace_FR-CA9674223942_400x240.jpg "Grande et incontournable") 2026-06-25 | ![](https://www.bing.com/th?id=OHR.BFPollin_FR-CA2925982458_400x240.jpg "Silence, ça butine!") 2026-06-24 | ![](https://www.bing.com/th?id=OHR.Fujisan_FR-CA9092514003_400x240.jpg "Empreinte intemporelle à l'horizon") 2026-06-23 |
+| ![](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-CA2183444706_400x240.jpg "Un royaume humide") 2026-06-22 | ![](https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400_400x240.jpg "Racines et territoires") 2026-06-21 | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_400x240.jpg "Sculpté dans la glace") 2026-06-20 |
+| ![](https://www.bing.com/th?id=OHR.IsolaElba_FR-CA6826330322_400x240.jpg "Entre ciel, mer et mémoire") 2026-06-19 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/fr-CA/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-CA/w_2026_01.md)
