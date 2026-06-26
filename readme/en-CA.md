@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.GrandPlace_EN-CA9367099821_UHD.jpg)
-[2026-06-25 Square up to history Buildings on Grand-Place Square in Brussels, Belgium(© Vladislav Zolotov/Getty Images Plus)](https://www.bing.com/th?id=OHR.GrandPlace_EN-CA9367099821_UHD.jpg)
-Few squares in Belgium wear history as well as the Grand Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants and craftsmen treated architecture as language, translating work, status and rivalry into stone through reliefs, coats of arms and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbours and unapologetically asymmetrical, holds the composition together.
+![](https://www.bing.com/th?id=OHR.ThamesSummer_EN-CA4092680642_UHD.jpg)
+[2026-06-26 Current affairs The River Thames, London, England(© Daniel Lange/Getty Images)](https://www.bing.com/th?id=OHR.ThamesSummer_EN-CA4092680642_UHD.jpg)
+What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.GrandPlace_EN-CA9367099821_400x240.jpg "Square up to history") 2026-06-25 | ![](https://www.bing.com/th?id=OHR.BFPollin_EN-CA9136085313_400x240.jpg "Pollen meets wings") 2026-06-24 | ![](https://www.bing.com/th?id=OHR.Fujisan_EN-CA8841580600_400x240.jpg "Signature on the horizon") 2026-06-23 |
-| ![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-CA8536233053_400x240.jpg "A lush kingdom") 2026-06-22 | ![](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_400x240.jpg "Rooted across generations") 2026-06-21 | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_400x240.jpg "An ocean's frozen cathedral") 2026-06-20 |
-| ![](https://www.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085_400x240.jpg "Where the light stands") 2026-06-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ThamesSummer_EN-CA4092680642_400x240.jpg "Current affairs") 2026-06-26 | ![](https://www.bing.com/th?id=OHR.GrandPlace_EN-CA9367099821_400x240.jpg "Square up to history") 2026-06-25 | ![](https://www.bing.com/th?id=OHR.BFPollin_EN-CA9136085313_400x240.jpg "Pollen meets wings") 2026-06-24 |
+| ![](https://www.bing.com/th?id=OHR.Fujisan_EN-CA8841580600_400x240.jpg "Signature on the horizon") 2026-06-23 | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-CA8536233053_400x240.jpg "A lush kingdom") 2026-06-22 | ![](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_400x240.jpg "Rooted across generations") 2026-06-21 |
+| ![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_400x240.jpg "An ocean's frozen cathedral") 2026-06-20 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/en-CA/w_2026_06.md) | [2026-05](../archives/wallpaper/en-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/en-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/en-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
