@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-GB1950063282_UHD.jpg)
-[2026-06-29 Born on fire, held by water Bora Bora and its lagoon, South Pacific, French Polynesia(© Frederick Millett/Shutterstock)](https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-GB1950063282_UHD.jpg)
-Observed each 29 June, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.
+![](https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-GB8702520320_UHD.jpg)
+[2026-06-30 Where shadows stretch tall Giraffes in the Masai Mara National Reserve, Kenya(© danm/Getty Images)](https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-GB8702520320_UHD.jpg)
+As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 580 square miles in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-GB1950063282_400x240.jpg "Born on fire, held by water") 2026-06-29 | ![](https://www.bing.com/th?id=OHR.SaguaroSun_EN-GB1588043989_400x240.jpg "Looking sharp") 2026-06-28 | ![](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-GB1157661849_400x240.jpg "The trees that lost ground") 2026-06-27 |
-| ![](https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004_400x240.jpg "Current affairs") 2026-06-26 | ![](https://www.bing.com/th?id=OHR.GrandPlace_EN-GB4788838849_400x240.jpg "Square up to history") 2026-06-25 | ![](https://www.bing.com/th?id=OHR.BFPollin_EN-GB9787494533_400x240.jpg "Pollen meets wings") 2026-06-24 |
-| ![](https://www.bing.com/th?id=OHR.Fujisan_EN-GB3917508589_400x240.jpg "Signature on the horizon") 2026-06-23 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-GB8702520320_400x240.jpg "Where shadows stretch tall") 2026-06-30 | ![](https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-GB1950063282_400x240.jpg "Born on fire, held by water") 2026-06-29 | ![](https://www.bing.com/th?id=OHR.SaguaroSun_EN-GB1588043989_400x240.jpg "Looking sharp") 2026-06-28 |
+| ![](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-GB1157661849_400x240.jpg "The trees that lost ground") 2026-06-27 | ![](https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004_400x240.jpg "Current affairs") 2026-06-26 | ![](https://www.bing.com/th?id=OHR.GrandPlace_EN-GB4788838849_400x240.jpg "Square up to history") 2026-06-25 |
+| ![](https://www.bing.com/th?id=OHR.BFPollin_EN-GB9787494533_400x240.jpg "Pollen meets wings") 2026-06-24 |  |  |
 
 # History
 [2026-06](../archives/wallpaper/en-GB/w_2026_06.md) | [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
