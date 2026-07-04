@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-04",
+    "head_line": "The story continues",
+    "title": "Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania",
+    "copyright": "© f11photo/Shutterstock",
+    "desc": "Today, the United States marks 250 years since the adoption of the Declaration of Independence—a milestone known as the 'semiquincentennial.' This anniversary commemorates 1776, when the Declaration articulated the idea that a nation could be defined by shared principles rather than inherited rule. Two and a half centuries later, this date is marked not only as an anniversary but also as an opportunity to reflect on the nation's long and evolving story.",
+    "image_url": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_400x240.jpg",
+    "main_text": "Most of the Declaration's signers did not sign it on July 4, but nearly a month later—primarily on August 2, 1776.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-07-03",
     "head_line": "The poetry of vanishing light",
     "title": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
