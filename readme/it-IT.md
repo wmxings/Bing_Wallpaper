@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.FirefliesJapan_IT-IT1298859269_UHD.jpg)
-[2026-07-03 La poesia della luce che svanisce Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone(© tdub303/Getty Images)](https://www.bing.com/th?id=OHR.FirefliesJapan_IT-IT1298859269_UHD.jpg)
-Nella prefettura di Okayama, in Giappone, le lucciole «hotaru» trasformano i ruscelli in un cielo stellato sospeso tra acqua e aria.
+![](https://www.bing.com/th?id=OHR.TempleEsna_IT-IT9484438188_UHD.jpg)
+[2026-07-04 All'interno dell'universo sacro di Esna Soffitto del Tempio di Khnum ad Esna, Egitto(© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.TempleEsna_IT-IT9484438188_UHD.jpg)
+Nel Tempio di Khnum ad Esna, in Egitto, si entra in un universo dove arte, mito e cielo si intrecciano in modo sorprendente. Dedicato al dio dalla testa d’ariete che, secondo la tradizione, plasmava l’umanità con l’argilla del Nilo, il santuario custodisce una sala sostenuta da ventiquattro colonne monumentali, ricche di rilievi e iscrizioni sacre.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.FirefliesJapan_IT-IT1298859269_400x240.jpg "La poesia della luce che svanisce") 2026-07-03 | ![](https://www.bing.com/th?id=OHR.SienaPalioToscana_IT-IT6720555051_400x240.jpg "Una corsa fra contrade") 2026-07-02 | ![](https://www.bing.com/th?id=OHR.DungeonPark_IT-IT0964634478_400x240.jpg "Canada, scolpito dall'Atlantico") 2026-07-01 |
-| ![](https://www.bing.com/th?id=OHR.MasaiGiraffe_IT-IT8100161271_400x240.jpg "La vista dalla cima è meravigliosa") 2026-06-30 | ![](https://www.bing.com/th?id=OHR.SanPietroPaolo_IT-IT6089431696_400x240.jpg "Notte della Girandola") 2026-06-29 | ![](https://www.bing.com/th?id=OHR.SaguaroSun_IT-IT8055685927_400x240.jpg "Pieni di spine, ma belli!") 2026-06-28 |
-| ![](https://www.bing.com/th?id=OHR.BoneyardBeach_IT-IT9837372965_400x240.jpg "Gli alberi che hanno perso terreno") 2026-06-27 |  |  |
+| ![](https://www.bing.com/th?id=OHR.TempleEsna_IT-IT9484438188_400x240.jpg "All'interno dell'universo sacro di Esna") 2026-07-04 | ![](https://www.bing.com/th?id=OHR.FirefliesJapan_IT-IT1298859269_400x240.jpg "La poesia della luce che svanisce") 2026-07-03 | ![](https://www.bing.com/th?id=OHR.SienaPalioToscana_IT-IT6720555051_400x240.jpg "Una corsa fra contrade") 2026-07-02 |
+| ![](https://www.bing.com/th?id=OHR.DungeonPark_IT-IT0964634478_400x240.jpg "Canada, scolpito dall'Atlantico") 2026-07-01 | ![](https://www.bing.com/th?id=OHR.MasaiGiraffe_IT-IT8100161271_400x240.jpg "La vista dalla cima è meravigliosa") 2026-06-30 | ![](https://www.bing.com/th?id=OHR.SanPietroPaolo_IT-IT6089431696_400x240.jpg "Notte della Girandola") 2026-06-29 |
+| ![](https://www.bing.com/th?id=OHR.SaguaroSun_IT-IT8055685927_400x240.jpg "Pieni di spine, ma belli!") 2026-06-28 |  |  |
 
 # History
 [2026-07](../archives/wallpaper/it-IT/w_2026_07.md) | [2026-06](../archives/wallpaper/it-IT/w_2026_06.md) | [2026-05](../archives/wallpaper/it-IT/w_2026_05.md) | [2026-04](../archives/wallpaper/it-IT/w_2026_04.md) | [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
