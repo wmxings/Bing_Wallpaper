@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-09",
+    "head_line": "Tradition in every step",
+    "title": "Rice fields at Sapa, Lào Cai, Vietnam",
+    "copyright": "© Anujak Jaimook/Getty Images",
+    "desc": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
+    "image_url": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-07-08",
     "head_line": "Echoes of a volcanic past",
     "title": "Lake Atitlán, Guatemala",
