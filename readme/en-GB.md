@@ -1,14 +1,14 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_UHD.jpg)
-[2026-07-09 Tradition in every step Rice fields at Sapa, Lào Cai, Vietnam(© Anujak Jaimook/Getty Images)](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB1434771886_UHD.jpg)
+[2026-07-09 Tradition in every step Rice fields at Sapa, Lào Cai, Vietnam(© Anujak Jaimook/Getty Images)](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB1434771886_UHD.jpg)
 Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_400x240.jpg "Tradition in every step") 2026-07-09 | ![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_400x240.jpg "Echoes of a volcanic past") 2026-07-08 | ![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-GB2911291133_400x240.jpg "Colour, craft and canopy life") 2026-07-07 |
+| ![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB1434771886_400x240.jpg "Tradition in every step") 2026-07-09 | ![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_400x240.jpg "Echoes of a volcanic past") 2026-07-08 | ![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-GB2911291133_400x240.jpg "Colour, craft and canopy life") 2026-07-07 |
 | ![](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-GB9688094986_400x240.jpg "A city written in centuries") 2026-07-06 | ![](https://www.bing.com/th?id=OHR.LavenderRows_EN-GB8618053489_400x240.jpg "Sea of purple") 2026-07-05 | ![](https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_400x240.jpg "London under a rainbow") 2026-07-04 |
 | ![](https://www.bing.com/th?id=OHR.FirefliesJapan_EN-GB8401520779_400x240.jpg "The poetry of vanishing light") 2026-07-03 |  |  |
 

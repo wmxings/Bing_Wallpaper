@@ -1,14 +1,14 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA7611397487_UHD.jpg)
-[2026-07-09 Tradition in every step Rice fields at Sapa, Lào Cai, Vietnam(© Anujak Jaimook/Getty Images)](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA7611397487_UHD.jpg)
-Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.
+![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597_UHD.jpg)
+[2026-07-09 Tradition in every step Rice fields at Sapa, Lào Cai, Vietnam(© Anujak Jaimook/Getty Images)](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597_UHD.jpg)
+The morning mist begins to lift as sunlight cuts through, revealing rows of green terraces climbing the mountainsides. Soon, the sound of running water and farm work replaces the silence. This is a familiar scene in Sapa, northern Vietnam, where generations of ethnic communities have shaped steep hills into rice fields that continue to support local families today. Using knowledge refined over centuries, farmers in Lào Cai province built terraces that slow water flowing downhill, helping to protect the soil while creating space to grow rice in challenging terrain.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA7611397487_400x240.jpg "Tradition in every step") 2026-07-09 | ![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA6427862489_400x240.jpg "Echoes of a volcanic past") 2026-07-08 | ![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_400x240.jpg "Colour, craft and canopy life") 2026-07-07 |
+| ![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597_400x240.jpg "Tradition in every step") 2026-07-09 | ![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA6427862489_400x240.jpg "Echoes of a volcanic past") 2026-07-08 | ![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_400x240.jpg "Colour, craft and canopy life") 2026-07-07 |
 | ![](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-CA4724586582_400x240.jpg "A city written in centuries") 2026-07-06 | ![](https://www.bing.com/th?id=OHR.LavenderRows_EN-CA8245005019_400x240.jpg "Sea of purple") 2026-07-05 | ![](https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627_400x240.jpg "This is your detour") 2026-07-04 |
 | ![](https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414_400x240.jpg "The poetry of vanishing light") 2026-07-03 |  |  |
 
