@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_UHD.jpg)
-[2026-07-15 Des racines et des zestes Jeune requin-citron dans la mangrove, Eleuthera, Bahamas(© Shane Gross/Nature Picture Library)](https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_UHD.jpg)
-Dans les eaux peu profondes d’Eleuthera, aux Bahamas, un jeune requin-citron glisse entre les racines entrelacées des mangroves. Ici, la lumière danse à la surface tandis que l’eau tiède filtre doucement entre ces arbres étonnants, dont les racines offrent un refuge à d’innombrables poissons, crustacés et juvéniles marins.
+![](https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_UHD.jpg)
+[2026-07-16 Sieste estivale Cerf sika dans l’herbe, parc de Merlet, Haute-Savoie(© porojnicu/Getty Images)](https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_UHD.jpg)
+Perché à 1 563 mètres d'altitude au-dessus de Chamonix, le parc Merlet abrite une espèce venue d'Asie de l'Est : le cerf sika (Cervus nippon), introduit en Europe à la fin du XIXᵉ siècle à des fins d'élevage et d'agrément.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_400x240.jpg "Des racines et des zestes") 2026-07-15 | ![](https://www.bing.com/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722_400x240.jpg "Allons, enfants sur le parvis") 2026-07-14 | ![](https://www.bing.com/th?id=OHR.NavajoSandstone_FR-FR2547131354_400x240.jpg "Ondes minérales") 2026-07-13 |
-| ![](https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-FR2337328139_400x240.jpg "Le côté sauvage du Maine") 2026-07-12 | ![](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_400x240.jpg "Niché au creux du Loc'h") 2026-07-11 | ![](https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_400x240.jpg "Le pays des rivages mouvants") 2026-07-10 |
-| ![](https://www.bing.com/th?id=OHR.SapaVietnam_FR-FR9797558235_400x240.jpg "Une autre montée des marches") 2026-07-09 |  |  |
+| ![](https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_400x240.jpg "Sieste estivale") 2026-07-16 | ![](https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_400x240.jpg "Des racines et des zestes") 2026-07-15 | ![](https://www.bing.com/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722_400x240.jpg "Allons, enfants sur le parvis") 2026-07-14 |
+| ![](https://www.bing.com/th?id=OHR.NavajoSandstone_FR-FR2547131354_400x240.jpg "Ondes minérales") 2026-07-13 | ![](https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-FR2337328139_400x240.jpg "Le côté sauvage du Maine") 2026-07-12 | ![](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_400x240.jpg "Niché au creux du Loc'h") 2026-07-11 |
+| ![](https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_400x240.jpg "Le pays des rivages mouvants") 2026-07-10 |  |  |
 
 # History
 [2026-07](../archives/wallpaper/fr-FR/w_2026_07.md) | [2026-06](../archives/wallpaper/fr-FR/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
