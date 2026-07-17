@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.NavyPier_PT-BR4218227814_UHD.jpg)
-[2026-07-16 Um cais camaleônico Navy Pier, Chicago, Illinois, Estados Unidos(© Christopher.F Photography/Getty Images)](https://www.bing.com/th?id=OHR.NavyPier_PT-BR4218227814_UHD.jpg)
-O Navy Pier, em Chicago, tem um currículo que poucos lugares conseguem igualar. Avançando mais de 1 quilômetro sobre as águas do Lago Michigan, ele foi inaugurado em 1916 como um dos maiores píeres do mundo. Recebia cargas, passageiros e atividades de lazer em uma cidade que crescia diante de um dos Grandes Lagos.
+![](https://www.bing.com/th?id=OHR.HirundoRustica_PT-BR5068728715_UHD.jpg)
+[2026-07-17 Pequenas viajantes, grandes distâncias Andorinhas-das-chaminés de diferentes subespécies pousadas juntas(© Oscar Dominguez/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HirundoRustica_PT-BR5068728715_UHD.jpg)
+Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.NavyPier_PT-BR4218227814_400x240.jpg "Um cais camaleônico") 2026-07-16 | ![](https://www.bing.com/th?id=OHR.Tanager_PT-BR3453059902_400x240.jpg "Sete cores, zero discrição") 2026-07-15 | ![](https://www.bing.com/th?id=OHR.LemonShark_PT-BR3191818241_400x240.jpg "O mar em modo incubadora") 2026-07-14 |
-| ![](https://www.bing.com/th?id=OHR.NavajoSandstone_PT-BR2813210432_400x240.jpg "A pedra que aprendeu a fluir") 2026-07-13 | ![](https://www.bing.com/th?id=OHR.KatahdinWWNM_PT-BR2485169040_400x240.jpg "Zero barras, mil estrelas") 2026-07-12 | ![](https://www.bing.com/th?id=OHR.AurayBrittany_PT-BR2396626414_400x240.jpg "A cidade que ancorou no tempo") 2026-07-11 |
-| ![](https://www.bing.com/th?id=OHR.VictoriaBeach_PT-BR0308396736_400x240.jpg "A arte lenta das marés") 2026-07-10 |  |  |
+| ![](https://www.bing.com/th?id=OHR.HirundoRustica_PT-BR5068728715_400x240.jpg "Pequenas viajantes, grandes distâncias") 2026-07-17 | ![](https://www.bing.com/th?id=OHR.NavyPier_PT-BR4218227814_400x240.jpg "Um cais camaleônico") 2026-07-16 | ![](https://www.bing.com/th?id=OHR.Tanager_PT-BR3453059902_400x240.jpg "Sete cores, zero discrição") 2026-07-15 |
+| ![](https://www.bing.com/th?id=OHR.LemonShark_PT-BR3191818241_400x240.jpg "O mar em modo incubadora") 2026-07-14 | ![](https://www.bing.com/th?id=OHR.NavajoSandstone_PT-BR2813210432_400x240.jpg "A pedra que aprendeu a fluir") 2026-07-13 | ![](https://www.bing.com/th?id=OHR.KatahdinWWNM_PT-BR2485169040_400x240.jpg "Zero barras, mil estrelas") 2026-07-12 |
+| ![](https://www.bing.com/th?id=OHR.AurayBrittany_PT-BR2396626414_400x240.jpg "A cidade que ancorou no tempo") 2026-07-11 |  |  |
 
 # History
 [2026-07](../archives/wallpaper/pt-BR/w_2026_07.md) | [2026-06](../archives/wallpaper/pt-BR/w_2026_06.md) | [2026-05](../archives/wallpaper/pt-BR/w_2026_05.md) | [2026-04](../archives/wallpaper/pt-BR/w_2026_04.md) | [2026-03](../archives/wallpaper/pt-BR/w_2026_03.md) | [2026-02](../archives/wallpaper/pt-BR/w_2026_02.md) | [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
