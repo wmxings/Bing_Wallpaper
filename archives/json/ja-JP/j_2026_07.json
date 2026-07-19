@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-20",
+    "head_line": "今日は国際月の日",
+    "title": "月から見た地球",
+    "copyright": "© NASA",
+    "desc": "今日、7 月 20 日は「国際月の日」。1969 年にアポロ 11 号の乗組員が、人類初の月面着陸を行った日です。2021 年に国連総会の決議により採択されたもので、月探査のこれまでの成果や、将来の探査・国際協力に向けた取り組みへの理解を深める日です。そして、今日の画像は月から眺めた地球。クレーターに覆われた月から見ることで、逆に地球が「三日月」のように見えています。月のこの荒涼とした風景は、数十億年にわたる隕石の衝突によって形づくられたもので、人類が誕生する以前からの太陽系の歴史を今に伝えています。",
+    "image_url": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_400x240.jpg",
+    "main_text": "月の引力は遠くにあるにもかかわらず地球の海水を引き寄せ、1日におよそ2回の満潮と干潮を生み出しています。",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-07-19",
     "head_line": "枯れ草にとまる小鳥の群れ",
     "title": "ツバメ",
