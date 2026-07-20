@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-20",
+    "head_line": "The lunar perspective",
+    "title": "Moon and Earth captured by the Artemis II crew",
+    "copyright": "© NASA",
+    "desc": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+    "image_url": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_400x240.jpg",
+    "main_text": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-07-19",
     "head_line": "Wings at rest",
     "title": "Barn swallows of different subspecies resting together",

@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-20",
+    "head_line": "Aus der Perspektive des Mondes",
+    "title": "Mond und Erde, aufgenommen von der Artemis-II-Crew",
+    "copyright": "© NASA",
+    "desc": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.",
+    "image_url": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_400x240.jpg",
+    "main_text": "Der Mond rotiert mit derselben Geschwindigkeit um seine eigene Achse, mit der er die Erde umkreist. Deshalb sehen wir von der Erde aus immer dieselbe Seite des Mondes.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-07-19",
     "head_line": "Moment der Ruhe",
     "title": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
