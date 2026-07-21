@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_UHD.jpg)
-[2026-07-20 Aus der Perspektive des Mondes Mond und Erde, aufgenommen von der Artemis-II-Crew(© NASA)](https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_UHD.jpg)
-Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.
+![](https://www.bing.com/th?id=OHR.SantaCatalina_DE-DE7681660306_UHD.jpg)
+[2026-07-21 Offenbar gut verborgen Arco de Santa Catalina in Antigua, Guatemala(© Filippo Maria Bianchi/Getty Images)](https://www.bing.com/th?id=OHR.SantaCatalina_DE-DE7681660306_UHD.jpg)
+Der Arco de Santa Catalina in Antigua in Guatemala gehört zu den bekanntesten Motiven Mittelamerikas und wirkt zugleich still und präsent im Stadtbild. Bei Sonnenaufgang leuchtet seine gelbe Fassade über den Kopfsteinpflastern und lenkt den Blick entlang der Straße bis zum Vulkan Agua am Horizont. Ursprünglich im 17. Jahrhundert errichtet, diente der Bogen einem ganz praktischen Zweck. Ordensfrauen konnten zwischen zwei Klostergebäuden wechseln, ohne von außen gesehen zu werden. Aus einer Lösung für Abgeschiedenheit entstand so ein Wahrzeichen von großer Anziehungskraft.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_400x240.jpg "Aus der Perspektive des Mondes") 2026-07-20 | ![](https://www.bing.com/th?id=OHR.HirundoRustica_DE-DE7127271974_400x240.jpg "Moment der Ruhe") 2026-07-19 | ![](https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445_400x240.jpg "Die perfekte Illusion") 2026-07-18 |
-| ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952_400x240.jpg "Karibik-Flair im Mittelmeer") 2026-07-17 | ![](https://www.bing.com/th?id=OHR.NavyPier_DE-DE6672447932_400x240.jpg "Ein Wahrzeichen Chicagos") 2026-07-16 | ![](https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_400x240.jpg "Die Belohnung nach der Wanderung") 2026-07-15 |
-| ![](https://www.bing.com/th?id=OHR.LemonShark_DE-DE6087754416_400x240.jpg "Könige der Meere") 2026-07-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SantaCatalina_DE-DE7681660306_400x240.jpg "Offenbar gut verborgen") 2026-07-21 | ![](https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_400x240.jpg "Aus der Perspektive des Mondes") 2026-07-20 | ![](https://www.bing.com/th?id=OHR.HirundoRustica_DE-DE7127271974_400x240.jpg "Moment der Ruhe") 2026-07-19 |
+| ![](https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445_400x240.jpg "Die perfekte Illusion") 2026-07-18 | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952_400x240.jpg "Karibik-Flair im Mittelmeer") 2026-07-17 | ![](https://www.bing.com/th?id=OHR.NavyPier_DE-DE6672447932_400x240.jpg "Ein Wahrzeichen Chicagos") 2026-07-16 |
+| ![](https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_400x240.jpg "Die Belohnung nach der Wanderung") 2026-07-15 |  |  |
 
 # History
 [2026-07](../archives/wallpaper/de-DE/w_2026_07.md) | [2026-06](../archives/wallpaper/de-DE/w_2026_06.md) | [2026-05](../archives/wallpaper/de-DE/w_2026_05.md) | [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)

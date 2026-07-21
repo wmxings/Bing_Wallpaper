@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.Artemis_IT-IT9087187961_UHD.jpg)
-[2026-07-20 L'altro lato della luna Luna e Terra catturate dall'equipaggio di Artemis II(© NASA)](https://www.bing.com/th?id=OHR.Artemis_IT-IT9087187961_UHD.jpg)
-Sulla superficie craterizzata della Luna, la Terra appare come una sottile falce luminosa sospesa nel buio: una prospettiva rara catturata dall'equipaggio della missione Artemis II, la prima missione con astronauti a circumnavigare la Luna dopo il programma Apollo
+![](https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_UHD.jpg)
+[2026-07-21 Senza entrare in strada L'Arco di Santa Catalina, Antigua, Guatemala(© Filippo Maria Bianchi/Getty Images)](https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_UHD.jpg)
+All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.Artemis_IT-IT9087187961_400x240.jpg "L'altro lato della luna") 2026-07-20 | ![](https://www.bing.com/th?id=OHR.HirundoRustica_IT-IT8852691530_400x240.jpg "Ali a riposo") 2026-07-19 | ![](https://www.bing.com/th?id=OHR.FestaVenezia_IT-IT8709585056_400x240.jpg "L'isola colorata di Venezia") 2026-07-18 |
-| ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_IT-IT8454370780_400x240.jpg "Hellas e Geometria") 2026-07-17 | ![](https://www.bing.com/th?id=OHR.NavyPier_IT-IT8293754052_400x240.jpg "Divertimento sul molo") 2026-07-16 | ![](https://www.bing.com/th?id=OHR.MarieLake_IT-IT8390636002_400x240.jpg "La ricompensa dopo la scalata") 2026-07-15 |
-| ![](https://www.bing.com/th?id=OHR.LemonShark_IT-IT7940960388_400x240.jpg "Cerco limoni") 2026-07-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_400x240.jpg "Senza entrare in strada") 2026-07-21 | ![](https://www.bing.com/th?id=OHR.Artemis_IT-IT9087187961_400x240.jpg "L'altro lato della luna") 2026-07-20 | ![](https://www.bing.com/th?id=OHR.HirundoRustica_IT-IT8852691530_400x240.jpg "Ali a riposo") 2026-07-19 |
+| ![](https://www.bing.com/th?id=OHR.FestaVenezia_IT-IT8709585056_400x240.jpg "L'isola colorata di Venezia") 2026-07-18 | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_IT-IT8454370780_400x240.jpg "Hellas e Geometria") 2026-07-17 | ![](https://www.bing.com/th?id=OHR.NavyPier_IT-IT8293754052_400x240.jpg "Divertimento sul molo") 2026-07-16 |
+| ![](https://www.bing.com/th?id=OHR.MarieLake_IT-IT8390636002_400x240.jpg "La ricompensa dopo la scalata") 2026-07-15 |  |  |
 
 # History
 [2026-07](../archives/wallpaper/it-IT/w_2026_07.md) | [2026-06](../archives/wallpaper/it-IT/w_2026_06.md) | [2026-05](../archives/wallpaper/it-IT/w_2026_05.md) | [2026-04](../archives/wallpaper/it-IT/w_2026_04.md) | [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)

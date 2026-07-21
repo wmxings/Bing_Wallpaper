@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-21",
+    "head_line": "Senza entrare in strada",
+    "title": "L'Arco di Santa Catalina, Antigua, Guatemala",
+    "copyright": "© Filippo Maria Bianchi/Getty Images",
+    "desc": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
+    "image_url": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-07-20",
     "head_line": "L'altro lato della luna",
     "title": "Luna e Terra catturate dall'equipaggio di Artemis II",
