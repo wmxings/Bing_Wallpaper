@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.CoralAwareness_FR-FR4288203085_UHD.jpg)
-[2026-07-22 Petite empreinte, récif vivant Récif corallien et plage de Raja Ampat, Indonésie(© SergeUWPhoto/Shutterstock)](https://www.bing.com/th?id=OHR.CoralAwareness_FR-FR4288203085_UHD.jpg)
-Imaginez une ville construite par des animaux, brillante sous le soleil et grouillante de vie sous les vagues. C’est un récif corallien. Pendant la Semaine de sensibilisation aux récifs coralliens, nous célébrons ces écosystèmes extraordinaires et les innombrables espèces qui en dépendent.
+![](https://www.bing.com/th?id=OHR.PinkDahlia_FR-FR6134462708_UHD.jpg)
+[2026-07-23 La symphonie des pétales Dahlia rose(© Harald Biebel/Getty Images)](https://www.bing.com/th?id=OHR.PinkDahlia_FR-FR6134462708_UHD.jpg)
+Dans un jardin d’été, le dahlia rose capte aussitôt le regard. Originaire du Mexique, cette fleur de la famille des astéracées impose sa présence avec ses pétales ordonnés et ses formes presque infinies. Des variétés miniatures aux fleurs dépassant parfois trente centimètres, le dahlia doit cette diversité à une particularité génétique rare : il possède huit jeux de chromosomes, d’où la richesse de ses couleurs et de ses silhouettes.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.CoralAwareness_FR-FR4288203085_400x240.jpg "Petite empreinte, récif vivant") 2026-07-22 | ![](https://www.bing.com/th?id=OHR.SantaCatalina_FR-FR5835984495_400x240.jpg "L'arche qui cache") 2026-07-21 | ![](https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_400x240.jpg "Une perspective lunaire") 2026-07-20 |
-| ![](https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_400x240.jpg "Ailes de repos") 2026-07-19 | ![](https://www.bing.com/th?id=OHR.DevilsBridge_FR-FR5259113427_400x240.jpg "La boucle du temps") 2026-07-18 | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-FR3414218342_400x240.jpg "Quand l'évasion rime avec préservation") 2026-07-17 |
-| ![](https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_400x240.jpg "Sieste estivale") 2026-07-16 |  |  |
+| ![](https://www.bing.com/th?id=OHR.PinkDahlia_FR-FR6134462708_400x240.jpg "La symphonie des pétales") 2026-07-23 | ![](https://www.bing.com/th?id=OHR.CoralAwareness_FR-FR4288203085_400x240.jpg "Petite empreinte, récif vivant") 2026-07-22 | ![](https://www.bing.com/th?id=OHR.SantaCatalina_FR-FR5835984495_400x240.jpg "L'arche qui cache") 2026-07-21 |
+| ![](https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_400x240.jpg "Une perspective lunaire") 2026-07-20 | ![](https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_400x240.jpg "Ailes de repos") 2026-07-19 | ![](https://www.bing.com/th?id=OHR.DevilsBridge_FR-FR5259113427_400x240.jpg "La boucle du temps") 2026-07-18 |
+| ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-FR3414218342_400x240.jpg "Quand l'évasion rime avec préservation") 2026-07-17 |  |  |
 
 # History
 [2026-07](../archives/wallpaper/fr-FR/w_2026_07.md) | [2026-06](../archives/wallpaper/fr-FR/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
