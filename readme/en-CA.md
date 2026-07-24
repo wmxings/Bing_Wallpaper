@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PinkDahlia_EN-CA0488598633_UHD.jpg)
-[2026-07-23 A symphony of petals Pink dahlia flower(© Harald Biebel/Getty Images)](https://www.bing.com/th?id=OHR.PinkDahlia_EN-CA0488598633_UHD.jpg)
-Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.
+![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-CA4325829188_UHD.jpg)
+[2026-07-24 Family, in full colour Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador(© Tui De Roy/Nature Picture Library)](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-CA4325829188_UHD.jpg)
+Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Fittingly, Canadians mark the day alongside their neighbour and, you could say, cousin to the south: the United States. Whether you grew up at the cottage, camping, skating or gathering for a long weekend barbecue, cousins often share some of life's best memories.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PinkDahlia_EN-CA0488598633_400x240.jpg "A symphony of petals") 2026-07-23 | ![](https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_400x240.jpg "Small footprint, big impact") 2026-07-22 | ![](https://www.bing.com/th?id=OHR.SantaCatalina_EN-CA0068780262_400x240.jpg "Hidden in plain arch") 2026-07-21 |
-| ![](https://www.bing.com/th?id=OHR.Artemis_EN-CA9898142366_400x240.jpg "The lunar perspective") 2026-07-20 | ![](https://www.bing.com/th?id=OHR.HirundoRustica_EN-CA9613012856_400x240.jpg "Wings at rest") 2026-07-19 | ![](https://www.bing.com/th?id=OHR.DevilsBridge_EN-CA9488720591_400x240.jpg "Going full circle") 2026-07-18 |
-| ![](https://www.bing.com/th?id=OHR.GrainSilosSK_EN-CA7421778186_400x240.jpg "The breadbasket of Canada") 2026-07-17 |  |  |
+| ![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-CA4325829188_400x240.jpg "Family, in full colour") 2026-07-24 | ![](https://www.bing.com/th?id=OHR.PinkDahlia_EN-CA0488598633_400x240.jpg "A symphony of petals") 2026-07-23 | ![](https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_400x240.jpg "Small footprint, big impact") 2026-07-22 |
+| ![](https://www.bing.com/th?id=OHR.SantaCatalina_EN-CA0068780262_400x240.jpg "Hidden in plain arch") 2026-07-21 | ![](https://www.bing.com/th?id=OHR.Artemis_EN-CA9898142366_400x240.jpg "The lunar perspective") 2026-07-20 | ![](https://www.bing.com/th?id=OHR.HirundoRustica_EN-CA9613012856_400x240.jpg "Wings at rest") 2026-07-19 |
+| ![](https://www.bing.com/th?id=OHR.DevilsBridge_EN-CA9488720591_400x240.jpg "Going full circle") 2026-07-18 |  |  |
 
 # History
 [2026-07](../archives/wallpaper/en-CA/w_2026_07.md) | [2026-06](../archives/wallpaper/en-CA/w_2026_06.md) | [2026-05](../archives/wallpaper/en-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/en-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/en-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
