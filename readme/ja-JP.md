@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_UHD.jpg)
-[2026-07-30 夕暮れの砂漠を貫く道 モニュメント・バレー, 米国 アリゾナ州(© Westend61/Adobe Stock)](https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_UHD.jpg)
-ここはモニュメント・バレー。米国のアリゾナ州とユタ州にまたがるナバホ族の準自治領「ナバホ・ネイション」内に広がる地域です。テーブル状の台地「メサ」や、侵食によって形成された「ビュート」という孤立丘が点在しているのが特徴です。これらが独特の景観を生み出し、世界中から観光客が訪れる景勝地となっています。また、西部劇映画の定番のロケ地として知られており、映画監督ジョン・フォードが撮影を行った場所は「ジョン・フォード・ポイント」と呼ばれる人気の写真撮影スポットとなっています。
+![](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg)
+[2026-07-31 深緑の森を貫く木道 バージニア・クリーパー・トレイル, 米国 バージニア州(© Eifel Kreutz/Getty Images)](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg)
+今日の画像は、米国バージニア州ダマスカス周辺を走るバージニア・クリーパー・トレイル。かつてアパラチア山脈を越えて木材や鉄鉱石を運んでいた鉄道の旧線路です。1957 年に蒸気機関車が引退した後、米国森林局によってレクリエーション・トレイルとして整備されました。全長 56km のトレイルは国有林を通り、美しい山々の風景の中、約 50 基の木製桁橋を渡ることができます。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_400x240.jpg "夕暮れの砂漠を貫く道") 2026-07-30 | ![](https://www.bing.com/th?id=OHR.TigerFamily_JA-JP4965219864_400x240.jpg "今日は世界トラの日") 2026-07-29 | ![](https://www.bing.com/th?id=OHR.KaysersbergVillage_JA-JP4774929635_400x240.jpg "渓谷に息づく美しい村") 2026-07-28 |
-| ![](https://www.bing.com/th?id=OHR.ChicagoTiffany_JA-JP4240566318_400x240.jpg "灯りゆれる大空間") 2026-07-27 | ![](https://www.bing.com/th?id=OHR.RedMangroveSunrise_JA-JP3991738335_400x240.jpg "今日は国際マングローブの日") 2026-07-26 | ![](https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_400x240.jpg "干潮に現れる奇岩海岸") 2026-07-25 |
-| ![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_400x240.jpg "今日は米国いとこの日") 2026-07-24 |  |  |
+| ![](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_400x240.jpg "深緑の森を貫く木道") 2026-07-31 | ![](https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_400x240.jpg "夕暮れの砂漠を貫く道") 2026-07-30 | ![](https://www.bing.com/th?id=OHR.TigerFamily_JA-JP4965219864_400x240.jpg "今日は世界トラの日") 2026-07-29 |
+| ![](https://www.bing.com/th?id=OHR.KaysersbergVillage_JA-JP4774929635_400x240.jpg "渓谷に息づく美しい村") 2026-07-28 | ![](https://www.bing.com/th?id=OHR.ChicagoTiffany_JA-JP4240566318_400x240.jpg "灯りゆれる大空間") 2026-07-27 | ![](https://www.bing.com/th?id=OHR.RedMangroveSunrise_JA-JP3991738335_400x240.jpg "今日は国際マングローブの日") 2026-07-26 |
+| ![](https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_400x240.jpg "干潮に現れる奇岩海岸") 2026-07-25 |  |  |
 
 # History
 [2026-07](../archives/wallpaper/ja-JP/w_2026_07.md) | [2026-06](../archives/wallpaper/ja-JP/w_2026_06.md) | [2026-05](../archives/wallpaper/ja-JP/w_2026_05.md) | [2026-04](../archives/wallpaper/ja-JP/w_2026_04.md) | [2026-03](../archives/wallpaper/ja-JP/w_2026_03.md) | [2026-02](../archives/wallpaper/ja-JP/w_2026_02.md) | [2026-01](../archives/wallpaper/ja-JP/w_2026_01.md)
