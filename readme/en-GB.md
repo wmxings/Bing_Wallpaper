@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_UHD.jpg)
-[2026-08-02 Daughter of the Baltic Helsinki's shoreline during blue hour, Uusimaa, Finland(© Miemo Penttinen/Getty Images)](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_UHD.jpg)
-Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.
+![](https://www.bing.com/th?id=OHR.BoatsMalta_EN-GB7267750671_UHD.jpg)
+[2026-08-03 Bright boats, timeless traditions Colourful boats in Marsaxlokk Harbour, Malta(© Klubovy/Getty Images)](https://www.bing.com/th?id=OHR.BoatsMalta_EN-GB7267750671_UHD.jpg)
+Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_400x240.jpg "Daughter of the Baltic") 2026-08-02 | ![](https://www.bing.com/th?id=OHR.BrightonPride2026_EN-GB6665333938_400x240.jpg "Bright-on with pride") 2026-08-01 | ![](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-GB6394833598_400x240.jpg "Trailing through time") 2026-07-31 |
-| ![](https://www.bing.com/th?id=OHR.NavajoNation_EN-GB6080318819_400x240.jpg "A landscape of living heritage") 2026-07-30 | ![](https://www.bing.com/th?id=OHR.TigerFamily_EN-GB5813190934_400x240.jpg "A comeback with claws") 2026-07-29 | ![](https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227_400x240.jpg "A balance in motion") 2026-07-28 |
-| ![](https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-GB5292533317_400x240.jpg "Chicago, look up!") 2026-07-27 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BoatsMalta_EN-GB7267750671_400x240.jpg "Bright boats, timeless traditions") 2026-08-03 | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_400x240.jpg "Daughter of the Baltic") 2026-08-02 | ![](https://www.bing.com/th?id=OHR.BrightonPride2026_EN-GB6665333938_400x240.jpg "Bright-on with pride") 2026-08-01 |
+| ![](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-GB6394833598_400x240.jpg "Trailing through time") 2026-07-31 | ![](https://www.bing.com/th?id=OHR.NavajoNation_EN-GB6080318819_400x240.jpg "A landscape of living heritage") 2026-07-30 | ![](https://www.bing.com/th?id=OHR.TigerFamily_EN-GB5813190934_400x240.jpg "A comeback with claws") 2026-07-29 |
+| ![](https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227_400x240.jpg "A balance in motion") 2026-07-28 |  |  |
 
 # History
 [2026-08](../archives/wallpaper/en-GB/w_2026_08.md) | [2026-07](../archives/wallpaper/en-GB/w_2026_07.md) | [2026-06](../archives/wallpaper/en-GB/w_2026_06.md) | [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
