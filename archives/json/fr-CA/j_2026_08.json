@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-10",
+    "head_line": "Un point de rencontre aride",
+    "title": "Parc national Joshua Tree, Californie, États-Unis",
+    "copyright": "© JJ Landscapes/Getty Images",
+    "desc": "À l’endroit où se rencontrent deux grands déserts du sud de la Californie (États-Unis), le parc national Joshua Tree révèle un paysage spectaculaire façonné par les vents, les contrastes climatiques et les millénaires. Le désert de Mojave, situé en altitude, rejoint le désert du Colorado, plus chaud, créant une remarquable diversité de milieux naturels.",
+    "image_url": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-08-09",
     "head_line": "Quand architecture et identité vont de pair",
     "title": "Centre culturel Tjibaou, Nouvelle-Calédonie",
