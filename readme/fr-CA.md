@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PerseidasTenerife_FR-CA5435617740_UHD.jpg)
-[2026-08-13 Faites un vœu! Perséides au-dessus de l’observatoire du Teide, Tenerife, Espagne(© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.PerseidasTenerife_FR-CA5435617740_UHD.jpg)
-Chaque été, un spectacle fascinant se déroule au-dessus de nos têtes. De la mi-juillet à la fin août, les Perséides fendent le ciel nocturne, atteignant leur apogée autour du 12 et 13 août. Sous un ciel dégagé et préservé des lumières artificielles, des dizaines d’étoiles filantes peuvent être observées en une seule heure. Chacune d’elles est en réalité une minuscule particule laissée par la comète Swift-Tuttle sur son orbite, que la Terre croise chaque année. Les météores semblent surgir de la constellation de Persée, qui a donné son nom à cette pluie d’étoiles filantes.
+![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-CA4397568569_UHD.jpg)
+[2026-08-14 Tracé pour la nature Vue aérienne d’un écoduc près de Zakrzów, Pologne(© bbsferrari/Getty Images)](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-CA4397568569_UHD.jpg)
+Les routes ont transformé notre rapport aux distances, rapprochant les villes et accélérant notre rythme de vie. Mais sous ce progrès, une fragmentation s’est installée dans les paysages. Les forêts, prairies et montagnes, autrefois continues, se sont retrouvées morcelées, les sentiers rompus. Cerfs, renards et ours ont continué d’emprunter ces routes invisibles, croisant désormais l’asphalte et le danger. Collisions, isolement génétique, disparition silencieuse : les conséquences se sont accumulées au fil des décennies.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PerseidasTenerife_FR-CA5435617740_400x240.jpg "Faites un vœu!") 2026-08-13 | ![](https://www.bing.com/th?id=OHR.ElephantDay_FR-CA5269724209_400x240.jpg "Des géants au cœur tendre") 2026-08-12 | ![](https://www.bing.com/th?id=OHR.ColorfulCop_FR-CA4855520574_400x240.jpg "Copenhague haute en couleur") 2026-08-11 |
-| ![](https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_400x240.jpg "Un point de rencontre aride") 2026-08-10 | ![](https://www.bing.com/th?id=OHR.JMTjibaou_FR-CA3860969701_400x240.jpg "Quand architecture et identité vont de pair") 2026-08-09 | ![](https://www.bing.com/th?id=OHR.StocktonInfinity_FR-CA3431140548_400x240.jpg "Un pas vers l'infini") 2026-08-08 |
-| ![](https://www.bing.com/th?id=OHR.LimeKiln_FR-CA1380170697_400x240.jpg "Une lueur… de sécurité") 2026-08-07 |  |  |
+| ![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-CA4397568569_400x240.jpg "Tracé pour la nature") 2026-08-14 | ![](https://www.bing.com/th?id=OHR.PerseidasTenerife_FR-CA5435617740_400x240.jpg "Faites un vœu!") 2026-08-13 | ![](https://www.bing.com/th?id=OHR.ElephantDay_FR-CA5269724209_400x240.jpg "Des géants au cœur tendre") 2026-08-12 |
+| ![](https://www.bing.com/th?id=OHR.ColorfulCop_FR-CA4855520574_400x240.jpg "Copenhague haute en couleur") 2026-08-11 | ![](https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_400x240.jpg "Un point de rencontre aride") 2026-08-10 | ![](https://www.bing.com/th?id=OHR.JMTjibaou_FR-CA3860969701_400x240.jpg "Quand architecture et identité vont de pair") 2026-08-09 |
+| ![](https://www.bing.com/th?id=OHR.StocktonInfinity_FR-CA3431140548_400x240.jpg "Un pas vers l'infini") 2026-08-08 |  |  |
 
 # History
 [2026-08](../archives/wallpaper/fr-CA/w_2026_08.md) | [2026-07](../archives/wallpaper/fr-CA/w_2026_07.md) | [2026-06](../archives/wallpaper/fr-CA/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-CA/w_2026_01.md)
