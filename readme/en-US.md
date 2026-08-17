@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg)
-[2026-08-16 Where swans started a legend Ruins of Ross Errilly Friary, County Galway, Ireland(© Maria Janus/Shutterstock)](https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg)
-What do swans, secret hideaways, and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.
+![](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg)
+[2026-08-17 A prime 'reef' estate Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines(© Franco Banfi/Nature Picture Library)](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg)
+Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_400x240.jpg "Where swans started a legend") 2026-08-16 | ![](https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_400x240.jpg "The great balancing act") 2026-08-15 | ![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_400x240.jpg "Built for paws, not people") 2026-08-14 |
-| ![](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_400x240.jpg "Make a wish") 2026-08-13 | ![](https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_400x240.jpg "Giants worth protecting") 2026-08-12 | ![](https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_400x240.jpg "Copenhagen in full color") 2026-08-11 |
-| ![](https://www.bing.com/th?id=OHR.SandPath_EN-US3759872156_400x240.jpg "Where two deserts collide") 2026-08-10 |  |  |
+| ![](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_400x240.jpg "A prime 'reef' estate") 2026-08-17 | ![](https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_400x240.jpg "Where swans started a legend") 2026-08-16 | ![](https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_400x240.jpg "The great balancing act") 2026-08-15 |
+| ![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_400x240.jpg "Built for paws, not people") 2026-08-14 | ![](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_400x240.jpg "Make a wish") 2026-08-13 | ![](https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_400x240.jpg "Giants worth protecting") 2026-08-12 |
+| ![](https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_400x240.jpg "Copenhagen in full color") 2026-08-11 |  |  |
 
 # History
 [2026-08](../archives/wallpaper/en-US/w_2026_08.md) | [2026-07](../archives/wallpaper/en-US/w_2026_07.md) | [2026-06](../archives/wallpaper/en-US/w_2026_06.md) | [2026-05](../archives/wallpaper/en-US/w_2026_05.md) | [2026-04](../archives/wallpaper/en-US/w_2026_04.md) | [2026-03](../archives/wallpaper/en-US/w_2026_03.md) | [2026-02](../archives/wallpaper/en-US/w_2026_02.md) | [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
