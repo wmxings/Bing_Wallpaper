@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-18",
+    "head_line": "Geometría de una ciudad estelar",
+    "title": "Vista aérea de Palmanova, una ciudad fortaleza en Friul-Venecia Julia, Italia",
+    "copyright": "© Riccardo Saponi/Getty Images",
+    "desc": "Vista desde el aire, Palmanova no parece una ciudad: parece el plano de una estrella de nueve puntas trazado con escuadra y compás sobre las llanuras de Friul-Venecia Julia, Italia. Fundada por la República de Venecia el 7 de octubre de 1593, esta ciudad fortaleza fue concebida desde cero como modelo de defensa, orden y belleza: sus calles irradian desde una plaza central hexagonal hacia las murallas, que forman un anillo de bastiones en perfección matemática.",
+    "image_url": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-08-17",
     "head_line": "Una anémona de primera",
     "title": "Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas",
