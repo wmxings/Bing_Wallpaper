@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_UHD.jpg)
-[2026-08-25 Wellen, Wind, Weltklasse Kitesurfer bei Sonnenuntergang in Deutschland(© Jens Breuer/Getty Images)](https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_UHD.jpg)
-Im goldenen Licht der untergehenden Sonne gleiten Kitesurfer über das Wasser. Die Sportart verbindet Elemente des Surfens, Segelns und Wakeboardens: Ein großer Lenkdrachen sorgt für den Antrieb, während die Fahrer über die Wellen rasen und spektakuläre Sprünge und Tricks ausführen. Kitesurfen entstand in den 1990er-Jahren und hat sich seitdem zu einer beliebten Wassersportart entwickelt. Ob auf dem Meer, an Seen oder in Lagunen – entscheidend sind ausreichend Wind, Geschicklichkeit und ein gutes Gespür für die Bedingungen auf dem Wasser.
+![](https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309_UHD.jpg)
+[2026-08-26 Farbspiele am Himmel Polarlichter über dem Kirkjufell, Island(© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309_UHD.jpg)
+Der Kirkjufell zählt zu den bekanntesten Bergen Islands und bietet eine eindrucksvolle Kulisse für die Beobachtung von Polarlichtern. Wenn die Nächte im Herbst und Winter langsam dunkler werden, erscheinen grüne Lichtbänder am Himmel und verwandeln die Landschaft in ein faszinierendes Schauspiel. Die reflektierenden Farben, die schneebedeckten Hänge und die abgelegene Lage schaffen eine Atmosphäre, die Besucher aus aller Welt anzieht. Besonders in den kalten Monaten gehören solche Nächte zu den eindrucksvollsten Naturerlebnissen des Landes.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_400x240.jpg "Wellen, Wind, Weltklasse") 2026-08-25 | ![](https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_400x240.jpg "Brücke der Visionen") 2026-08-24 | ![](https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_400x240.jpg "Der Fang des Tages") 2026-08-23 |
-| ![](https://www.bing.com/th?id=OHR.CommonBlue_DE-DE9673283581_400x240.jpg "Himmelblaue Flügel") 2026-08-22 | ![](https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_400x240.jpg "Auf in die Berge!") 2026-08-21 | ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_400x240.jpg "Klänge der Schwertwale") 2026-08-20 |
-| ![](https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664_400x240.jpg "Ein Weg zwischen den Wellen") 2026-08-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309_400x240.jpg "Farbspiele am Himmel") 2026-08-26 | ![](https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_400x240.jpg "Wellen, Wind, Weltklasse") 2026-08-25 | ![](https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_400x240.jpg "Brücke der Visionen") 2026-08-24 |
+| ![](https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_400x240.jpg "Der Fang des Tages") 2026-08-23 | ![](https://www.bing.com/th?id=OHR.CommonBlue_DE-DE9673283581_400x240.jpg "Himmelblaue Flügel") 2026-08-22 | ![](https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_400x240.jpg "Auf in die Berge!") 2026-08-21 |
+| ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_400x240.jpg "Klänge der Schwertwale") 2026-08-20 |  |  |
 
 # History
 [2026-08](../archives/wallpaper/de-DE/w_2026_08.md) | [2026-07](../archives/wallpaper/de-DE/w_2026_07.md) | [2026-06](../archives/wallpaper/de-DE/w_2026_06.md) | [2026-05](../archives/wallpaper/de-DE/w_2026_05.md) | [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)

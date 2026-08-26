@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371_UHD.jpg)
-[2026-08-25 Sable blanc et lagons bretons Plage de sable blanc sur l’archipel des Glénan, Bretagne(© HadelProductions/Getty Images)](https://www.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371_UHD.jpg)
-Au large de la côte sud du Finistère, l’archipel des Glénan déploie un chapelet d’îlots aux eaux turquoise, si limpides qu’elles évoquent parfois des lagons lointains. Pourtant, nous sommes bien en Bretagne. Façonnées par les vents, les marées et les tempêtes, ces terres de sable blanc et de granite abritent un patrimoine naturel exceptionnel.
+![](https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_UHD.jpg)
+[2026-08-26 Comme un mirage céleste Aurores boréales sur Kirkjufell, Islande(© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_UHD.jpg)
+À mesure que les nuits s’allongent sur l’Islande, les regards se tournent vers le ciel dans l’espoir d’apercevoir l’aurore boréale. Ce ballet lumineux naît lorsque des particules venues du Soleil rencontrent les gaz de la haute atmosphère terrestre. Des voiles verts, roses, violets et parfois rouges ondulent alors au-dessus des paysages volcaniques. Grâce à sa situation à proximité du cercle polaire et à l’obscurité prolongée de l’automne et de l’hiver, l’île figure parmi les meilleurs endroits au monde pour contempler ce phénomène fascinant.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371_400x240.jpg "Sable blanc et lagons bretons") 2026-08-25 | ![](https://www.bing.com/th?id=OHR.BKBridge_FR-FR7150855439_400x240.jpg "Bien plus qu'un pont") 2026-08-24 | ![](https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_400x240.jpg "Que la pêche commence !") 2026-08-23 |
-| ![](https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_400x240.jpg "De délicates ailes azur") 2026-08-22 | ![](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_400x240.jpg "Accrochez-vous !") 2026-08-21 | ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_400x240.jpg "Les voix du canal") 2026-08-20 |
-| ![](https://www.bing.com/th?id=OHR.WhyteCliffP_FR-FR1858775924_400x240.jpg "Un chemin entre les vagues") 2026-08-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_400x240.jpg "Comme un mirage céleste") 2026-08-26 | ![](https://www.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371_400x240.jpg "Sable blanc et lagons bretons") 2026-08-25 | ![](https://www.bing.com/th?id=OHR.BKBridge_FR-FR7150855439_400x240.jpg "Bien plus qu'un pont") 2026-08-24 |
+| ![](https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_400x240.jpg "Que la pêche commence !") 2026-08-23 | ![](https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_400x240.jpg "De délicates ailes azur") 2026-08-22 | ![](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_400x240.jpg "Accrochez-vous !") 2026-08-21 |
+| ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_400x240.jpg "Les voix du canal") 2026-08-20 |  |  |
 
 # History
 [2026-08](../archives/wallpaper/fr-FR/w_2026_08.md) | [2026-07](../archives/wallpaper/fr-FR/w_2026_07.md) | [2026-06](../archives/wallpaper/fr-FR/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
