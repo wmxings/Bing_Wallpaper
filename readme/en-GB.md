@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_UHD.jpg)
-[2026-09-03 An act of wilderness Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States(© James Hager/Getty Images)](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_UHD.jpg)
-Waves usually belong to the ocean. In northern Arizona, United States, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.
+![](https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_UHD.jpg)
+[2026-09-04 Red and white on the horizon Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany(© bluejayphoto/Getty Images)](https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_UHD.jpg)
+Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_400x240.jpg "An act of wilderness") 2026-09-03 | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_400x240.jpg "Painted along the shore") 2026-09-02 | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_400x240.jpg "A world beneath your feet") 2026-09-01 |
-| ![](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-GB2027090405_400x240.jpg "A master class in pattern") 2026-08-31 | ![](https://www.bing.com/th?id=OHR.YellowShark_EN-GB1905405727_400x240.jpg "The fish that outgrew its name") 2026-08-30 | ![](https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_400x240.jpg "A city painted in rhythm") 2026-08-29 |
-| ![](https://www.bing.com/th?id=OHR.MichelSunset_EN-GB1738815139_400x240.jpg "Where tides shape a legend") 2026-08-28 |  |  |
+| ![](https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_400x240.jpg "Red and white on the horizon") 2026-09-04 | ![](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_400x240.jpg "An act of wilderness") 2026-09-03 | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_400x240.jpg "Painted along the shore") 2026-09-02 |
+| ![](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_400x240.jpg "A world beneath your feet") 2026-09-01 | ![](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-GB2027090405_400x240.jpg "A master class in pattern") 2026-08-31 | ![](https://www.bing.com/th?id=OHR.YellowShark_EN-GB1905405727_400x240.jpg "The fish that outgrew its name") 2026-08-30 |
+| ![](https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_400x240.jpg "A city painted in rhythm") 2026-08-29 |  |  |
 
 # History
 [2026-09](../archives/wallpaper/en-GB/w_2026_09.md) | [2026-08](../archives/wallpaper/en-GB/w_2026_08.md) | [2026-07](../archives/wallpaper/en-GB/w_2026_07.md) | [2026-06](../archives/wallpaper/en-GB/w_2026_06.md) | [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
