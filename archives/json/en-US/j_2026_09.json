@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-07",
+    "head_line": "Labor's legacy",
+    "title": "'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California",
+    "copyright": "© David R. Frazier Photolibrary, Inc./Alamy",
+    "desc": "Labor Day honors the contributions of American workers and the history of labor in the United States. Established as a federal holiday in 1894, it emerged during a period of rapid industrial growth and social change. Today, Labor Day recognizes the people whose efforts have helped build communities, industries, and infrastructure across the nation. From farms and factories to railroads and construction sites, generations of workers have played a vital role in shaping the country's history.",
+    "image_url": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-09-06",
     "head_line": "A reservoir of reflections",
     "title": "Lake Fyans, Grampians National Park, Victoria, Australia",
