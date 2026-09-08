@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_UHD.jpg)
-[2026-09-07 Ein Riff über den Wolken Cadini di Misurina, Dolomiten, Venetien, Italien(© Vithun Khamsong/Getty Images)](https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_UHD.jpg)
-Im Herzen der Dolomiten erhebt sich die markante Berggruppe der Cadini di Misurina in Venetien, Italien, mit einer Silhouette, die besonders bei Sonnenaufgang beeindruckt. Viele Wanderer, die auf dem Weg zu den nahen Drei Zinnen unterwegs sind, entdecken hier eine Landschaft, die ihnen lange im Gedächtnis bleibt. Die schroffen Gipfel ragen bis auf mehr als 2.800 Meter Höhe auf und wirken, als seien sie eigens für ein alpines Schauspiel geschaffen worden. Tatsächlich begann ihre Geschichte jedoch nicht in den Bergen, sondern unter dem Meer.
+![](https://www.bing.com/th?id=OHR.BeechEngland_DE-DE7492588392_UHD.jpg)
+[2026-09-08 Goldene Felder Buche in einem Getreidefeld, East Meon, South-Downs-Nationalpark, Hampshire, England(© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.BeechEngland_DE-DE7492588392_UHD.jpg)
+Im South-Downs-Nationalpark in Hampshire, England, steht bei East Meon eine einzelne Buche mitten in einem Getreidefeld. Zwischen den sanften Hügeln der südenglischen Landschaft wirkt der Baum wie ein natürlicher Orientierungspunkt. Mit ihrer ausladenden Krone hebt sich die Buche deutlich von den Feldern ab und zeigt, wie eng Natur und Landwirtschaft in dieser Region miteinander verbunden sind. Je nach Jahreszeit verändert sich das Bild. Im Frühjahr leuchtet das junge Grün, während im Sommer das goldene Getreide einen reizvollen Kontrast zum dichten Blätterdach bildet.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_400x240.jpg "Ein Riff über den Wolken") 2026-09-07 | ![](https://www.bing.com/th?id=OHR.LakeFyans_DE-DE9957934690_400x240.jpg "Ein See voller Spiegelungen") 2026-09-06 | ![](https://www.bing.com/th?id=OHR.GreenCrowned_DE-DE8742495391_400x240.jpg "Kleine Vögel, große Wirkung") 2026-09-05 |
-| ![](https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_400x240.jpg "Bögen zum Horizont") 2026-09-04 | ![](https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_400x240.jpg "Frankfurts historische Mitte") 2026-09-03 | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_400x240.jpg "Farbenfroh an der Küste") 2026-09-02 |
-| ![](https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_400x240.jpg "Die verborgene Welt der Pilze") 2026-09-01 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BeechEngland_DE-DE7492588392_400x240.jpg "Goldene Felder") 2026-09-08 | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_400x240.jpg "Ein Riff über den Wolken") 2026-09-07 | ![](https://www.bing.com/th?id=OHR.LakeFyans_DE-DE9957934690_400x240.jpg "Ein See voller Spiegelungen") 2026-09-06 |
+| ![](https://www.bing.com/th?id=OHR.GreenCrowned_DE-DE8742495391_400x240.jpg "Kleine Vögel, große Wirkung") 2026-09-05 | ![](https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_400x240.jpg "Bögen zum Horizont") 2026-09-04 | ![](https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_400x240.jpg "Frankfurts historische Mitte") 2026-09-03 |
+| ![](https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_400x240.jpg "Farbenfroh an der Küste") 2026-09-02 |  |  |
 
 # History
 [2026-09](../archives/wallpaper/de-DE/w_2026_09.md) | [2026-08](../archives/wallpaper/de-DE/w_2026_08.md) | [2026-07](../archives/wallpaper/de-DE/w_2026_07.md) | [2026-06](../archives/wallpaper/de-DE/w_2026_06.md) | [2026-05](../archives/wallpaper/de-DE/w_2026_05.md) | [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
