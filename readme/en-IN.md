@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BeechEngland_EN-IN6965523030_UHD.jpg)
-[2026-09-08 Fields of gold Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England(© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.BeechEngland_EN-IN6965523030_UHD.jpg)
-A beech tree stands alone amid golden fields near East Meon in Hampshire, providing a striking focal point in the rolling landscape of England's South Downs National Park. Agriculture has shaped these chalk hills for centuries, and farming remains an important part of the region today. The area's free-draining chalk soils support extensive arable farming, with wheat and barley among the most common crops. Throughout the summer, these crops ripen in the fields before harvest transforms the countryside into a patchwork of gold and stubble.
+![](https://www.bing.com/th?id=OHR.GabitKeni_EN-IN7043546490_UHD.jpg)
+[2026-09-09 Life on India's west coast Gabit Keni Beach near Ankola, Karnataka(© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.GabitKeni_EN-IN7043546490_UHD.jpg)
+When people think of South India, they often picture spice trade routes, classical music, folk traditions and a coastline shaped by centuries of maritime life. Follow Karnataka's Arabian Sea coast to the quieter shores of Gabit Keni Beach near Ankola, where fishing remains part of everyday life.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BeechEngland_EN-IN6965523030_400x240.jpg "Fields of gold") 2026-09-08 | ![](https://www.bing.com/th?id=OHR.BambergTownhall_EN-IN6755744687_400x240.jpg "Where history flows along the canal") 2026-09-07 | ![](https://www.bing.com/th?id=OHR.LakeFyans_EN-IN6678174820_400x240.jpg "A reservoir of reflections") 2026-09-06 |
-| ![](https://www.bing.com/th?id=OHR.PuranaQila2026_EN-IN6620233403_400x240.jpg "Where Mughal echoes linger") 2026-09-05 | ![](https://www.bing.com/th?id=OHR.Westerheversand_EN-IN6508979486_400x240.jpg "Red and white on the horizon") 2026-09-04 | ![](https://www.bing.com/th?id=OHR.AZWilderness_EN-IN0610933686_400x240.jpg "An act of wilderness") 2026-09-03 |
-| ![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027_400x240.jpg "Painted along the shore") 2026-09-02 |  |  |
+| ![](https://www.bing.com/th?id=OHR.GabitKeni_EN-IN7043546490_400x240.jpg "Life on India's west coast") 2026-09-09 | ![](https://www.bing.com/th?id=OHR.BeechEngland_EN-IN6965523030_400x240.jpg "Fields of gold") 2026-09-08 | ![](https://www.bing.com/th?id=OHR.BambergTownhall_EN-IN6755744687_400x240.jpg "Where history flows along the canal") 2026-09-07 |
+| ![](https://www.bing.com/th?id=OHR.LakeFyans_EN-IN6678174820_400x240.jpg "A reservoir of reflections") 2026-09-06 | ![](https://www.bing.com/th?id=OHR.PuranaQila2026_EN-IN6620233403_400x240.jpg "Where Mughal echoes linger") 2026-09-05 | ![](https://www.bing.com/th?id=OHR.Westerheversand_EN-IN6508979486_400x240.jpg "Red and white on the horizon") 2026-09-04 |
+| ![](https://www.bing.com/th?id=OHR.AZWilderness_EN-IN0610933686_400x240.jpg "An act of wilderness") 2026-09-03 |  |  |
 
 # History
 [2026-09](../archives/wallpaper/en-IN/w_2026_09.md) | [2026-08](../archives/wallpaper/en-IN/w_2026_08.md) | [2026-07](../archives/wallpaper/en-IN/w_2026_07.md) | [2026-06](../archives/wallpaper/en-IN/w_2026_06.md) | [2026-05](../archives/wallpaper/en-IN/w_2026_05.md) | [2026-04](../archives/wallpaper/en-IN/w_2026_04.md) | [2026-03](../archives/wallpaper/en-IN/w_2026_03.md) | [2026-02](../archives/wallpaper/en-IN/w_2026_02.md) | [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
