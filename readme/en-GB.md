@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_UHD.jpg)
-[2026-09-09 Life on India's west coast Gabit Keni Beach near Ankola, Karnataka, India(© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_UHD.jpg)
-When people think of South India, they often picture spice routes, classical music, folk traditions and a coastline shaped by centuries of maritime life. Follow Karnataka's Arabian Sea coast to the quieter shores of Gabit Keni Beach near Ankola, where fishing remains part of everyday life.
+![](https://www.bing.com/th?id=OHR.Olvera_EN-GB6934313279_UHD.jpg)
+[2026-09-10 A patchwork from above Aerial view of Olvera, Andalusia, Spain(© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.Olvera_EN-GB6934313279_UHD.jpg)
+Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_400x240.jpg "Life on India's west coast") 2026-09-09 | ![](https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535_400x240.jpg "Fields of gold") 2026-09-08 | ![](https://www.bing.com/th?id=OHR.BambergTownhall_EN-GB6012686407_400x240.jpg "Where history flows along the canal") 2026-09-07 |
-| ![](https://www.bing.com/th?id=OHR.LakeFyans_EN-GB5800075953_400x240.jpg "A reservoir of reflections") 2026-09-06 | ![](https://www.bing.com/th?id=OHR.SardineBait_EN-GB5662354179_400x240.jpg "Masters of the surf and shore") 2026-09-05 | ![](https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_400x240.jpg "Red and white on the horizon") 2026-09-04 |
-| ![](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_400x240.jpg "An act of wilderness") 2026-09-03 |  |  |
+| ![](https://www.bing.com/th?id=OHR.Olvera_EN-GB6934313279_400x240.jpg "A patchwork from above") 2026-09-10 | ![](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_400x240.jpg "Life on India's west coast") 2026-09-09 | ![](https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535_400x240.jpg "Fields of gold") 2026-09-08 |
+| ![](https://www.bing.com/th?id=OHR.BambergTownhall_EN-GB6012686407_400x240.jpg "Where history flows along the canal") 2026-09-07 | ![](https://www.bing.com/th?id=OHR.LakeFyans_EN-GB5800075953_400x240.jpg "A reservoir of reflections") 2026-09-06 | ![](https://www.bing.com/th?id=OHR.SardineBait_EN-GB5662354179_400x240.jpg "Masters of the surf and shore") 2026-09-05 |
+| ![](https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_400x240.jpg "Red and white on the horizon") 2026-09-04 |  |  |
 
 # History
 [2026-09](../archives/wallpaper/en-GB/w_2026_09.md) | [2026-08](../archives/wallpaper/en-GB/w_2026_08.md) | [2026-07](../archives/wallpaper/en-GB/w_2026_07.md) | [2026-06](../archives/wallpaper/en-GB/w_2026_06.md) | [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
