@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-15",
+    "head_line": "緑から紅へと染まる秋景色",
+    "title": "コキア, 中国",
+    "copyright": "© lingqi xie/Getty Images",
+    "desc": "今日の画像は、中国に広がるコキアの風景。日本には、平安時代以前に伝わったとされるユーラシア大陸原産の一年草です。茎を乾燥させてほうきを作っていたことから、和名では「ホウキギ（箒木）」「ホウキグサ（箒草）」と呼ばれています。夏は爽やかなライムグリーン、秋には鮮やかな深紅へと変化しながら、全体が球形から楕円形になります。高温や乾燥、塩分を含む土壌に強く、降水量の少ない地域では家畜の飼料として利用されてきました。その丸い姿が、花言葉「夫婦円満」の由来になったと言われています。",
+    "image_url": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-09-14",
     "head_line": "今日はコスモスの日",
     "title": "川辺のコスモス",
