@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_UHD.jpg)
-[2026-09-13 O recife que subiu de nível Cadini di Misurina, Dolomitas, Vêneto, Itália(© Vithun Khamsong/Getty Images)](https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_UHD.jpg)
-Se você chegasse a Cadini di Misurina há 250 milhões de anos, precisaria de equipamento de mergulho, não de botas de caminhada. As formações que hoje se erguem na região do Vêneto, no nordeste da Itália, nasceram embaixo d’água, onde recifes e sedimentos se acumulavam no fundo de um mar tropical.
+![](https://www.bing.com/th?id=OHR.KochiaChina_PT-BR0883558645_UHD.jpg)
+[2026-09-14 Resistência em tons de vermelho Campo de kochia, China(© lingqi xie/Getty Images)](https://www.bing.com/th?id=OHR.KochiaChina_PT-BR0883558645_UHD.jpg)
+O vermelho desta paisagem na China vem da planta conhecida como kochia, que começa verde e pode terminar o ciclo em tons intensos de vermelho. Mas a transformação cromática é só o começo. A kochia cresce rápido, pode chegar a cerca de 1,5 metro e produz muitas sementes. Quando amadurece e seca, pode se desprender da base e ser levada pelo vento, dispersando sementes pelo caminho.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_400x240.jpg "O recife que subiu de nível") 2026-09-13 | ![](https://www.bing.com/th?id=OHR.SardineBait_PT-BR1473169959_400x240.jpg "O baile das barbatanas") 2026-09-12 | ![](https://www.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_400x240.jpg "Uma chegada anunciada") 2026-09-11 |
-| ![](https://www.bing.com/th?id=OHR.Olvera_PT-BR2296737928_400x240.jpg "A Andaluzia em mosaico") 2026-09-10 | ![](https://www.bing.com/th?id=OHR.GabitKeni_PT-BR1706073463_400x240.jpg "Onde a Índia encontra o mar") 2026-09-09 | ![](https://www.bing.com/th?id=OHR.BeechEngland_PT-BR8581055675_400x240.jpg "Um horizonte dourado") 2026-09-08 |
-| ![](https://www.bing.com/th?id=OHR.IndependenceBR_PT-BR8326749510_400x240.jpg "Manobras de liberdade") 2026-09-07 |  |  |
+| ![](https://www.bing.com/th?id=OHR.KochiaChina_PT-BR0883558645_400x240.jpg "Resistência em tons de vermelho") 2026-09-14 | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_400x240.jpg "O recife que subiu de nível") 2026-09-13 | ![](https://www.bing.com/th?id=OHR.SardineBait_PT-BR1473169959_400x240.jpg "O baile das barbatanas") 2026-09-12 |
+| ![](https://www.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_400x240.jpg "Uma chegada anunciada") 2026-09-11 | ![](https://www.bing.com/th?id=OHR.Olvera_PT-BR2296737928_400x240.jpg "A Andaluzia em mosaico") 2026-09-10 | ![](https://www.bing.com/th?id=OHR.GabitKeni_PT-BR1706073463_400x240.jpg "Onde a Índia encontra o mar") 2026-09-09 |
+| ![](https://www.bing.com/th?id=OHR.BeechEngland_PT-BR8581055675_400x240.jpg "Um horizonte dourado") 2026-09-08 |  |  |
 
 # History
 [2026-09](../archives/wallpaper/pt-BR/w_2026_09.md) | [2026-08](../archives/wallpaper/pt-BR/w_2026_08.md) | [2026-07](../archives/wallpaper/pt-BR/w_2026_07.md) | [2026-06](../archives/wallpaper/pt-BR/w_2026_06.md) | [2026-05](../archives/wallpaper/pt-BR/w_2026_05.md) | [2026-04](../archives/wallpaper/pt-BR/w_2026_04.md) | [2026-03](../archives/wallpaper/pt-BR/w_2026_03.md) | [2026-02](../archives/wallpaper/pt-BR/w_2026_02.md) | [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
