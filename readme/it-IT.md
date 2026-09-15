@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.KochiaChina_IT-IT4492706565_UHD.jpg)
-[2026-09-14 Dove la durezza radica Campo di piante di kochia, Cina(© lingqi xie/Getty Images)](https://www.bing.com/th?id=OHR.KochiaChina_IT-IT4492706565_UHD.jpg)
-Il campo che sembra dipinto a pennellate rosse e verdi si trova in Cina e lo compone una sola specie: la kochia (Bassia scoparia), che a fine estate scambia il verde con un granata intenso. Ogni cespuglio è una pianta annuale tondeggiante che in pochi mesi supera il metro di altezza e produce migliaia di semi.
+![](https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_UHD.jpg)
+[2026-09-15 Loquace e appariscente L'ara dalle ali verdi, Brasile(© markes51/Getty Images)](https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_UHD.jpg)
+Le are dalle ali verdi dell'immagine vivono nelle foreste del Brasile e non conoscono la discrezione: rosso acceso, fascia verde sull'ala, penne blu all'estremità e una faccia bianca solcata da sottili linee di piume rosse.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.KochiaChina_IT-IT4492706565_400x240.jpg "Dove la durezza radica") 2026-09-14 | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_IT-IT4415699665_400x240.jpg "La corona d'Italia") 2026-09-13 | ![](https://www.bing.com/th?id=OHR.SardineBait_IT-IT4326891508_400x240.jpg "Maestri del surf e della riva") 2026-09-12 |
-| ![](https://www.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_400x240.jpg "La bellezza dei villaggi") 2026-09-11 | ![](https://www.bing.com/th?id=OHR.Olvera_IT-IT3958001884_400x240.jpg "Un mosaico dall'alto") 2026-09-10 | ![](https://www.bing.com/th?id=OHR.GabitKeni_IT-IT3860805604_400x240.jpg "Sabbia, tranquillità e panorami") 2026-09-09 |
-| ![](https://www.bing.com/th?id=OHR.BeechEngland_IT-IT3767842262_400x240.jpg "Campi d'oro") 2026-09-08 |  |  |
+| ![](https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_400x240.jpg "Loquace e appariscente") 2026-09-15 | ![](https://www.bing.com/th?id=OHR.KochiaChina_IT-IT4492706565_400x240.jpg "Dove la durezza radica") 2026-09-14 | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_IT-IT4415699665_400x240.jpg "La corona d'Italia") 2026-09-13 |
+| ![](https://www.bing.com/th?id=OHR.SardineBait_IT-IT4326891508_400x240.jpg "Maestri del surf e della riva") 2026-09-12 | ![](https://www.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_400x240.jpg "La bellezza dei villaggi") 2026-09-11 | ![](https://www.bing.com/th?id=OHR.Olvera_IT-IT3958001884_400x240.jpg "Un mosaico dall'alto") 2026-09-10 |
+| ![](https://www.bing.com/th?id=OHR.GabitKeni_IT-IT3860805604_400x240.jpg "Sabbia, tranquillità e panorami") 2026-09-09 |  |  |
 
 # History
 [2026-09](../archives/wallpaper/it-IT/w_2026_09.md) | [2026-08](../archives/wallpaper/it-IT/w_2026_08.md) | [2026-07](../archives/wallpaper/it-IT/w_2026_07.md) | [2026-06](../archives/wallpaper/it-IT/w_2026_06.md) | [2026-05](../archives/wallpaper/it-IT/w_2026_05.md) | [2026-04](../archives/wallpaper/it-IT/w_2026_04.md) | [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
