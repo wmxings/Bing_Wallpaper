@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034_UHD.jpg)
-[2026-09-15 Um jardim com vista para o mar Baía de Villefranche-sur-Mer, Alpes-Maritimes, Provença-Alpes-Côte d'Azur, França(© StockByM/Getty Images)](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034_UHD.jpg)
-A Riviera Francesa não guarda toda a graça para o verão. Em setembro, o calor começa a ceder, as colinas recuperam tons de verde e espalham aromas de alecrim, tomilho e pinheiro-de-alepo. No interior, oliveiras centenárias acompanham estradas que sobem até vilarejos moldados por séculos de influências gregas, romanas e provençais.
+![](https://www.bing.com/th?id=OHR.IcyCubs_PT-BR1372199595_UHD.jpg)
+[2026-09-16 Uma aventura polar Filhotes de urso-polar brincando em Svalbard, Noruega(© Danny Green/Nature Picture Library)](https://www.bing.com/th?id=OHR.IcyCubs_PT-BR1372199595_UHD.jpg)
+Um tropeça. O outro corre atrás. Em seguida, os dois se embolam na neve. Para quem vê de longe, é só uma dupla de filhotes de urso-polar brincando em Svalbard, Noruega. Para eles, é treinamento para a vida em um dos ambientes mais exigentes do planeta.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034_400x240.jpg "Um jardim com vista para o mar") 2026-09-15 | ![](https://www.bing.com/th?id=OHR.KochiaChina_PT-BR0883558645_400x240.jpg "Resistência em tons de vermelho") 2026-09-14 | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_400x240.jpg "O recife que subiu de nível") 2026-09-13 |
-| ![](https://www.bing.com/th?id=OHR.SardineBait_PT-BR1473169959_400x240.jpg "O baile das barbatanas") 2026-09-12 | ![](https://www.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_400x240.jpg "Uma chegada anunciada") 2026-09-11 | ![](https://www.bing.com/th?id=OHR.Olvera_PT-BR2296737928_400x240.jpg "A Andaluzia em mosaico") 2026-09-10 |
-| ![](https://www.bing.com/th?id=OHR.GabitKeni_PT-BR1706073463_400x240.jpg "Onde a Índia encontra o mar") 2026-09-09 |  |  |
+| ![](https://www.bing.com/th?id=OHR.IcyCubs_PT-BR1372199595_400x240.jpg "Uma aventura polar") 2026-09-16 | ![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034_400x240.jpg "Um jardim com vista para o mar") 2026-09-15 | ![](https://www.bing.com/th?id=OHR.KochiaChina_PT-BR0883558645_400x240.jpg "Resistência em tons de vermelho") 2026-09-14 |
+| ![](https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_400x240.jpg "O recife que subiu de nível") 2026-09-13 | ![](https://www.bing.com/th?id=OHR.SardineBait_PT-BR1473169959_400x240.jpg "O baile das barbatanas") 2026-09-12 | ![](https://www.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_400x240.jpg "Uma chegada anunciada") 2026-09-11 |
+| ![](https://www.bing.com/th?id=OHR.Olvera_PT-BR2296737928_400x240.jpg "A Andaluzia em mosaico") 2026-09-10 |  |  |
 
 # History
 [2026-09](../archives/wallpaper/pt-BR/w_2026_09.md) | [2026-08](../archives/wallpaper/pt-BR/w_2026_08.md) | [2026-07](../archives/wallpaper/pt-BR/w_2026_07.md) | [2026-06](../archives/wallpaper/pt-BR/w_2026_06.md) | [2026-05](../archives/wallpaper/pt-BR/w_2026_05.md) | [2026-04](../archives/wallpaper/pt-BR/w_2026_04.md) | [2026-03](../archives/wallpaper/pt-BR/w_2026_03.md) | [2026-02](../archives/wallpaper/pt-BR/w_2026_02.md) | [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
