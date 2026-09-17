@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-17",
+    "head_line": "Um brinde à colheita",
+    "title": "Moinho de vento de Sorine e vinhedos, região vinícola de Santenay, Côte de Beaune, Borgonha, França",
+    "copyright": "© Marco Bottigelli/Getty Images",
+    "desc": "Muito antes de alguém erguer uma taça de vinho francês, alguém plantou e cuidou das videiras. Depois vieram sol, chuva e meses de espera. Hoje estamos em Santenay, na Borgonha, com o moinho de Sorine, construído no século XIX, ao fundo. Temperatura, insolação e maturação das uvas ajudam a decidir quando cada vinhedo está pronto.",
+    "image_url": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-09-16",
     "head_line": "Uma aventura polar",
     "title": "Filhotes de urso-polar brincando em Svalbard, Noruega",
