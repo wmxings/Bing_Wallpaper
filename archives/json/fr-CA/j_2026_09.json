@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-20",
+    "head_line": "Elle nous fait tourner la tête",
+    "title": "La tour Eiffel au coucher de soleil, Paris, France",
+    "copyright": "© Alexander Spatari/Getty Images",
+    "desc": "Paris évoque instantanément les promenades au crépuscule, les quais de la Seine et une élégance à la française célébrée dans le monde entier. Pourtant, derrière cette image romantique se cache une histoire plus nuancée. À la fin du XIXᵉ siècle, la ville accueille l’Exposition universelle commémorant le centenaire de la Révolution française, dans un contexte de profondes transformations urbaines et culturelles.",
+    "image_url": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-09-19",
     "head_line": "Le son alpin de l'Oktoberfest",
     "title": "Joueurs de cor des Alpes, Bavière, Allemagne",

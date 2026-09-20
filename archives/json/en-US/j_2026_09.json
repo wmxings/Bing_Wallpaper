@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-20",
+    "head_line": "The tower that won Paris over",
+    "title": "Eiffel Tower at sunset, Paris, France",
+    "copyright": "© Alexander Spatari/Getty Images",
+    "desc": "No other city is nearly as romanticized as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centerpiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose nearly 1,000 feet above the Champ de Mars and became the tallest structure in the world at the time.",
+    "image_url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-09-19",
     "head_line": "The Alpine sound of Oktoberfest",
     "title": "Alphorn players, Bavaria, Germany",

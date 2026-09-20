@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg)
-[2026-09-19 The Alpine sound of Oktoberfest Alphorn players, Bavaria, Germany(© U. J. Alexander/Shutterstock)](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg)
-As Oktoberfest opens today, visitors arriving in Bavaria, Germany may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to the culture of Bavaria, Austria, and Switzerland, where it once helped shepherds communicate across mountain valleys.
+![](https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg)
+[2026-09-20 The tower that won Paris over Eiffel Tower at sunset, Paris, France(© Alexander Spatari/Getty Images)](https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg)
+No other city is nearly as romanticized as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centerpiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose nearly 1,000 feet above the Champ de Mars and became the tallest structure in the world at the time.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_400x240.jpg "The Alpine sound of Oktoberfest") 2026-09-19 | ![](https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_400x240.jpg "Through the heart of the pass") 2026-09-18 | ![](https://www.bing.com/th?id=OHR.Santenay_EN-US5299702509_400x240.jpg "A toast to the harvest") 2026-09-17 |
-| ![](https://www.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_400x240.jpg "The Arctic's new explorers") 2026-09-16 | ![](https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_400x240.jpg "A crossroad of cultures") 2026-09-15 | ![](https://www.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_400x240.jpg "Where toughness takes root") 2026-09-14 |
-| ![](https://www.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_400x240.jpg "A reef above its station") 2026-09-13 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_400x240.jpg "The tower that won Paris over") 2026-09-20 | ![](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_400x240.jpg "The Alpine sound of Oktoberfest") 2026-09-19 | ![](https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_400x240.jpg "Through the heart of the pass") 2026-09-18 |
+| ![](https://www.bing.com/th?id=OHR.Santenay_EN-US5299702509_400x240.jpg "A toast to the harvest") 2026-09-17 | ![](https://www.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_400x240.jpg "The Arctic's new explorers") 2026-09-16 | ![](https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_400x240.jpg "A crossroad of cultures") 2026-09-15 |
+| ![](https://www.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_400x240.jpg "Where toughness takes root") 2026-09-14 |  |  |
 
 # History
 [2026-09](../archives/wallpaper/en-US/w_2026_09.md) | [2026-08](../archives/wallpaper/en-US/w_2026_08.md) | [2026-07](../archives/wallpaper/en-US/w_2026_07.md) | [2026-06](../archives/wallpaper/en-US/w_2026_06.md) | [2026-05](../archives/wallpaper/en-US/w_2026_05.md) | [2026-04](../archives/wallpaper/en-US/w_2026_04.md) | [2026-03](../archives/wallpaper/en-US/w_2026_03.md) | [2026-02](../archives/wallpaper/en-US/w_2026_02.md) | [2026-01](../archives/wallpaper/en-US/w_2026_01.md)
