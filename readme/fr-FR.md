@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_UHD.jpg)
-[2026-09-22 Au-delà de la dernière page Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande(© djr-photography/Shutterstock)](https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_UHD.jpg)
-Dans les collines verdoyantes de Matamata, en Nouvelle-Zélande, un décor de cinéma est devenu un lieu à part entière. Installé sur une ferme ovine encore en activité, Hobbiton est né lorsqu’une équipe de repérage des films « Le Seigneur des anneaux » découvrit, en 1998, un paysage remarquablement proche de la Comté imaginée par Tolkien. Les courbes du relief, les prairies parsemées de moutons et la lumière changeante semblaient déjà raconter une histoire. Des portes rondes, des jardins soignés et des cheminées à volutes ont ensuite achevé la métamorphose.
+![](https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_UHD.jpg)
+[2026-09-23 La saison dorée Peupliers faux-trembles près du col de Guardsman Pass, Utah, États-Unis(© Danita Delimont/Shutterstock)](https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_UHD.jpg)
+Chaque année, vers la fin de septembre, l’équinoxe d’automne marque un subtil basculement dans l’hémisphère Nord. Le Soleil semble alors franchir l’équateur céleste vers le sud et le jour s’accorde presque à la nuit. Cet instant d’équilibre annonce la lente diminution de la lumière et l’approche progressive de l’hiver.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_400x240.jpg "Au-delà de la dernière page") 2026-09-22 | ![](https://www.bing.com/th?id=OHR.GroomingOtter_FR-FR7953128169_400x240.jpg "La vie entre mer et fourrure") 2026-09-21 | ![](https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_400x240.jpg "Lumière sur un héritage commun") 2026-09-20 |
-| ![](https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658_400x240.jpg "Le son alpin de l'Oktoberfest") 2026-09-19 | ![](https://www.bing.com/th?id=OHR.WinnatsPassPeak_FR-FR7611183995_400x240.jpg "Au cœur du temps") 2026-09-18 | ![](https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_400x240.jpg "Santé !") 2026-09-17 |
-| ![](https://www.bing.com/th?id=OHR.IcyCubs_FR-FR5288498074_400x240.jpg "L'Arctique comme terrain de jeux") 2026-09-16 |  |  |
+| ![](https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_400x240.jpg "La saison dorée") 2026-09-23 | ![](https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_400x240.jpg "Au-delà de la dernière page") 2026-09-22 | ![](https://www.bing.com/th?id=OHR.GroomingOtter_FR-FR7953128169_400x240.jpg "La vie entre mer et fourrure") 2026-09-21 |
+| ![](https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_400x240.jpg "Lumière sur un héritage commun") 2026-09-20 | ![](https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658_400x240.jpg "Le son alpin de l'Oktoberfest") 2026-09-19 | ![](https://www.bing.com/th?id=OHR.WinnatsPassPeak_FR-FR7611183995_400x240.jpg "Au cœur du temps") 2026-09-18 |
+| ![](https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_400x240.jpg "Santé !") 2026-09-17 |  |  |
 
 # History
 [2026-09](../archives/wallpaper/fr-FR/w_2026_09.md) | [2026-08](../archives/wallpaper/fr-FR/w_2026_08.md) | [2026-07](../archives/wallpaper/fr-FR/w_2026_07.md) | [2026-06](../archives/wallpaper/fr-FR/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
