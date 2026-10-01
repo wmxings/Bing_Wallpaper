@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ElGolfo_ES-ES8850772045_UHD.jpg)
-[2026-10-01 Arena volcánica y olas salvajes Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España(© Westend61/Adobe Stock)](https://www.bing.com/th?id=OHR.ElGolfo_ES-ES8850772045_UHD.jpg)
-En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco.
+![](https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_UHD.jpg)
+[2026-10-02 Aguas bravas entre bosques Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU.(© mtilghma/Getty Images)](https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_UHD.jpg)
+El río Chattooga baja por los montes Apalaches, en Carolina del Norte (Estados Unidos), y es uno de los tramos de aguas bravas más celebrados del sureste del país. Nace en plena montaña y durante kilómetros marca la frontera entre Georgia, Carolina del Norte y Carolina del Sur, encajonado entre laderas boscosas y escalones de roca.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ElGolfo_ES-ES8850772045_400x240.jpg "Arena volcánica y olas salvajes") 2026-10-01 | ![](https://www.bing.com/th?id=OHR.BeardReedling_ES-ES8271136302_400x240.jpg "Un canto inolvidable") 2026-09-30 | ![](https://www.bing.com/th?id=OHR.KasilofRiver_ES-ES8214443142_400x240.jpg "Nacidos de glaciares") 2026-09-29 |
-| ![](https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_400x240.jpg "Los 27 pilares de la historia") 2026-09-28 | ![](https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_400x240.jpg "Jardín nocturno en la profundidad") 2026-09-27 | ![](https://www.bing.com/th?id=OHR.BearsEars_ES-ES7934745679_400x240.jpg "Historias talladas en la tierra") 2026-09-26 |
-| ![](https://www.bing.com/th?id=OHR.MidAutumn2026_ES-ES7834121465_400x240.jpg "Cuando la luna se une a la fiesta") 2026-09-25 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_400x240.jpg "Aguas bravas entre bosques") 2026-10-02 | ![](https://www.bing.com/th?id=OHR.ElGolfo_ES-ES8850772045_400x240.jpg "Arena volcánica y olas salvajes") 2026-10-01 | ![](https://www.bing.com/th?id=OHR.BeardReedling_ES-ES8271136302_400x240.jpg "Un canto inolvidable") 2026-09-30 |
+| ![](https://www.bing.com/th?id=OHR.KasilofRiver_ES-ES8214443142_400x240.jpg "Nacidos de glaciares") 2026-09-29 | ![](https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_400x240.jpg "Los 27 pilares de la historia") 2026-09-28 | ![](https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_400x240.jpg "Jardín nocturno en la profundidad") 2026-09-27 |
+| ![](https://www.bing.com/th?id=OHR.BearsEars_ES-ES7934745679_400x240.jpg "Historias talladas en la tierra") 2026-09-26 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/es-ES/w_2026_10.md) | [2026-09](../archives/wallpaper/es-ES/w_2026_09.md) | [2026-08](../archives/wallpaper/es-ES/w_2026_08.md) | [2026-07](../archives/wallpaper/es-ES/w_2026_07.md) | [2026-06](../archives/wallpaper/es-ES/w_2026_06.md) | [2026-05](../archives/wallpaper/es-ES/w_2026_05.md) | [2026-04](../archives/wallpaper/es-ES/w_2026_04.md) | [2026-03](../archives/wallpaper/es-ES/w_2026_03.md) | [2026-02](../archives/wallpaper/es-ES/w_2026_02.md) | [2026-01](../archives/wallpaper/es-ES/w_2026_01.md)
