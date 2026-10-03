@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_UHD.jpg)
-[2026-10-02 Kolosse des Nordens Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA(© Danny Green/Nature Picture Library)](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_UHD.jpg)
-Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.
+![](https://www.bing.com/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_UHD.jpg)
+[2026-10-03 Ein Zeichen der Einheit Brandenburger Tor, Berlin(© almir1968/Getty Images)](https://www.bing.com/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_UHD.jpg)
+Heute steht Deutschland ganz im Zeichen der Einheit. Der 3. Oktober erinnert an die Wiedervereinigung im Jahr 1990 und an einen historischen Moment, der das Land bis heute prägt. Unser heutiges Bild zeigt die Quadriga auf dem Brandenburger Tor in Berlin vor einem Feuerwerk. Während der deutschen Teilung wurde das Brandenburger Tor zum Sinnbild der Grenze zwischen Ost und West. Jahrzehntelang war der Zugang versperrt, ehe es nach dem Fall der Berliner Mauer erneut zu einem Symbol der Freiheit wurde. Heute steht das Wahrzeichen für Zusammenhalt und ein vereintes Deutschland.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_400x240.jpg "Kolosse des Nordens") 2026-10-02 | ![](https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_400x240.jpg "Natur mit Charakter") 2026-10-01 | ![](https://www.bing.com/th?id=OHR.AlphornBavaria_DE-DE4197541227_400x240.jpg "Der Klang der Alpen") 2026-09-30 |
-| ![](https://www.bing.com/th?id=OHR.KasilofRiver_DE-DE4065933153_400x240.jpg "Aus Gletschern entstanden") 2026-09-29 | ![](https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_400x240.jpg "Geschichte mit Aussicht") 2026-09-28 | ![](https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943_400x240.jpg "Nachtgarten der Tiefe") 2026-09-27 |
-| ![](https://www.bing.com/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754_400x240.jpg "Ein ruhiger Augenblick") 2026-09-26 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_400x240.jpg "Ein Zeichen der Einheit") 2026-10-03 | ![](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_400x240.jpg "Kolosse des Nordens") 2026-10-02 | ![](https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_400x240.jpg "Natur mit Charakter") 2026-10-01 |
+| ![](https://www.bing.com/th?id=OHR.AlphornBavaria_DE-DE4197541227_400x240.jpg "Der Klang der Alpen") 2026-09-30 | ![](https://www.bing.com/th?id=OHR.KasilofRiver_DE-DE4065933153_400x240.jpg "Aus Gletschern entstanden") 2026-09-29 | ![](https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_400x240.jpg "Geschichte mit Aussicht") 2026-09-28 |
+| ![](https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943_400x240.jpg "Nachtgarten der Tiefe") 2026-09-27 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/de-DE/w_2026_10.md) | [2026-09](../archives/wallpaper/de-DE/w_2026_09.md) | [2026-08](../archives/wallpaper/de-DE/w_2026_08.md) | [2026-07](../archives/wallpaper/de-DE/w_2026_07.md) | [2026-06](../archives/wallpaper/de-DE/w_2026_06.md) | [2026-05](../archives/wallpaper/de-DE/w_2026_05.md) | [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
