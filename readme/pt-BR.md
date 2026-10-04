@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.GrizzlySwim_PT-BR4132076191_UHD.jpg)
-[2026-10-03 O último buffet do ano Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA(© Danny Green/Nature Picture Library)](https://www.bing.com/th?id=OHR.GrizzlySwim_PT-BR4132076191_UHD.jpg)
-No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.
+![](https://www.bing.com/th?id=OHR.ArtemisRocket_PT-BR6940961892_UHD.jpg)
+[2026-10-04 Partiu, universo! Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA(© EVA MARIE UZCATEGUI/Getty Images)](https://www.bing.com/th?id=OHR.ArtemisRocket_PT-BR6940961892_UHD.jpg)
+Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.GrizzlySwim_PT-BR4132076191_400x240.jpg "O último buffet do ano") 2026-10-03 | ![](https://www.bing.com/th?id=OHR.Camburiu_PT-BR9036477210_400x240.jpg "Maré de tranquilidade") 2026-10-02 | ![](https://www.bing.com/th?id=OHR.GreenLake_PT-BR0948770849_400x240.jpg "O segredo da Lagoa Verde") 2026-10-01 |
-| ![](https://www.bing.com/th?id=OHR.BeardReedling_PT-BR1145161880_400x240.jpg "Um bigode de respeito") 2026-09-30 | ![](https://www.bing.com/th?id=OHR.KasilofRiver_PT-BR1313310893_400x240.jpg "Uma jornada glacial") 2026-09-29 | ![](https://www.bing.com/th?id=OHR.AmberHall_PT-BR1465916376_400x240.jpg "Uma vista digna de um marajá") 2026-09-28 |
-| ![](https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080_400x240.jpg "Elegância defensiva") 2026-09-27 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ArtemisRocket_PT-BR6940961892_400x240.jpg "Partiu, universo!") 2026-10-04 | ![](https://www.bing.com/th?id=OHR.GrizzlySwim_PT-BR4132076191_400x240.jpg "O último buffet do ano") 2026-10-03 | ![](https://www.bing.com/th?id=OHR.Camburiu_PT-BR9036477210_400x240.jpg "Maré de tranquilidade") 2026-10-02 |
+| ![](https://www.bing.com/th?id=OHR.GreenLake_PT-BR0948770849_400x240.jpg "O segredo da Lagoa Verde") 2026-10-01 | ![](https://www.bing.com/th?id=OHR.BeardReedling_PT-BR1145161880_400x240.jpg "Um bigode de respeito") 2026-09-30 | ![](https://www.bing.com/th?id=OHR.KasilofRiver_PT-BR1313310893_400x240.jpg "Uma jornada glacial") 2026-09-29 |
+| ![](https://www.bing.com/th?id=OHR.AmberHall_PT-BR1465916376_400x240.jpg "Uma vista digna de um marajá") 2026-09-28 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/pt-BR/w_2026_10.md) | [2026-09](../archives/wallpaper/pt-BR/w_2026_09.md) | [2026-08](../archives/wallpaper/pt-BR/w_2026_08.md) | [2026-07](../archives/wallpaper/pt-BR/w_2026_07.md) | [2026-06](../archives/wallpaper/pt-BR/w_2026_06.md) | [2026-05](../archives/wallpaper/pt-BR/w_2026_05.md) | [2026-04](../archives/wallpaper/pt-BR/w_2026_04.md) | [2026-03](../archives/wallpaper/pt-BR/w_2026_03.md) | [2026-02](../archives/wallpaper/pt-BR/w_2026_02.md) | [2026-01](../archives/wallpaper/pt-BR/w_2026_01.md)
