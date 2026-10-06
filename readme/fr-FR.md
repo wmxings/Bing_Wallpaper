@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_UHD.jpg)
-[2026-10-06 La mémoire de la Terre Relief Danxia, géoparc national de Zhangye, Gansu, Chine(© Weiquan Lin/Getty Images)](https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_UHD.jpg)
-Et si une chaîne de montagnes pouvait vous raconter son histoire à travers ses couleurs ? Au parc géologique national de Zhangye, dans la province du Gansu en Chine, c'est exactement ce que font les roches. Des crêtes ondulent à perte de vue, striées de rouge, d'orange, d'ocre et de brun — une palette que nul artiste n'aurait osé inventer.
+![](https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763_UHD.jpg)
+[2026-10-07 La forêt aux mille secrets Roches couvertes de mousse à Puzzlewood, forêt de Dean, Gloucestershire, Angleterre(© Fulcanelli_AOS/Getty Images)](https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763_UHD.jpg)
+À Puzzlewood, près de Coleford dans la forêt de Dean en Angleterre, les sentiers ne mènent nulle part — et c'est précisément leur charme. Sous une épaisse couverture de mousse, des roches tourmentées surgissent du sol, creusées de ravins et de cavités mystérieuses que les Romains exploitaient déjà pour leur minerai de fer, il y a plus de deux mille ans.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_400x240.jpg "La mémoire de la Terre") 2026-10-06 | ![](https://www.bing.com/th?id=OHR.AdelieTeacher_FR-FR4489383327_400x240.jpg "Plonger dans sa leçon") 2026-10-05 | ![](https://www.bing.com/th?id=OHR.GruesDer_FR-FR4180166006_400x240.jpg "L'aube des grues") 2026-10-04 |
-| ![](https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_400x240.jpg "Maître des eaux") 2026-10-03 | ![](https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_400x240.jpg "L'automne en tourbière") 2026-10-02 | ![](https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_400x240.jpg "Elle nous fait tourner la tête") 2026-10-01 |
-| ![](https://www.bing.com/th?id=OHR.BeardReedling_FR-FR6298814586_400x240.jpg "Une drôle de petite tête") 2026-09-30 |  |  |
+| ![](https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763_400x240.jpg "La forêt aux mille secrets") 2026-10-07 | ![](https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_400x240.jpg "La mémoire de la Terre") 2026-10-06 | ![](https://www.bing.com/th?id=OHR.AdelieTeacher_FR-FR4489383327_400x240.jpg "Plonger dans sa leçon") 2026-10-05 |
+| ![](https://www.bing.com/th?id=OHR.GruesDer_FR-FR4180166006_400x240.jpg "L'aube des grues") 2026-10-04 | ![](https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_400x240.jpg "Maître des eaux") 2026-10-03 | ![](https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_400x240.jpg "L'automne en tourbière") 2026-10-02 |
+| ![](https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_400x240.jpg "Elle nous fait tourner la tête") 2026-10-01 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/fr-FR/w_2026_10.md) | [2026-09](../archives/wallpaper/fr-FR/w_2026_09.md) | [2026-08](../archives/wallpaper/fr-FR/w_2026_08.md) | [2026-07](../archives/wallpaper/fr-FR/w_2026_07.md) | [2026-06](../archives/wallpaper/fr-FR/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
