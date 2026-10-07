@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg)
-[2026-10-07 迷惑不解？沿着小径走 覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰(© Fulcanelli_AOS/Getty Images)](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg)
-如果一片森林能让你每转一个弯都捉摸不透，会是什么样？英国格洛斯特郡谜林位于英格兰迪恩森林的科尔福德附近，蜿蜒的小径穿过扭曲的树木、覆满苔藓的岩石和幽深的石质沟壑。这里不同寻常的岩层被称为“斯科尔斯”，是一种天然地质特征，随着时间推移逐渐裸露并发生改变，后来在罗马时期、甚至可能在更早以前被人们开采铁矿石。1848年，一名工人在一个岩洞内的陶罐中发现了3,000多枚罗马时代的钱币，使这片林地变成了一场现实中的寻宝之旅。
+![](https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg)
+[2026-10-08 现在你“海”能看见我…… 印度洋马约特岛，一只呈防御姿态的章鱼(© Gabriel Barathieu/Minden Pictures)](https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg)
+显然有什么东西越界了。在印度洋马约特岛近海，这只章鱼摆出了一副防御姿态，仿佛在说：无论是什么正在靠近，都该重新考虑一下自己的生命选择。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_400x240.jpg "迷惑不解？沿着小径走") 2026-10-07 | ![](https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_400x240.jpg "条纹中的地球故事") 2026-10-06 | ![](https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_400x240.jpg "纵身一跃，一次一课") 2026-10-05 |
-| ![](https://www.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_400x240.jpg "宇宙在召唤") 2026-10-04 | ![](https://www.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_400x240.jpg "捕捉、进食、重复") 2026-10-03 | ![](https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_400x240.jpg "一条值得保护的河流") 2026-10-02 |
-| ![](https://www.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_400x240.jpg "在花岗岩中读懂时间") 2026-10-01 |  |  |
+| ![](https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_400x240.jpg "现在你“海”能看见我……") 2026-10-08 | ![](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_400x240.jpg "迷惑不解？沿着小径走") 2026-10-07 | ![](https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_400x240.jpg "条纹中的地球故事") 2026-10-06 |
+| ![](https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_400x240.jpg "纵身一跃，一次一课") 2026-10-05 | ![](https://www.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_400x240.jpg "宇宙在召唤") 2026-10-04 | ![](https://www.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_400x240.jpg "捕捉、进食、重复") 2026-10-03 |
+| ![](https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_400x240.jpg "一条值得保护的河流") 2026-10-02 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/zh-CN/w_2026_10.md) | [2026-09](../archives/wallpaper/zh-CN/w_2026_09.md) | [2026-08](../archives/wallpaper/zh-CN/w_2026_08.md) | [2026-07](../archives/wallpaper/zh-CN/w_2026_07.md) | [2026-06](../archives/wallpaper/zh-CN/w_2026_06.md) | [2026-05](../archives/wallpaper/zh-CN/w_2026_05.md) | [2026-04](../archives/wallpaper/zh-CN/w_2026_04.md) | [2026-03](../archives/wallpaper/zh-CN/w_2026_03.md) | [2026-02](../archives/wallpaper/zh-CN/w_2026_02.md) | [2026-01](../archives/wallpaper/zh-CN/w_2026_01.md)
