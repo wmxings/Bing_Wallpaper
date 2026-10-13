@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-13",
+    "head_line": "Eine Symphonie in Blau und Grün",
+    "title": "Nationalpark Plitvicer Seen, Kroatien",
+    "copyright": "© Jan Wlodarczyk/Alamy",
+    "desc": "Im Nationalpark Plitvicer Seen scheint Wasser allgegenwärtig zu sein. Sechzehn terrassenförmig angeordnete Seen sind durch zahlreiche Wasserfälle, Bäche und Kaskaden miteinander verbunden und schlängeln sich durch bewaldete Kalksteinschluchten. Je nach Mineralgehalt, Sonneneinstrahlung und Spiegelungen schimmert das Wasser in immer neuen Farbtönen von Smaragdgrün bis Tiefblau. Der 1949 gegründete Nationalpark ist der älteste und größte Kroatiens. Besonders charakteristisch sind seine natürlichen Tuffbarrieren, die durch die Ablagerung von Kalziumkarbonat entstehen. Dieser Prozess setzt sich bis heute fort und verändert die Seen und Wasserfälle stetig.",
+    "image_url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-10-12",
     "head_line": "Ein Pier voller Geschichte",
     "title": "Mumbles Pier, Swansea, Wales",
