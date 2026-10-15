@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-CA2710630781_UHD.jpg)
-[2026-10-14 Catch, eat, repeat Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States(© Danny Green/Nature Picture Library)](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-CA2710630781_UHD.jpg)
-The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.
+![](https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_UHD.jpg)
+[2026-10-15 Bridges, rooftops and twilight View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland(© Piotr Mitelski/Shutterstock)](https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_UHD.jpg)
+As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-CA2710630781_400x240.jpg "Catch, eat, repeat") 2026-10-14 | ![](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103_400x240.jpg "A symphony in blue and green") 2026-10-13 | ![](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_400x240.jpg "Hearts filled with gratitude") 2026-10-12 |
-| ![](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_400x240.jpg "Where autumn turns the wheel") 2026-10-11 | ![](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-CA1602296581_400x240.jpg "Life along the flyway") 2026-10-10 | ![](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-CA1335462039_400x240.jpg "Corsica's rocky outposts") 2026-10-09 |
-| ![](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-CA1051460797_400x240.jpg "Now you 'sea' me...") 2026-10-08 |  |  |
+| ![](https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_400x240.jpg "Bridges, rooftops and twilight") 2026-10-15 | ![](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-CA2710630781_400x240.jpg "Catch, eat, repeat") 2026-10-14 | ![](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103_400x240.jpg "A symphony in blue and green") 2026-10-13 |
+| ![](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_400x240.jpg "Hearts filled with gratitude") 2026-10-12 | ![](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_400x240.jpg "Where autumn turns the wheel") 2026-10-11 | ![](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-CA1602296581_400x240.jpg "Life along the flyway") 2026-10-10 |
+| ![](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-CA1335462039_400x240.jpg "Corsica's rocky outposts") 2026-10-09 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/en-CA/w_2026_10.md) | [2026-09](../archives/wallpaper/en-CA/w_2026_09.md) | [2026-08](../archives/wallpaper/en-CA/w_2026_08.md) | [2026-07](../archives/wallpaper/en-CA/w_2026_07.md) | [2026-06](../archives/wallpaper/en-CA/w_2026_06.md) | [2026-05](../archives/wallpaper/en-CA/w_2026_05.md) | [2026-04](../archives/wallpaper/en-CA/w_2026_04.md) | [2026-03](../archives/wallpaper/en-CA/w_2026_03.md) | [2026-02](../archives/wallpaper/en-CA/w_2026_02.md) | [2026-01](../archives/wallpaper/en-CA/w_2026_01.md)
