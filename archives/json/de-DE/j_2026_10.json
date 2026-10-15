@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-15",
+    "head_line": "Brücken, Dächer und Dämmerung",
+    "title": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen",
+    "copyright": "© Piotr Mitelski/Shutterstock",
+    "desc": "Wenn in Breslau die Dämmerung einsetzt, legt sich ein warmes Licht über die roten Dächer, die Kirchtürme und die Fassaden der Altstadt. Die Stadt im Südwesten Polens erstreckt sich über mehrere Inseln an der Oder, die durch zahlreiche Brücken miteinander verbunden sind. Im Mittelpunkt steht der Marktplatz, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Rund um den Rynek prägen restaurierte Bürgerhäuser und das gotische Rathaus eines der eindrucksvollsten Stadtbilder Mitteleuropas. Zwischen historischen Bauwerken und belebten Straßencafés begegnen sich hier Geschichte und modernes Stadtleben auf besonders reizvolle Weise.",
+    "image_url": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-10-14",
     "head_line": "Spiralen durch die Zeit",
     "title": "Ammonitenfossilien aus der Jurazeit",
