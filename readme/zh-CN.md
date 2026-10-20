@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg)
-[2026-10-20 慢节奏生活 褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加(© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg)
-稳扎稳打才能赢得比赛——而褐喉三趾树懒似乎很乐意彻底放弃比赛。在国际树懒日，这种三趾哺乳动物为生存之道带来了另一番启示：保存能量，牢牢抓住，慢慢来。
+![](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)
+[2026-10-21 飞掠河面 香江上的阮潢桥，顺化，越南(© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)
+阮潢桥弥合了新旧之间的距离，为顺化的天际线增添了一道崭新的纽带。这座横跨越南香江的现代钢拱地标于2025年3月26日通车。其设计名为“鹤望天姥”，灵感源自当地传说和附近的天姥寺。
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_400x240.jpg "慢节奏生活") 2026-10-20 | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_400x240.jpg "水上通衢") 2026-10-19 | ![](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_400x240.jpg "75载，风华正茂") 2026-10-18 |
-| ![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_400x240.jpg "发掘尘封的过去") 2026-10-17 | ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_400x240.jpg "一窥科罗拉多群峰") 2026-10-16 | ![](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_400x240.jpg "桥梁、屋顶与暮色") 2026-10-15 |
-| ![](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_400x240.jpg "穿越时间的螺旋") 2026-10-14 |  |  |
+| ![](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_400x240.jpg "飞掠河面") 2026-10-21 | ![](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_400x240.jpg "慢节奏生活") 2026-10-20 | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_400x240.jpg "水上通衢") 2026-10-19 |
+| ![](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_400x240.jpg "75载，风华正茂") 2026-10-18 | ![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_400x240.jpg "发掘尘封的过去") 2026-10-17 | ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_400x240.jpg "一窥科罗拉多群峰") 2026-10-16 |
+| ![](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_400x240.jpg "桥梁、屋顶与暮色") 2026-10-15 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/zh-CN/w_2026_10.md) | [2026-09](../archives/wallpaper/zh-CN/w_2026_09.md) | [2026-08](../archives/wallpaper/zh-CN/w_2026_08.md) | [2026-07](../archives/wallpaper/zh-CN/w_2026_07.md) | [2026-06](../archives/wallpaper/zh-CN/w_2026_06.md) | [2026-05](../archives/wallpaper/zh-CN/w_2026_05.md) | [2026-04](../archives/wallpaper/zh-CN/w_2026_04.md) | [2026-03](../archives/wallpaper/zh-CN/w_2026_03.md) | [2026-02](../archives/wallpaper/zh-CN/w_2026_02.md) | [2026-01](../archives/wallpaper/zh-CN/w_2026_01.md)
