@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.VeniceSunrise_IT-IT2943629456_UHD.jpg)
-[2026-10-19 L'alba sull'acqua Alba sul Canal Grande, Venezia, Veneto, Italia(© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_IT-IT2943629456_UHD.jpg)
-All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.
+![](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg)
+[2026-10-20 La lentezza come strategia Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica(© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg)
+Questo bradipo tridattilo, fotografato a Puerto Viejo de Talamanca (Costa Rica), non è un animale pigro: è un animale efficiente. La sua dieta si basa sulle foglie, un alimento povero di energia e difficile da digerire, così ha risolto il problema dall'altro capo, spendendo il minimo indispensabile. Si muove piano, dorme molto e digerisce per giorni.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.VeniceSunrise_IT-IT2943629456_400x240.jpg "L'alba sull'acqua") 2026-10-19 | ![](https://www.bing.com/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672_400x240.jpg "Il segreto delle Dolomiti") 2026-10-18 | ![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809_400x240.jpg "Arte di 36.000 anni fa") 2026-10-17 |
-| ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_IT-IT1945499761_400x240.jpg "Oro e neve in Colorado") 2026-10-16 | ![](https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_400x240.jpg "Ponti, tetti e crepuscolo") 2026-10-15 | ![](https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_400x240.jpg "Spirali nel tempo") 2026-10-14 |
-| ![](https://www.bing.com/th?id=OHR.PlitviceAutumn_IT-IT0543699035_400x240.jpg "Sinfonia in blu e verde") 2026-10-13 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_400x240.jpg "La lentezza come strategia") 2026-10-20 | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_IT-IT2943629456_400x240.jpg "L'alba sull'acqua") 2026-10-19 | ![](https://www.bing.com/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672_400x240.jpg "Il segreto delle Dolomiti") 2026-10-18 |
+| ![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809_400x240.jpg "Arte di 36.000 anni fa") 2026-10-17 | ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_IT-IT1945499761_400x240.jpg "Oro e neve in Colorado") 2026-10-16 | ![](https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_400x240.jpg "Ponti, tetti e crepuscolo") 2026-10-15 |
+| ![](https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_400x240.jpg "Spirali nel tempo") 2026-10-14 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/it-IT/w_2026_10.md) | [2026-09](../archives/wallpaper/it-IT/w_2026_09.md) | [2026-08](../archives/wallpaper/it-IT/w_2026_08.md) | [2026-07](../archives/wallpaper/it-IT/w_2026_07.md) | [2026-06](../archives/wallpaper/it-IT/w_2026_06.md) | [2026-05](../archives/wallpaper/it-IT/w_2026_05.md) | [2026-04](../archives/wallpaper/it-IT/w_2026_04.md) | [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
