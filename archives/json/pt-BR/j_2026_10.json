@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-24",
+    "head_line": "A biblioteca mais teatral do Rio",
+    "title": "Real Gabinete Português de Leitura, Rio de Janeiro",
+    "copyright": "© Antonio Salaverry/Shutterstock",
+    "desc": "O endereço é carioca, mas a fachada fez check-in na Europa antes de chegar aqui. O Real Gabinete Português de Leitura nasceu em 1837, 15 anos depois da Independência do Brasil, quando 43 imigrantes portugueses criaram uma instituição dedicada aos livros. Sua fachada foi esculpida em Lisboa, transportada de navio pelo Atlântico e montada no Rio de Janeiro.",
+    "image_url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-10-23",
     "head_line": "Lobo solitário? Nada disso",
     "title": "Dois lobos-cinzentos no Parque Nacional de Yellowstone, Wyoming, EUA",
