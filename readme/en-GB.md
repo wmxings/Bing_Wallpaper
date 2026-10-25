@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_UHD.jpg)
-[2026-10-24 Bookishly extravagant Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil(© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_UHD.jpg)
-Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.
+![](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_UHD.jpg)
+[2026-10-25 The clock strikes back The Eastgate Clock, Chester, England(© Alexey_Fedoren/iStock/Getty Images)](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_UHD.jpg)
+Ready to turn back time? Britain does it every autumn, no time machine required. Today, British Summer Time (BST) ends as clocks go back one hour from 2 am BST to 1 am GMT, giving you an extra hour in bed.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_400x240.jpg "Bookishly extravagant") 2026-10-24 | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-GB5342942021_400x240.jpg "Partners in the wild") 2026-10-23 | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_400x240.jpg "Still waters, vivid colours") 2026-10-22 |
-| ![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_400x240.jpg "Winging it over the river") 2026-10-21 | ![](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_400x240.jpg "Life in the slow lane") 2026-10-20 | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_400x240.jpg "The road that runs on water") 2026-10-19 |
-| ![](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-GB4918405829_400x240.jpg "75 and thriving") 2026-10-18 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_400x240.jpg "The clock strikes back") 2026-10-25 | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_400x240.jpg "Bookishly extravagant") 2026-10-24 | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-GB5342942021_400x240.jpg "Partners in the wild") 2026-10-23 |
+| ![](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_400x240.jpg "Still waters, vivid colours") 2026-10-22 | ![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_400x240.jpg "Winging it over the river") 2026-10-21 | ![](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_400x240.jpg "Life in the slow lane") 2026-10-20 |
+| ![](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_400x240.jpg "The road that runs on water") 2026-10-19 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/en-GB/w_2026_10.md) | [2026-09](../archives/wallpaper/en-GB/w_2026_09.md) | [2026-08](../archives/wallpaper/en-GB/w_2026_08.md) | [2026-07](../archives/wallpaper/en-GB/w_2026_07.md) | [2026-06](../archives/wallpaper/en-GB/w_2026_06.md) | [2026-05](../archives/wallpaper/en-GB/w_2026_05.md) | [2026-04](../archives/wallpaper/en-GB/w_2026_04.md) | [2026-03](../archives/wallpaper/en-GB/w_2026_03.md) | [2026-02](../archives/wallpaper/en-GB/w_2026_02.md) | [2026-01](../archives/wallpaper/en-GB/w_2026_01.md)
