@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-26",
+    "head_line": "A fé depois da festa",
+    "title": "Basílica Santuário de Nossa Senhora de Nazaré, Belém, Pará",
+    "copyright": "© filipefrazao/Getty Images",
+    "desc": "Belém, no Pará, pode até guardar as fitas e devolver as ruas ao trânsito. Mas convencer o Círio de Nazaré a ir embora é outra história. Romarias, brinquedos de miriti, almoços em família e reencontros têm seu auge no segundo domingo de outubro, quando mais de dois milhões ocupam as ruas. Não à toa, o Círio virou Patrimônio Cultural do Brasil pelo IPHAN em 2004 e Patrimônio Cultural Imaterial da Humanidade pela UNESCO em 2013.",
+    "image_url": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_400x240.jpg",
+    "main_text": "",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-10-25",
     "head_line": "Um cenário que dispensa moldura",
     "title": "Lago Maligne, Parque Nacional de Jasper, Alberta, Canadá",

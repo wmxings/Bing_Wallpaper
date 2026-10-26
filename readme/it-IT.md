@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg)
-[2026-10-25 Cinema, piazze e pasta Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia(© Alexander Spatari/Getty Images)](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg)
-Largo dei Librari, a due passi dal mercato di Campo de' Fiori, è uno degli angoli più fotogenici di Roma (Italia): una piazzetta trapezoidale chiusa dalla facciata tardobarocca della chiesa di Santa Barbara. Il nome arriva dai librai, ai quali papa Clemente VIII affidò la chiesa nel 1601, e le fondamenta poggiano sui resti del teatro di Pompeo. Sconsacrata nell'Ottocento e restaurata negli anni Novanta, oggi ospita concerti e attività culturali.
+![](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg)
+[2026-10-26 Acqua, pietra e mistero Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria(© Nadya85/Getty Images)](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg)
+Nella parte occidentale dei Monti Rodopi, in Bulgaria, le foglie autunnali si raccolgono lungo le acque impetuose della cascata di Sitovo. Nei pressi del villaggio di Sitovo, a sud-ovest di Plovdiv, le cascate si gettano su sporgenze rocciose sotto un antico ponte di pietra, il cui arco incornicia la cascata come in una scena da libro di fiabe.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_400x240.jpg "Cinema, piazze e pasta") 2026-10-25 | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_400x240.jpg "Una cattedrale di libri") 2026-10-24 | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_400x240.jpg "La vita nel branco") 2026-10-23 |
-| ![](https://www.bing.com/th?id=OHR.NaejangsanNP_IT-IT3718795886_400x240.jpg "I colori di Naejangsan") 2026-10-22 | ![](https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_400x240.jpg "Un ponte appena nato") 2026-10-21 | ![](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_400x240.jpg "La lentezza come strategia") 2026-10-20 |
-| ![](https://www.bing.com/th?id=OHR.VeniceSunrise_IT-IT2943629456_400x240.jpg "L'alba sull'acqua") 2026-10-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_400x240.jpg "Acqua, pietra e mistero") 2026-10-26 | ![](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_400x240.jpg "Cinema, piazze e pasta") 2026-10-25 | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_400x240.jpg "Una cattedrale di libri") 2026-10-24 |
+| ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_400x240.jpg "La vita nel branco") 2026-10-23 | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_IT-IT3718795886_400x240.jpg "I colori di Naejangsan") 2026-10-22 | ![](https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_400x240.jpg "Un ponte appena nato") 2026-10-21 |
+| ![](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_400x240.jpg "La lentezza come strategia") 2026-10-20 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/it-IT/w_2026_10.md) | [2026-09](../archives/wallpaper/it-IT/w_2026_09.md) | [2026-08](../archives/wallpaper/it-IT/w_2026_08.md) | [2026-07](../archives/wallpaper/it-IT/w_2026_07.md) | [2026-06](../archives/wallpaper/it-IT/w_2026_06.md) | [2026-05](../archives/wallpaper/it-IT/w_2026_05.md) | [2026-04](../archives/wallpaper/it-IT/w_2026_04.md) | [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)
