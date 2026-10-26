@@ -10,7 +10,6 @@ Ein Steinbogen, rauschendes Wasser und leuchtendes Herbstlaub: Der Sitovo-Wasser
 |:---:|:---:|:---:|
 | ![](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_400x240.jpg "Der Klang des Herbstes") 2026-10-26 | ![](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_400x240.jpg "Wo Gipfel auf Stille treffen") 2026-10-25 | ![](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_400x240.jpg "Architektur des Wissens") 2026-10-24 |
 | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_400x240.jpg "Partner in freier Wildbahn") 2026-10-23 | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_400x240.jpg "Stille Wasser, leuchtende Farben") 2026-10-22 | ![](https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_400x240.jpg "Über den Fluss fliegen") 2026-10-21 |
-| ![](https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_400x240.jpg "Immer mit der Ruhe") 2026-10-20 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/de-DE/w_2026_10.md) | [2026-09](../archives/wallpaper/de-DE/w_2026_09.md) | [2026-08](../archives/wallpaper/de-DE/w_2026_08.md) | [2026-07](../archives/wallpaper/de-DE/w_2026_07.md) | [2026-06](../archives/wallpaper/de-DE/w_2026_06.md) | [2026-05](../archives/wallpaper/de-DE/w_2026_05.md) | [2026-04](../archives/wallpaper/de-DE/w_2026_04.md) | [2026-03](../archives/wallpaper/de-DE/w_2026_03.md) | [2026-02](../archives/wallpaper/de-DE/w_2026_02.md) | [2026-01](../archives/wallpaper/de-DE/w_2026_01.md)
