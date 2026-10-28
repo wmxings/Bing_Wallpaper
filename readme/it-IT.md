@@ -10,7 +10,6 @@ Che storie racconterebbero queste mura? Il castello di Kunětická hora si alza 
 |:---:|:---:|:---:|
 | ![](https://www.bing.com/th?id=OHR.KuneticeCastle_IT-IT9181989032_400x240.jpg "Secoli sopra la Boemia") 2026-10-28 | ![](https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_400x240.jpg "Riflessi dorati") 2026-10-27 | ![](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_400x240.jpg "Acqua, pietra e mistero") 2026-10-26 |
 | ![](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_400x240.jpg "Cinema, piazze e pasta") 2026-10-25 | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_400x240.jpg "Una cattedrale di libri") 2026-10-24 | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_400x240.jpg "La vita nel branco") 2026-10-23 |
-| ![](https://www.bing.com/th?id=OHR.NaejangsanNP_IT-IT3718795886_400x240.jpg "I colori di Naejangsan") 2026-10-22 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/it-IT/w_2026_10.md) | [2026-09](../archives/wallpaper/it-IT/w_2026_09.md) | [2026-08](../archives/wallpaper/it-IT/w_2026_08.md) | [2026-07](../archives/wallpaper/it-IT/w_2026_07.md) | [2026-06](../archives/wallpaper/it-IT/w_2026_06.md) | [2026-05](../archives/wallpaper/it-IT/w_2026_05.md) | [2026-04](../archives/wallpaper/it-IT/w_2026_04.md) | [2026-03](../archives/wallpaper/it-IT/w_2026_03.md) | [2026-02](../archives/wallpaper/it-IT/w_2026_02.md) | [2026-01](../archives/wallpaper/it-IT/w_2026_01.md)

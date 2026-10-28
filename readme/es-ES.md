@@ -10,7 +10,6 @@
 |:---:|:---:|:---:|
 | ![](https://www.bing.com/th?id=OHR.KuneticeCastle_ES-ES0637644398_400x240.jpg "Siglos sobre Bohemia") 2026-10-28 | ![](https://www.bing.com/th?id=OHR.PondCypress_ES-ES1413599118_400x240.jpg "Reflejos dorados") 2026-10-27 | ![](https://www.bing.com/th?id=OHR.SitovoWaterfall_ES-ES1073935690_400x240.jpg "Agua, piedra y misterio") 2026-10-26 |
 | ![](https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_400x240.jpg "Las puertas al cielo") 2026-10-25 | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_400x240.jpg "Una catedral de libros") 2026-10-24 | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_400x240.jpg "La vida en manada") 2026-10-23 |
-| ![](https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_400x240.jpg "Córdoba en flor") 2026-10-22 |  |  |
 
 # History
 [2026-10](../archives/wallpaper/es-ES/w_2026_10.md) | [2026-09](../archives/wallpaper/es-ES/w_2026_09.md) | [2026-08](../archives/wallpaper/es-ES/w_2026_08.md) | [2026-07](../archives/wallpaper/es-ES/w_2026_07.md) | [2026-06](../archives/wallpaper/es-ES/w_2026_06.md) | [2026-05](../archives/wallpaper/es-ES/w_2026_05.md) | [2026-04](../archives/wallpaper/es-ES/w_2026_04.md) | [2026-03](../archives/wallpaper/es-ES/w_2026_03.md) | [2026-02](../archives/wallpaper/es-ES/w_2026_02.md) | [2026-01](../archives/wallpaper/es-ES/w_2026_01.md)
