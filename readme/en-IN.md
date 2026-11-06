@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_UHD.jpg)
-[2026-11-06 A green tunnel through Maui Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA(© MNStudio/Getty Images)](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_UHD.jpg)
-A volcano, a rainforest and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 3,055-metre summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun', reflecting the Hawaiian mo'olelo of Māui capturing the Sun to lengthen the day.
+![](https://www.bing.com/th?id=OHR.DakotaBison_EN-IN0635434875_UHD.jpg)
+[2026-11-07 Roaming the grasslands A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA(© Tandem Stock/Adobe Stock)](https://www.bing.com/th?id=OHR.DakotaBison_EN-IN0635434875_UHD.jpg)
+Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_400x240.jpg "A green tunnel through Maui") 2026-11-06 | ![](https://www.bing.com/th?id=OHR.StileCrossing_EN-IN0635462552_400x240.jpg "One step closer to the summit") 2026-11-05 | ![](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_400x240.jpg "Paddling a painted forest") 2026-11-04 |
-| ![](https://www.bing.com/th?id=OHR.AlpineBraies_EN-IN9491975263_400x240.jpg "Peace among the peaks") 2026-11-03 | ![](https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_400x240.jpg "A future written in ice") 2026-11-02 | ![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_400x240.jpg "Mist among the trees") 2026-11-01 |
-| ![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_400x240.jpg "Ghosts of empires past") 2026-10-31 |  |  |
+| ![](https://www.bing.com/th?id=OHR.DakotaBison_EN-IN0635434875_400x240.jpg "Roaming the grasslands") 2026-11-07 | ![](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_400x240.jpg "A green tunnel through Maui") 2026-11-06 | ![](https://www.bing.com/th?id=OHR.StileCrossing_EN-IN0635462552_400x240.jpg "One step closer to the summit") 2026-11-05 |
+| ![](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_400x240.jpg "Paddling a painted forest") 2026-11-04 | ![](https://www.bing.com/th?id=OHR.AlpineBraies_EN-IN9491975263_400x240.jpg "Peace among the peaks") 2026-11-03 | ![](https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_400x240.jpg "A future written in ice") 2026-11-02 |
+| ![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_400x240.jpg "Mist among the trees") 2026-11-01 |  |  |
 
 # History
 [2026-11](../archives/wallpaper/en-IN/w_2026_11.md) | [2026-10](../archives/wallpaper/en-IN/w_2026_10.md) | [2026-09](../archives/wallpaper/en-IN/w_2026_09.md) | [2026-08](../archives/wallpaper/en-IN/w_2026_08.md) | [2026-07](../archives/wallpaper/en-IN/w_2026_07.md) | [2026-06](../archives/wallpaper/en-IN/w_2026_06.md) | [2026-05](../archives/wallpaper/en-IN/w_2026_05.md) | [2026-04](../archives/wallpaper/en-IN/w_2026_04.md) | [2026-03](../archives/wallpaper/en-IN/w_2026_03.md) | [2026-02](../archives/wallpaper/en-IN/w_2026_02.md) | [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
