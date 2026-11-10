@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-11",
+    "head_line": "驚きに満ちた森",
+    "title": "大西洋岸森林、ブラジル",
+    "copyright": "© FG Trade/Getty Images",
+    "desc": "大西洋岸森林は、世界有数の生物多様性を誇る地域の一つです。ブラジルの大西洋沿岸からアルゼンチンやパラグアイにまで広がり、熱帯・亜熱帯の森林やマングローブなど、さまざまな環境が見られます。約2万種の植物が生育し、ジャガーやゴールデンライオンタマリンをはじめ、多彩な野生動物が暮らしています。長い年月の間に森林の多くが失われましたが、現在も炭素を蓄え、地域の多くの人々に淡水をもたらすなど、大切な役割を果たしています。",
+    "image_url": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_400x240.jpg",
+    "main_text": "大西洋岸森林には約1億5,000万人が暮らしており、これは南米の総人口のおよそ3分の1にあたります。",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-10",
     "head_line": "楽園でひと休み",
     "title": "ローズ島の空撮、バハマ",
