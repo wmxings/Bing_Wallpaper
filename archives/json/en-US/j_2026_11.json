@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-11",
+    "head_line": "A salute in red, white, and blue",
+    "title": "American flags in a public park in upstate New York",
+    "copyright": "© Matt Champlin/Getty Images",
+    "desc": "As the sun filters through autumn trees in an upstate New York park, rows of flags turn the landscape into a tribute. Veterans Day, observed every November 11, honors all who have served in the US Armed Forces.",
+    "image_url": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_400x240.jpg",
+    "main_text": "Veterans Day was originally known as Armistice Day. In 1954, the holiday was renamed to honor American veterans of all wars.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-10",
     "head_line": "Licensed to chill",
     "title": "Aerial view of Rose Island, The Bahamas",

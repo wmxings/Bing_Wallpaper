@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-11",
+    "head_line": "A forest full of wonder",
+    "title": "The Atlantic Forest, Brazil",
+    "copyright": "© FG Trade/Getty Images",
+    "desc": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region.",
+    "image_url": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_400x240.jpg",
+    "main_text": "The Atlantic Forest is home to around 150 million people, which is roughly a third of South America's total population.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-10",
     "head_line": "Licensed to chill",
     "title": "Aerial view of Rose Island, The Bahamas",

@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-11",
+    "head_line": "Une forêt pleine de merveilles",
+    "title": "Forêt atlantique, Brésil",
+    "copyright": "© FG Trade/Getty Images",
+    "desc": "La forêt atlantique est l’un des plus remarquables foyers de biodiversité au monde. S’étendant le long d’une grande partie de la côte atlantique du Brésil et jusque dans certaines régions de l’Argentine et du Paraguay, elle abrite des forêts tropicales et subtropicales, des mangroves et divers écosystèmes côtiers. On y recense près de 20 000 espèces de plantes ainsi qu’une faune exceptionnelle, dont le jaguar et le tamarin-lion doré. Bien qu’une grande partie de cette forêt ait disparu au fil des siècles, elle demeure essentielle pour le stockage du carbone et l’approvisionnement en eau douce de millions de personnes dans la région.",
+    "image_url": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_400x240.jpg",
+    "main_text": "La forêt atlantique abrite environ 150 millions de personnes, soit près du tiers de la population totale de l’Amérique du Sud.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Atlantica_FR-CA3630809103_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-10",
     "head_line": "Cap sur la détente",
     "title": "Vue aérienne de Rose Island, aux Bahamas",
