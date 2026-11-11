@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-11",
+    "head_line": "Una jungla llena de maravillas",
+    "title": "Selva Atlántica, Brasil",
+    "copyright": "© FG Trade/Getty Images",
+    "desc": "La Selva Atlántica es uno de los grandes puntos críticos de biodiversidad del mundo. Se extiende a lo largo de buena parte de la costa atlántica de Brasil y llega hasta Argentina y Paraguay. Su paisaje comprende bosques tropicales y subtropicales, manglares y hábitats costeros, y alberga alrededor de 20.000 especies de plantas y una extraordinaria variedad de fauna, incluidos jaguares y tamarinos león dorados. Gran parte la selva ha desaparecido a lo largo de los siglos, pero aún desempeña un papel importante al almacenar carbono y abastecer de agua dulce a millones de personas en toda la región.",
+    "image_url": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_400x240.jpg",
+    "main_text": "La Selva Atlántica alberga a unos 150 millones de personas, aproximadamente un tercio de la población total de Sudamérica.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-10",
     "head_line": "Con licencia para relajarse",
     "title": "Vista aérea de Rose Island, Bahamas",

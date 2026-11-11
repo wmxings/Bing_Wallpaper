@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-11",
+    "head_line": "Una foresta piena di meraviglie",
+    "title": "Foresta Atlantica, Brasile",
+    "copyright": "© FG Trade/Getty Images",
+    "desc": "La Foresta Atlantica è uno dei grandi scrigni di biodiversità del pianeta. Si estende lungo gran parte della costa brasiliana e raggiunge alcune aree di Argentina e Paraguay. Tra foreste tropicali e subtropicali, mangrovie e habitat costieri, ospita circa 20.000 specie vegetali e una straordinaria varietà di animali, tra cui giaguari e scimmie leonine. Sebbene gran parte della foresta sia scomparsa nel corso dei secoli, questo prezioso ecosistema continua a svolgere un ruolo fondamentale: immagazzina anidride carbonica e garantisce risorse di acqua dolce a milioni di persone.",
+    "image_url": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_400x240.jpg",
+    "main_text": "Nella Foresta Atlantica vivono circa 150 milioni di persone, quasi un terzo della popolazione sudamericana.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-10",
     "head_line": "Missione: relax",
     "title": "Vista aerea di Rose Island, Bahamas",

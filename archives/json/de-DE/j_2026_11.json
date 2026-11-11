@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-11",
+    "head_line": "Ein Wald voller Wunder",
+    "title": "Der Atlantische Regenwald, Brasilien",
+    "copyright": "© FG Trade/Getty Images",
+    "desc": "Der Atlantische Regenwald ist einer der weltweit bedeutendsten Hotspots der Artenvielfalt und erstreckt sich über einen Großteil der brasilianischen Atlantikküste bis nach Argentinien und Paraguay. Seine Landschaft umfasst tropische und subtropische Wälder, Mangroven und küstennahe Lebensräume und bietet rund 20.000 Pflanzenarten sowie einer außergewöhnlichen Vielfalt an Wildtieren, darunter Jaguare und Goldlöwenäffchen, eine Heimat. Ein Großteil des Waldes ist im Laufe der Jahrhunderte verschwunden, doch er spielt weiterhin eine wichtige Rolle bei der Speicherung von Kohlenstoff und der Versorgung von Millionen von Menschen in der gesamten Region mit Süßwasser.",
+    "image_url": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_400x240.jpg",
+    "main_text": "Im Atlantischen Regenwald leben rund 150 Millionen Menschen, was etwa einem Drittel der Gesamtbevölkerung Südamerikas entspricht.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-10",
     "head_line": "Die Lizenz zum Chillen",
     "title": "Luftaufnahme von Rose Island, Bahamas",

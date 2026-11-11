@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-11",
+    "head_line": "We will remember them",
+    "title": "A field of poppies",
+    "copyright": "© lloyd-horgan/Getty Images",
+    "desc": "For Remembrance Day, we are looking out over a field of poppies, recognised as symbols of remembrance for more than a century.",
+    "image_url": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_400x240.jpg",
+    "main_text": "The Poppy Appeal raised £56.6m in 2025 for work to support serving personnel, veterans and their families.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-10",
     "head_line": "Licensed to chill",
     "title": "Aerial view of Rose Island, The Bahamas",
