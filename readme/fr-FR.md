@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg)
-[2026-11-17 À la découverte des grands espaces Sentier des cèdres, parc national de Glacier, Montana, États-Unis(© DBushue Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg)
-C’est le moment de partir à la découverte des grands espaces. Le sentier des Cèdres est l’un des quelque 1 100 km de sentiers de randonnée que compte le parc national de Glacier dans le Montana. Ce parcours en boucle emprunte une passerelle en bois qui serpente au milieu de thuyas géants et de tsugas. Le parc propose des itinéraires adaptés à tous les niveaux, traversant des lacs alpins, des prairies et des cols montagneux. Cette nature sauvage s’étend jusqu’à la frontière canadienne. Le parc offre de nombreuses possibilités de loisirs, été comme hiver.
+![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg)
+[2026-11-18 Chasser du crépuscule à l'aube Couple de chouettes effraies(© Zahoor Salmi/Getty Images)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg)
+Ces chouettes effraies, baignées dans la lumière du soir, attendent que la chasse commence. À la tombée de la nuit, ces rapaces passent à l’action, à l’affût du moindre mouvement dans l’herbe ou dans les feuilles, provoqué par des souris ou des campagnols. Leur visage en forme de cœur canalise les sons vers leurs oreilles qui sont parmi les plus fines du règne animal. Cela leur permet de localiser leurs proies avec une précision extrême dans l’obscurité avant de fondre sur elles en silence, leurs plumes douces étouffant leur approche.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_400x240.jpg "À la découverte des grands espaces") 2026-11-17 | ![](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_400x240.jpg "Construites pour durer") 2026-11-16 | ![](https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822_400x240.jpg "Givre sur tons d'automne") 2026-11-15 |
-| ![](https://www.bing.com/th?id=OHR.BlueHK_FR-FR2342913478_400x240.jpg "Les yeux rivés vers le haut") 2026-11-14 | ![](https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_400x240.jpg "Des profondeurs mystérieuses") 2026-11-13 | ![](https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_400x240.jpg "Architecture sans architecte") 2026-11-12 |
-| ![](https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_400x240.jpg "Une flamme rallumée chaque jour") 2026-11-11 |  |  |
+| ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_400x240.jpg "Chasser du crépuscule à l'aube") 2026-11-18 | ![](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_400x240.jpg "À la découverte des grands espaces") 2026-11-17 | ![](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_400x240.jpg "Construites pour durer") 2026-11-16 |
+| ![](https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822_400x240.jpg "Givre sur tons d'automne") 2026-11-15 | ![](https://www.bing.com/th?id=OHR.BlueHK_FR-FR2342913478_400x240.jpg "Les yeux rivés vers le haut") 2026-11-14 | ![](https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_400x240.jpg "Des profondeurs mystérieuses") 2026-11-13 |
+| ![](https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_400x240.jpg "Architecture sans architecte") 2026-11-12 |  |  |
 
 # History
 [2026-11](../archives/wallpaper/fr-FR/w_2026_11.md) | [2026-10](../archives/wallpaper/fr-FR/w_2026_10.md) | [2026-09](../archives/wallpaper/fr-FR/w_2026_09.md) | [2026-08](../archives/wallpaper/fr-FR/w_2026_08.md) | [2026-07](../archives/wallpaper/fr-FR/w_2026_07.md) | [2026-06](../archives/wallpaper/fr-FR/w_2026_06.md) | [2026-05](../archives/wallpaper/fr-FR/w_2026_05.md) | [2026-04](../archives/wallpaper/fr-FR/w_2026_04.md) | [2026-03](../archives/wallpaper/fr-FR/w_2026_03.md) | [2026-02](../archives/wallpaper/fr-FR/w_2026_02.md) | [2026-01](../archives/wallpaper/fr-FR/w_2026_01.md)
