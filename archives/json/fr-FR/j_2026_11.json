@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-23",
+    "head_line": "Géométrie au naturel",
+    "title": "Pousse de fougère",
+    "copyright": "© Reza Saputra/Getty Images",
+    "desc": "Aujourd'hui, c'est la Journée Fibonacci, une date choisie en référence aux chiffres qui la composent, 23/11 ou 11/23 écrit en anglais américain, pour rendre hommage à la suite établie par ce mathématicien italien. En mathématiques, la suite de Fibonacci suit une progression similaire, où chaque nombre est obtenu en additionnant les deux qui le précèdent : 0, 1, 1, 2, 3, 5, 8, et ainsi de suite.",
+    "image_url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_400x240.jpg",
+    "main_text": "La suite de Fibonacci a été popularisée grâce à un problème mathématique du XIIIe siècle portant sur la multiplication des lapins.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-22",
     "head_line": "Refuge au milieu des vagues",
     "title": "Ermitage de Santa Justa, Cantabrie, Espagne",

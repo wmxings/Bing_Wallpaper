@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-23",
+    "head_line": "Geometría en la naturaleza",
+    "title": "Brote de helecho",
+    "copyright": "© Reza Saputra/Getty Images",
+    "desc": "La imagen muestra el enrollamiento gradual del extremo de un brote de helecho, que recuerda los patrones geométricos presentes en la naturaleza. En matemáticas, la sucesión de Fibonacci sigue una progresión similar: cada número se obtiene sumando los dos anteriores: 0, 1, 1, 2, 3, 5, 8 y así sucesivamente.",
+    "image_url": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_400x240.jpg",
+    "main_text": "La sucesión de Fibonacci se popularizó mediante un problema matemático del siglo XIII sobre la reproducción de conejos.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-22",
     "head_line": "Un refugio entre las olas",
     "title": "Capilla y ermita de Santa Justa, Cantabria",

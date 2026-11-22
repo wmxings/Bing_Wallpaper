@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-23",
+    "head_line": "自然が描く幾何学模様",
+    "title": "シダの若芽",
+    "copyright": "© Reza Saputra/Getty Images",
+    "desc": "写真は、シダの若芽の先がくるくると渦を巻いている様子です。こうした渦巻き模様は、自然界のあちこちで見ることができます。数学の「フィボナッチ数列」も、前の2つの数を足して次の数をつくる「0、1、1、2、3、5、8……」という並びで、少しずつ大きくなっていく様子がよく似ています。この若芽はやがて伸びて葉を広げますが、ヒマワリの種の並びや松ぼっくり、多肉植物、パイナップルのらせん模様には、この数列がこれからも現れ続けます。",
+    "image_url": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_400x240.jpg",
+    "main_text": "フィボナッチ数列が広く知られるようになったきっかけは、13世紀のウサギの増え方をめぐる数学の問題でした。",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-22",
     "head_line": "波間にたたずむ隠れ家",
     "title": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン",

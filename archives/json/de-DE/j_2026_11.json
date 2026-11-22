@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-23",
+    "head_line": "Geometrie in der Natur",
+    "title": "Farnspitzen",
+    "copyright": "© Reza Saputra/Getty Images",
+    "desc": "Das heutige Bild zeigt die Windung der Spitze eines jungen Farnsprosses, die an die geometrischen Muster erinnert, die überall in der Natur zu finden sind. In der Mathematik folgt die Fibonacci-Folge (benannt nach dem italienischen Mathematiker Leonardo Fibonacci) einem ähnlichen Muster, wobei jede Zahl durch die Addition der beiden vorhergehenden Zahlen entsteht: 0, 1, 1, 2, 3, 5, 8 und so weiter. Heute ist der Fibonacci-Tag, der aufgrund der amerikanischen Schreibweise des Datums (11/23) zu Ehren dieser Folge gewählt wurde.",
+    "image_url": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_400x240.jpg",
+    "main_text": "Die Fibonacci-Folge verbreitete sich durch ein mathematisches Problem aus dem 13. Jahrhundert, bei dem es um die Vermehrung von Kaninchen ging.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-22",
     "head_line": "Kapelle im Fels",
     "title": "Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien",
