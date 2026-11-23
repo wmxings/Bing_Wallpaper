@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-23",
+    "head_line": "La géométrie de la nature",
+    "title": "Tête de violon",
+    "copyright": "© Reza Saputra/Getty Images",
+    "desc": "L’image du jour montre l’enroulement progressif d’une jeune tête de violon, une forme qui rappelle les motifs géométriques présents dans toute la nature. En mathématiques, la suite de Fibonacci suit une progression semblable : chaque nombre est obtenu en additionnant les deux précédents, soit 0, 1, 1, 2, 3, 5, 8, et ainsi de suite. La Journée de Fibonacci est célébrée aujourd’hui en référence aux nombres de la date 11/23. Avec sa croissance, la jeune fronde de fougère finira par se déployer, mais ailleurs dans le monde végétal, cette suite continue d’apparaître dans les spirales des tournesols, des pommes de pin, des plantes grasses et des ananas.",
+    "image_url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_UHD.jpg",
+    "preview_url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_400x240.jpg",
+    "main_text": "La suite de Fibonacci a été rendue célèbre par un problème mathématique du XIIIe siècle sur la multiplication des lapins.",
+    "sizes": {
+      "UHD": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_UHD.jpg",
+      "1920x1200": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_1920x1200.jpg",
+      "1920x1080": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_1920x1080.jpg",
+      "1080x1920": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_1080x1920.jpg",
+      "1366x768": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_1366x768.jpg",
+      "1280x768": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_1280x768.jpg",
+      "1024x768": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_1024x768.jpg",
+      "800x600": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_800x600.jpg",
+      "800x480": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_800x480.jpg",
+      "768x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_768x1280.jpg",
+      "720x1280": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_720x1280.jpg",
+      "640x480": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_640x480.jpg",
+      "480x800": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_480x800.jpg",
+      "400x240": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_400x240.jpg",
+      "320x240": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_320x240.jpg",
+      "240x320": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_240x320.jpg"
+    }
+  },
+  {
     "date": "2026-11-22",
     "head_line": "Un refuge parmi les vagues",
     "title": "Chapelle et l’ermitage de Santa Justa, Cantabrie, Espagne",
