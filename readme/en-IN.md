@@ -1,16 +1,16 @@
 [Home](../README.md) | [中文](zh-CN.md) | [English (US)](en-US.md) | [Deutsch](de-DE.md) | [English (CA)](en-CA.md) | [English (GB)](en-GB.md) | [English (IN)](en-IN.md) | [Español](es-ES.md) | [Français (CA)](fr-CA.md) | [Français (FR)](fr-FR.md) | [Italiano](it-IT.md) | [日本語](ja-JP.md) | [Português](pt-BR.md)
 
 # Latest Wallpaper
-![](https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_UHD.jpg)
-[2026-11-25 When snow meets red rock Sunset Point, Bryce Canyon National Park, Utah, USA(© Colin D. Young/Alamy)](https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_UHD.jpg)
-Snow transforms Bryce Canyon National Park, blanketing the landscape in white while its fiery orange-red hoodoos rise above the snowy terrain. Seen from Sunset Point, one of the park's most famous overlooks, these fantastical shapes are part of the Claron Formation, whose limestone was deposited about 50 million years ago and later shaped by weathering and erosion. Because much of the park rises above 2,400 metres, snow can arrive as early as October. In today's image, snow clings to the canyon's ridges and spires while mist drifts across the cliffs, creating an iconic winter scene in the American Southwest.
+![](https://www.bing.com/th?id=OHR.RFHilo_EN-IN3818497787_UHD.jpg)
+[2026-11-26 Where rainbows fall Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA(© Peter Unger/Getty Images)](https://www.bing.com/th?id=OHR.RFHilo_EN-IN3818497787_UHD.jpg)
+Water, sunlight and lush greenery come together at Rainbow Falls in Hilo, on Hawaii's Big Island. Here, the Wailuku River plunges 24 metres over a lava ledge, sending mist into the air as it reaches the pool below. On sunny mornings, that mist can catch the light and produce the colourful rainbows that gave the falls their name. Known in Hawaiian as Waiānuenue, meaning 'rainbow water', this striking waterfall is surrounded by tropical vegetation and has a special place in Hawaiian legend.
 
 # Recent 7 Days
 |  |  |  |
 |:---:|:---:|:---:|
-| ![](https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_400x240.jpg "When snow meets red rock") 2026-11-25 | ![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-IN7928513964_400x240.jpg "Autumnal camouflage") 2026-11-24 | ![](https://www.bing.com/th?id=OHR.FibonacciFern_EN-IN6938090263_400x240.jpg "Geometry in nature") 2026-11-23 |
-| ![](https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_400x240.jpg "Shelter among the waves") 2026-11-22 | ![](https://www.bing.com/th?id=OHR.RedNice_EN-IN2901720503_400x240.jpg "Terracotta dreams") 2026-11-21 | ![](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_400x240.jpg "Feasting in the fjords") 2026-11-20 |
-| ![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-IN5790560543_400x240.jpg "Where ideas take shape") 2026-11-19 |  |  |
+| ![](https://www.bing.com/th?id=OHR.RFHilo_EN-IN3818497787_400x240.jpg "Where rainbows fall") 2026-11-26 | ![](https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_400x240.jpg "When snow meets red rock") 2026-11-25 | ![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-IN7928513964_400x240.jpg "Autumnal camouflage") 2026-11-24 |
+| ![](https://www.bing.com/th?id=OHR.FibonacciFern_EN-IN6938090263_400x240.jpg "Geometry in nature") 2026-11-23 | ![](https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_400x240.jpg "Shelter among the waves") 2026-11-22 | ![](https://www.bing.com/th?id=OHR.RedNice_EN-IN2901720503_400x240.jpg "Terracotta dreams") 2026-11-21 |
+| ![](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_400x240.jpg "Feasting in the fjords") 2026-11-20 |  |  |
 
 # History
 [2026-11](../archives/wallpaper/en-IN/w_2026_11.md) | [2026-10](../archives/wallpaper/en-IN/w_2026_10.md) | [2026-09](../archives/wallpaper/en-IN/w_2026_09.md) | [2026-08](../archives/wallpaper/en-IN/w_2026_08.md) | [2026-07](../archives/wallpaper/en-IN/w_2026_07.md) | [2026-06](../archives/wallpaper/en-IN/w_2026_06.md) | [2026-05](../archives/wallpaper/en-IN/w_2026_05.md) | [2026-04](../archives/wallpaper/en-IN/w_2026_04.md) | [2026-03](../archives/wallpaper/en-IN/w_2026_03.md) | [2026-02](../archives/wallpaper/en-IN/w_2026_02.md) | [2026-01](../archives/wallpaper/en-IN/w_2026_01.md)
